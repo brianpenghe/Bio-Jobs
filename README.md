@@ -1,6 +1,14 @@
-# keep updating⏳- open positions in reverse chronological order
+# keep updating⏳- open positions in reverse chronological order of posted date
 
 ## Group leaders 🚀
+🇨🇭[EPFL Professor in Life Science Engineering](https://www.epfl.ch/about/working/professor-in-life-science-engineering/)
+
+🇧🇪[VIB Open Group Leader and Professor Positions: AI in Biology](https://jobs.vib.be/j/66534/three-open-group-leader-and-professor-positions-ai-in-biology)
+
+🇬🇧[Cambridge Professor in Synthetic Biology/Engineering Biology](https://www.jobs.cam.ac.uk/job/43556/)
+
+🇬🇧[Sanger Group Leaders - Generative and Synthetic Genomics](https://sanger.wd3.myworkdayjobs.com/en-US/WellcomeSangerInstitute/job/Group-Leaders---Generative-and-Synthetic-Genomics_JR101310-1)
+
 🇺🇸[UCSF Sandler Fellows Program](https://fellows.ucsf.edu/nominations)
 
 🇺🇸[University of Colorado, Open rank faculty position in lung developmental, stem cell and regenerative biology](https://github.com/brianpenghe/Bio-Jobs/blob/main/Faculty%20Position%20-%20Lung%20Developmental%20Biology%20-%20CU%20Anschutz%20(11-9-23).pdf)
@@ -16,6 +24,10 @@
 🇺🇸[University of Washington Assistant Professor](https://apply.interfolio.com/135108)
 
 ## Staff scientists 👩🏻‍🔬
+🇬🇧[Sanger Principal Research Data Scientist](https://sanger.wd3.myworkdayjobs.com/en-US/WellcomeSangerInstitute/details/Principal-Research-Data-Scientist_JR101428)
+
+🇬🇧[UCL Research Fellow in Mathematical Oncology](https://www.jobs.ac.uk/job/DED301/research-fellow-in-mathematical-oncology)
+
 🇺🇸[Scientist III — Computational Biology](https://alleninstitute.org/careers/jobs/?jobId=B163A87E-9E19-3641-B0F6-513A7764BEB4)
 
 🇬🇧[Deputy Head of IT - Operations - Information Technology - LMB 2270](https://www.jobs.ac.uk/job/DDN691/deputy-head-of-it-operations-information-technology-lmb-2270?fbclid=IwAR39vKKEIcqmjnf6ArXB4NGcRKX_RG-xweFoZ3L9n6MGDVddJpcTisrpeLc_aem_AZCiJ7X3S6ibawy_PiHMrFAQf2DhNubeeTL9_KYlTNKh5-LqEPv99_DOvn3fXLDwthc)
@@ -25,7 +37,13 @@
 🇬🇧[4 Scientists at Ensocell](https://ensocell.bamboohr.com/careers/)
 
 ## Postdocs 🪐
+🇬🇧[Oxford gut bacteria postdoc](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=169555)
 
+🇬🇧[Imperial College London - Research Associate](https://www.imperial.ac.uk/jobs/description/MED04224/research-associate)
+
+🇬🇧[University of Manchester Research Associate](https://www.jobs.manchester.ac.uk/Job/JobDetail?isPreview=Yes&jobid=27519&advert=external)
+
+🇩🇪[TU Dresden Physics of Life Excellence Postdoctoral Fellowships](https://physics-of-life.tu-dresden.de/career-education/postdoc)
 
 🇬🇧[Computational Postdoc at Imperial College London](https://github.com/brianpenghe/Bio-Jobs/blob/main/Postdoc%20Postion%20Spivakov%20lab%20London.pdf)
 
