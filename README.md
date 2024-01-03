@@ -1,6 +1,8 @@
 # keep updating⏳- open positions in reverse chronological order of posted date
 
 ## Group leaders 🚀
+🇬🇧[Cambridge U Assistant/Associate Professorship in Integrated Host-Pathogen Biology](https://www.jobs.cam.ac.uk/job/44301/)
+
 🇨🇭[EPFL Professor in Life Science Engineering](https://www.epfl.ch/about/working/professor-in-life-science-engineering/)
 
 🇧🇪[VIB Open Group Leader and Professor Positions: AI in Biology](https://jobs.vib.be/j/66534/three-open-group-leader-and-professor-positions-ai-in-biology)
@@ -52,6 +54,8 @@
 🇬🇧[Postdoctoral Training Fellow in Computational Single-Cell Biology (Dr Stephen-John Sammut)](https://jobs.icr.ac.uk/vacancies/768/postdoctoral-training-fellow-in-computational-single-cell-biology-dr-stephen-john-sammut.html)
 
 ## Other ⭐️
+🇺🇸[Genentech 2024 Summer Internship - Computational Researcher](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2024-Summer-Internship---Computational-Researcher_202312-127917)
+
 🇬🇧[Master, St Edmund’s College, University of Cambridge](https://www.odgersberndtson.com/opportunities#AssignDetail.aspx?guid=89919)
 
 🇺🇸[Deputy Editor/Team Manager, Nature Medicine](https://careers.springernature.com/job/New-York-Deputy-EditorTeam-Manager,-Nature-Medicine/1003346501/)
