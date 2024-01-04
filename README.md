@@ -1,6 +1,47 @@
 # keep updating⏳- open positions in reverse chronological order of posted date
 
 ## Group leaders 🚀
+
+🇺🇸[Cincinnati Asst/Assoc/Full Professor, Division of Hematology and Oncology, College of Medicine](https://jobs.sciencecareers.org/job/654465/asst-assoc-full-professor-division-of-hematology-and-oncology-college-of-medicine/)
+
+🇺🇸[Washington DC Tenure-track Faculty Position, Biochemistry & Molecular Medicine and the GW Cancer Center](https://jobs.sciencecareers.org/job/654298/tenure-track-faculty-position-biochemistry-and-molecular-medicine-and-the-gw-cancer-center/?LinkSource=PremiumListing)
+
+🇺🇸[Cornell Assistant/Early Associate Professor - Molecular Biology and Genetics](https://jobs.sciencecareers.org/job/654277/assistant-early-associate-professor-molecular-biology-and-genetics/)
+
+🇺🇸[UMass Amherst Assistant Professor - Neurobiology - Biology / IALS](https://jobs.sciencecareers.org/job/654267/assistant-professor-neurobiology-biology-ials/)
+
+🇺🇸[Cornell Assistant Professor - Insect Biodiversity and Conservation](https://jobs.sciencecareers.org/job/654242/assistant-professor-insect-biodiversity-and-conservation/)
+
+🇺🇸[Stanford Child Neurology Division Chief](https://jobs.sciencecareers.org/job/654198/child-neurology-division-chief-associate-professor-or-full-professor/)
+
+🇨🇦[U of Toronto Pharmacology and Toxicology Assistant Professor](https://jobs.sciencecareers.org/job/654191/assistant-professor-pharmacology-and-toxicology/)
+
+🇺🇸[UConn Health immunology Assistant or Associate Professor - Department of Immunology](https://www.nature.com/naturecareers/job/12811798/assistant-or-associate-professor-department-of-immunology/?LinkSource=PremiumListing)
+
+🇺🇸[Umass biomedical engineering faculty](https://jobs.sciencecareers.org/job/654152/tenure-track-open-rank-professor-in-biomedical-engineering/)
+
+🇺🇸[Umass immunobiology faculty](https://www.nature.com/naturecareers/job/12811655/assistant-associate-full-professor-level-/?LinkSource=PremiumListing)
+
+🇺🇸[Indiana U Aging and CNS Disease faculty](https://jobs.sciencecareers.org/job/654075/multiple-faculty-positions-in-neuroscience-of-aging-and-cns-disease-/)
+
+🇨🇦[McGill Assistant/Associate Professor (Research), Single Cell Genomics(C3-231215)](https://jobs.sciencecareers.org/job/654299/assistant-associate-professor-research-single-cell-genomics-c3-231215-/)
+
+🇨🇦[McGill Assistant Professor (Research)](https://www.nature.com/naturecareers/job/12811559/assistant-professor-research-/?LinkSource=PremiumListing)
+
+🇺🇸[Pitssburgh tenured professor in neuroscience](https://jobs.sciencecareers.org/job/654072/tenured-associate-or-full-professor-in-neuroscience/)
+
+🇺🇸[Pittsburgh Pharmaceutical Science Faculty](https://www.nature.com/naturecareers/job/12811497/tenure-track-or-tenured-assistant-professor-associate-professor-or-full-professor/?LinkSource=PremiumListing)
+
+🇺🇸[St. Jude Faculty Position, Department of Pharmacy and Pharmaceutical Sciences](https://www.nature.com/naturecareers/job/12811434/faculty-position-department-of-pharmacy-and-pharmaceutical-sciences/?LinkSource=PremiumListing)
+
+🇺🇸[St. Jude Faculty Position, Department of Infectious Diseases - Transplant](https://www.nature.com/naturecareers/job/12811433/faculty-position-department-of-infectious-diseases-transplant/?LinkSource=PremiumListing)
+
+🇺🇸[HudsonAlpha in Alabama - genomics Faculty Member](https://www.nature.com/naturecareers/job/12811248/faculty-member/?LinkSource=PremiumListing)
+
+🇺🇸[Florida Moffitt Cancer Center Bioengineering OpenRank](https://www.nature.com/naturecareers/job/12811305/open-rank-tenure-earning-faculty-position-department-of-bioengineering/?LinkSource=PremiumListing)
+
+🇺🇸[Cleveland Computational Biomedical Science Faculty](https://www.nature.com/naturecareers/job/12811297/multiple-faculty-positions-computational-biomedical-science-center-for-computational-life-science/?LinkSource=PremiumListing)
+
 🇬🇧[Cambridge Functional Genomics Screening Laboratory Lead (Fixed Term)](https://www.jobs.cam.ac.uk/job/44413/)
 
 🇬🇧[Cambridge U Assistant/Associate Professorship in Integrated Host-Pathogen Biology](https://www.jobs.cam.ac.uk/job/44301/)
@@ -28,6 +69,11 @@
 🇺🇸[University of Washington Assistant Professor](https://apply.interfolio.com/135108)
 
 ## Staff scientists 👩🏻‍🔬
+
+🇺🇸[NIH Mental Health Staff Scientist/Facility Head Position](https://jobs.sciencecareers.org/job/653597/staff-scientist-facility-head-position/?LinkSource=TopJob)
+
+🇺🇸[Baylor Staff Scientist - Discovery Biology](https://www.nature.com/naturecareers/job/12811654/staff-scientist-discovery-biology/?LinkSource=PremiumListing)
+
 🇺🇸[Stanford staff scientist/lab manager in Le Cong's lab](https://careersearch.stanford.edu/jobs/life-science-research-professional-3-23712)
 
 🇬🇧[Sanger Principal Research Data Scientist](https://sanger.wd3.myworkdayjobs.com/en-US/WellcomeSangerInstitute/details/Principal-Research-Data-Scientist_JR101428)
@@ -43,6 +89,12 @@
 🇬🇧[4 Scientists at Ensocell](https://ensocell.bamboohr.com/careers/)
 
 ## Postdocs 🪐
+🇺🇸[Northwestern Choi lab immunology postdoc](https://www.nature.com/naturecareers/job/12812135/postdoctoral-fellow-in-immunology-at-northwestern-university/?LinkSource=PremiumListing)
+
+🇺🇸[UTSW Research Scientist / Postdoctoral / Transition Scholar Positions](https://www.nature.com/naturecareers/job/12811616/research-scientist-postdoctoral-transition-scholar-positions/?LinkSource=PremiumListing)
+
+🇳🇴[Oslo Postdoc research fellowship - cancer immunology and bioinformatics](https://www.nature.com/naturecareers/job/12811124/postdoc-research-fellowship-cancer-immunology-and-bioinformatics/?LinkSource=PremiumListing)
+
 🇬🇧[Oxford gut bacteria postdoc](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=169555)
 
 🇬🇧[Imperial College London - Research Associate](https://www.imperial.ac.uk/jobs/description/MED04224/research-associate)
