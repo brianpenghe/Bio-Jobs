@@ -28,6 +28,8 @@
 🇺🇸[University of Washington Assistant Professor](https://apply.interfolio.com/135108)
 
 ## Staff scientists 👩🏻‍🔬
+🇺🇸[Stanford staff scientist/lab manager in Le Cong's lab](https://careersearch.stanford.edu/jobs/life-science-research-professional-3-23712)
+
 🇬🇧[Sanger Principal Research Data Scientist](https://sanger.wd3.myworkdayjobs.com/en-US/WellcomeSangerInstitute/details/Principal-Research-Data-Scientist_JR101428)
 
 🇬🇧[UCL Research Fellow in Mathematical Oncology](https://www.jobs.ac.uk/job/DED301/research-fellow-in-mathematical-oncology)
