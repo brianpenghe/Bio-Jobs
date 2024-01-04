@@ -1,4 +1,4 @@
-# keep updating⏳- open positions in reverse chronological order by posted date
+# keep updating⏳- open positions in reverse chronological order by posting date
 
 ## Group leaders 🚀
 
