@@ -1,6 +1,8 @@
 # keep updating⏳- open positions in reverse chronological order of posted date
 
 ## Group leaders 🚀
+🇬🇧[Cambridge Functional Genomics Screening Laboratory Lead (Fixed Term)](https://www.jobs.cam.ac.uk/job/44413/)
+
 🇬🇧[Cambridge U Assistant/Associate Professorship in Integrated Host-Pathogen Biology](https://www.jobs.cam.ac.uk/job/44301/)
 
 🇨🇭[EPFL Professor in Life Science Engineering](https://www.epfl.ch/about/working/professor-in-life-science-engineering/)
