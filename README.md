@@ -110,6 +110,8 @@
 🇬🇧[Postdoctoral Training Fellow in Computational Single-Cell Biology (Dr Stephen-John Sammut)](https://jobs.icr.ac.uk/vacancies/768/postdoctoral-training-fellow-in-computational-single-cell-biology-dr-stephen-john-sammut.html)
 
 ## Others ⭐️
+🇬🇧[Cambridge, Emma Rawlins' lab RA in lung stem cells and disease](https://www.jobs.cam.ac.uk/job/44662/)
+
 🇺🇸[Genentech 2024 Summer Internship - Computational Researcher](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2024-Summer-Internship---Computational-Researcher_202312-127917)
 
 🇬🇧[Master, St Edmund’s College, University of Cambridge](https://www.odgersberndtson.com/opportunities#AssignDetail.aspx?guid=89919)
