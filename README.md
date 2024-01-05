@@ -26,7 +26,7 @@
 
 🇨🇦[McGill Assistant/Associate Professor (Research), Single Cell Genomics(C3-231215)](https://jobs.sciencecareers.org/job/654299/assistant-associate-professor-research-single-cell-genomics-c3-231215-/)
 
-🇨🇦[McGill Assistant Professor (Research)](https://www.nature.com/naturecareers/job/12811559/assistant-professor-research-/?LinkSource=PremiumListing)
+🇨🇦[McGill Assistant Professor (Research) bladder cancer](https://www.nature.com/naturecareers/job/12811559/assistant-professor-research-/?LinkSource=PremiumListing)
 
 🇺🇸[Pitssburgh tenured professor in neuroscience](https://jobs.sciencecareers.org/job/654072/tenured-associate-or-full-professor-in-neuroscience/)
 
