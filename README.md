@@ -70,6 +70,8 @@
 
 ## Staff scientists 👩🏻‍🔬
 
+🇬🇧[Cambridge - Senior bioinformatician at Julie Ahringer's lab](https://www.jobs.ac.uk/job/DFF581/senior-bioinformatician-single-cell-multi-omics-of-developmental-trajectories)
+
 🇺🇸[NIH Mental Health Staff Scientist/Facility Head Position](https://jobs.sciencecareers.org/job/653597/staff-scientist-facility-head-position/?LinkSource=TopJob)
 
 🇺🇸[Baylor Staff Scientist - Discovery Biology](https://www.nature.com/naturecareers/job/12811654/staff-scientist-discovery-biology/?LinkSource=PremiumListing)
@@ -89,6 +91,14 @@
 🇬🇧[4 Scientists at Ensocell](https://ensocell.bamboohr.com/careers/)
 
 ## Postdocs 🪐
+🇺🇸[Vertex drug discovery fellow - San Diego](https://vrtx.wd5.myworkdayjobs.com/en-US/vertex_fellows/job/San-Diego-CA/Vertex-Fellow-San-Diego_REQ-20454-2)
+
+🇬🇧[Vertex drug discovery fellow - Oxford](https://vrtx.wd5.myworkdayjobs.com/en-US/vertex_fellows/job/Oxford-United-Kingdom/Vertex-Fellow-Oxford_REQ-20456)
+
+🇺🇸[Vertex drug discovery fellow - Boston](https://vrtx.wd5.myworkdayjobs.com/en-US/vertex_fellows/job/Boston-MA/Vertex-Fellow-Boston_REQ-20455)
+
+🇮🇹[University of Rome La Sapienza Bioinformaticians and computational biologists](https://sites.google.com/view/perfettolab/open-positions?authuser=0)
+
 🇬🇧[Oxford Filipa Simões lab postdoc fetal heart development](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=169476)
 
 🇺🇸[Northwestern Choi lab immunology postdoc](https://www.nature.com/naturecareers/job/12812135/postdoctoral-fellow-in-immunology-at-northwestern-university/?LinkSource=PremiumListing)
@@ -112,6 +122,11 @@
 🇬🇧[Postdoctoral Training Fellow in Computational Single-Cell Biology (Dr Stephen-John Sammut)](https://jobs.icr.ac.uk/vacancies/768/postdoctoral-training-fellow-in-computational-single-cell-biology-dr-stephen-john-sammut.html)
 
 ## Others ⭐️
+
+🇫🇷[Inserm research manager CRCN 2024](https://pro.inserm.fr/rubriques/nous-rejoindre/concours/charge-de-recherche/postuler-crcn#comment-concourir)
+
+🇮🇹[University of Rome La Sapienza Bioinformaticians and computational biologists](https://sites.google.com/view/perfettolab/open-positions?authuser=0)
+
 🇬🇧[Cambridge, Emma Rawlins' lab RA in lung stem cells and disease](https://www.jobs.cam.ac.uk/job/44662/)
 
 🇺🇸[Genentech 2024 Summer Internship - Computational Researcher](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2024-Summer-Internship---Computational-Researcher_202312-127917)
