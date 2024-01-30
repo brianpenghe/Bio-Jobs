@@ -2,6 +2,12 @@
 
 ## Group leaders 🚀
 
+🇩🇰[Associate Professor or Tenure-Track Assistant Professor in Molecular Medicine and/or Molecular Cell Biology](https://github.com/brianpenghe/Bio-Jobs/blob/main/Two%20faculty%20positions-2024%20in%20Aarhus.pdf)
+
+🇬🇧[Manchester Lecturer/Senior Lecturer in Maternal and Fetal Health](https://www.jobs.manchester.ac.uk/Job/JobDetail?isPreview=Yes&jobid=27590&advert=external)
+
+🇩🇰[Professor or Associate Professor Research Group Leader(s) to the Biotech Research and Innovation Centre (BRIC), University of Copenhagen](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1307&ProjectId=160867&DepartmentId=19025&MediaId=5&SkipAdvertisement=False&uiculture=en)
+
 🇺🇸[Cincinnati Asst/Assoc/Full Professor, Division of Hematology and Oncology, College of Medicine](https://jobs.sciencecareers.org/job/654465/asst-assoc-full-professor-division-of-hematology-and-oncology-college-of-medicine/)
 
 🇺🇸[Washington DC Tenure-track Faculty Position, Biochemistry & Molecular Medicine and the GW Cancer Center](https://jobs.sciencecareers.org/job/654298/tenure-track-faculty-position-biochemistry-and-molecular-medicine-and-the-gw-cancer-center/?LinkSource=PremiumListing)
@@ -92,6 +98,18 @@
 
 ## Postdocs 🪐
 
+🇮🇹[Davide Mazza Lab Post-doc position: Multiscale dynamics of the tumor-suppressor p53 and their role in controlling cancer cell fate](https://github.com/brianpenghe/Bio-Jobs/blob/main/202401_PostDocAd_MazzaLab_B.pdf)
+
+🇸🇪[Postdoctoral scholarship: Modelling Molecular Drivers of Human Development in vitro](https://github.com/brianpenghe/Bio-Jobs/blob/main/23701706063155_.pic.jpg)
+
+🇬🇧[Oxford Berrens Group Senior Postdoctoral Research Associate in transposable element, global talent visa](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=170538)
+
+🇩🇰[Cvejic Lab Postdoc in immune cell scRNA-seq](https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=1307&departmentId=19025&ProjectId=160938&MediaId=5&SkipAdvertisement=false)
+
+🇬🇧[Imperial, postdoc in pulmonary hypertension](https://www.imperial.ac.uk/jobs/description/MED04321/research-associate)
+
+🇮🇹[PerfettoLab, University of Rome La Sapienza, multi-omic integration](https://github.com/brianpenghe/Bio-Jobs/blob/main/JOB_allert.pdf)
+
 🇺🇸[Yale Chung lab single-cell and spatial postdoc](https://github.com/brianpenghe/Bio-Jobs/blob/main/Chung%20Lab%20Postdoctoral%20Fellow%20Position.pdf)
 
 🇬🇧[Imperial postdoc - pulmonary hypertension](https://www.imperial.ac.uk/jobs/description/MED04321/research-associate)
@@ -127,6 +145,10 @@
 🇬🇧[Postdoctoral Training Fellow in Computational Single-Cell Biology (Dr Stephen-John Sammut)](https://jobs.icr.ac.uk/vacancies/768/postdoctoral-training-fellow-in-computational-single-cell-biology-dr-stephen-john-sammut.html)
 
 ## Others ⭐️
+
+🇬🇧[Sanger Stratton lab RA](https://sanger.wd3.myworkdayjobs.com/en-US/WellcomeSangerInstitute/job/Advanced-Research-Assistant---Stratton-team--Somatic-mutations-in-normal-and-cancer-cells-_JR101490)
+
+🇮🇹[PhD at PerfettoLab, University of Rome La Sapienza, multi-omic integration](https://github.com/brianpenghe/Bio-Jobs/blob/main/JOB_allert.pdf)
 
 🇦🇹[PhD in allergen-specific memory B cells, Vienna](https://github.com/brianpenghe/Bio-Jobs/blob/main/Ola%20Grimsholm%2C%20PhD%20Medical%20University%20of%20Vienna.md)
 
