@@ -92,6 +92,8 @@
 
 ## Postdocs 🪐
 
+🇺🇸[Yale Chung lab single-cell and spatial postdoc](https://github.com/brianpenghe/Bio-Jobs/blob/main/Chung%20Lab%20Postdoctoral%20Fellow%20Position.pdf)
+
 🇬🇧[Imperial postdoc - pulmonary hypertension](https://www.imperial.ac.uk/jobs/description/MED04321/research-associate)
 
 🇺🇸[Vertex drug discovery fellow - San Diego](https://vrtx.wd5.myworkdayjobs.com/en-US/vertex_fellows/job/San-Diego-CA/Vertex-Fellow-San-Diego_REQ-20454-2)
@@ -125,6 +127,8 @@
 🇬🇧[Postdoctoral Training Fellow in Computational Single-Cell Biology (Dr Stephen-John Sammut)](https://jobs.icr.ac.uk/vacancies/768/postdoctoral-training-fellow-in-computational-single-cell-biology-dr-stephen-john-sammut.html)
 
 ## Others ⭐️
+
+🇦🇹[PhD in allergen-specific memory B cells, Vienna](https://github.com/brianpenghe/Bio-Jobs/blob/main/Ola%20Grimsholm%2C%20PhD%20Medical%20University%20of%20Vienna.md)
 
 🇫🇷[Inserm research manager CRCN 2024](https://pro.inserm.fr/rubriques/nous-rejoindre/concours/charge-de-recherche/postuler-crcn#comment-concourir)
 
