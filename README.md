@@ -114,6 +114,8 @@
 
 ## Staff scientists 👩🏻‍🔬
 
+🇬🇧[London LMS Bioinfo Staff/Postdoc](https://github.com/brianpenghe/Bio-Jobs/blob/main/advert-a4%5B6%5D.pdf)
+
 🇬🇧[Cambridge - Senior bioinformatician at Julie Ahringer's lab](https://www.jobs.ac.uk/job/DFF581/senior-bioinformatician-single-cell-multi-omics-of-developmental-trajectories)
 
 🇺🇸[NIH Mental Health Staff Scientist/Facility Head Position](https://jobs.sciencecareers.org/job/653597/staff-scientist-facility-head-position/?LinkSource=TopJob)
@@ -135,6 +137,12 @@
 🇬🇧[4 Scientists at Ensocell](https://ensocell.bamboohr.com/careers/)
 
 ## Postdocs 🪐
+
+🇨🇦[Ottawa Postdoctoral Fellowship, mRNA-encoded Bispecific Antibodies](https://recruitment-recrutement.nrc-cnrc.gc.ca/job/Ottawa-Postdoctoral-Fellowship%2C-mRNA-encoded-Bispecific-Antibodies-ON/577810217/)
+
+🇨🇦[Postdoctoral Fellow - High-Throughput Plant Phenotyping Through Deep Learning](https://recruitment-recrutement.nrc-cnrc.gc.ca/job/Saskatoon-Postdoctoral-Fellow-High-Throughput-Plant-Phenotyping-Through-Deep-Learning-SK/577859917/)
+
+🇬🇧[London LMS Bioinfo Staff/Postdoc](https://github.com/brianpenghe/Bio-Jobs/blob/main/advert-a4%5B6%5D.pdf)
 
 🇳🇱[Utrecht Postdoc Position in Gene Regulation and Epigenetics](https://www.uu.nl/en/organisation/working-at-utrecht-university/jobs/postdoc-position-in-gene-regulation-and-epigenetics)
 
