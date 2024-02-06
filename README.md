@@ -2,6 +2,20 @@
 
 ## Group leaders 🚀
 
+🇬🇧[Oxford Biochem Associate Professor](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=170772)
+
+🇺🇸[San Diego BioMed PI](https://jobs.sciencecareers.org/job/655229/principal-investigator-faculty/?TrackID=364650&utm_source=jobs&utm_medium=email&utm_campaign=email-careers-job-alert&BatchID=5960&JobAlertId=418793)
+
+🇺🇸[Ohio State University, Assistant/Associate Prof. in  Evolution, Ecology and Organismal Biology](https://academicjobsonline.org/ajo/jobs/26856)
+
+🇭🇰[HKU Epidemiology or biostats research assistant professor/postdoc](https://www.timeshighereducation.com/unijobs/listing/352579/research-assistant-professor-post-doctoral-fellow-in-epidemiology-or-biostatistics/?LinkSource=PremiumListing)
+
+🇨🇳[西湖Westlake PI](https://www.nature.com/naturecareers/job/12813338/faculty-positions-in-westlake-university/?LinkSource=PremiumListing)
+
+🇺🇸[Chicago Research Assistant Professor in neurobiology](https://www.nature.com/naturecareers/job/12812908/research-assistant-professor-nrb008/?LinkSource=PremiumListing)
+
+🇨🇳[清华Tsinghua University Biology recruitment](https://www.nature.com/naturecareers/job/12812756/global-faculty-recruitment-of-school-of-life-sciences-tsinghua-university/?LinkSource=PremiumListing)
+
 🇨🇦[McGill Research Assistant Professor in single cell](https://jobs.sciencecareers.org/job/655081/assistant-associate-professor-research-single-cell-genomics-c3-231215-/)
 
 🇺🇸[Brigham and Women's hospital ML scientist](https://jobs.sciencecareers.org/job/655173/deep-learning-machine-learning-scientist-brigham-and-women-s-hospital/?LinkSource=PremiumListing)
@@ -122,6 +136,28 @@
 
 ## Postdocs 🪐
 
+🇳🇱[Utrecht Postdoc Position in Gene Regulation and Epigenetics](https://www.uu.nl/en/organisation/working-at-utrecht-university/jobs/postdoc-position-in-gene-regulation-and-epigenetics)
+
+🇭🇰[HKU Epidemiology or biostats research assistant professor/postdoc](https://www.timeshighereducation.com/unijobs/listing/352579/research-assistant-professor-post-doctoral-fellow-in-epidemiology-or-biostatistics/?LinkSource=PremiumListing)
+
+🇺🇸[NIH Immunology/Mol Bio Postdoc](https://www.nature.com/naturecareers/job/12813360/immunology-molecular-biology-postdoctoral-position/?LinkSource=PremiumListing)
+
+🇺🇸[NIH Computational Postdoc](https://www.nature.com/naturecareers/job/12813362/computational-postdoctoral-position-/?LinkSource=PremiumListing)
+
+🇺🇸[MD Anderson postdoc in cancer imunotherapy](https://www.nature.com/naturecareers/job/12813408/postdoctoral-and-research-associate-positions-in-cancer-immunotherapy/?LinkSource=PremiumListing)
+
+🇺🇸[Baylor Postdoctoral Associate- Curing Brain Tumors](https://www.nature.com/naturecareers/job/12813282/postdoctoral-associate-curing-brain-tumors/?LinkSource=PremiumListing)
+
+🇺🇸[Harvard postdoc in urology](https://www.nature.com/naturecareers/job/12813291/post-postdoctoral-position-department-of-urology-boston-children-s-hospital-and-harvard-fellow/?LinkSource=PremiumListing)
+
+🇺🇸[Baylor Postdoc in Cardiology](https://www.nature.com/naturecareers/job/12813300/postdoctoral-associate-cardiology/?LinkSource=PremiumListing)
+
+🇺🇸[Baylor Postdoctoral Associate- Bioinformatics of Alzheimer's disease](https://www.nature.com/naturecareers/job/12813065/postdoctoral-associate-bioinformatics-of-alzheimer-s-disease/?LinkSource=PremiumListing)
+
+🇸🇪[Karolinska Postdoctoral researcher in vaccine epidemiology](https://www.nature.com/naturecareers/job/12812780/postdoctoral-researcher-in-vaccine-epidemiology/?LinkSource=PremiumListing)
+
+🇸🇪[Karolinska Postdoc in Biochemistry/Cell-biology (scholarship)](https://www.nature.com/naturecareers/job/12812814/postdoc-in-biochemistry-cell-biology-scholarship-/?LinkSource=PremiumListing)
+
 🇮🇹[Davide Mazza Lab Post-doc position: Multiscale dynamics of the tumor-suppressor p53 and their role in controlling cancer cell fate](https://github.com/brianpenghe/Bio-Jobs/blob/main/202401_PostDocAd_MazzaLab_B.pdf)
 
 🇸🇪[Postdoctoral scholarship: Modelling Molecular Drivers of Human Development in vitro](https://github.com/brianpenghe/Bio-Jobs/blob/main/23701706063155_.pic.jpg)
@@ -169,6 +205,10 @@
 🇬🇧[Postdoctoral Training Fellow in Computational Single-Cell Biology (Dr Stephen-John Sammut)](https://jobs.icr.ac.uk/vacancies/768/postdoctoral-training-fellow-in-computational-single-cell-biology-dr-stephen-john-sammut.html)
 
 ## Others ⭐️
+
+🇺🇸[UMass Medical School Non-TT instructor in Molecular Medicine](https://academicjobsonline.org/ajo/jobs/26960)
+
+🇨🇦[U Toronto ssistant Professor, Teaching Stream - Human Health and Disease](https://jobs.utoronto.ca/job/Toronto-Assistant-Professor%2C-Teaching-Stream-Human-Health-and-Disease-ON/576743417/)
 
 🇬🇧[Sanger Stratton lab RA](https://sanger.wd3.myworkdayjobs.com/en-US/WellcomeSangerInstitute/job/Advanced-Research-Assistant---Stratton-team--Somatic-mutations-in-normal-and-cancer-cells-_JR101490)
 
