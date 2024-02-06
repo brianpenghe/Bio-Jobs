@@ -72,7 +72,7 @@
 
 🇨🇦[McGill Assistant Professor (Research) bladder cancer](https://www.nature.com/naturecareers/job/12811559/assistant-professor-research-/?LinkSource=PremiumListing)
 
-🇺🇸[Pitssburgh tenured professor in neuroscience](https://jobs.sciencecareers.org/job/654072/tenured-associate-or-full-professor-in-neuroscience/)
+🇺🇸[Pittsburgh tenured professor in neuroscience](https://jobs.sciencecareers.org/job/654072/tenured-associate-or-full-professor-in-neuroscience/)
 
 🇺🇸[Pittsburgh Pharmaceutical Science Faculty](https://www.nature.com/naturecareers/job/12811497/tenure-track-or-tenured-assistant-professor-associate-professor-or-full-professor/?LinkSource=PremiumListing)
 
