@@ -2,6 +2,30 @@
 
 ## Group leaders 🚀
 
+🇨🇦[McGill Research Assistant Professor in single cell](https://jobs.sciencecareers.org/job/655081/assistant-associate-professor-research-single-cell-genomics-c3-231215-/)
+
+🇺🇸[Brigham and Women's hospital ML scientist](https://jobs.sciencecareers.org/job/655173/deep-learning-machine-learning-scientist-brigham-and-women-s-hospital/?LinkSource=PremiumListing)
+
+🇺🇸[University of Pennsylvania Associate Professor/Professor in Genetics](https://jobs.sciencecareers.org/job/655225/associate-full-professor-of-genetics/)
+
+🇺🇸[Johns Hopkins University Tenure-track Assistant Professor in genetic medicine](https://jobs.sciencecareers.org/job/654496/johns-hopkins-university-assistant-professor-tenure-track-faculty-position/?LinkSource=TopJob)
+
+🇺🇸[Albert Einstein College Tenure-track Assistant Professor in Cell, molecular or computational biology](https://jobs.sciencecareers.org/job/654837/tenure-track-faculty-position-in-cell-molecular-or-computational-biology/?LinkSource=PremiumListing)
+
+🇺🇸[Cornell Assistant Professor in Molecular Biology and Genetics](https://jobs.sciencecareers.org/job/654910/assistant-early-associate-professor-molecular-biology-and-genetics/)
+
+🇺🇸[Stony Brook Assistant/Associate Professor in Biomedical Informatics](https://jobs.sciencecareers.org/job/654915/assistant-associate-professor-biomedical-informatics-tenure-track-/)
+
+🇺🇸[Pittsburgh Open Rank Professors in pharmaceutical sciences](https://jobs.sciencecareers.org/job/654489/tenure-track-or-tenured-assistant-associate-professor-or-full-professor/?LinkSource=PremiumListing) 
+
+🇺🇸[Harvard Dana-Farber Assistant Professor in Immunology](https://jobs.sciencecareers.org/job/654490/assistant-professor-of-immunology/)
+
+🇺🇸[Stanford Associate Professor/Professor in Neurology](https://jobs.sciencecareers.org/job/654198/child-neurology-division-chief-associate-professor-or-full-professor/)
+
+🇨🇦[McGill Research Assistant Professor](https://jobs.sciencecareers.org/job/654097/assistant-professor-research-/?LinkSource=PremiumListing)
+
+🇦🇹[Vienna IMP Group leader positions](https://github.com/brianpenghe/Bio-Jobs/blob/main/Group%20leade%20search-IMP%202024-deadline%201%20March.pdf)
+
 🇩🇰[Associate Professor or Tenure-Track Assistant Professor in Molecular Medicine and/or Molecular Cell Biology](https://github.com/brianpenghe/Bio-Jobs/blob/main/Two%20faculty%20positions-2024%20in%20Aarhus.pdf)
 
 🇬🇧[Manchester Lecturer/Senior Lecturer in Maternal and Fetal Health](https://www.jobs.manchester.ac.uk/Job/JobDetail?isPreview=Yes&jobid=27590&advert=external)
