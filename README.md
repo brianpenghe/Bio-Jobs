@@ -2,6 +2,16 @@
 
 ## Group leaders 🚀
 
+🇺🇸[Chicago U faculty open rank: Human Neuroscience of Brain Network Function and Brain Injury](https://apply.interfolio.com/140407)
+
+🇦🇹[Group Leader Positions at the IMP molecular and cell biology, gene regulation and development, cancer and immunology](https://www.imp.ac.at/career/open-positions)
+
+🇸🇬[Nanyang Tech 1.5million SGD startup](https://www.nature.com/naturecareers/job/12814070/nanyang-assistant-associate-professorship-nap-/?TrackID=29551&BatchID=351&JobAlertId=38023&cmpid=JBE_TL_20240214_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240214_applynow_job1)
+
+🇺🇸[Stanford Bioinformatics/Immunology/Rheumatology Open Rank (Assistant, Associate, or Full Professor)](https://jobs.sciencecareers.org/job/655608/bioinformatics-immunology-rheumatology-open-rank/?TrackID=364650&utm_source=jobs&utm_medium=email&utm_campaign=email-careers-job-alert&BatchID=5972&JobAlertId=418793)
+
+🇺🇸[University of Alabama at Birmingham Genomic Medicine Faculty](https://jobs.sciencecareers.org/job/655584/genomic-medicine-faculty/?TrackID=364650&utm_source=jobs&utm_medium=email&utm_campaign=email-careers-job-alert&BatchID=5972&JobAlertId=418793)
+
 🇬🇧[Oxford Biochem Associate Professor](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=170772)
 
 🇺🇸[San Diego BioMed PI](https://jobs.sciencecareers.org/job/655229/principal-investigator-faculty/?TrackID=364650&utm_source=jobs&utm_medium=email&utm_campaign=email-careers-job-alert&BatchID=5960&JobAlertId=418793)
@@ -114,6 +124,18 @@
 
 ## Staff scientists 👩🏻‍🔬
 
+🇮🇹[Milan Senior Computational Biologist](https://github.com/brianpenghe/Bio-Jobs/blob/main/Ostuni_Bioinfo_Job_Ad%5B2%5D.pdf)
+
+🇬🇧[UK Dementia Research Institute with Amonida Bioinformatician](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?jobId=20141&jobTitle=Bioinformatician+%28Research+Fellow%29)
+
+🇬🇧[UK Dementia Research Institute with Amonida Neo4j developer](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?jobId=20149&jobTitle=Neo4J+Developer)
+
+🇬🇧[UK Dementia Research Institute with Amonida Senior bioinformatician](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?jobId=20145&jobTitle=Senior+Bioinformatician)
+
+🇺🇸[NYU somatic mutations Senior research scientist](https://github.com/brianpenghe/Bio-Jobs/blob/main/Senior%20Scientist%20Petljak%20Lab.pdf)
+
+🇨🇦[SickKids Toronto SCIENTIST/SENIOR SCIENTIST - Neuroscience of Child and Youth Mental Health]( https://jobs.sciencecareers.org/job/655351/scientist-senior-scientist-neuroscience-of-child-and-youth-mental-health/?TrackID=364650&utm_source=jobs&utm_medium=email&utm_campaign=email-careers-job-alert&BatchID=5964&JobAlertId=418793)
+
 🇬🇧[London LMS Bioinfo Staff/Postdoc](https://github.com/brianpenghe/Bio-Jobs/blob/main/advert-a4%5B6%5D.pdf)
 
 🇬🇧[Cambridge - Senior bioinformatician at Julie Ahringer's lab](https://www.jobs.ac.uk/job/DFF581/senior-bioinformatician-single-cell-multi-omics-of-developmental-trajectories)
@@ -137,6 +159,12 @@
 🇬🇧[4 Scientists at Ensocell](https://ensocell.bamboohr.com/careers/)
 
 ## Postdocs 🪐
+
+🇬🇧[Cambridge Non stipendiary fellowship at Hughes Hall](https://github.com/brianpenghe/Bio-Jobs/blob/main/Research-Fellows-Further-Particulars-and-Application-Process-1.pdf)
+
+🇺🇸[Columbia cancer postdoc](https://github.com/brianpenghe/Bio-Jobs/blob/main/Ciccia%20lab_postdoc_positions.pdf)
+
+🇺🇸[NYU Mutation postdoc](https://github.com/brianpenghe/Bio-Jobs/blob/main/Postdoc%20Fellow%20Petljak%20Lab.pdf)
 
 🇨🇦[Ottawa Postdoctoral Fellowship, mRNA-encoded Bispecific Antibodies](https://recruitment-recrutement.nrc-cnrc.gc.ca/job/Ottawa-Postdoctoral-Fellowship%2C-mRNA-encoded-Bispecific-Antibodies-ON/577810217/)
 
