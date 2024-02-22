@@ -2,6 +2,10 @@
 
 ## Group leaders 🚀
 
+🇺🇸[U Mass Medical Assistant/Associate/Full Professor, Tenure Track](https://jobs.sciencecareers.org/job/655778/assistant-associate-full-professor-tenure-track/?TrackID=364650&BatchID=5979&cmpid=JBE_TL_20240221_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240221_jobdetails_job3)
+
+🇨🇦[U Toronto Assistant Professor - Molecular Biology and Genetics.pdf](https://github.com/brianpenghe/Bio-Jobs/files/14380206/Assistant.Professor.-.Molecular.Biology.and.Genetics.pdf)
+
 🇺🇸[Chicago U faculty open rank: Human Neuroscience of Brain Network Function and Brain Injury](https://apply.interfolio.com/140407)
 
 🇦🇹[Group Leader Positions at the IMP molecular and cell biology, gene regulation and development, cancer and immunology](https://www.imp.ac.at/career/open-positions)
@@ -124,6 +128,12 @@
 
 ## Staff scientists 👩🏻‍🔬
 
+🇬🇧[Earlham Institute Senior Bioinformatician / Bioinformatician]( https://www.earlham.ac.uk/vacancy/senior-bioinformatician-data-science)
+
+🇮🇹[Milan ERC DepSHOCK lab technician / senior lab technician @IorioLab](https://careers.humantechnopole.it/o/research-technician-senior-research-technician-in-crisprscreens-with-transcriptomic-readouts)
+
+🇨🇦[Epidemiologist / Biostatistician Public Health Agency of Canada - Public Health Risk Sciences Saint-Hyacinthe (Québec)](https://emploisfp-psjobs.cfp-psc.gc.ca/psrs-srfp/applicant/page1800?poster=2117011&toggleLanguage=en)
+
 🇮🇹[Milan Senior Computational Biologist](https://github.com/brianpenghe/Bio-Jobs/blob/main/Ostuni_Bioinfo_Job_Ad%5B2%5D.pdf)
 
 🇬🇧[UK Dementia Research Institute with Amonida Bioinformatician](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?jobId=20141&jobTitle=Bioinformatician+%28Research+Fellow%29)
@@ -159,6 +169,18 @@
 🇬🇧[4 Scientists at Ensocell](https://ensocell.bamboohr.com/careers/)
 
 ## Postdocs 🪐
+
+🇨🇭[Roche post-doc job in industry combining synthetic genomics and machine learning to design better gene therapies](https://careers.roche.com/de/de/job/202401-102477/Roche-Postdoctoral-Fellow-RPF-in-novel-gene-regulatory-elements-for-rAAV-based-gene-therapies-m-f-d)
+
+🇺🇸[Department of Biomedical Genetics & University of Rochester Aging Institute postdoc](https://hbliulab.org/)
+
+🇬🇧[Earlham Institute postdoctoral scientist Postdoctoral Research Scientist (Cellular Genomics)](earlham.ac.uk https://www.earlham.ac.uk/vacancy/postdoctoral-scientist-cellular-genomics-papatheodorou)
+
+🇮🇹[ERC DepSHOCK hybrid experimental (80%) computational (20%) postdoctoral fellow @IorioLab](https://careers.humantechnopole.it/o/postdoc-in-functional-genomics-for-anti-cancer-therapeutic-target-discovery)
+
+🇮🇹[ERC DepSHOCK computational postdoctoral fellow @IorioLab](https://careers.humantechnopole.it/o/postdoc-in-predictive-models-for-anti-cancer-therapeutic-target-prioritisation)
+
+🇬🇧[Molecular + plant science postdoc at John Innes Centre - Caroline Dean & Yiliang Ding groups](https://mp.weixin.qq.com/s/HrxwniOPZxrjZQ1cnVnBBQ)
 
 🇬🇧[Cambridge Non stipendiary fellowship at Hughes Hall](https://github.com/brianpenghe/Bio-Jobs/blob/main/Research-Fellows-Further-Particulars-and-Application-Process-1.pdf)
 
