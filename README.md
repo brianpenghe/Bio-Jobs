@@ -192,6 +192,8 @@
 
 ## Postdocs 🪐
 
+🇬🇧[Manchester Postdoc in Synthetic Genomics @ Patrick Cai's lab](https://www.jobs.manchester.ac.uk/Job/JobDetail?isPreview=Yes&jobid=28166&advert=external)
+
 🇺🇸[Harvard Medical School Gershman lab postdoc](https://github.com/brianpenghe/Bio-Jobs/files/14557363/sam-postdoc-advert.1.pdf)
 
 🇨🇳[CAS Daniel Falush group pathogen genomics postdoc](http://www.siii.cas.cn/rczp/qtkygw/202401/t20240125_6976133.html)
