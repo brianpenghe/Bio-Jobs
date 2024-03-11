@@ -2,6 +2,26 @@
 
 ## Group leaders 🚀
 
+🇨🇦[U of Toronto pathobiology of disease Assistant Professor](https://jobs.utoronto.ca/job/Toronto-Assistant-Professor-Pathobiology-of-Disease-ON/578825817/)
+
+🇺🇸[OHSU Knight Cancer Institute Professor of Biomedical Data Science (Assistant, Associate, and/or Professor level)](https://externalcareers-ohsu.icims.com/jobs/26769/professor-of-biomedical-data-science-%28assistant%2c-associate%2c-and-or-professor-level%29/job?mode=view&mobile=false&width=761&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420)
+
+🇺🇸[Open Rank (Tenure Track) Faculty - Computational Biology， University of Illinois Chicago - Department of Biochemistry and Molecular Genetics](https://www.nature.com/naturecareers/job/12814776/open-rank-tenure-track-faculty-computational-biology?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+🇺🇸[JHU TTAP in ‘omics’ technologies and systems biology](https://jobs.sciencecareers.org/job/655969/tenure-track-faculty/?TrackID=364650&BatchID=5986&cmpid=JBE_TL_20240228_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240228_applynow_job1)
+
+🇨🇳[北大PKU_Life_Sciences_Tenure_track](https://github.com/brianpenghe/Bio-Jobs/files/14557249/PKU_Life_Sciences_Tenure_track.9.pdf)
+
+🇨🇭[ETH professor - molecular immunology](https://ethz.ch/en/the-eth-zurich/working-teaching-and-research/faculty/faculty-affairs/ausgeschriebene-professuren/naturwissenschaften-und-mathematik/professur-integrierte-immunologie.html)
+
+🇩🇰[Copenhagen Stem Cell PI](https://github.com/brianpenghe/Bio-Jobs/files/14557228/Group_Leader_2024.1.pdf)
+
+🇨🇳[南大](https://www.nature.com/naturecareers/job/12814465/zhicheng-young-professor/?TrackID=29551&BatchID=363&JobAlertId=38023&cmpid=JBE_TL_20240226_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240226_applynow_job1)
+
+🇺🇸[Oregon PI in Precision health](https://jobs.sciencecareers.org/job/655872/professor-of-biomedical-data-science-assistant-associate-and-or-professor-level-/?TrackID=364650&BatchID=5982&cmpid=JBE_TL_20240224_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240224_applynow_job2)
+
+🇩🇰[U of Copenhagen PI in pancreatic development and differentiation or the somatic stem cell field, and a translational focus involving either regenerative cell therapy, disease modelling or stem cell-based drug development.](https://github.com/brianpenghe/Bio-Jobs/files/14557197/Group_Leader_2024.pdf)
+
 🇺🇸[U Mass Medical Assistant/Associate/Full Professor, Tenure Track](https://jobs.sciencecareers.org/job/655778/assistant-associate-full-professor-tenure-track/?TrackID=364650&BatchID=5979&cmpid=JBE_TL_20240221_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240221_jobdetails_job3)
 
 🇨🇦[U Toronto Assistant Professor - Molecular Biology and Genetics.pdf](https://github.com/brianpenghe/Bio-Jobs/files/14380206/Assistant.Professor.-.Molecular.Biology.and.Genetics.pdf)
@@ -128,6 +148,8 @@
 
 ## Staff scientists 👩🏻‍🔬
 
+🇬🇧[GSK Data science](https://jobs.gsk.com/en-gb/jobs/391054?lang=en-us&previousLocale=en-GB)
+
 🇬🇧[Earlham Institute Senior Bioinformatician / Bioinformatician]( https://www.earlham.ac.uk/vacancy/senior-bioinformatician-data-science)
 
 🇮🇹[Milan ERC DepSHOCK lab technician / senior lab technician @IorioLab](https://careers.humantechnopole.it/o/research-technician-senior-research-technician-in-crisprscreens-with-transcriptomic-readouts)
@@ -169,6 +191,16 @@
 🇬🇧[4 Scientists at Ensocell](https://ensocell.bamboohr.com/careers/)
 
 ## Postdocs 🪐
+
+🇺🇸[Harvard Medical School Gershman lab postdoc](https://github.com/brianpenghe/Bio-Jobs/files/14557363/sam-postdoc-advert.1.pdf)
+
+🇨🇳[CAS Daniel Falush group pathogen genomics postdoc](http://www.siii.cas.cn/rczp/qtkygw/202401/t20240125_6976133.html)
+
+🇬🇧[Cambridge University College fellowships - Wolfson, St John's, Clare College and Hughes Hall](https://sway.cloud.microsoft/5SBpAr7Uh1nOGFhV?ref=Link)
+
+🇬🇧[Cambridge St John’s College: College Research Associates Competition](https://www.joh.cam.ac.uk/college-research-associates-competition)
+
+🇬🇧[postdoc at O’Neill lab at the Cambridge LMB. The lab studies circadian rhythms](https://www.nature.com/naturecareers/job/12814249/postdoctoral-scientist-cell-biology-dr-john-o-neill-lmb-2359/)
 
 🇨🇭[Roche post-doc job in industry combining synthetic genomics and machine learning to design better gene therapies](https://careers.roche.com/de/de/job/202401-102477/Roche-Postdoctoral-Fellow-RPF-in-novel-gene-regulatory-elements-for-rAAV-based-gene-therapies-m-f-d)
 
@@ -263,6 +295,16 @@
 🇬🇧[Postdoctoral Training Fellow in Computational Single-Cell Biology (Dr Stephen-John Sammut)](https://jobs.icr.ac.uk/vacancies/768/postdoctoral-training-fellow-in-computational-single-cell-biology-dr-stephen-john-sammut.html)
 
 ## Others ⭐️
+
+🇬🇧[Cardiff U Anatomical Society PhD studentship](https://www.findaphd.com/phds/project/elucidating-the-function-of-the-dopaminergic-midbrain-claustrum-projection-in-the-healthy-brain-and-in-parkinson-s-disease/?p169491)
+
+🇬🇧[Head of Science Strategy £66,832](https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=b3duZXJ0eXBlPWZhaXImc2VhcmNoc29ydD1zY29yZSZwYWdlY2xhc3M9Sm9icyZzZWFyY2hwYWdlPTEmcGFnZWFjdGlvbj12aWV3dmFjYnlqb2JsaXN0Jm93bmVyPTUwNzAwMDAmam9ibGlzdF92aWV3X3ZhYz0xOTAxMTQ2JnVzZXJzZWFyY2hjb250ZXh0PTcxMjczNTEzJnJlcXNpZz0xNzA5MjIzNDY0LTNhZTdjMTg3ODgyYTZiOTlkYjEzYjMzZDg4N2EzZDcwZTNhYmNjYTQ=)
+
+🇺🇸[Duke University, Biomedical Engineering John Hickey Lab Research Associate](https://academicjobsonline.org/ajo/jobs/26040)
+
+🇺🇸[Genentech intern with Graham Heimberg](https://x.com/gheimberg/status/1763242900153057486?s=46)
+
+🇨🇭[ETH BSSE PhD Crispr highthroughput in Randall Platt Group](https://github.com/brianpenghe/Bio-Jobs/assets/4110443/d973d3f9-8030-45dd-8606-c009f203e54c)
 
 🇺🇸[UMass Medical School Non-TT instructor in Molecular Medicine](https://academicjobsonline.org/ajo/jobs/26960)
 
