@@ -150,7 +150,7 @@
 
 🇬🇧[GSK Data science](https://jobs.gsk.com/en-gb/jobs/391054?lang=en-us&previousLocale=en-GB)
 
-🇬🇧[Earlham Institute Senior Bioinformatician / Bioinformatician]( https://www.earlham.ac.uk/vacancy/senior-bioinformatician-data-science)
+🇬🇧[Earlham Institute Senior Bioinformatician / Bioinformatician](https://www.earlham.ac.uk/vacancy/senior-bioinformatician-data-science)
 
 🇮🇹[Milan ERC DepSHOCK lab technician / senior lab technician @IorioLab](https://careers.humantechnopole.it/o/research-technician-senior-research-technician-in-crisprscreens-with-transcriptomic-readouts)
 
@@ -208,7 +208,7 @@
 
 🇺🇸[Department of Biomedical Genetics & University of Rochester Aging Institute postdoc](https://hbliulab.org/)
 
-🇬🇧[Earlham Institute postdoctoral scientist Postdoctoral Research Scientist (Cellular Genomics)](earlham.ac.uk https://www.earlham.ac.uk/vacancy/postdoctoral-scientist-cellular-genomics-papatheodorou)
+🇬🇧[Earlham Institute postdoctoral scientist Postdoctoral Research Scientist (Cellular Genomics)](https://www.earlham.ac.uk/vacancy/postdoctoral-scientist-cellular-genomics-papatheodorou)
 
 🇮🇹[ERC DepSHOCK hybrid experimental (80%) computational (20%) postdoctoral fellow @IorioLab](https://careers.humantechnopole.it/o/postdoc-in-functional-genomics-for-anti-cancer-therapeutic-target-discovery)
 
