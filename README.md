@@ -2,6 +2,24 @@
 
 ## Group leaders 🚀
 
+🇺🇸[U Illinois Chicago: Open Rank Tenure Track Faculty positions in the field of Neuroscience](https://jobs.sciencecareers.org/job/656390/open-rank-tenure-track-faculty-positions-in-the-field-of-neuroscience/?TrackID=364650&BatchID=6005&JobAlertId=418793&cmpid=JBE_TL_20240318_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240318_applynow_job2)
+
+🇬🇧[Sano Genetics Head of Molecular Diagnostics](https://careers.sanogenetics.com/jobs/3675609-head-of-molecular-diagnostics)
+
+🇬🇧[Cambridge Dept of Haematology/Cambridge Stem Cell Institute/CRUJ Haem Malignancy Virtual Institue - Group Leader position](https://www.jobs.cam.ac.uk/job/45032/)
+
+🇺🇸[UCSF Clinical Faculty - Medical Genetics Biochemical Geneticist](https://www.nature.com/naturecareers/job/12815461/division-of-medical-genetics-biochemical-geneticist-faculty/?TrackID=29551&BatchID=381&JobAlertId=38023&cmpid=JBE_TL_20240315_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240315_applynow_job2)
+
+🇺🇸[UT Health San Antonio OPEN RANK FACULTY – BIOLOGY OF INFECTIONS](https://jobs.sciencecareers.org/job/656354/open-rank-faculty-biology-of-infections/?TrackID=364650&BatchID=6002&JobAlertId=418793&cmpid=JBE_TL_20240315_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240315_applynow_job4)
+
+🇸🇪[KTH Assistant professor in Computational biology with a focus on machine learning for multimodal molecular biology data](https://www.kth.se/lediga-jobb/681892?l=en)
+
+🇨🇳[Westlake U 西湖大学教职](https://www.nature.com/naturecareers/job/12815264/tenure-track-assistant-professor-associate-professor-and-professor/?TrackID=29551&BatchID=378&JobAlertId=38023&cmpid=JBE_TL_20240312_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240312_applynow_job2)
+
+🇨🇳[SUSTECH 南科大医学院教职](https://www.nature.com/naturecareers/job/12815238/faculty-positions-at-sustech-school-of-medicine/?TrackID=29551&BatchID=378&JobAlertId=38023&cmpid=JBE_TL_20240312_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240312_applynow_job1#application-form)
+
+🇺🇸[UNIVERSITY OF MANITOBA, WINNIPEG Assistant Professor, Synthetic Biologist](https://viprecprod.ad.umanitoba.ca/DEFAULT.ASPX?REQ_ID=31524)
+
 🇨🇦[U of Toronto pathobiology of disease Assistant Professor](https://jobs.utoronto.ca/job/Toronto-Assistant-Professor-Pathobiology-of-Disease-ON/578825817/)
 
 🇺🇸[OHSU Knight Cancer Institute Professor of Biomedical Data Science (Assistant, Associate, and/or Professor level)](https://externalcareers-ohsu.icims.com/jobs/26769/professor-of-biomedical-data-science-%28assistant%2c-associate%2c-and-or-professor-level%29/job?mode=view&mobile=false&width=761&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420)
@@ -297,6 +315,10 @@
 🇬🇧[Postdoctoral Training Fellow in Computational Single-Cell Biology (Dr Stephen-John Sammut)](https://jobs.icr.ac.uk/vacancies/768/postdoctoral-training-fellow-in-computational-single-cell-biology-dr-stephen-john-sammut.html)
 
 ## Others ⭐️
+
+🇬🇧[Nature Communications Editor in Materials and Chemistry](https://www.ajinga.com/job-detail-new/160034/c/?aj_source=SPwechatNR&aj_code=SPnatureresearch)
+
+🇬🇧[Nature Machine Intelligence editor](https://www.nature.com/naturecareers/job/12814977/-associate-or-senior-editor-nature-machine-intelligence/?TrackID=27704&BatchID=371&JobAlertId=35682&cmpid=JBE_TL_20240305_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240305_jobtitle_job1)
 
 🇬🇧[Cardiff U Anatomical Society PhD studentship](https://www.findaphd.com/phds/project/elucidating-the-function-of-the-dopaminergic-midbrain-claustrum-projection-in-the-healthy-brain-and-in-parkinson-s-disease/?p169491)
 
