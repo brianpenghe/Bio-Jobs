@@ -2,6 +2,26 @@
 
 ## Group leaders 🚀
 
+🏴󠁧󠁢󠁳󠁣󠁴󠁿[Dundee PI Division of Molecular, Cell and Developmental Biology, School of Life Sciences, University of Dundee](https://www.nature.com/naturecareers/job/12815804/principal-investigator)
+
+🇨🇳[中科院动物所招PI CAS Zoology](https://www.nature.com/naturecareers/job/12814463/recruitment-of-global-talent-at-the-institute-of-zoology-chinese-academy-of-sciences-ioz-cas-/?LinkSource=PremiumListing)
+
+🇸🇬[NUS Cancer faculty](https://www.nature.com/naturecareers/job/12815823/full-associate-and-assistant-professor/?TrackID=29551&BatchID=389&JobAlertId=38023&cmpid=JBE_TL_20240323_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240323_applynow_job3)
+
+🇭🇰[港科大教职 HKUST Faculty Positions in Bioscience and Biomedical Engineering (BSBE) Thrust, Systems Hub, HKUST (GZ)](https://www.nature.com/naturecareers/job/12815832/faculty-positions-in-bioscience-and-biomedical-engineering-bsbe-thrust-systems-hub-hkust-gz-/?TrackID=29551&BatchID=389&JobAlertId=38023&cmpid=JBE_TL_20240323_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240323_applynow_job2)
+
+🇨🇳[天大 TJU chair professors in the School of Pharmaceutical Science and Technology](https://www.nature.com/naturecareers/job/12815379/chair-professor-positions-in-the-school-of-pharmaceutical-science-and-technology/?TrackID=29551&BatchID=387&JobAlertId=38023&cmpid=JBE_TL_20240321_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240321_jobtitle_job1)
+
+🇦🇺[academic Lecturer/Senior Lecturer/Associate Professor Education Focused positions at The University of Sydney](https://usyd.wd3.myworkdayjobs.com/en-US/USYD_EXTERNAL_CAREER_SITE/job/Sydney-Horizon-Educators--Faculty-of-Science-_0116939-1)
+
+🇺🇸[Tenure-track Assistant Professor Faculty Position in Neurobiology and Behavior at UC Irvine](https://jobs.sciencecareers.org/job/656476/tenure-track-assistant-professor-faculty-position-in-neurobiology-and-behavior-at-uc-irvine/?TrackID=364650&BatchID=6007&JobAlertId=418793&cmpid=JBE_TL_20240320_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240320_applynow_job2)
+
+🇨🇳[大湾区大学 faculty](https://www.nature.com/naturecareers/job/12812755/faculty-positions-at-great-bay-university-china-/?TrackID=29551&BatchID=385&JobAlertId=38023&cmpid=JBE_TL_20240319_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240319_applynow_job1)
+
+🇺🇸[Dana-Farber / HMS Assistant professor in Immunology](https://jobs.sciencecareers.org/job/656434/assistant-professor-of-immunology-dana-farber-cancer-institute-and-harvard-medical-school/?TrackID=364650&BatchID=6006&JobAlertId=418793&cmpid=JBE_TL_20240319_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240319_applynow_job3)
+
+🇺🇸[Emory Faculty in Pediatric Translational Behavioral Neuroscience](https://jobs.sciencecareers.org/job/656437/faculty-position-pediatric-translational-behavioral-neuroscience-research/?TrackID=364650&BatchID=6006&JobAlertId=418793&cmpid=JBE_TL_20240319_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240319_applynow_job1)
+
 🇺🇸[U Illinois Chicago: Open Rank Tenure Track Faculty positions in the field of Neuroscience](https://jobs.sciencecareers.org/job/656390/open-rank-tenure-track-faculty-positions-in-the-field-of-neuroscience/?TrackID=364650&BatchID=6005&JobAlertId=418793&cmpid=JBE_TL_20240318_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240318_applynow_job2)
 
 🇬🇧[Sano Genetics Head of Molecular Diagnostics](https://careers.sanogenetics.com/jobs/3675609-head-of-molecular-diagnostics)
@@ -166,6 +186,8 @@
 
 ## Staff scientists 👩🏻‍🔬
 
+🇺🇸[Genentech Scientist 3, Spatial Profiling](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Scientist-3--Spatial-Profiling_202403-107015-1)
+
 🇬🇧[GSK Data science](https://jobs.gsk.com/en-gb/jobs/391054?lang=en-us&previousLocale=en-GB)
 
 🇬🇧[Earlham Institute Senior Bioinformatician / Bioinformatician](https://www.earlham.ac.uk/vacancy/senior-bioinformatician-data-science)
@@ -209,6 +231,15 @@
 🇬🇧[4 Scientists at Ensocell](https://ensocell.bamboohr.com/careers/)
 
 ## Postdocs 🪐
+
+🇬🇧[Crick Institute postdoc @ Hill lab cell signalling in early vertebrate development and disease](https://www.jobs.ac.uk/job/DGU663/postdoctoral-fellow-hill-lab?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+🇬🇧[Imperial SynBio Living Materials postdoc](https://github.com/brianpenghe/Bio-Jobs/assets/4110443/e4434af2-cc1f-4d58-a66e-9e40b87aa35c)
+
+
+🇺🇸[University of Notre Dame focusing on medical image processing and surgical system creation. The advisor Danny Z Chen](https://github.com/brianpenghe/Bio-Jobs/files/14805953/Postdoc-Ad.pdf)
+
+🇺🇸[Industry fellowship Foresite Capital and Foresite Labs Joint Fellows Program](https://boards.greenhouse.io/foresitelabs/jobs/7273037002?source=LinkedIn#app)
 
 🇬🇧[Manchester Postdoc in Synthetic Genomics @ Patrick Cai's lab](https://www.jobs.manchester.ac.uk/Job/JobDetail?isPreview=Yes&jobid=28166&advert=external)
 
@@ -315,6 +346,8 @@
 🇬🇧[Postdoctoral Training Fellow in Computational Single-Cell Biology (Dr Stephen-John Sammut)](https://jobs.icr.ac.uk/vacancies/768/postdoctoral-training-fellow-in-computational-single-cell-biology-dr-stephen-john-sammut.html)
 
 ## Others ⭐️
+
+🇬🇧[a "Technology Lead" role in the Data for Science and Health team at Wellcome £80,224](https://www.linkedin.com/pulse/do-you-want-lead-digital-technology-science-health-wellcome-brown-dqs2e?utm_source=share&utm_medium=member_ios&utm_campaign=share_via)
 
 🇬🇧[Nature Communications Editor in Materials and Chemistry](https://www.ajinga.com/job-detail-new/160034/c/?aj_source=SPwechatNR&aj_code=SPnatureresearch)
 
