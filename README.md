@@ -192,7 +192,7 @@
 
 ## Staff scientists 👩🏻‍🔬
 
-🇬🇧[Data Scientist (Intern or Graduate) England - Cambridge](https://illumina.wd1.myworkdayjobs.com/illumina-earlycareers-europe/job/England---Cambridge/Data-Scientist--Intern-or-Graduate-_37814-JOB) 
+🇬🇧[Illumina Data Scientist (Intern or Graduate) England - Cambridge](https://illumina.wd1.myworkdayjobs.com/illumina-earlycareers-europe/job/England---Cambridge/Data-Scientist--Intern-or-Graduate-_37814-JOB) 
 
 🇨🇳[Sunny Xie's Changping institute](https://www.nature.com/naturecareers/job/12816228/global-talent-recruitment-scientist-positions-/?TrackID=29551&BatchID=400&JobAlertId=38023&cmpid=JBE_TL_20240403_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240403_applynow_job1)
 
