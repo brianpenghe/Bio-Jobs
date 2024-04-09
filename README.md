@@ -2,6 +2,12 @@
 
 ## Group leaders 🚀
 
+🇭🇰[HKU Ecology and Diversity Open Rank professor](https://www.nature.com/naturecareers/job/12816470/assistant-professor-associate-professor-professor-in-ecology-and-biodiversity/?TrackID=29551&BatchID=406&JobAlertId=38023&cmpid=JBE_TL_20240409_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240409_applynow_job2)
+
+🇺🇸[Baylor College of Medicine Assistant or Associate Professor, Cancer Immunology and Immunotherapy](https://jobs.sciencecareers.org/job/656818/assistant-or-associate-professor-cancer-immunology-and-immunotherapy/?TrackID=364650&BatchID=6022&JobAlertId=418793&cmpid=JBE_TL_20240404_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240404_applynow_job1)
+
+🇬🇧[Principal Investigator in Immunology at Babraham](https://www.linkedin.com/jobs/view/3870562701/?original_referer=)
+
 🏴󠁧󠁢󠁳󠁣󠁴󠁿[Dundee PI Division of Molecular, Cell and Developmental Biology, School of Life Sciences, University of Dundee](https://www.nature.com/naturecareers/job/12815804/principal-investigator)
 
 🇨🇳[中科院动物所招PI CAS Zoology](https://www.nature.com/naturecareers/job/12814463/recruitment-of-global-talent-at-the-institute-of-zoology-chinese-academy-of-sciences-ioz-cas-/?LinkSource=PremiumListing)
@@ -186,6 +192,16 @@
 
 ## Staff scientists 👩🏻‍🔬
 
+🇬🇧[Data Scientist (Intern or Graduate) England - Cambridge](https://illumina.wd1.myworkdayjobs.com/illumina-earlycareers-europe/job/England---Cambridge/Data-Scientist--Intern-or-Graduate-_37814-JOB) 
+
+🇨🇳[Sunny Xie's Changping institute](https://www.nature.com/naturecareers/job/12816228/global-talent-recruitment-scientist-positions-/?TrackID=29551&BatchID=400&JobAlertId=38023&cmpid=JBE_TL_20240403_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240403_applynow_job1)
+
+🇩🇪[BI Pharma GmbH&Co.KG Principal Scientist Computational Biology](https://jobs.boehringer-ingelheim.com/job/Biberach-Principal-Scientist-Computational-Biology-Germ/1055938501/?utm_medium=share_linkedin)
+
+🇬🇧[GSK ​Investigator, Multiplex and Spatial Molecular Histology](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK---Hertfordshire---Stevenage/XMLNAME--Investigator--Multiplex-and-Spatial-Molecular-Histology_391734-1)
+
+🇺🇸[San Diego Enzyme Catalysis Scientist](https://www.debutbiotech.com/careers)
+
 🇺🇸[Genentech Scientist 3, Spatial Profiling](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Scientist-3--Spatial-Profiling_202403-107015-1)
 
 🇬🇧[GSK Data science](https://jobs.gsk.com/en-gb/jobs/391054?lang=en-us&previousLocale=en-GB)
@@ -232,10 +248,21 @@
 
 ## Postdocs 🪐
 
+🇬🇧[Nodal and Fgf/Erk signalling postdoc at Crick institute](https://crick.wd3.myworkdayjobs.com/External/job/London/Postdoctoral-Fellow--Hill-lab_R1365-1)
+
+🇺🇸[broad Postdoctoral Associate - Bacterial Genomics Group](https://broadinstitute.wd1.myworkdayjobs.com/en-US/broad_institute/job/Cambridge-MA/Postdoctoral-Associate---Bacterial-Genomics-Group_39438)
+
+🇨🇭[Post-Doc position-Simonini_U Zurich, plant developmental biology, epigenetics and molecular biology](https://github.com/brianpenghe/Bio-Jobs/files/14917371/Post-Doc.position-Simonini_UZH.pdf)
+
+🇺🇸[UT Austin Cao Lab Postdoc Research Associates in Single Cell Multi-Omics Analysis and Molecular Biology](https://www.nature.com/naturecareers/job/12816128/postdoc-research-associates-in-single-cell-multi-omics-analysis-and-molecular-biology-/?TrackID=29551&BatchID=399&JobAlertId=38023&cmpid=JBE_TL_20240402_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240402_applynow_job2)
+
+🇬🇧[Postdoctoral Position - Hallou Lab (Oxford) - Biophysical Determinants of Cell fate Decisions in Skin Inflammatory Diseases](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form)
+
+🇬🇧[Churchil college Postdoctoral By-Fellowships](https://www.chu.cam.ac.uk/about/our-fellows/postdoctoral-by-fellowships/)
+
 🇬🇧[Crick Institute postdoc @ Hill lab cell signalling in early vertebrate development and disease](https://www.jobs.ac.uk/job/DGU663/postdoctoral-fellow-hill-lab?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 🇬🇧[Imperial SynBio Living Materials postdoc](https://github.com/brianpenghe/Bio-Jobs/assets/4110443/e4434af2-cc1f-4d58-a66e-9e40b87aa35c)
-
 
 🇺🇸[University of Notre Dame focusing on medical image processing and surgical system creation. The advisor Danny Z Chen](https://github.com/brianpenghe/Bio-Jobs/files/14805953/Postdoc-Ad.pdf)
 
@@ -346,6 +373,12 @@
 🇬🇧[Postdoctoral Training Fellow in Computational Single-Cell Biology (Dr Stephen-John Sammut)](https://jobs.icr.ac.uk/vacancies/768/postdoctoral-training-fellow-in-computational-single-cell-biology-dr-stephen-john-sammut.html)
 
 ## Others ⭐️
+
+🇩🇪[Bayer foundation fellowships](https://www.bayer-foundation.com/fellowships-stipends-apply-now-our-fellowships-program-2024)
+
+🇬🇧[PhD at London Natural History Museum, in genomics](https://www.nhm.ac.uk/our-science/study/postgraduate/phd-opportunities/projects/meiofaunal-molecular-systematics.html)
+
+🇺🇸[Google PhD fellowship program](https://research.google/outreach/phd-fellowship/)
 
 🇬🇧[a "Technology Lead" role in the Data for Science and Health team at Wellcome £80,224](https://www.linkedin.com/pulse/do-you-want-lead-digital-technology-science-health-wellcome-brown-dqs2e?utm_source=share&utm_medium=member_ios&utm_campaign=share_via)
 
