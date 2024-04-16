@@ -2,6 +2,30 @@
 
 ## Group leaders 🚀
 
+🇺🇸[St Jude Faculty Position, Department of Cell and Molecular Biology](https://www.nature.com/naturecareers/job/12816702/faculty-position-department-of-cell-and-molecular-biology/?LinkSource=PremiumListing)
+
+🇺🇸[St Jude Faculty Position, Department of Pathology - Anatomic Pathology](https://www.nature.com/naturecareers/job/12816704/faculty-position-department-of-pathology-anatomic-pathology/?LinkSource=PremiumListing)
+
+🇺🇸[St Jude Faculty positions - Department of Chemical Biology and Therapeutics](https://www.nature.com/naturecareers/job/12816716/faculty-positions-department-of-chemical-biology-and-therapeutics/?LinkSource=PremiumListing)
+
+🇺🇸[St Jude Faculty Position, Department of Pediatric Medicine - Division of Anesthesiology](https://www.nature.com/naturecareers/job/12816724/faculty-position-department-of-pediatric-medicine-division-of-anesthesiology/?LinkSource=PremiumListing)
+
+🇺🇸[St Jude Faculty Position - Comprehensive Cancer Center](https://www.nature.com/naturecareers/job/12816725/faculty-position-comprehensive-cancer-center/?LinkSource=PremiumListing)
+
+🇺🇸[St Jude Faculty Positions - Department of Biostatistics](https://www.nature.com/naturecareers/job/12816726/faculty-positions-department-of-biostatistics/?LinkSource=PremiumListing)
+
+🇺🇸[St Jude Faculty positions - Department of Chemical Biology and Therapeutics](https://www.nature.com/naturecareers/job/12816727/faculty-positions-department-of-chemical-biology-and-therapeutics/?LinkSource=PremiumListing)
+
+🇺🇸[St Jude Department of Infectious Diseases - Transplant Faculty position](https://www.nature.com/naturecareers/job/12816728/faculty-position-department-of-infectious-diseases-transplant/?LinkSource=PremiumListing)
+
+🇺🇸[St Jude Pharmacy & Pharmaceutical Sciences Faculty position](https://www.nature.com/naturecareers/job/12816729/faculty-position-department-of-pharmacy-and-pharmaceutical-sciences/?LinkSource=PremiumListing)
+
+🇺🇸[UVA Public Health Genomics PI](https://www.nature.com/naturecareers/job/12816817/open-rank-faculty-center-for-public-health-genomics/?LinkSource=PremiumListing)
+
+🏴󠁧󠁢󠁳󠁣󠁴󠁿[IMBA 招PI](https://www.nature.com/naturecareers/job/12816581/junior-group-leader-position-at-imba-institute-of-molecular-biotechnology/?LinkSource=PremiumListing)
+
+🇬🇧[Imperial College London Lecturer or Senior Lecturer in Bacterial Vaccinology](https://www.nature.com/naturecareers/job/12816516/lecturer-or-senior-lecturer-in-bacterial-vaccinology/?TrackID=29551&BatchID=407&JobAlertId=38023&cmpid=JBE_TL_20240410_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240410_applynow_job5)
+
 🇭🇰[HKU Ecology and Diversity Open Rank professor](https://www.nature.com/naturecareers/job/12816470/assistant-professor-associate-professor-professor-in-ecology-and-biodiversity/?TrackID=29551&BatchID=406&JobAlertId=38023&cmpid=JBE_TL_20240409_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240409_applynow_job2)
 
 🇺🇸[Baylor College of Medicine Assistant or Associate Professor, Cancer Immunology and Immunotherapy](https://jobs.sciencecareers.org/job/656818/assistant-or-associate-professor-cancer-immunology-and-immunotherapy/?TrackID=364650&BatchID=6022&JobAlertId=418793&cmpid=JBE_TL_20240404_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240404_applynow_job1)
@@ -192,6 +216,12 @@
 
 ## Staff scientists 👩🏻‍🔬
 
+🇬🇧[Sanger Institute Team Admin](https://sanger.wd3.myworkdayjobs.com/en-US/WellcomeSangerInstitute/job/Hinxton-Cambridgeshire/Team-Administrator--Cellular-Genetics-_JR101836) 
+
+🇺🇸[Boston Children's Hospital  Senior Bioinformatics Scientist](https://www.linkedin.com/feed/update/urn:li:activity:7184177615723757570/)
+
+🇺🇸[U Chicago Team Scientist - Center for Translational Data Science](https://jobs.sciencecareers.org/job/656953/team-scientist-center-for-translational-data-science/?TrackID=364650&BatchID=6028&JobAlertId=418793&cmpid=JBE_TL_20240410_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240410_applynow_job1)
+
 🇬🇧[Illumina Data Scientist (Intern or Graduate) England - Cambridge](https://illumina.wd1.myworkdayjobs.com/illumina-earlycareers-europe/job/England---Cambridge/Data-Scientist--Intern-or-Graduate-_37814-JOB) 
 
 🇨🇳[Sunny Xie's Changping institute](https://www.nature.com/naturecareers/job/12816228/global-talent-recruitment-scientist-positions-/?TrackID=29551&BatchID=400&JobAlertId=38023&cmpid=JBE_TL_20240403_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240403_applynow_job1)
@@ -247,6 +277,10 @@
 🇬🇧[4 Scientists at Ensocell](https://ensocell.bamboohr.com/careers/)
 
 ## Postdocs 🪐
+
+🇫🇷[bioinformatics postdoc and iPSC/organoid postdoc in Paris](Postdoc_Positions_Chedotal_lab.pdf)
+
+🇺🇸[postdoctoral fellow position Mass General Hospital/Harvard Medical School to study the mechanisms of pathogenic alloimmunity driving Graft-versus-Host Disease and graft rejection](https://www.linkedin.com/feed/update/urn:li:activity:7176250520150380544/)
 
 🇬🇧[Nodal and Fgf/Erk signalling postdoc at Crick institute](https://crick.wd3.myworkdayjobs.com/External/job/London/Postdoctoral-Fellow--Hill-lab_R1365-1)
 
@@ -372,7 +406,14 @@
 
 🇬🇧[Postdoctoral Training Fellow in Computational Single-Cell Biology (Dr Stephen-John Sammut)](https://jobs.icr.ac.uk/vacancies/768/postdoctoral-training-fellow-in-computational-single-cell-biology-dr-stephen-john-sammut.html)
 
+
 ## Others ⭐️
+
+🇺🇸[Harvard MGH full time RA](MGH_full_time_RA.md)
+
+🏴󠁧󠁢󠁳󠁣󠁴󠁿[Finland PhD about immunity](http://xhslink.com/0coaBG)
+
+🇬🇧[Edinburgh PhD in Immune regulation of lung repair, and long-term consequences of infection](https://www.findaphd.com/phds/project/immune-regulation-of-lung-repair-and-long-term-consequences-of-infection/?p170897)
 
 🇩🇪[Bayer foundation fellowships](https://www.bayer-foundation.com/fellowships-stipends-apply-now-our-fellowships-program-2024)
 
@@ -417,3 +458,4 @@
 🇬🇧[Master, St Edmund’s College, University of Cambridge](https://www.odgersberndtson.com/opportunities#AssignDetail.aspx?guid=89919)
 
 🇺🇸[Deputy Editor/Team Manager, Nature Medicine](https://careers.springernature.com/job/New-York-Deputy-EditorTeam-Manager,-Nature-Medicine/1003346501/)
+
