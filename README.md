@@ -1,7 +1,8 @@
-# keep updating⏳- open positions in reverse chronological order by posting date
+## keep updating⏳- open positions in reverse chronological order by posting date
 
-## Group leaders 🚀
-
+<details>
+  <summary><b>Group leaders 🚀</b></summary>
+  
 🇺🇸[UConn Cancer Research](https://jobs.sciencecareers.org/job/657246/faculty-position-in-cancer-research/?TrackID=364650&BatchID=6038&JobAlertId=418793&cmpid=JBE_TL_20240420_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240420_applynow_job1)
 
 🇨🇳[浙大百人计划 ZJU 100 Young Professor](https://www.nature.com/naturecareers/job/12817034/zju-100-young-professor/?TrackID=29551&BatchID=417&JobAlertId=38023&cmpid=JBE_TL_20240420_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240420_applynow_job3)
@@ -225,8 +226,10 @@
 🇬🇧[University of Bristol Lecturer / Senior Lecturer (Associate Professor) in Computational Neuroscience and Machine Learning](https://www.jobs.ac.uk/job/DEB054/lecturer-senior-lecturer-associate-professor-in-computational-neuroscience-and-machine-learning)
 
 🇺🇸[University of Washington Assistant Professor](https://apply.interfolio.com/135108)
+</details>
 
-## Staff scientists 👩🏻‍🔬
+<details>
+  <summary><b>Staff scientists 👩🏻‍🔬</b></summary>
 
 🇬🇧[Higher Scientific Officer in Gideon Coster's lab at ICR](https://jobs.icr.ac.uk/vacancies/910/higher-scientific-officer.html)
 
@@ -295,8 +298,10 @@
 🇩🇰[Staff Scientist (AC-TAP) in Database Development at Department of Drug Design and Pharmacology Faculty of Health and Medical Sciences](https://employment.ku.dk/staff/?show=160402)
 
 🇬🇧[4 Scientists at Ensocell](https://ensocell.bamboohr.com/careers/)
+</details>
 
-## Postdocs 🪐
+<details>
+  <summary><b>Postdocs 🪐</b></summary>
 
 🇬🇧[Postdoctoral Fellow in Gideon Coster's lab at ICR](https://jobs.icr.ac.uk/vacancies/901/postdoctoral-training-fellow--genome-replication.html)
 
@@ -433,9 +438,10 @@
 🇺🇸[Genentech Computational Postdoc](https://careers.gene.com/us/en/job/202311-124317/Postdoctoral-Fellow-Computational-Biology-Li-Moussion-Lab)
 
 🇬🇧[Postdoctoral Training Fellow in Computational Single-Cell Biology (Dr Stephen-John Sammut)](https://jobs.icr.ac.uk/vacancies/768/postdoctoral-training-fellow-in-computational-single-cell-biology-dr-stephen-john-sammut.html)
+</details>
 
-
-## Others ⭐️
+<details>
+  <summary><b>Others ⭐️</b></summary>
 
 🇬🇧[Associate or Senior Editor, Nature Biomedical Engineering](https://careers.springernature.com/job/London-Associate-or-Senior-Editor%2C-Nature-Biomedical-Engineering/1023209601/)
 
@@ -490,4 +496,4 @@
 🇬🇧[Master, St Edmund’s College, University of Cambridge](https://www.odgersberndtson.com/opportunities#AssignDetail.aspx?guid=89919)
 
 🇺🇸[Deputy Editor/Team Manager, Nature Medicine](https://careers.springernature.com/job/New-York-Deputy-EditorTeam-Manager,-Nature-Medicine/1003346501/)
-
+</details>
