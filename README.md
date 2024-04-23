@@ -2,6 +2,18 @@
 
 ## Group leaders 🚀
 
+🇺🇸[UConn Cancer Research](https://jobs.sciencecareers.org/job/657246/faculty-position-in-cancer-research/?TrackID=364650&BatchID=6038&JobAlertId=418793&cmpid=JBE_TL_20240420_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240420_applynow_job1)
+
+🇨🇳[浙大百人计划 ZJU 100 Young Professor](https://www.nature.com/naturecareers/job/12817034/zju-100-young-professor/?TrackID=29551&BatchID=417&JobAlertId=38023&cmpid=JBE_TL_20240420_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240420_applynow_job3)
+
+🇩🇪[Group Leaders in Neurosciences Universitätsmedizin Göttingen](https://www.nature.com/naturecareers/job/12817072/group-leaders-in-neurosciences-f-m-d-/?TrackID=29551&BatchID=416&JobAlertId=38023&cmpid=JBE_TL_20240419_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240419_jobtitle_job1)
+
+🇬🇧[Oxford Early Career Researcher – Cancer Science (4 posts)](https://www.linkedin.com/jobs/view/3884530983)
+
+🇺🇸[Alabama Genomic Medicine Faculty](https://jobs.sciencecareers.org/job/657101/genomic-medicine-faculty/?TrackID=364650&BatchID=6034&JobAlertId=418793&cmpid=JBE_TL_20240416_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240416_applynow_job1)
+
+🇬🇧[University of Cambridge Assistant/Associate Professor in Stem Cell Science](UAP_advert_April_24.pdf)
+
 🇺🇸[St Jude Faculty Position, Department of Cell and Molecular Biology](https://www.nature.com/naturecareers/job/12816702/faculty-position-department-of-cell-and-molecular-biology/?LinkSource=PremiumListing)
 
 🇺🇸[St Jude Faculty Position, Department of Pathology - Anatomic Pathology](https://www.nature.com/naturecareers/job/12816704/faculty-position-department-of-pathology-anatomic-pathology/?LinkSource=PremiumListing)
@@ -216,6 +228,14 @@
 
 ## Staff scientists 👩🏻‍🔬
 
+🇬🇧[Higher Scientific Officer in Gideon Coster's lab at ICR](https://jobs.icr.ac.uk/vacancies/910/higher-scientific-officer.html)
+
+🇬🇧[Cambridge University Lab manager/technician](https://www.jobs.cam.ac.uk/job/46030/)
+
+🇨🇳[Senior/Principal Scientist - Muscle Research](https://careers.roche.com/cn/zh/job/202404-107962/-Senior-Principal-Scientist-Muscle-Research)
+
+🇬🇧[Bioconjugation Senior Scientist, Tumour Targeted Delivery, Oncology R&D, AstraZeneca](https://careers.astrazeneca.com/job/london/bioconjugation-senior-scientist-tumour-targeted-delivery-oncology-r-and-d/7684/63479213968)
+
 🇬🇧[Sanger Institute Team Admin](https://sanger.wd3.myworkdayjobs.com/en-US/WellcomeSangerInstitute/job/Hinxton-Cambridgeshire/Team-Administrator--Cellular-Genetics-_JR101836) 
 
 🇺🇸[Boston Children's Hospital  Senior Bioinformatics Scientist](https://www.linkedin.com/feed/update/urn:li:activity:7184177615723757570/)
@@ -277,6 +297,14 @@
 🇬🇧[4 Scientists at Ensocell](https://ensocell.bamboohr.com/careers/)
 
 ## Postdocs 🪐
+
+🇬🇧[Postdoctoral Fellow in Gideon Coster's lab at ICR](https://jobs.icr.ac.uk/vacancies/901/postdoctoral-training-fellow--genome-replication.html)
+
+🇭🇰[Postdoc, CityU of Hong Kong BME](https://www.xiaohongshu.com/discovery/item/6621ef3e000000001c00902a?app_platform=ios&app_version=8.29&share_from_user_hidden=true&type=normal&author_share=1&xhsshare=WeixinSession&shareRedId=N0c0NUk4Rko6TEZFSkoySTw5Szs1SkhA&apptime=1713528278)
+
+🇩🇰[Postdoc in protein design for genome engineering at the Center for Protein Research (CPR)](https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=1307&departmentId=19221&ProjectId=161660&MediaId=5&SkipAdvertisement=false)
+
+🇺🇸[Andrea Giometto at Cornell, postdoc to look at cell size regulation and cell size scaling in S. cerevisiae, collaboration with Marco Fumasoni at Gulbenkian](Postdoc_Position_in_Physics_of_Evolving_Living_Matter.pdf)
 
 🇫🇷[bioinformatics postdoc and iPSC/organoid postdoc in Paris](Postdoc_Positions_Chedotal_lab.pdf)
 
@@ -408,6 +436,10 @@
 
 
 ## Others ⭐️
+
+🇬🇧[Associate or Senior Editor, Nature Biomedical Engineering](https://careers.springernature.com/job/London-Associate-or-Senior-Editor%2C-Nature-Biomedical-Engineering/1023209601/)
+
+🇭🇰[PhD/RA, CityU of Hong Kong BME](https://www.xiaohongshu.com/discovery/item/6621ef3e000000001c00902a?app_platform=ios&app_version=8.29&share_from_user_hidden=true&type=normal&author_share=1&xhsshare=WeixinSession&shareRedId=N0c0NUk4Rko6TEZFSkoySTw5Szs1SkhA&apptime=1713528278)
 
 🇺🇸[Harvard MGH full time RA](MGH_full_time_RA.md)
 
