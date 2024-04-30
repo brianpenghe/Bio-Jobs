@@ -2,7 +2,10 @@
 
 <details>
   <summary><b>Group leaders 🚀</b></summary>
-  
+
+
+🇨🇳[中科院广州GIBH PI position ](https://www.nature.com/naturecareers/job/12817190/position-opening-for-principal-investigator-gibh/?TrackID=29551&BatchID=420&JobAlertId=38023&cmpid=JBE_TL_20240423_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240423_applynow_job1)
+
 🇺🇸[UConn Cancer Research](https://jobs.sciencecareers.org/job/657246/faculty-position-in-cancer-research/?TrackID=364650&BatchID=6038&JobAlertId=418793&cmpid=JBE_TL_20240420_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240420_applynow_job1)
 
 🇨🇳[浙大百人计划 ZJU 100 Young Professor](https://www.nature.com/naturecareers/job/12817034/zju-100-young-professor/?TrackID=29551&BatchID=417&JobAlertId=38023&cmpid=JBE_TL_20240420_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240420_applynow_job3)
