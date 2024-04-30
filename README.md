@@ -239,6 +239,10 @@
 <details>
   <summary><b>Staff scientists 👩🏻‍🔬</b></summary>
 
+🇬🇧[R-96020 – Associate Principal Scientist UK](https://wd3.myworkday.com/astrazeneca/d/inst/15$392530/9925$543332.htmld)
+
+🇬🇧[R-197746 – Data Scientist UK](https://wd3.myworkday.com/astrazeneca/d/inst/15$392530/9925$548590.htmld)
+
 🇬🇧[Higher Scientific Officer in Gideon Coster's lab at ICR](https://jobs.icr.ac.uk/vacancies/910/higher-scientific-officer.html)
 
 🇬🇧[Cambridge University Lab manager/technician](https://www.jobs.cam.ac.uk/job/46030/)
