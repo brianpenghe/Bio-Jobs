@@ -311,6 +311,9 @@
 <details>
   <summary><b>Postdocs 🪐</b></summary>
 
+🇺🇸[Postdoctoral Fellowships in the Leskovec Lab
+Foundation Models for Biomedicine](https://snap.stanford.edu/apply/index-postdoc-2024.php)
+
 🇳🇱[Postdoc UMC Utrecht - bacterial defense systems in phage therapy, Stan Brouns Lab](https://www.brounslab.org/vacancies)
 
 🇺🇸[Van Andel研究所杨扬课题组博士后 - 神经退行性疾病的分子机理研究](https://mp.weixin.qq.com/s/rPwmBgjBugIWTTvIpjq2vw)
