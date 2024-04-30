@@ -2,7 +2,17 @@
 
 <details>
   <summary><b>Group leaders 🚀</b></summary>
-  
+
+🇺🇸[UCLA Assistant or Associate Professor at Doheny Eye Institute](https://www.nature.com/naturecareers/job/12817343/assistant-or-associate-professor-at-doheny-eye-institute/?TrackID=29551&BatchID=423&JobAlertId=38023&cmpid=JBE_TL_20240426_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240426_applynow_job3)
+
+🇬🇧[Columbia U Irving Medical Center Associate Professor / Professor](https://www.nature.com/naturecareers/job/12817263/associate-professor-professor-level-irving-professorships/?TrackID=29551&BatchID=422&JobAlertId=38023&cmpid=JBE_TL_20240425_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240425_applynow_job5)
+
+🇨🇳[中科院动物所 the Institute of Zoology, Chinese Academy of Sciences faculty jobs](https://www.nature.com/naturecareers/job/12814463/recruitment-of-global-talent-at-the-institute-of-zoology-chinese-academy-of-sciences-ioz-cas-/?TrackID=29551&BatchID=421&JobAlertId=38023&cmpid=JBE_TL_20240424_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240424_applynow_job3)
+
+🇺🇸[UVA Open Rank Faculty Position in aging and cancer](https://www.nature.com/naturecareers/job/12817247/open-rank-faculty-position-in-biochemistry-and-molecular-genetics/?TrackID=29551&BatchID=421&JobAlertId=38023&cmpid=JBE_TL_20240424_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240424_applynow_job2)
+
+🇨🇳[中科院广州GIBH PI position](https://www.nature.com/naturecareers/job/12817190/position-opening-for-principal-investigator-gibh/?TrackID=29551&BatchID=420&JobAlertId=38023&cmpid=JBE_TL_20240423_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240423_applynow_job1)
+
 🇺🇸[UConn Cancer Research](https://jobs.sciencecareers.org/job/657246/faculty-position-in-cancer-research/?TrackID=364650&BatchID=6038&JobAlertId=418793&cmpid=JBE_TL_20240420_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240420_applynow_job1)
 
 🇨🇳[浙大百人计划 ZJU 100 Young Professor](https://www.nature.com/naturecareers/job/12817034/zju-100-young-professor/?TrackID=29551&BatchID=417&JobAlertId=38023&cmpid=JBE_TL_20240420_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240420_applynow_job3)
@@ -303,6 +313,22 @@
 <details>
   <summary><b>Postdocs 🪐</b></summary>
 
+🇩🇰[Postdoc in molecular microbiology and bacteria-phage interactions, Københavns Universitet](https://jobportal.ku.dk/videnskabelige-stillinger/?show=161624)
+
+🇺🇸[Post-doc in scRNA-seg, multi-omics and Spatial Genomics, Stanford, Xiaojie Qiu'slaboratory](https://github.com/HaochenW/Bio-Jobs/assets/27127439/a6479c5e-d0bc-4f96-b342-32c90cb42d3f)
+
+🇬🇧[Postdoc at University of Edinburgh, ecoimmunology, part of a BBSRC-funded project](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10309/)
+
+🇬🇧[Postdoc at University of Warwick, [microbial ecology, synthetic communities, microbial physiology, spatial organisation, quantitative biology]](https://warwick-careers.tal.net/vx/candidate/apply/1279
+)
+
+🇺🇸[Postdoctoral Fellowships in the Leskovec Lab
+Foundation Models for Biomedicine](https://snap.stanford.edu/apply/index-postdoc-2024.php)
+
+🇳🇱[Postdoc UMC Utrecht - bacterial defense systems in phage therapy, Stan Brouns Lab](https://www.brounslab.org/vacancies)
+
+🇺🇸[Van Andel研究所杨扬课题组博士后 - 神经退行性疾病的分子机理研究](https://mp.weixin.qq.com/s/rPwmBgjBugIWTTvIpjq2vw)
+
 🇬🇧[Postdoctoral Fellow in Gideon Coster's lab at ICR](https://jobs.icr.ac.uk/vacancies/901/postdoctoral-training-fellow--genome-replication.html)
 
 🇭🇰[Postdoc, CityU of Hong Kong BME](https://www.xiaohongshu.com/discovery/item/6621ef3e000000001c00902a?app_platform=ios&app_version=8.29&share_from_user_hidden=true&type=normal&author_share=1&xhsshare=WeixinSession&shareRedId=N0c0NUk4Rko6TEZFSkoySTw5Szs1SkhA&apptime=1713528278)
@@ -442,6 +468,8 @@
 
 <details>
   <summary><b>Others ⭐️</b></summary>
+
+
 
 🇬🇧[Associate or Senior Editor, Nature Biomedical Engineering](https://careers.springernature.com/job/London-Associate-or-Senior-Editor%2C-Nature-Biomedical-Engineering/1023209601/)
 
