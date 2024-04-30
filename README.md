@@ -311,6 +311,13 @@
 <details>
   <summary><b>Postdocs 🪐</b></summary>
 
+🇺🇸[Post-doc Position in scRNA-seg, multi-omics and Spatial Genomics, Stanford, Xiaojie Qiu'slaboratory](https://github.com/HaochenW/Bio-Jobs/assets/27127439/a6479c5e-d0bc-4f96-b342-32c90cb42d3f)
+
+🇬🇧[postdoc at University of Edinburgh, ecoimmunology, part of a BBSRC-funded project](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10309/)
+
+🇬🇧[postdoc at University of Warwick, [microbial ecology, synthetic communities, microbial physiology, spatial organisation, quantitative biology]](https://warwick-careers.tal.net/vx/candidate/apply/1279
+)
+
 🇺🇸[Postdoctoral Fellowships in the Leskovec Lab
 Foundation Models for Biomedicine](https://snap.stanford.edu/apply/index-postdoc-2024.php)
 
