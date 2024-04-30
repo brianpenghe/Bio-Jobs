@@ -1,6 +1,43 @@
-# keep updating⏳- open positions in reverse chronological order by posting date
+## keep updating⏳- open positions in reverse chronological order by posting date
 
-## Group leaders 🚀
+<details>
+  <summary><b>Group leaders 🚀</b></summary>
+  
+🇺🇸[UConn Cancer Research](https://jobs.sciencecareers.org/job/657246/faculty-position-in-cancer-research/?TrackID=364650&BatchID=6038&JobAlertId=418793&cmpid=JBE_TL_20240420_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240420_applynow_job1)
+
+🇨🇳[浙大百人计划 ZJU 100 Young Professor](https://www.nature.com/naturecareers/job/12817034/zju-100-young-professor/?TrackID=29551&BatchID=417&JobAlertId=38023&cmpid=JBE_TL_20240420_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240420_applynow_job3)
+
+🇩🇪[Group Leaders in Neurosciences Universitätsmedizin Göttingen](https://www.nature.com/naturecareers/job/12817072/group-leaders-in-neurosciences-f-m-d-/?TrackID=29551&BatchID=416&JobAlertId=38023&cmpid=JBE_TL_20240419_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240419_jobtitle_job1)
+
+🇬🇧[Oxford Early Career Researcher – Cancer Science (4 posts)](https://www.linkedin.com/jobs/view/3884530983)
+
+🇺🇸[Alabama Genomic Medicine Faculty](https://jobs.sciencecareers.org/job/657101/genomic-medicine-faculty/?TrackID=364650&BatchID=6034&JobAlertId=418793&cmpid=JBE_TL_20240416_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240416_applynow_job1)
+
+🇬🇧[University of Cambridge Assistant/Associate Professor in Stem Cell Science](UAP_advert_April_24.pdf)
+
+🇺🇸[St Jude Faculty Position, Department of Cell and Molecular Biology](https://www.nature.com/naturecareers/job/12816702/faculty-position-department-of-cell-and-molecular-biology/?LinkSource=PremiumListing)
+
+🇺🇸[St Jude Faculty Position, Department of Pathology - Anatomic Pathology](https://www.nature.com/naturecareers/job/12816704/faculty-position-department-of-pathology-anatomic-pathology/?LinkSource=PremiumListing)
+
+🇺🇸[St Jude Faculty positions - Department of Chemical Biology and Therapeutics](https://www.nature.com/naturecareers/job/12816716/faculty-positions-department-of-chemical-biology-and-therapeutics/?LinkSource=PremiumListing)
+
+🇺🇸[St Jude Faculty Position, Department of Pediatric Medicine - Division of Anesthesiology](https://www.nature.com/naturecareers/job/12816724/faculty-position-department-of-pediatric-medicine-division-of-anesthesiology/?LinkSource=PremiumListing)
+
+🇺🇸[St Jude Faculty Position - Comprehensive Cancer Center](https://www.nature.com/naturecareers/job/12816725/faculty-position-comprehensive-cancer-center/?LinkSource=PremiumListing)
+
+🇺🇸[St Jude Faculty Positions - Department of Biostatistics](https://www.nature.com/naturecareers/job/12816726/faculty-positions-department-of-biostatistics/?LinkSource=PremiumListing)
+
+🇺🇸[St Jude Faculty positions - Department of Chemical Biology and Therapeutics](https://www.nature.com/naturecareers/job/12816727/faculty-positions-department-of-chemical-biology-and-therapeutics/?LinkSource=PremiumListing)
+
+🇺🇸[St Jude Department of Infectious Diseases - Transplant Faculty position](https://www.nature.com/naturecareers/job/12816728/faculty-position-department-of-infectious-diseases-transplant/?LinkSource=PremiumListing)
+
+🇺🇸[St Jude Pharmacy & Pharmaceutical Sciences Faculty position](https://www.nature.com/naturecareers/job/12816729/faculty-position-department-of-pharmacy-and-pharmaceutical-sciences/?LinkSource=PremiumListing)
+
+🇺🇸[UVA Public Health Genomics PI](https://www.nature.com/naturecareers/job/12816817/open-rank-faculty-center-for-public-health-genomics/?LinkSource=PremiumListing)
+
+🏴󠁧󠁢󠁳󠁣󠁴󠁿[IMBA 招PI](https://www.nature.com/naturecareers/job/12816581/junior-group-leader-position-at-imba-institute-of-molecular-biotechnology/?LinkSource=PremiumListing)
+
+🇬🇧[Imperial College London Lecturer or Senior Lecturer in Bacterial Vaccinology](https://www.nature.com/naturecareers/job/12816516/lecturer-or-senior-lecturer-in-bacterial-vaccinology/?TrackID=29551&BatchID=407&JobAlertId=38023&cmpid=JBE_TL_20240410_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240410_applynow_job5)
 
 🇭🇰[HKU Ecology and Diversity Open Rank professor](https://www.nature.com/naturecareers/job/12816470/assistant-professor-associate-professor-professor-in-ecology-and-biodiversity/?TrackID=29551&BatchID=406&JobAlertId=38023&cmpid=JBE_TL_20240409_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240409_applynow_job2)
 
@@ -189,8 +226,24 @@
 🇬🇧[University of Bristol Lecturer / Senior Lecturer (Associate Professor) in Computational Neuroscience and Machine Learning](https://www.jobs.ac.uk/job/DEB054/lecturer-senior-lecturer-associate-professor-in-computational-neuroscience-and-machine-learning)
 
 🇺🇸[University of Washington Assistant Professor](https://apply.interfolio.com/135108)
+</details>
 
-## Staff scientists 👩🏻‍🔬
+<details>
+  <summary><b>Staff scientists 👩🏻‍🔬</b></summary>
+
+🇬🇧[Higher Scientific Officer in Gideon Coster's lab at ICR](https://jobs.icr.ac.uk/vacancies/910/higher-scientific-officer.html)
+
+🇬🇧[Cambridge University Lab manager/technician](https://www.jobs.cam.ac.uk/job/46030/)
+
+🇨🇳[Senior/Principal Scientist - Muscle Research](https://careers.roche.com/cn/zh/job/202404-107962/-Senior-Principal-Scientist-Muscle-Research)
+
+🇬🇧[Bioconjugation Senior Scientist, Tumour Targeted Delivery, Oncology R&D, AstraZeneca](https://careers.astrazeneca.com/job/london/bioconjugation-senior-scientist-tumour-targeted-delivery-oncology-r-and-d/7684/63479213968)
+
+🇬🇧[Sanger Institute Team Admin](https://sanger.wd3.myworkdayjobs.com/en-US/WellcomeSangerInstitute/job/Hinxton-Cambridgeshire/Team-Administrator--Cellular-Genetics-_JR101836) 
+
+🇺🇸[Boston Children's Hospital  Senior Bioinformatics Scientist](https://www.linkedin.com/feed/update/urn:li:activity:7184177615723757570/)
+
+🇺🇸[U Chicago Team Scientist - Center for Translational Data Science](https://jobs.sciencecareers.org/job/656953/team-scientist-center-for-translational-data-science/?TrackID=364650&BatchID=6028&JobAlertId=418793&cmpid=JBE_TL_20240410_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240410_applynow_job1)
 
 🇬🇧[Illumina Data Scientist (Intern or Graduate) England - Cambridge](https://illumina.wd1.myworkdayjobs.com/illumina-earlycareers-europe/job/England---Cambridge/Data-Scientist--Intern-or-Graduate-_37814-JOB) 
 
@@ -245,8 +298,22 @@
 🇩🇰[Staff Scientist (AC-TAP) in Database Development at Department of Drug Design and Pharmacology Faculty of Health and Medical Sciences](https://employment.ku.dk/staff/?show=160402)
 
 🇬🇧[4 Scientists at Ensocell](https://ensocell.bamboohr.com/careers/)
+</details>
 
-## Postdocs 🪐
+<details>
+  <summary><b>Postdocs 🪐</b></summary>
+
+🇬🇧[Postdoctoral Fellow in Gideon Coster's lab at ICR](https://jobs.icr.ac.uk/vacancies/901/postdoctoral-training-fellow--genome-replication.html)
+
+🇭🇰[Postdoc, CityU of Hong Kong BME](https://www.xiaohongshu.com/discovery/item/6621ef3e000000001c00902a?app_platform=ios&app_version=8.29&share_from_user_hidden=true&type=normal&author_share=1&xhsshare=WeixinSession&shareRedId=N0c0NUk4Rko6TEZFSkoySTw5Szs1SkhA&apptime=1713528278)
+
+🇩🇰[Postdoc in protein design for genome engineering at the Center for Protein Research (CPR)](https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=1307&departmentId=19221&ProjectId=161660&MediaId=5&SkipAdvertisement=false)
+
+🇺🇸[Andrea Giometto at Cornell, postdoc to look at cell size regulation and cell size scaling in S. cerevisiae, collaboration with Marco Fumasoni at Gulbenkian](Postdoc_Position_in_Physics_of_Evolving_Living_Matter.pdf)
+
+🇫🇷[bioinformatics postdoc and iPSC/organoid postdoc in Paris](Postdoc_Positions_Chedotal_lab.pdf)
+
+🇺🇸[postdoctoral fellow position Mass General Hospital/Harvard Medical School to study the mechanisms of pathogenic alloimmunity driving Graft-versus-Host Disease and graft rejection](https://www.linkedin.com/feed/update/urn:li:activity:7176250520150380544/)
 
 🇬🇧[Nodal and Fgf/Erk signalling postdoc at Crick institute](https://crick.wd3.myworkdayjobs.com/External/job/London/Postdoctoral-Fellow--Hill-lab_R1365-1)
 
@@ -371,8 +438,20 @@
 🇺🇸[Genentech Computational Postdoc](https://careers.gene.com/us/en/job/202311-124317/Postdoctoral-Fellow-Computational-Biology-Li-Moussion-Lab)
 
 🇬🇧[Postdoctoral Training Fellow in Computational Single-Cell Biology (Dr Stephen-John Sammut)](https://jobs.icr.ac.uk/vacancies/768/postdoctoral-training-fellow-in-computational-single-cell-biology-dr-stephen-john-sammut.html)
+</details>
 
-## Others ⭐️
+<details>
+  <summary><b>Others ⭐️</b></summary>
+
+🇬🇧[Associate or Senior Editor, Nature Biomedical Engineering](https://careers.springernature.com/job/London-Associate-or-Senior-Editor%2C-Nature-Biomedical-Engineering/1023209601/)
+
+🇭🇰[PhD/RA, CityU of Hong Kong BME](https://www.xiaohongshu.com/discovery/item/6621ef3e000000001c00902a?app_platform=ios&app_version=8.29&share_from_user_hidden=true&type=normal&author_share=1&xhsshare=WeixinSession&shareRedId=N0c0NUk4Rko6TEZFSkoySTw5Szs1SkhA&apptime=1713528278)
+
+🇺🇸[Harvard MGH full time RA](MGH_full_time_RA.md)
+
+🏴󠁧󠁢󠁳󠁣󠁴󠁿[Finland PhD about immunity](http://xhslink.com/0coaBG)
+
+🇬🇧[Edinburgh PhD in Immune regulation of lung repair, and long-term consequences of infection](https://www.findaphd.com/phds/project/immune-regulation-of-lung-repair-and-long-term-consequences-of-infection/?p170897)
 
 🇩🇪[Bayer foundation fellowships](https://www.bayer-foundation.com/fellowships-stipends-apply-now-our-fellowships-program-2024)
 
@@ -417,3 +496,4 @@
 🇬🇧[Master, St Edmund’s College, University of Cambridge](https://www.odgersberndtson.com/opportunities#AssignDetail.aspx?guid=89919)
 
 🇺🇸[Deputy Editor/Team Manager, Nature Medicine](https://careers.springernature.com/job/New-York-Deputy-EditorTeam-Manager,-Nature-Medicine/1003346501/)
+</details>
