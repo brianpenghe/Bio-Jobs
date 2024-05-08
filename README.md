@@ -2,6 +2,7 @@
 
 <details>
   <summary><b>Group leaders 🚀</b></summary>
+
 🇺🇸 [Stanford: Vascular Neurosurgeon at the rank of Assistant, Associate or Full Professor](https://jobs.sciencecareers.org/job/657591/vascular-neurosurgeon-at-the-rank-of-assistant-associate-or-full-professor-/?TrackID=364650&BatchID=6056&JobAlertId=418793&cmpid=JBE_TL_20240508_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240508_applynow_job1)
 
 🇬🇧 [Early Stage Researcher University of Birmingham - School of Biomedical Sciences, College of Medical and Dental Sciences](https://www.jobs.ac.uk/job/DHF514/early-stage-researcher?uuid=88bb48e6-feb8-11ee-84bd-027e9b1da9c1&campaign=jbe20240420&source=jbe)
