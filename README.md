@@ -3,19 +3,23 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
-🇺🇸 [Stanford: Vascular Neurosurgeon at the rank of Assistant, Associate or Full Professor](https://jobs.sciencecareers.org/job/657591/vascular-neurosurgeon-at-the-rank-of-assistant-associate-or-full-professor-/?TrackID=364650&BatchID=6056&JobAlertId=418793&cmpid=JBE_TL_20240508_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240508_applynow_job1)
+🇶🇦[Weill Cornell Medicine - Qatar Assistant Professor Faculty Position in Cell Biology](https://www.nature.com/naturecareers/job/12817915/assistant-professor-faculty-position-in-cell-biology/?TrackID=29551&BatchID=438&JobAlertId=38023&cmpid=JBE_TL_20240511_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240511_jobtitle_job3)
+  
+🇺🇸[Maryland Assistant professor in Plant Science and Landscape Architecture](https://jobs.sciencecareers.org/job/657628/assistant-professor/?TrackID=364650&BatchID=6057&JobAlertId=418793&cmpid=JBE_TL_20240509_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240509_applynow_job1)
 
-🇬🇧 [Early Stage Researcher University of Birmingham - School of Biomedical Sciences, College of Medical and Dental Sciences](https://www.jobs.ac.uk/job/DHF514/early-stage-researcher?uuid=88bb48e6-feb8-11ee-84bd-027e9b1da9c1&campaign=jbe20240420&source=jbe)
+🇺🇸[Stanford: Vascular Neurosurgeon at the rank of Assistant, Associate or Full Professor](https://jobs.sciencecareers.org/job/657591/vascular-neurosurgeon-at-the-rank-of-assistant-associate-or-full-professor-/?TrackID=364650&BatchID=6056&JobAlertId=418793&cmpid=JBE_TL_20240508_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240508_applynow_job1)
 
-🇺🇸 [Assistant/Associate Professor, New York University Grossman School of Medicine](https://www.nature.com/naturecareers/job/12817728/assistant-associate-professor-new-york-university-grossman-school-of-medicine/?TrackID=29551&BatchID=434&JobAlertId=38023&cmpid=JBE_TL_20240507_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240507_jobtitle_job1)
+🇬🇧[Early Stage Researcher University of Birmingham - School of Biomedical Sciences, College of Medical and Dental Sciences](https://www.jobs.ac.uk/job/DHF514/early-stage-researcher?uuid=88bb48e6-feb8-11ee-84bd-027e9b1da9c1&campaign=jbe20240420&source=jbe)
 
-🇺🇸 [U Chicago Instructional Professor (Open Rank) in Biochemistry](https://jobs.sciencecareers.org/job/657576/instructional-professor-open-rank-in-biochemistry-/?TrackID=364650&BatchID=6055&JobAlertId=418793&cmpid=JBE_TL_20240507_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240507_jobtitle_job1)
+🇺🇸[Assistant/Associate Professor, New York University Grossman School of Medicine](https://www.nature.com/naturecareers/job/12817728/assistant-associate-professor-new-york-university-grossman-school-of-medicine/?TrackID=29551&BatchID=434&JobAlertId=38023&cmpid=JBE_TL_20240507_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240507_jobtitle_job1)
 
-🇺🇸 [Rutgers Faculty Positions (All Ranks) -Tuberculosis, HIV, & Data Science Research](https://www.nature.com/naturecareers/job/12817480/faculty-positions-all-ranks-tuberculosis-hiv-and-data-science-research/?TrackID=29551&BatchID=428&JobAlertId=38023&cmpid=JBE_TL_20240501_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240501_applynow_job2)
+🇺🇸[U Chicago Instructional Professor (Open Rank) in Biochemistry](https://jobs.sciencecareers.org/job/657576/instructional-professor-open-rank-in-biochemistry-/?TrackID=364650&BatchID=6055&JobAlertId=418793&cmpid=JBE_TL_20240507_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240507_jobtitle_job1)
 
-🇺🇸 [Rutgers Faculty Positions (All Ranks) - Data Science Research](https://www.nature.com/naturecareers/job/12817481/faculty-positions-all-ranks-data-science-research/?TrackID=29551&BatchID=428&JobAlertId=38023&cmpid=JBE_TL_20240501_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240501_applynow_job1)
+🇺🇸[Rutgers Faculty Positions (All Ranks) -Tuberculosis, HIV, & Data Science Research](https://www.nature.com/naturecareers/job/12817480/faculty-positions-all-ranks-tuberculosis-hiv-and-data-science-research/?TrackID=29551&BatchID=428&JobAlertId=38023&cmpid=JBE_TL_20240501_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240501_applynow_job2)
 
-🇺🇸 [Rutgers Medical School tenure-track faculty all ranks in immunology, infectious disease and inflammation](https://jobs.sciencecareers.org/job/657423/tenure-track-faculty-all-ranks/?TrackID=364650&BatchID=6048&JobAlertId=418793&cmpid=JBE_TL_20240430_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240430_applynow_job1)
+🇺🇸[Rutgers Faculty Positions (All Ranks) - Data Science Research](https://www.nature.com/naturecareers/job/12817481/faculty-positions-all-ranks-data-science-research/?TrackID=29551&BatchID=428&JobAlertId=38023&cmpid=JBE_TL_20240501_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240501_applynow_job1)
+
+🇺🇸[Rutgers Medical School tenure-track faculty all ranks in immunology, infectious disease and inflammation](https://jobs.sciencecareers.org/job/657423/tenure-track-faculty-all-ranks/?TrackID=364650&BatchID=6048&JobAlertId=418793&cmpid=JBE_TL_20240430_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240430_applynow_job1)
 
 🇺🇸[Rutgers Medical School tenure-track faculty all ranks in immunology, infectious disease and inflammation](https://www.nature.com/naturecareers/job/12817343/assistant-or-associate-professor-at-doheny-eye-institute/?TrackID=29551&BatchID=423&JobAlertId=38023&cmpid=JBE_TL_20240426_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240426_applynow_job3)
 
@@ -329,7 +333,17 @@
 <details>
   <summary><b>Postdocs 🪐</b></summary>
 
-🇬🇧 [Cambridge U King's College Non-Stipendiary Research Fellowship in Biological and Medical Sciences](https://www.kings.cam.ac.uk/about/work-at-kings/non-stipendiary-research-fellowship-biological-and-medical-sciences)
+🇺🇸[Rowland Fellowship at Harvard for early-career experimentalists](https://www.nature.com/naturecareers/job/12817874/rowland-fellowship/?TrackID=29551&BatchID=441&JobAlertId=38023&cmpid=JBE_TL_20240514_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240514_applynow_job1)
+
+🇺🇸[Lage Lab at the Broad Institute is looking to hire a computational postdoc](https://www.lagelab.org/contact/)
+
+🇺🇸[postdoc @ CMU gene regulatory mechanisms underlying vertebrate phenotype evolution](https://apply.interfolio.com/142023)
+
+🇺🇸[Broad & MGH postdoctoral fellow position in human genetics](https://www.linkedin.com/feed/update/urn:li:activity:7195884011402022913/)
+
+🇪🇺[Marie Sklodowska-Curie Postdoctoral Fellowship](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-msca-2024-pf-01-01?order=DESC&pageNumber=1&pageSize=50&sortBy=startDate&isExactMatch=true&status=31094501,31094502&programmePart=43108473&frameworkProgramme=43108390)
+
+🇬🇧[Cambridge U King's College Non-Stipendiary Research Fellowship in Biological and Medical Sciences](https://www.kings.cam.ac.uk/about/work-at-kings/non-stipendiary-research-fellowship-biological-and-medical-sciences)
   
 🇩🇰[Postdoc in molecular microbiology and bacteria-phage interactions, Københavns Universitet](https://jobportal.ku.dk/videnskabelige-stillinger/?show=161624)
 
