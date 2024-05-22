@@ -3,6 +3,14 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇪🇸[AstraZeneca Data Science Learning Associate Director](https://www.linkedin.com/jobs/view/3921391439/)
+
+🇹🇼[中研院植物暨微生物所 TENURE-TRACK FACULTY POSITIONS at ACADEMIA SINICA in Institute of Plant and Microbial Biology](https://www.nature.com/naturecareers/job/12818088/tenure-track-faculty-positions-at-academia-sinica/?TrackID=29551&BatchID=443&JobAlertId=38023&cmpid=JBE_TL_20240516_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240516_jobtitle_job5)
+
+🇬🇧[Cambridge LMB Research Group Leader Tenure Track - Structural Studies](https://www.nature.com/naturecareers/job/12818114/research-group-leader-tenure-track-structural-studies-lmb-2411)
+
+🇬🇧[EMBL research group leader](https://www.nature.com/naturecareers/job/12818229/research-group-leader/?TrackID=29551&BatchID=446&JobAlertId=38023&cmpid=JBE_TL_20240519_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240519_applynow_job1)
+
 🇶🇦[Weill Cornell Medicine - Qatar Assistant Professor Faculty Position in Cell Biology](https://www.nature.com/naturecareers/job/12817915/assistant-professor-faculty-position-in-cell-biology/?TrackID=29551&BatchID=438&JobAlertId=38023&cmpid=JBE_TL_20240511_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240511_jobtitle_job3)
   
 🇺🇸[Maryland Assistant professor in Plant Science and Landscape Architecture](https://jobs.sciencecareers.org/job/657628/assistant-professor/?TrackID=364650&BatchID=6057&JobAlertId=418793&cmpid=JBE_TL_20240509_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240509_applynow_job1)
@@ -256,14 +264,6 @@
 🇬🇧[University of Bristol Lecturer / Senior Lecturer (Associate Professor) in Computational Neuroscience and Machine Learning](https://www.jobs.ac.uk/job/DEB054/lecturer-senior-lecturer-associate-professor-in-computational-neuroscience-and-machine-learning)
 
 🇺🇸[University of Washington Assistant Professor](https://apply.interfolio.com/135108)
-
-🇪🇸[AstraZeneca Data Science Learning Associate Director](https://www.linkedin.com/jobs/view/3921391439/)
-
-🇹🇼[中研院植物暨微生物所 TENURE-TRACK FACULTY POSITIONS at ACADEMIA SINICA in Institute of Plant and Microbial Biology](https://www.nature.com/naturecareers/job/12818088/tenure-track-faculty-positions-at-academia-sinica/?TrackID=29551&BatchID=443&JobAlertId=38023&cmpid=JBE_TL_20240516_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240516_jobtitle_job5)
-
-🇬🇧[Cambridge LMB Research Group Leader Tenure Track - Structural Studies](https://www.nature.com/naturecareers/job/12818114/research-group-leader-tenure-track-structural-studies-lmb-2411)
-
-🇬🇧[EMBL research group leader](https://www.nature.com/naturecareers/job/12818229/research-group-leader/?TrackID=29551&BatchID=446&JobAlertId=38023&cmpid=JBE_TL_20240519_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240519_applynow_job1)
 </details>
 
 <details>
@@ -509,6 +509,7 @@ Foundation Models for Biomedicine](https://snap.stanford.edu/apply/index-postdoc
 <details>
   <summary><b>Others ⭐️</b></summary>
 
+🇪🇸[Visiting Scientist - Computational](https://jobs.bms.com/careers?location=Spain&pid=137461087564&domain=bms.com&sort_by=relevance&triggerGoButton=true)
 
 🇬🇧[Associate or Senior Editor, Nature Biomedical Engineering](https://careers.springernature.com/job/London-Associate-or-Senior-Editor%2C-Nature-Biomedical-Engineering/1023209601/)
 
@@ -563,6 +564,4 @@ Foundation Models for Biomedicine](https://snap.stanford.edu/apply/index-postdoc
 🇬🇧[Master, St Edmund’s College, University of Cambridge](https://www.odgersberndtson.com/opportunities#AssignDetail.aspx?guid=89919)
 
 🇺🇸[Deputy Editor/Team Manager, Nature Medicine](https://careers.springernature.com/job/New-York-Deputy-EditorTeam-Manager,-Nature-Medicine/1003346501/)
-
-🇪🇸[Visiting Scientist - Computational](https://jobs.bms.com/careers?location=Spain&pid=137461087564&domain=bms.com&sort_by=relevance&triggerGoButton=true)
 </details>
