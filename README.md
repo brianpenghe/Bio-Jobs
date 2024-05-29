@@ -3,6 +3,16 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇺🇸[UCSF Assistant/Associate/Full Professor in Stem Cell Editing and Cell Engineering](https://jobs.sciencecareers.org/job/658057/assistant-associate-full-professor-in-stem-cell-editing-and-cell-engineering/?TrackID=364650&BatchID=6073&JobAlertId=418793&cmpid=JBE_TL_20240525_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240525_applynow_job2)
+
+🇩🇪[Universität Bielefeld W3 professorship for Synthetic Microbial Communities and Interactions](https://www.nature.com/naturecareers/job/12818438/w3-professorship-for-synthetic-microbial-communities-and-interactions/?TrackID=29551&BatchID=451&JobAlertId=38023&cmpid=JBE_TL_20240524_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240524_applynow_job2)
+
+🇺🇸[Albert Einstein College of Medicine Assistant Professor](https://www.nature.com/naturecareers/job/12818446/assistant-professor/?TrackID=29551&BatchID=451&JobAlertId=38023&cmpid=JBE_TL_20240524_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240524_applynow_job1)
+
+🇨🇦[University of Calgary - Tier 1 CRC in Systems Immunology](https://jobs.sciencecareers.org/job/657910/tier-1-crc-in-systems-immunology/?TrackID=364650&BatchID=6069&JobAlertId=418793&cmpid=JBE_TL_20240521_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240521_applynow_job2)
+
+🇺🇸[University of Tennessee Health Science Center-Physiology Associate Professor in Physiology Tenure-Track](https://jobs.sciencecareers.org/job/657958/associate-professor-in-physiology-tenure-track-/?TrackID=364650&BatchID=6069&JobAlertId=418793&cmpid=JBE_TL_20240521_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240521_applynow_job1)
+
 🇪🇸[AstraZeneca Data Science Learning Associate Director](https://www.linkedin.com/jobs/view/3921391439/)
 
 🇹🇼[中研院植物暨微生物所 TENURE-TRACK FACULTY POSITIONS at ACADEMIA SINICA in Institute of Plant and Microbial Biology](https://www.nature.com/naturecareers/job/12818088/tenure-track-faculty-positions-at-academia-sinica/?TrackID=29551&BatchID=443&JobAlertId=38023&cmpid=JBE_TL_20240516_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240516_jobtitle_job5)
@@ -269,6 +279,12 @@
 <details>
   <summary><b>Staff scientists 👩🏻‍🔬</b></summary>
 
+🇬🇧/🇺🇸[GSK Single Cell Analyst](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK---Hertfordshire---Stevenage/Single-Cell-Analyst_396250-1)
+
+🇬🇧/🇺🇸[GSK Bioimage Analyst](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK---Hertfordshire---Stevenage/Bioimage-Analyst_396249-1)
+
+🇬🇧/🇺🇸[GSK Spatial Transcriptomics Analyst](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK---Hertfordshire---Stevenage/Spatial-Transcriptomics-Analyst_396251)
+
 🇬🇧[Higher Scientific Officer in Gideon Coster's lab at ICR](https://jobs.icr.ac.uk/vacancies/910/higher-scientific-officer.html)
 
 🇬🇧[Cambridge University Lab manager/technician](https://www.jobs.cam.ac.uk/job/46030/)
@@ -508,6 +524,14 @@ Foundation Models for Biomedicine](https://snap.stanford.edu/apply/index-postdoc
 
 <details>
   <summary><b>Others ⭐️</b></summary>
+
+🇮🇹[SEMM PhD In Systems Medicine](https://www.semm.it/education/application)
+
+🇬🇧/🇺🇸[Astrazeneca Executive Director, Data Science for Early Oncology](https://careers.astrazeneca.com/job/cambridge/executive-director-data-science-for-early-oncology/7684/65549710272)
+
+🇱🇺[Technology Transfer Officer at Luxembourg Centre for Systems Biomedicine](https://www.nature.com/naturecareers/job/12818465/technology-transfer-officer/?TrackID=29551&BatchID=452&JobAlertId=38023&cmpid=JBE_TL_20240525_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240525_applynow_job3)
+
+🇸🇬[Singapore International Graduate Award](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa/a-star-supervisors-projects)
 
 🇪🇸[Visiting Scientist - Computational](https://jobs.bms.com/careers?location=Spain&pid=137461087564&domain=bms.com&sort_by=relevance&triggerGoButton=true)
 
