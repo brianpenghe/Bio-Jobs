@@ -3,6 +3,16 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇺🇸[University of New Mexico FIRST program: Assistant Professor, Neuro/Data Scientist](https://jobs.sciencecareers.org/job/658581/assistant-professor-neuro-data-scientist-tenure-track/?TrackID=364650&BatchID=6084&JobAlertId=418793&cmpid=JBE_TL_20240605_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240605_applynow_job1)
+
+🇺🇸[Colorado Aurora Research Faculty – Assistant Professor to Associate Professor Level](https://www.nature.com/naturecareers/job/12818733/research-faculty-assistant-professor-to-associate-professor-level/?TrackID=29551&BatchID=459&JobAlertId=38023&cmpid=JBE_TL_20240601_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240601_applynow_job3)
+
+🇺🇸[University of Rochester Assistant Professor of Microbiology & Immunology](https://jobs.sciencecareers.org/job/658499/assistant-professor-of-microbiology-and-immunology/?TrackID=364650&BatchID=6080&JobAlertId=418793&cmpid=JBE_TL_20240601_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240601_applynow_job1)
+
+🇫🇷[Group Leader in Immunology at INSERM DR IdF PARIS CENTRE](https://www.nature.com/naturecareers/job/12818557/group-leader-in-immunology-/?TrackID=29551&BatchID=456&JobAlertId=38023&cmpid=JBE_TL_20240529_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240529_applynow_job3)
+
+🇺🇸[Mayo Clinic Faculty Position in Molecular Pharmacology & Therapeutic Dev](https://jobs.sciencecareers.org/job/658145/faculty-position-in-molecular-pharmacology-and-therapeutic-dev/?TrackID=364650&BatchID=6078&JobAlertId=418793&cmpid=JBE_TL_20240530_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240530_applynow_job1)
+
 🇺🇸[UCSF Assistant/Associate/Full Professor in Stem Cell Editing and Cell Engineering](https://jobs.sciencecareers.org/job/658057/assistant-associate-full-professor-in-stem-cell-editing-and-cell-engineering/?TrackID=364650&BatchID=6073&JobAlertId=418793&cmpid=JBE_TL_20240525_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240525_applynow_job2)
 
 🇩🇪[Universität Bielefeld W3 professorship for Synthetic Microbial Communities and Interactions](https://www.nature.com/naturecareers/job/12818438/w3-professorship-for-synthetic-microbial-communities-and-interactions/?TrackID=29551&BatchID=451&JobAlertId=38023&cmpid=JBE_TL_20240524_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240524_applynow_job2)
@@ -279,6 +289,12 @@
 <details>
   <summary><b>Staff scientists 👩🏻‍🔬</b></summary>
 
+🇨🇭[Data Scientist | 百济神州 | 从文献、新闻、patent里挖药物靶点](https://app.mokahr.com/recommendation-recruitment/beigene/98936?recommendCode=NTA1Myk&single=true#/job/bece1a2d-7c69-4d1f-93cd-4e5b78c0819b)
+
+🇫🇷[INSERM - U1312 BRIC Call for applications- junior and senior scientists](https://www.nature.com/naturecareers/job/12818576/call-for-applications-junior-and-senior-scientists/?TrackID=29551&BatchID=456&JobAlertId=38023&cmpid=JBE_TL_20240529_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240529_applynow_job1)
+
+🇩🇪[Max Planck Institute for Biology of Ageing (MPIAGE) Bioinformatician (m/f/div)](https://www.nature.com/naturecareers/job/12818607/bioinformatician-m-f-div-/?TrackID=29551&BatchID=457&JobAlertId=38023&cmpid=JBE_TL_20240530_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240530_applynow_job2)
+
 🇬🇧/🇺🇸[GSK Single Cell Analyst](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK---Hertfordshire---Stevenage/Single-Cell-Analyst_396250-1)
 
 🇬🇧/🇺🇸[GSK Bioimage Analyst](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK---Hertfordshire---Stevenage/Bioimage-Analyst_396249-1)
@@ -356,6 +372,10 @@
 
 <details>
   <summary><b>Postdocs 🪐</b></summary>
+
+🇩🇰[诺和诺德博后 oin our team in Copenhagen @ Novo Nordisk Foundation Center for Basic Metabolic Research!](https://jobportal.ku.dk/videnskabelige-stillinger/?show=161841)
+
+🇨🇭[香港理工大学章伟雄教授实验室招聘 | 基因组学、计算生物学、分子生物学 | 研究助理教授(RAP)、博士后](https://mp.weixin.qq.com/s/h601I2nzYhL4MS_-8Lm9Hg)
 
 🇺🇸[Rowland Fellowship at Harvard for early-career experimentalists](https://www.nature.com/naturecareers/job/12817874/rowland-fellowship/?TrackID=29551&BatchID=441&JobAlertId=38023&cmpid=JBE_TL_20240514_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240514_applynow_job1)
 
