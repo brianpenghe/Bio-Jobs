@@ -375,7 +375,7 @@
 
 🇩🇰[诺和诺德博后 Join our team in Copenhagen @ Novo Nordisk Foundation Center for Basic Metabolic Research!](https://jobportal.ku.dk/videnskabelige-stillinger/?show=161841)
 
-🇨🇳[香港理工大学章伟雄教授实验室招聘 | 基因组学、计算生物学、分子生物学 | 研究助理教授(RAP)、博士后](https://mp.weixin.qq.com/s/h601I2nzYhL4MS_-8Lm9Hg)
+🇭🇰[香港理工大学章伟雄教授实验室招聘 | 基因组学、计算生物学、分子生物学 | 研究助理教授(RAP)、博士后](https://mp.weixin.qq.com/s/h601I2nzYhL4MS_-8Lm9Hg)
 
 🇺🇸[Rowland Fellowship at Harvard for early-career experimentalists](https://www.nature.com/naturecareers/job/12817874/rowland-fellowship/?TrackID=29551&BatchID=441&JobAlertId=38023&cmpid=JBE_TL_20240514_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240514_applynow_job1)
 
