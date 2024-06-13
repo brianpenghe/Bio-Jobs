@@ -395,7 +395,7 @@
 
 🇺🇸[北美强生 博后 postdoctoral scientist to join the Data Science & Digital Health team at J&J Innovative Medicine](https://lnkd.in/e9_TSGdh)
 
-🇨🇭[南方医科大学喻志强教授课题组年薪50万起招聘博后, 癌症诊断与治疗](https://m.x-mol.com/groups/yu-zhiqiang/positions/14091)
+🇨🇭[南方医科大学喻志强教授课题组博后, 癌症诊断与治疗](https://m.x-mol.com/groups/yu-zhiqiang/positions/14091)
 
 🇺🇸[Postdoctoral Researcher position, The Shang Lab within the Department of Biostatistics and Yuan Lab @Yinyin Yuan within the Department of Translational Molecular Pathology at The University of Texas MD Anderson Cancer Center](https://lnkd.in/exD6nHX3)
   
