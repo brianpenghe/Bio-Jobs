@@ -3,6 +3,18 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇬🇧[Reader/Professor of Engineering Biology University of Glasgow - James Watt School of Engineering](https://www.jobs.ac.uk/job/DHW700/reader-professor-of-engineering-biology)
+
+🇺🇸[Faculty Position at Baylor:The Center for Skeletal Biology and Medicine](https://jobs.sciencecareers.org/job/658744/faculty-position/?TrackID=364650&BatchID=6091&JobAlertId=418793&cmpid=JBE_TL_20240612_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240612_applynow_job2)
+
+🇺🇸[UVA Open Rank Faculty, Center for Public Health Genomics](https://jobs.sciencecareers.org/job/658679/open-rank-faculty-center-for-public-health-genomics/?TrackID=364650&BatchID=6087&JobAlertId=418793&cmpid=JBE_TL_20240608_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240608_applynow_job1)
+
+🇺🇸[Case Western Reserve University TENURE TRACK/TENURED FACULTY POSITION IN CANCER RESEARCH](https://jobs.sciencecareers.org/job/657996/tenure-track-tenured-faculty-position-in-cancer-research/?TrackID=364650&BatchID=6086&JobAlertId=418793&cmpid=JBE_TL_20240607_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240607_applynow_job1)
+
+🇬🇧[EMBL-EBI Genome Analysis Team Leader](https://www.nature.com/naturecareers/job/12818839/genome-analysis-team-leader/?TrackID=29551&BatchID=464&JobAlertId=38023&cmpid=JBE_TL_20240606_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240606_applynow_job5)
+
+🇬🇧[EMBL's European Bioinformatics Institute (EMBL-EBI), Research Group Leader, Bioinformatics/Computational Biology](https://www.embl.org/jobs/position/EBI02247)
+
 🇺🇸[University of New Mexico FIRST program: Assistant Professor, Neuro/Data Scientist](https://jobs.sciencecareers.org/job/658581/assistant-professor-neuro-data-scientist-tenure-track/?TrackID=364650&BatchID=6084&JobAlertId=418793&cmpid=JBE_TL_20240605_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240605_applynow_job1)
 
 🇺🇸[Colorado Aurora Research Faculty – Assistant Professor to Associate Professor Level](https://www.nature.com/naturecareers/job/12818733/research-faculty-assistant-professor-to-associate-professor-level/?TrackID=29551&BatchID=459&JobAlertId=38023&cmpid=JBE_TL_20240601_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240601_applynow_job3)
@@ -289,6 +301,12 @@
 <details>
   <summary><b>Staff scientists 👩🏻‍🔬</b></summary>
 
+🇬🇧[Lecturer in Metabolic Biochemistry, University of Reading](https://www.jobs.ac.uk/job/DIC416/lecturer-in-metabolic-biochemistry)
+
+🇬🇧[Departmental Lecturer in Engineering Biology (Control Engineering), University of Oxford - Department of Engineering Science](https://www.jobs.ac.uk/job/DIC940/departmental-lecturer-in-engineering-biology-control-engineering)
+
+🇺🇸[UCLA Academic Administrator III Associate Director of Computational Biology and Neuroscience Programs](https://jobs.sciencecareers.org/job/658614/academic-administrator-iii-associate-director-of-computational-biology-and-neuroscience-programs/?TrackID=364650&BatchID=6085&JobAlertId=418793&cmpid=JBE_TL_20240606_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240606_applynow_job1)
+
 🇨🇳[Data Scientist | 百济神州 | 从文献、新闻、patent里挖药物靶点](https://app.mokahr.com/recommendation-recruitment/beigene/98936?recommendCode=NTA1Myk&single=true#/job/bece1a2d-7c69-4d1f-93cd-4e5b78c0819b)
 
 🇫🇷[INSERM - U1312 BRIC Call for applications- junior and senior scientists](https://www.nature.com/naturecareers/job/12818576/call-for-applications-junior-and-senior-scientists/?TrackID=29551&BatchID=456&JobAlertId=38023&cmpid=JBE_TL_20240529_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240529_applynow_job1)
@@ -372,6 +390,18 @@
 
 <details>
   <summary><b>Postdocs 🪐</b></summary>
+
+🇨🇭[浙江大学医学院附属第一医院特聘（副）研究员及学科博士后](https://mp.weixin.qq.com/s/rjx11k0NyJc1xFoGx20-0w)
+
+🇺🇸[北美强生 博后 postdoctoral scientist to join the Data Science & Digital Health team at J&J Innovative Medicine](https://lnkd.in/e9_TSGdh)
+
+🇨🇭[南方医科大学喻志强教授课题组年薪50万起招聘博后, 癌症诊断与治疗](https://m.x-mol.com/groups/yu-zhiqiang/positions/14091)
+
+🇺🇸[Postdoctoral Researcher position, The Shang Lab within the Department of Biostatistics and Yuan Lab @Yinyin Yuan within the Department of Translational Molecular Pathology at The University of Texas MD Anderson Cancer Center](https://lnkd.in/exD6nHX3)
+  
+🇬🇧[Cambridge Postdoc in Senescence, Immune System and Ageing](https://www.jobs.cam.ac.uk/job/46805/)
+
+🇺🇸[Postdoctoral Associate position in thelaboratory of Dr. Shaoning Jiang, Department of Pathology at Yale University](https://github.com/HaochenW/Bio-Jobs/assets/27127439/03755938-a8d3-48a0-a11f-c7c9be123e59)
 
 🇩🇰[诺和诺德博后 Join our team in Copenhagen @ Novo Nordisk Foundation Center for Basic Metabolic Research!](https://jobportal.ku.dk/videnskabelige-stillinger/?show=161841)
 
