@@ -401,7 +401,7 @@
   
 🇬🇧[Cambridge Postdoc in Senescence, Immune System and Ageing](https://www.jobs.cam.ac.uk/job/46805/)
 
-🇺🇸[Postdoctoral Associate position in thelaboratory of Dr. Shaoning Jiang, Department of Pathology at Yale University](https://github.com/HaochenW/Bio-Jobs/assets/27127439/03755938-a8d3-48a0-a11f-c7c9be123e59)
+🇺🇸[Postdoctoral Associate position in the laboratory of Dr. Shaoning Jiang, Department of Pathology at Yale University](https://github.com/HaochenW/Bio-Jobs/assets/27127439/03755938-a8d3-48a0-a11f-c7c9be123e59)
 
 🇩🇰[诺和诺德博后 Join our team in Copenhagen @ Novo Nordisk Foundation Center for Basic Metabolic Research!](https://jobportal.ku.dk/videnskabelige-stillinger/?show=161841)
 
