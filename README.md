@@ -2,6 +2,12 @@
 
 <details>
   <summary><b>Group leaders 🚀</b></summary>
+  
+🇺🇸[Baylor College of Medicine DEPARTMENT OF MOLECULAR AND HUMAN GENETICS FACULTY POSITIONS](https://jobs.sciencecareers.org/job/658498/department-of-molecular-and-human-genetics-faculty-positions-/?TrackID=364650&BatchID=6093&JobAlertId=418793&cmpid=JBE_TL_20240614_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240614_applynow_job1)
+
+🇩🇰[Copenhagen Tenure-track Assistant or Associate Professor in Physiology and Metabolism](https://www.nature.com/naturecareers/job/12819133/tenure-track-assistant-or-associate-professor-in-physiology-and-metabolism/?TrackID=29551&BatchID=470&JobAlertId=38023&cmpid=JBE_TL_20240613_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240613_jobtitle_job1)
+
+🇺🇸[Faculty Position in Neurogenetics in Center for Genomic Medicine/Department of Neurology at MGH](https://www.nature.com/naturecareers/job/12819352/faculty-position-in-neurogenetics-in-center-for-genomic-medicine-department-of-neurology-at-mgh/?TrackID=29551&BatchID=475&JobAlertId=38023&cmpid=JBE_TL_20240618_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240618_applynow_job5)
 
 🏴󠁧󠁢󠁳󠁣󠁴󠁿[Reader/Professor of Engineering Biology University of Glasgow - James Watt School of Engineering](https://www.jobs.ac.uk/job/DHW700/reader-professor-of-engineering-biology)
 
