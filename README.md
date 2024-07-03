@@ -3,6 +3,18 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇺🇸[Faculty Position in Biochemistry and Molecular Biophysics, Washington University in St. Louis - School of Medicine](https://www.nature.com/naturecareers/job/12819815/faculty-position-in-biochemistry-and-molecular-biophysics/?TrackID=29551&BatchID=489&JobAlertId=38023&cmpid=JBE_TL_20240702_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240702_jobtitle_job5)
+
+🇨🇳[清华大学人工智能学院招聘教授、副教授、助理教授](https://mp.weixin.qq.com/s/ZS10BD7DU1-h2FYyny3Qxw)
+
+🇺🇸[UPenn Faculty Positions in the Department of Microbiology - Assistant Rank](https://jobs.sciencecareers.org/job/659139/faculty-positions-in-the-department-of-microbiology-assistant-rank/?TrackID=364650&BatchID=6107&JobAlertId=418793&cmpid=JBE_TL_20240628_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240628_jobtitle_job1)
+
+🇩🇪[Independent junior group leaders, The Medical Faculty of the University of Würzburg](./The%20Medical%20Faculty%20of%20the%20University%20of%20Würzburg.jpg)
+
+🇬🇧[Professors/Senior lecturers/Lecturers at King's College London Human Genetics and ](https://www.nature.com/naturecareers/job/12819689/academic-opportunities-in-human-genetics-and-genomics/?TrackID=29551&BatchID=485&JobAlertId=38023&cmpid=JBE_TL_20240628_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240628_jobtitle_job4)
+
+🇨🇭[ETH Zurich - Department of Biosystems Science and Engineering (D-BSSE) Assistant Professor (Tenure Track) of Biomolecular Engineering for Health](https://jobs.sciencecareers.org/job/659100/assistant-professor-tenure-track-of-biomolecular-engineering-for-health/?TrackID=364650&BatchID=6106&JobAlertId=418793&cmpid=JBE_TL_20240627_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240627_jobtitle_job1)
+
 🇨🇳[浙大百人计划 ZJU 100 Young Professor](https://www.nature.com/naturecareers/job/12819493/zju-100-young-professor/?TrackID=29551&BatchID=479&JobAlertId=38023&cmpid=JBE_TL_20240622_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240622_applynow_job1)
 
 🇺🇸[Baylor College of Medicine DEPARTMENT OF MOLECULAR AND HUMAN GENETICS FACULTY POSITIONS](https://jobs.sciencecareers.org/job/658498/department-of-molecular-and-human-genetics-faculty-positions-/?TrackID=364650&BatchID=6093&JobAlertId=418793&cmpid=JBE_TL_20240614_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240614_applynow_job1)
@@ -309,6 +321,8 @@
 <details>
   <summary><b>Staff scientists 👩🏻‍🔬</b></summary>
 
+🇬🇧[Senior Research Associate (Single Cell/Transcriptomics Senior Bioinformatician) at Cambridge University Institute of Metabolic Science – Metabolic Research Laboratories (IMS-MRL)](https://www.nature.com/naturecareers/job/12819739/senior-research-associate-single-cell-transcriptomics-senior-bioinformatician-/?TrackID=29551&BatchID=488&JobAlertId=38023&cmpid=JBE_TL_20240701_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240701_jobtitle_job1)
+
 🇬🇧[Lecturer in Metabolic Biochemistry, University of Reading](https://www.jobs.ac.uk/job/DIC416/lecturer-in-metabolic-biochemistry)
 
 🇬🇧[Departmental Lecturer in Engineering Biology (Control Engineering), University of Oxford - Department of Engineering Science](https://www.jobs.ac.uk/job/DIC940/departmental-lecturer-in-engineering-biology-control-engineering)
@@ -398,6 +412,24 @@
 
 <details>
   <summary><b>Postdocs 🪐</b></summary>
+
+🇬🇧[Senior Postdoctoral Scientist for Synthetic Biologics, Rosalind Franklin Institute](https://www.jobs.ac.uk/job/DIM824/senior-postdoctoral-scientist-for-synthetic-biologics-10334)
+
+🇨🇭[Data Science Innovation Fellow](https://www.novartis.com/careers/career-search/job/details/req-10013704-data-science-innovation-fellow)
+
+🇨🇳[顺德农商银行科研工作站招聘博士后研究人员](https://mp.weixin.qq.com/s/6xYN0ZHTmcZuCzNN6dKjSA)
+
+🇺🇸[Post Doctoral Researcher, Data Science – Artificial Intelligence / Microscopy Computer Vision, Johnson & Johnson Innovative Medicine (J&J IM)](https://jobs.jnj.com/en/jobs/2406195052w/post-doctoral-researcher-data-science-artificial-intelligence-microscopy-computer-vision/)
+
+🇺🇸[Postdoctoral Associate Positions in Computational genomics, Department of Biomedical Informatics and Data Science (BIDS) at Yale University, School of Medicine](./Postdoctoral%20Associate%20Positions%20in%20Computational%20genomics.docx)
+
+🇺🇸[Postdoctoral Scientist - Data Science (Digital Measurement), Johnson & Johnson Innovative Medicine (J&J IM)](https://jobs.jnj.com/en/jobs/2406190812w/postdoctoral-scientist-data-science-digital-measurement/)
+
+🇺🇸[Postdoctoral Fellow, Cellular DNA-Encoded Library Discovery, Johnson & Johnson Innovative Medicine (J&J IM)](https://jobs.jnj.com/en/jobs/2406193920w/postdoctoral-fellow-cellular-dna-encoded-library-discovery/)
+
+🇺🇸[Post Doctoral Researcher, AI Reasoning and Natural Language Understanding, Johnson & Johnson Innovative Medicine (J&J IM)](https://jobs.jnj.com/en/jobs/2406194376w/post-doctoral-researcher-ai-reasoning-and-natural-language-understanding/)
+
+🇺🇸[Post Doctoral Researcher, Data Science – Artificial Intelligence for Computer Vision, Johnson & Johnson Innovative Medicine (J&J IM)](https://jobs.jnj.com/en/jobs/2406195057w/post-doctoral-researcher-data-science-artificial-intelligence-for-computer-vision/)
 
 🇫🇷[Postdoc position in heart morphogenesis at Pasteur, Paris](https://research.pasteur.fr/en/team/heart-morphogenesis/)
   
@@ -584,6 +616,8 @@ Foundation Models for Biomedicine](https://snap.stanford.edu/apply/index-postdoc
 
 <details>
   <summary><b>Others ⭐️</b></summary>
+
+🇨🇳[Ph.D., 哈工大深圳理学院](https://www.xiaohongshu.com/explore/665473f0000000000c01a8f6?app_platform=android&ignoreEngage=true&app_version=8.41.0&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBsY8GK6zb0NGDZeNVF9GRkKfJonnbJGZmoN7sSIbeioc=&author_share=1&xhsshare=WeixinSession&shareRedId=N0o1Rkg9Okw2NzUyOTgwNjc5OTg4PjdK&apptime=1719500359&share_id=417546827888473a9a50cf0af22d509d&wechatWid=58157b2d2d986955928730651f9fdfc3&wechatOrigin=menu)
 
 🇮🇹[SEMM PhD In Systems Medicine](https://www.semm.it/education/application)
 
