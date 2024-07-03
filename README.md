@@ -413,7 +413,13 @@
 <details>
   <summary><b>Postdocs 🪐</b></summary>
 
+🇬🇧[Senior Postdoctoral Scientist for Synthetic Biologics, Rosalind Franklin Institute](https://www.jobs.ac.uk/job/DIM824/senior-postdoctoral-scientist-for-synthetic-biologics-10334)
+
+🇨🇭[Data Science Innovation Fellow](https://www.novartis.com/careers/career-search/job/details/req-10013704-data-science-innovation-fellow)
+
 🇨🇳[顺德农商银行科研工作站招聘博士后研究人员](https://mp.weixin.qq.com/s/6xYN0ZHTmcZuCzNN6dKjSA)
+
+🇺🇸[Post Doctoral Researcher, Data Science – Artificial Intelligence / Microscopy Computer Vision, Johnson & Johnson Innovative Medicine (J&J IM)](https://jobs.jnj.com/en/jobs/2406195052w/post-doctoral-researcher-data-science-artificial-intelligence-microscopy-computer-vision/)
 
 🇺🇸[Postdoctoral Associate Positions in Computational genomics, Department of Biomedical Informatics and Data Science (BIDS) at Yale University, School of Medicine](./Postdoctoral%20Associate%20Positions%20in%20Computational%20genomics.docx)
 
