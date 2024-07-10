@@ -3,6 +3,12 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇨🇳[Professor/Associate Professor/Assistant Professor/Senior Lecturer/Lecturer, School of Science and Engineering (SSE) at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.nature.com/naturecareers/job/12818936/professor-associate-professor-assistant-professor-senior-lecturer-lecturer/?TrackID=29551&BatchID=496&JobAlertId=38023&cmpid=JBE_TL_20240709_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240709_jobtitle_job1)
+
+🇺🇸[Assistant/Associate/Full Teaching Professor, Department of Chemical and Biological Engineering at Iowa State University (ISU)](https://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Chemical-and-Biological-Engineering---Assistant-Associate-Full-Teaching-Professor_R14707)
+
+🇮🇹[Group Leader in Functional Genomics, Human Technopole](https://www.nature.com/naturecareers/job/12820029/group-leader-in-functional-genomics/?TrackID=29551&BatchID=493&JobAlertId=38023&cmpid=JBE_TL_20240706_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240706_jobtitle_job3)
+
 🇺🇸[Faculty Position in Biochemistry and Molecular Biophysics, Washington University in St. Louis - School of Medicine](https://www.nature.com/naturecareers/job/12819815/faculty-position-in-biochemistry-and-molecular-biophysics/?TrackID=29551&BatchID=489&JobAlertId=38023&cmpid=JBE_TL_20240702_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240702_jobtitle_job5)
 
 🇨🇳[清华大学人工智能学院招聘教授、副教授、助理教授](https://mp.weixin.qq.com/s/ZS10BD7DU1-h2FYyny3Qxw)
@@ -321,6 +327,14 @@
 <details>
   <summary><b>Staff scientists 👩🏻‍🔬</b></summary>
 
+🇺🇸[Research Associate/Data Analyst, Department of Oral Health Policy and Epidemiology (OHPE) at the Harvard School of Dental Medicine (HSDM)](https://academicpositions.harvard.edu/postings/13757)
+
+🇬🇧[Senior bioinformatician, Wellcome Sanger Institute](https://www.linkedin.com/posts/open-targets_were-recruiting-activity-7206962029331365889-iTvG/?utm_source=share&utm_medium=member_ios)
+
+🇬🇧[Scientist II Immunology, Mestag Therapeutics](https://www.linkedin.com/jobs/view/3966557275/?alternateChannel=search&refId=UrF1Y1LCuZ4P5LrtqpcGwg%3D%3D&trackingId=cChmwhg%2FSB7G3QMAIDbP%2FQ%3D%3D)
+
+🇬🇧[Bioinformatician (Fixed Term), Milner Therapeutics Institute (MTI) at University of Cambridge](https://www.jobs.cam.ac.uk/job/47209/)
+
 🇬🇧[Senior Research Associate (Single Cell/Transcriptomics Senior Bioinformatician) at Cambridge University Institute of Metabolic Science – Metabolic Research Laboratories (IMS-MRL)](https://www.nature.com/naturecareers/job/12819739/senior-research-associate-single-cell-transcriptomics-senior-bioinformatician-/?TrackID=29551&BatchID=488&JobAlertId=38023&cmpid=JBE_TL_20240701_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240701_jobtitle_job1)
 
 🇬🇧[Lecturer in Metabolic Biochemistry, University of Reading](https://www.jobs.ac.uk/job/DIC416/lecturer-in-metabolic-biochemistry)
@@ -412,6 +426,12 @@
 
 <details>
   <summary><b>Postdocs 🪐</b></summary>
+
+🇺🇸[Novartis Data Science Innovation Postdoctoral Fellow: Cardiac AI](https://novartis.wd3.myworkdayjobs.com/es/Novartis_Careers/job/Cambridge-USA/Data-Science-Innovation-Postdoctoral-Fellow--Cardiac-AI_REQ-10014140)
+
+🇺🇸[Post Doctoral Researcher, Data Science – Artificial Intelligence for Computer Vision, Johnson & Johnson Innovative Medicine (J&J IM)](https://jobs.jnj.com/en/jobs/2406195057w/post-doctoral-researcher-data-science-artificial-intelligence-for-computer-vision/)
+
+🇭🇰[AI for Computational Biology Postdoc, Department of Computer Science at University of Hong Kong](https://mp.weixin.qq.com/s/CjCxol6_q5KwSECZUr_p8Q)
 
 🇬🇧[Senior Postdoctoral Scientist for Synthetic Biologics, Rosalind Franklin Institute](https://www.jobs.ac.uk/job/DIM824/senior-postdoctoral-scientist-for-synthetic-biologics-10334)
 
@@ -616,6 +636,10 @@ Foundation Models for Biomedicine](https://snap.stanford.edu/apply/index-postdoc
 
 <details>
   <summary><b>Others ⭐️</b></summary>
+
+🇺🇸[Immunotherapy Fellowship, National Cancer Institute (NCI)](https://www.sitcancer.org/professional-development/nci-immunotherapy-fellowship?utm_source=email&utm_medium=realmagnate&utm_campaign=NCI24)
+
+🇭🇰[AI for Computational Biology Ph.D., Department of Computer Science at University of Hong Kong](https://mp.weixin.qq.com/s/CjCxol6_q5KwSECZUr_p8Q)
 
 🇨🇳[Ph.D., 哈工大深圳理学院](https://www.xiaohongshu.com/explore/665473f0000000000c01a8f6?app_platform=android&ignoreEngage=true&app_version=8.41.0&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBsY8GK6zb0NGDZeNVF9GRkKfJonnbJGZmoN7sSIbeioc=&author_share=1&xhsshare=WeixinSession&shareRedId=N0o1Rkg9Okw2NzUyOTgwNjc5OTg4PjdK&apptime=1719500359&share_id=417546827888473a9a50cf0af22d509d&wechatWid=58157b2d2d986955928730651f9fdfc3&wechatOrigin=menu)
 
