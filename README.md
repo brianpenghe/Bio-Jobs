@@ -3,6 +3,18 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇬🇧[Lecturer/Associate Professor in Biological Sciences, School of Biological Sciences at University of Southampton](https://www.jobs.ac.uk/job/DIS970/lecturer-associate-professor-in-biological-sciences)
+
+🇸🇪[Associate Professor in Bioinformatics, Department of Cell and Molecular Biology at Uppsala University](https://uu.varbi.com/en/what:job/jobID:734719/)
+
+🇺🇸[Assistant Professor-Research Track-Neurodegenerative Diseases, CNDR and Neuropathology, Perelman School of Medicine at the University of Pennsylvania](https://jobs.sciencecareers.org/job/659453/assistant-professor-research-track-neurodegenerative-diseases-cndr-and-neuropathology/?TrackID=364650&BatchID=6122&JobAlertId=418793&cmpid=JBE_TL_20240713_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240713_jobtitle_job2)
+
+🇺🇸[Assistant Professor of Immunology, Dana-Farber Cancer Institute & Harvard Medical School](https://jobs.sciencecareers.org/job/659441/assistant-professor-of-immunology/?TrackID=364650&BatchID=6122&JobAlertId=418793&cmpid=JBE_TL_20240713_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240713_jobtitle_job3)
+
+🇺🇸[Faculty Position in Vision Research at Assistant, Associate, or Full Professor Rank, University of California San Francisco](https://www.nature.com/naturecareers/job/12820146/faculty-position-in-vision-research-at-assistant-associate-or-full-professor-rank/?TrackID=29551&BatchID=498&JobAlertId=38023&cmpid=JBE_TL_20240711_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240711_jobtitle_job3)
+
+🇬🇧[Assistant Professor (Research), Centre for Mechanochemical Cell Biology (CMCB) at University of Warwick](https://www.nature.com/naturecareers/job/12820170/assistant-professor-research-/?TrackID=29551&BatchID=498&JobAlertId=38023&cmpid=JBE_TL_20240711_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240711_jobtitle_job2)
+
 🇨🇳[Professor/Associate Professor/Assistant Professor/Senior Lecturer/Lecturer, School of Science and Engineering (SSE) at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.nature.com/naturecareers/job/12818936/professor-associate-professor-assistant-professor-senior-lecturer-lecturer/?TrackID=29551&BatchID=496&JobAlertId=38023&cmpid=JBE_TL_20240709_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240709_jobtitle_job1)
 
 🇺🇸[Assistant/Associate/Full Teaching Professor, Department of Chemical and Biological Engineering at Iowa State University (ISU)](https://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Chemical-and-Biological-Engineering---Assistant-Associate-Full-Teaching-Professor_R14707)
@@ -327,6 +339,20 @@
 <details>
   <summary><b>Staff scientists 👩🏻‍🔬</b></summary>
 
+🇺🇸[RNA Technology Scientist, Verve Therapeutics](https://www.linkedin.com/jobs/view/3977998423/)
+
+🇺🇸[Senior Computational Biologist, Merck Sharp & Dohme](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Senior-Computational-Biologist_R303307-1)
+
+🇺🇸[Research Associate I-III Services, Active Motif](https://activemotif.isolvedhire.com/jobs/1117173.html)
+
+🇺🇸[Bioinformatics Scientist, Active Motif](https://activemotif.isolvedhire.com/jobs/1183311.html)
+
+🇬🇧[Research Assistant/Research Associate, Department of Pathology at University of Cambridge](./ResearchAssistant_ResearchAssociate_Aug2024_v3.pdf)
+
+🇬🇧[Senior Research Associates - Bioinformatician Team, Institute of Metabolic Science – Metabolic Research Laboratories (IMS-MRL) at University of Cambridge](https://www.nature.com/naturecareers/job/12820129/senior-research-associates-x-3-bioinformatician-team/)
+
+🇺🇸[Computational Cancer Biologist, Shennon Biotechnologies](https://boards.greenhouse.io/shennonbiotechnologies/jobs/4067332007)
+
 🇺🇸[Research Associate/Data Analyst, Department of Oral Health Policy and Epidemiology (OHPE) at the Harvard School of Dental Medicine (HSDM)](https://academicpositions.harvard.edu/postings/13757)
 
 🇬🇧[Senior bioinformatician, Wellcome Sanger Institute](https://www.linkedin.com/posts/open-targets_were-recruiting-activity-7206962029331365889-iTvG/?utm_source=share&utm_medium=member_ios)
@@ -426,6 +452,10 @@
 
 <details>
   <summary><b>Postdocs 🪐</b></summary>
+
+🇬🇧🇺🇸🇨🇭[10 postdoc fellow positions, Novartis](https://www.novartis.com/careers/career-search?search_api_fulltext=%23DSIF&field_job_posted_date=All&op=Submit)
+
+🇩🇪[Postdoctoral Fellow, Systems Genetics and Precision Health, EMBL Heidelberg](https://www.embl.org/jobs/position/HD02665)
 
 🇺🇸[Novartis Data Science Innovation Postdoctoral Fellow: Cardiac AI](https://novartis.wd3.myworkdayjobs.com/es/Novartis_Careers/job/Cambridge-USA/Data-Science-Innovation-Postdoctoral-Fellow--Cardiac-AI_REQ-10014140)
 
@@ -636,6 +666,12 @@ Foundation Models for Biomedicine](https://snap.stanford.edu/apply/index-postdoc
 
 <details>
   <summary><b>Others ⭐️</b></summary>
+
+🇺🇸[Service Lab Internship, Active Motif](https://activemotif.isolvedhire.com/jobs/1208913.html)
+
+🇺🇸[Associate FUEL Rotational Program, Amgen Thousand Oaks (ATO)](https://careers.amgen.com/en/job/thousand-oaks/associate-fuel-rotational-program-amgen-thousand-oaks-ato/87/67375064064)
+
+🇺🇸[Instructor for Research Synthesis & Meta-analysis course (Spring 2025), The Department of Epidemiology at the Harvard T.H. Chan School of Public Health](https://academicpositions.harvard.edu/postings/13817)
 
 🇺🇸[Immunotherapy Fellowship, National Cancer Institute (NCI)](https://www.sitcancer.org/professional-development/nci-immunotherapy-fellowship?utm_source=email&utm_medium=realmagnate&utm_campaign=NCI24)
 
