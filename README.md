@@ -693,7 +693,7 @@ Foundation Models for Biomedicine](https://snap.stanford.edu/apply/index-postdoc
 <details>
   <summary><b>Others ⭐️</b></summary>
 
-🇨🇳[Internship, Drug Metabolism and Pharmacokinetics (DMPK) department, 阿诺医药 Adlai Nortye, Hangzhou, China](Internship 阿诺医药Adlai Nortye.pdf)
+🇨🇳[Internship, Drug Metabolism and Pharmacokinetics (DMPK) department, 阿诺医药 Adlai Nortye, Hangzhou, China](Internship_阿诺医药Adlai_Nortye.pdf)
 
 🇺🇸[Service Lab Internship, Active Motif](https://activemotif.isolvedhire.com/jobs/1208913.html)
 
