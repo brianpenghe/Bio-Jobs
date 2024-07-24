@@ -3,6 +3,24 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇺🇸[Rochester Assistant/Associate Professor of Microbiology & Immunology: Center for Vaccine Biology & Immunology](https://www.nature.com/naturecareers/job/12820500/assistant-associate-professor-of-microbiology-and-immunology-center-for-vaccine-biology-and-immunology/?TrackID=29551&BatchID=506&JobAlertId=38023&cmpid=JBE_TL_20240719_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240719_jobtitle_job5)
+
+🇺🇸[WUSTL Assistant Professor - Department of Pathology & Immunology](https://jobs.sciencecareers.org/job/659449/assistant-professor-department-of-pathology-and-immunology-/?TrackID=364650&BatchID=6127&JobAlertId=418793&cmpid=JBE_TL_20240718_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240718_jobtitle_job1)
+
+🇺🇸[MGH Department of Molecular Biology Assistant professor](https://jobs.sciencecareers.org/job/659548/assistant-professor/?TrackID=364650&BatchID=6127&JobAlertId=418793&cmpid=JBE_TL_20240718_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240718_jobtitle_job2)
+
+🇺🇸[Northwestern Medical Director – Transplant Cardiology (Clinician-Educator)](https://www.nature.com/naturecareers/job/12820409/medical-director-transplant-cardiology-clinician-educator-/?TrackID=29551&BatchID=505&JobAlertId=38023&cmpid=JBE_TL_20240718_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240718_jobtitle_job1)
+
+🇺🇸[Michigan Assistant Professor in Developmental Biology](https://www.nature.com/naturecareers/job/12820407/assistant-professor-in-developmental-biology/?TrackID=29551&BatchID=505&JobAlertId=38023&cmpid=JBE_TL_20240718_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240718_jobtitle_job5)
+
+🇺🇸[Tufts Translational Research Faculty Open Rank](https://jobs.sciencecareers.org/job/659510/translational-research-faculty-recruitment/?TrackID=364650&BatchID=6126&JobAlertId=418793&cmpid=JBE_TL_20240717_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240717_jobtitle_job1)
+
+🇺🇸[UCSD Assistant Teaching Professor in Biological Sciences](https://jobs.sciencecareers.org/job/659514/assistant-teaching-professor-in-biological-sciences/?TrackID=364650&BatchID=6126&JobAlertId=418793&cmpid=JBE_TL_20240717_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240717_jobtitle_job2)
+
+🇺🇸[UChicago Physician Scientists - Radiation Oncology](https://www.nature.com/naturecareers/job/12820600/physician-scientists-radiation-oncology/?TrackID=29551&BatchID=510&JobAlertId=38023&cmpid=JBE_TL_20240723_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240723_jobtitle_job1)
+
+🇺🇸[Michigan Ann Arbor Assistant Professor: Molecular, Cellular & Developmental Biology](https://apply.interfolio.com/149762)
+
 🇬🇧[Lecturer/Associate Professor in Biological Sciences, School of Biological Sciences at University of Southampton](https://www.jobs.ac.uk/job/DIS970/lecturer-associate-professor-in-biological-sciences)
 
 🇸🇪[Associate Professor in Bioinformatics, Department of Cell and Molecular Biology at Uppsala University](https://uu.varbi.com/en/what:job/jobID:734719/)
@@ -453,6 +471,14 @@
 <details>
   <summary><b>Postdocs 🪐</b></summary>
 
+🇺🇸[Research Fellow in Machine Learning and Protein Design, Biogen, Cambridge, MA](https://www.linkedin.com/jobs/view/3973364853/)
+
+🇬🇧[UCL Research Assistant / Research Fellow in Neuroembryology](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?nPostingId=9940&nPostingTargetId=25580&id=Q1KFK026203F3VBQBLO8M8M07&LG=UK&languageSelect=UK&mask=ext)
+
+🇬🇧[Research Associate in Engineering Biology for Magnetic Control, The University of Edinburgh](https://www.jobs.ac.uk/job/DIW367/research-associate-in-engineering-biology-for-magnetic-control)
+
+🇬🇧[Research Fellow/Associate, Imperial College London, Bezos Centre for Sustainable Protein](https://www.jobs.ac.uk/job/DIW113/research-fellow-associate)
+
 🇬🇧🇺🇸🇨🇭[10 postdoc fellow positions, Novartis](https://www.novartis.com/careers/career-search?search_api_fulltext=%23DSIF&field_job_posted_date=All&op=Submit)
 
 🇩🇪[Postdoctoral Fellow, Systems Genetics and Precision Health, EMBL Heidelberg](https://www.embl.org/jobs/position/HD02665)
@@ -666,6 +692,8 @@ Foundation Models for Biomedicine](https://snap.stanford.edu/apply/index-postdoc
 
 <details>
   <summary><b>Others ⭐️</b></summary>
+
+🇨🇳Internship, Drug Metabolism and Pharmacokinetics (DMPK) department, 阿诺医药 Adlai Nortye, Hangzhou, China
 
 🇺🇸[Service Lab Internship, Active Motif](https://activemotif.isolvedhire.com/jobs/1208913.html)
 
