@@ -3,6 +3,18 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇺🇸[Assistant Professor, Tenure Track, Department of Biomedical Sciences, University of Pennsylvania](https://www.nature.com/naturecareers/job/12820792/assistant-professor-tenure-track-department-of-biomedical-sciences/?TrackID=29551&BatchID=513&JobAlertId=38023&cmpid=JBE_TL_20240726_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240726_jobtitle_job2)
+
+🇺🇸[Assistant Professor (Tenure Stream), The University of Pittsburgh, Depts. of Neurobiology & Bioengineering](https://jobs.sciencecareers.org/job/659702/assistant-professor-tenure-stream-/?TrackID=364650&BatchID=6133&JobAlertId=418793&cmpid=JBE_TL_20240725_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240725_jobtitle_job2)
+
+🇺🇸[Tenure Track Assistant or Associate Professor, UMass Chan Medical School](https://www.nature.com/naturecareers/job/12820698/tenure-track-assistant-or-associate-professor-/?TrackID=29551&BatchID=512&JobAlertId=38023&cmpid=JBE_TL_20240725_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240725_jobtitle_job1)
+
+🇭🇰[Associate Professor / Assistant Professor in Medical Laboratory Science, The Hong Kong Polytechnic University](https://www.nature.com/naturecareers/job/12820674/associate-professor-assistant-professor-in-medical-laboratory-science/?TrackID=29551&BatchID=512&JobAlertId=38023&cmpid=JBE_TL_20240725_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240725_jobtitle_job2)
+
+🇺🇸[Biomedical Sciences - Associate or Full Professor of Teaching, University of California Riverside School of Medicine](https://www.nature.com/naturecareers/job/12820706/biomedical-sciences-associate-or-full-professor-of-teaching/?TrackID=29551&BatchID=512&JobAlertId=38023&cmpid=JBE_TL_20240725_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240725_jobtitle_job3)
+
+🇺🇸[Biomedical Sciences - Ladder Rank Associate or Full Professor (Tenure), University of California Riverside School of Medicine](https://www.nature.com/naturecareers/job/12820705/biomedical-sciences-ladder-rank-associate-or-full-professor-tenure-/?TrackID=29551&BatchID=512&JobAlertId=38023&cmpid=JBE_TL_20240725_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240725_jobtitle_job4)
+
 🇺🇸[Rochester Assistant/Associate Professor of Microbiology & Immunology: Center for Vaccine Biology & Immunology](https://www.nature.com/naturecareers/job/12820500/assistant-associate-professor-of-microbiology-and-immunology-center-for-vaccine-biology-and-immunology/?TrackID=29551&BatchID=506&JobAlertId=38023&cmpid=JBE_TL_20240719_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240719_jobtitle_job5)
 
 🇺🇸[WUSTL Assistant Professor - Department of Pathology & Immunology](https://jobs.sciencecareers.org/job/659449/assistant-professor-department-of-pathology-and-immunology-/?TrackID=364650&BatchID=6127&JobAlertId=418793&cmpid=JBE_TL_20240718_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240718_jobtitle_job1)
