@@ -385,6 +385,8 @@
 <details>
   <summary><b>Staff scientists 👩🏻‍🔬</b></summary>
 
+🇬🇧[Scientist II – Project Immunology (Full Time - Permanent), Mestag Therapeutics](./FT%20Permanent%20JD%20Scientist%20II%20Immunology-%20Final.pdf)
+
 🇺🇸[RNA Technology Scientist, Verve Therapeutics](https://www.linkedin.com/jobs/view/3977998423/)
 
 🇺🇸[Senior Computational Biologist, Merck Sharp & Dohme](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Senior-Computational-Biologist_R303307-1)
