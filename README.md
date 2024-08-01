@@ -3,6 +3,12 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇸🇬[Nanyang Assistant/Associate Professorship (NAP), Nanyang Technological University (NTU)](https://www.nature.com/naturecareers/job/12820900/nanyang-assistant-associate-professorship-nap-/?TrackID=29551&BatchID=518&JobAlertId=38023&cmpid=JBE_TL_20240731_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240731_jobtitle_job1)
+
+🇺🇸[Assistant Professor - Human Evolutionary Biology - Integrative Biology, Unversity of California, Berkeley](https://jobs.sciencecareers.org/job/659773/assistant-professor-human-evolutionary-biology-integrative-biology/?TrackID=364650&BatchID=6138&JobAlertId=418793&cmpid=JBE_TL_20240730_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240730_jobtitle_job5)
+
+🇺🇸[Biochemistry Faculty, Department of Biochemistry - Tenure Track, The UT Southwestern Medical Center](https://jobs.sciencecareers.org/job/659792/biochemistry-faculty-department-of-biochemistry-tenure-track/?TrackID=364650&BatchID=6138&JobAlertId=418793&cmpid=JBE_TL_20240730_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240730_jobtitle_job2)
+
 🇺🇸[Open Line, Open Rank, Artificial Intelligence Faculty Cluster Hire Search, Stanford Medicine](https://jobs.sciencecareers.org/job/659770/open-line-open-rank-artificial-intelligence-faculty-cluster-hire-search/?TrackID=364650&BatchID=6135&JobAlertId=418793&cmpid=JBE_TL_20240727_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240727_jobtitle_job3)
 
 🇺🇸[Tenure-Track Faculty - Yale Center for Genomic Health, Department of Genetics, School of Medicine, Yale University](https://jobs.sciencecareers.org/job/659772/tenure-track-faculty-position-assistant-associate-department-of-genetics-/?TrackID=364650&BatchID=6135&JobAlertId=418793&cmpid=JBE_TL_20240727_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240727_jobtitle_job2)
