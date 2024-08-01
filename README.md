@@ -3,6 +3,14 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇺🇸[Open Line, Open Rank, Artificial Intelligence Faculty Cluster Hire Search, Stanford Medicine](https://jobs.sciencecareers.org/job/659770/open-line-open-rank-artificial-intelligence-faculty-cluster-hire-search/?TrackID=364650&BatchID=6135&JobAlertId=418793&cmpid=JBE_TL_20240727_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240727_jobtitle_job3)
+
+🇺🇸[Tenure-Track Faculty - Yale Center for Genomic Health, Department of Genetics, School of Medicine, Yale University](https://jobs.sciencecareers.org/job/659772/tenure-track-faculty-position-assistant-associate-department-of-genetics-/?TrackID=364650&BatchID=6135&JobAlertId=418793&cmpid=JBE_TL_20240727_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240727_jobtitle_job2)
+
+🇺🇸[Assistant/Associate Professor-Molecular Pharmacology, Albert Einstein College of Medicine](https://jobs.sciencecareers.org/job/659755/assistant-associate-professor-molecular-pharmacology/?TrackID=364650&BatchID=6135&JobAlertId=418793&cmpid=JBE_TL_20240727_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240727_jobtitle_job1)
+
+🇸🇪[Assistant Professor, Department of Medical Biochemistry and Biophysics (MBB), Karolinska Institutet](https://ki.varbi.com/en/what:job/jobID:741513/type:job/where:4/apply:1)
+
 🇺🇸[Assistant Professor, Tenure Track, Department of Biomedical Sciences, University of Pennsylvania](https://www.nature.com/naturecareers/job/12820792/assistant-professor-tenure-track-department-of-biomedical-sciences/?TrackID=29551&BatchID=513&JobAlertId=38023&cmpid=JBE_TL_20240726_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240726_jobtitle_job2)
 
 🇺🇸[Assistant Professor (Tenure Stream), The University of Pittsburgh, Depts. of Neurobiology & Bioengineering](https://jobs.sciencecareers.org/job/659702/assistant-professor-tenure-stream-/?TrackID=364650&BatchID=6133&JobAlertId=418793&cmpid=JBE_TL_20240725_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240725_jobtitle_job2)
