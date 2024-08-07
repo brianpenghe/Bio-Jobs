@@ -3,7 +3,7 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
-🇨🇳[上交全球健康学院王兆军老师诚招PI和博士后](上交全球健康学院.jpg)
+🇨🇳[上交全球健康学院诚招PI](上交全球健康学院.jpg)
 
 🇺🇸[UMass Biochem & Mol Biotech faculty](https://jobs.sciencecareers.org/job/659798/tenured-or-tenure-track-faculty-position/?TrackID=364650&BatchID=6140&JobAlertId=418793&cmpid=JBE_TL_20240801_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240801_jobtitle_job3)
 
@@ -522,6 +522,8 @@
 🇺🇸[✨UCSF postdoc in single-cell and spatial data analysis✨](https://opportunities.ucsf.edu/content/open-postdoctoral-position-computational-analyses-single-cell-multiomic-and-spatial-data)
 
 🇺🇸[Postdoc, Qing Yi group, Weill Cornell Medicine](Qing_Yi_postdoc.pdf)
+
+🇨🇳[上交全球健康学院诚招博士后](上交全球健康学院.jpg)
 
 🇺🇸[Research Fellow in Machine Learning and Protein Design, Biogen, Cambridge, MA](https://www.linkedin.com/jobs/view/3973364853/)
 
