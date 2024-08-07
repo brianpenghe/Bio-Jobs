@@ -3,6 +3,52 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇨🇳[复旦大学药学院UCSF招聘宣讲会](https://mp.weixin.qq.com/s/U_cx9ELW2oUID6ndEVlaaA)
+
+🇸🇬[Nanyang Assistant/Associate Professorship (NAP), Nanyang Technological University (NTU)](https://www.nature.com/naturecareers/job/12820900/nanyang-assistant-associate-professorship-nap-/?TrackID=29551&BatchID=518&JobAlertId=38023&cmpid=JBE_TL_20240731_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240731_jobtitle_job1)
+
+🇺🇸[Assistant Professor - Human Evolutionary Biology - Integrative Biology, Unversity of California, Berkeley](https://jobs.sciencecareers.org/job/659773/assistant-professor-human-evolutionary-biology-integrative-biology/?TrackID=364650&BatchID=6138&JobAlertId=418793&cmpid=JBE_TL_20240730_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240730_jobtitle_job5)
+
+🇺🇸[Biochemistry Faculty, Department of Biochemistry - Tenure Track, The UT Southwestern Medical Center](https://jobs.sciencecareers.org/job/659792/biochemistry-faculty-department-of-biochemistry-tenure-track/?TrackID=364650&BatchID=6138&JobAlertId=418793&cmpid=JBE_TL_20240730_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240730_jobtitle_job2)
+
+🇺🇸[Open Line, Open Rank, Artificial Intelligence Faculty Cluster Hire Search, Stanford Medicine](https://jobs.sciencecareers.org/job/659770/open-line-open-rank-artificial-intelligence-faculty-cluster-hire-search/?TrackID=364650&BatchID=6135&JobAlertId=418793&cmpid=JBE_TL_20240727_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240727_jobtitle_job3)
+
+🇺🇸[Tenure-Track Faculty - Yale Center for Genomic Health, Department of Genetics, School of Medicine, Yale University](https://jobs.sciencecareers.org/job/659772/tenure-track-faculty-position-assistant-associate-department-of-genetics-/?TrackID=364650&BatchID=6135&JobAlertId=418793&cmpid=JBE_TL_20240727_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240727_jobtitle_job2)
+
+🇺🇸[Assistant/Associate Professor-Molecular Pharmacology, Albert Einstein College of Medicine](https://jobs.sciencecareers.org/job/659755/assistant-associate-professor-molecular-pharmacology/?TrackID=364650&BatchID=6135&JobAlertId=418793&cmpid=JBE_TL_20240727_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240727_jobtitle_job1)
+
+🇸🇪[Assistant Professor, Department of Medical Biochemistry and Biophysics (MBB), Karolinska Institutet](https://ki.varbi.com/en/what:job/jobID:741513/type:job/where:4/apply:1)
+
+🇺🇸[Assistant Professor, Tenure Track, Department of Biomedical Sciences, University of Pennsylvania](https://www.nature.com/naturecareers/job/12820792/assistant-professor-tenure-track-department-of-biomedical-sciences/?TrackID=29551&BatchID=513&JobAlertId=38023&cmpid=JBE_TL_20240726_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240726_jobtitle_job2)
+
+🇺🇸[Assistant Professor (Tenure Stream), The University of Pittsburgh, Depts. of Neurobiology & Bioengineering](https://jobs.sciencecareers.org/job/659702/assistant-professor-tenure-stream-/?TrackID=364650&BatchID=6133&JobAlertId=418793&cmpid=JBE_TL_20240725_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240725_jobtitle_job2)
+
+🇺🇸[Tenure Track Assistant or Associate Professor, UMass Chan Medical School](https://www.nature.com/naturecareers/job/12820698/tenure-track-assistant-or-associate-professor-/?TrackID=29551&BatchID=512&JobAlertId=38023&cmpid=JBE_TL_20240725_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240725_jobtitle_job1)
+
+🇭🇰[Associate Professor / Assistant Professor in Medical Laboratory Science, The Hong Kong Polytechnic University](https://www.nature.com/naturecareers/job/12820674/associate-professor-assistant-professor-in-medical-laboratory-science/?TrackID=29551&BatchID=512&JobAlertId=38023&cmpid=JBE_TL_20240725_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240725_jobtitle_job2)
+
+🇺🇸[Biomedical Sciences - Associate or Full Professor of Teaching, University of California Riverside School of Medicine](https://www.nature.com/naturecareers/job/12820706/biomedical-sciences-associate-or-full-professor-of-teaching/?TrackID=29551&BatchID=512&JobAlertId=38023&cmpid=JBE_TL_20240725_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240725_jobtitle_job3)
+
+🇺🇸[Biomedical Sciences - Ladder Rank Associate or Full Professor (Tenure), University of California Riverside School of Medicine](https://www.nature.com/naturecareers/job/12820705/biomedical-sciences-ladder-rank-associate-or-full-professor-tenure-/?TrackID=29551&BatchID=512&JobAlertId=38023&cmpid=JBE_TL_20240725_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240725_jobtitle_job4)
+
+🇺🇸[Rochester Assistant/Associate Professor of Microbiology & Immunology: Center for Vaccine Biology & Immunology](https://www.nature.com/naturecareers/job/12820500/assistant-associate-professor-of-microbiology-and-immunology-center-for-vaccine-biology-and-immunology/?TrackID=29551&BatchID=506&JobAlertId=38023&cmpid=JBE_TL_20240719_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240719_jobtitle_job5)
+
+🇺🇸[WUSTL Assistant Professor - Department of Pathology & Immunology](https://jobs.sciencecareers.org/job/659449/assistant-professor-department-of-pathology-and-immunology-/?TrackID=364650&BatchID=6127&JobAlertId=418793&cmpid=JBE_TL_20240718_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240718_jobtitle_job1)
+
+🇺🇸[MGH Department of Molecular Biology Assistant professor](https://jobs.sciencecareers.org/job/659548/assistant-professor/?TrackID=364650&BatchID=6127&JobAlertId=418793&cmpid=JBE_TL_20240718_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240718_jobtitle_job2)
+
+🇺🇸[Northwestern Medical Director – Transplant Cardiology (Clinician-Educator)](https://www.nature.com/naturecareers/job/12820409/medical-director-transplant-cardiology-clinician-educator-/?TrackID=29551&BatchID=505&JobAlertId=38023&cmpid=JBE_TL_20240718_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240718_jobtitle_job1)
+
+🇺🇸[Michigan Assistant Professor in Developmental Biology](https://www.nature.com/naturecareers/job/12820407/assistant-professor-in-developmental-biology/?TrackID=29551&BatchID=505&JobAlertId=38023&cmpid=JBE_TL_20240718_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240718_jobtitle_job5)
+
+🇺🇸[Tufts Translational Research Faculty Open Rank](https://jobs.sciencecareers.org/job/659510/translational-research-faculty-recruitment/?TrackID=364650&BatchID=6126&JobAlertId=418793&cmpid=JBE_TL_20240717_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240717_jobtitle_job1)
+
+🇺🇸[UCSD Assistant Teaching Professor in Biological Sciences](https://jobs.sciencecareers.org/job/659514/assistant-teaching-professor-in-biological-sciences/?TrackID=364650&BatchID=6126&JobAlertId=418793&cmpid=JBE_TL_20240717_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240717_jobtitle_job2)
+
+🇺🇸[UChicago Physician Scientists - Radiation Oncology](https://www.nature.com/naturecareers/job/12820600/physician-scientists-radiation-oncology/?TrackID=29551&BatchID=510&JobAlertId=38023&cmpid=JBE_TL_20240723_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240723_jobtitle_job1)
+
+🇺🇸[Michigan Ann Arbor Assistant Professor: Molecular, Cellular & Developmental Biology](https://apply.interfolio.com/149762)
+
 🇬🇧[Lecturer/Associate Professor in Biological Sciences, School of Biological Sciences at University of Southampton](https://www.jobs.ac.uk/job/DIS970/lecturer-associate-professor-in-biological-sciences)
 
 🇸🇪[Associate Professor in Bioinformatics, Department of Cell and Molecular Biology at Uppsala University](https://uu.varbi.com/en/what:job/jobID:734719/)
@@ -339,6 +385,8 @@
 <details>
   <summary><b>Staff scientists 👩🏻‍🔬</b></summary>
 
+🇬🇧[Scientist II – Project Immunology (Full Time - Permanent), Mestag Therapeutics](./FT%20Permanent%20JD%20Scientist%20II%20Immunology-%20Final.pdf)
+
 🇺🇸[RNA Technology Scientist, Verve Therapeutics](https://www.linkedin.com/jobs/view/3977998423/)
 
 🇺🇸[Senior Computational Biologist, Merck Sharp & Dohme](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Senior-Computational-Biologist_R303307-1)
@@ -452,6 +500,14 @@
 
 <details>
   <summary><b>Postdocs 🪐</b></summary>
+
+🇺🇸[Research Fellow in Machine Learning and Protein Design, Biogen, Cambridge, MA](https://www.linkedin.com/jobs/view/3973364853/)
+
+🇬🇧[UCL Research Assistant / Research Fellow in Neuroembryology](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?nPostingId=9940&nPostingTargetId=25580&id=Q1KFK026203F3VBQBLO8M8M07&LG=UK&languageSelect=UK&mask=ext)
+
+🇬🇧[Research Associate in Engineering Biology for Magnetic Control, The University of Edinburgh](https://www.jobs.ac.uk/job/DIW367/research-associate-in-engineering-biology-for-magnetic-control)
+
+🇬🇧[Research Fellow/Associate, Imperial College London, Bezos Centre for Sustainable Protein](https://www.jobs.ac.uk/job/DIW113/research-fellow-associate)
 
 🇬🇧🇺🇸🇨🇭[10 postdoc fellow positions, Novartis](https://www.novartis.com/careers/career-search?search_api_fulltext=%23DSIF&field_job_posted_date=All&op=Submit)
 
@@ -666,6 +722,8 @@ Foundation Models for Biomedicine](https://snap.stanford.edu/apply/index-postdoc
 
 <details>
   <summary><b>Others ⭐️</b></summary>
+
+🇨🇳[Internship, Drug Metabolism and Pharmacokinetics (DMPK) department, 阿诺医药 Adlai Nortye, Hangzhou, China](Internship_阿诺医药_Adlai_Nortye.pdf)
 
 🇺🇸[Service Lab Internship, Active Motif](https://activemotif.isolvedhire.com/jobs/1208913.html)
 
