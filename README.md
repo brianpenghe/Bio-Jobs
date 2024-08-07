@@ -3,6 +3,22 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇨🇳[上交全球健康学院王兆军老师诚招PI和博士后](上交全球健康学院.jpg)
+
+🇺🇸[UMass Biochem & Mol Biotech faculty](https://jobs.sciencecareers.org/job/659798/tenured-or-tenure-track-faculty-position/?TrackID=364650&BatchID=6140&JobAlertId=418793&cmpid=JBE_TL_20240801_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240801_jobtitle_job3)
+
+🇺🇸[UPenn Assistant Professor in Microbiology](https://jobs.sciencecareers.org/job/659879/faculty-positions-in-the-department-of-microbiology-assistant-rank/?TrackID=364650&BatchID=6140&JobAlertId=418793&cmpid=JBE_TL_20240801_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240801_jobtitle_job2)
+
+🇺🇸[Stanford Chemistry Assistant Professor](https://jobs.sciencecareers.org/job/659914/assistant-professor-in-chemistry-open-area-/?TrackID=364650&BatchID=6141&JobAlertId=418793&cmpid=JBE_TL_20240802_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240802_jobtitle_job5)
+
+🇺🇸[NYU Assistant/associate professor The Department of Biochemistry and Molecular Pharmacology](https://www.nature.com/naturecareers/job/12821162/assistant-associate-professor-new-york-university-grossman-school-of-medicine/?TrackID=29551&BatchID=522&JobAlertId=38023&cmpid=JBE_TL_20240804_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240804_jobtitle_job2)
+
+🇺🇸[UNC Faculty Open Rank The Department of Cell Biology & Physiology and the Neuroscience Center](https://jobs.sciencecareers.org/job/659916/open-rank/?TrackID=364650&BatchID=6142&JobAlertId=418793&cmpid=JBE_TL_20240803_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240803_jobtitle_job2)
+
+🇺🇸[NYU GSoM Dept of Cell Biology and Regenerative Medicine Institute Assistant/Associate Professor](https://www.nature.com/naturecareers/job/12821209/assistant-associate-professor-nyugsom-dept-of-cell-biology-and-regenerative-medicine-institute/?TrackID=29551&BatchID=524&JobAlertId=38023&cmpid=JBE_TL_20240806_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240806_jobtitle_job2)
+
+🇺🇸[Princeton faculty open rank in biological, chemical, physical, engineering and/or computational](https://www.nature.com/naturecareers/job/12821206/assistant-associate-or-full-professor-princeton-university/?TrackID=29551&BatchID=524&JobAlertId=38023&cmpid=JBE_TL_20240806_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240806_jobtitle_job3)
+
 🇨🇳[复旦大学药学院UCSF招聘宣讲会](https://mp.weixin.qq.com/s/U_cx9ELW2oUID6ndEVlaaA)
 
 🇸🇬[Nanyang Assistant/Associate Professorship (NAP), Nanyang Technological University (NTU)](https://www.nature.com/naturecareers/job/12820900/nanyang-assistant-associate-professorship-nap-/?TrackID=29551&BatchID=518&JobAlertId=38023&cmpid=JBE_TL_20240731_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240731_jobtitle_job1)
@@ -501,6 +517,12 @@
 <details>
   <summary><b>Postdocs 🪐</b></summary>
 
+🇺🇸[✨UCSF postdoc in single-cell and organoid perturbations✨](https://opportunities.ucsf.edu/content/open-postdoctoral-position-human-organoids-and-single-cell-multiomics-university-california)
+
+🇺🇸[✨UCSF postdoc in single-cell and spatial data analysis✨](https://opportunities.ucsf.edu/content/open-postdoctoral-position-computational-analyses-single-cell-multiomic-and-spatial-data)
+
+🇺🇸[Postdoc, Qing Yi group, Weill Cornell Medicine](Qing_Yi_postdoc.pdf)
+
 🇺🇸[Research Fellow in Machine Learning and Protein Design, Biogen, Cambridge, MA](https://www.linkedin.com/jobs/view/3973364853/)
 
 🇬🇧[UCL Research Assistant / Research Fellow in Neuroembryology](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?nPostingId=9940&nPostingTargetId=25580&id=Q1KFK026203F3VBQBLO8M8M07&LG=UK&languageSelect=UK&mask=ext)
@@ -722,6 +744,8 @@ Foundation Models for Biomedicine](https://snap.stanford.edu/apply/index-postdoc
 
 <details>
   <summary><b>Others ⭐️</b></summary>
+
+🇺🇸[Full time SRA I or SRA II in Microbiology and Immunology, UCSF](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=6495&siteid=5862#jobDetails=3537980_5862)
 
 🇨🇳[Internship, Drug Metabolism and Pharmacokinetics (DMPK) department, 阿诺医药 Adlai Nortye, Hangzhou, China](Internship_阿诺医药_Adlai_Nortye.pdf)
 
