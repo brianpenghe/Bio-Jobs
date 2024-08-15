@@ -755,6 +755,10 @@ Foundation Models for Biomedicine](https://snap.stanford.edu/apply/index-postdoc
 <details>
   <summary><b>Others ⭐️</b></summary>
 
+🇺🇸[Experiment Research Assistant Position at Shakhnovich Lab, Harvard University](./exp_ra_shakhnovich.jpg)
+
+🇺🇸[Theory Research Assistant Position at Shakhnovich Lab, Harvard University](./theo_ra_shakhnovich.jpg)
+
 🇺🇸[Full time SRA I or SRA II in Microbiology and Immunology, UCSF](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=6495&siteid=5862#jobDetails=3537980_5862)
 
 🇨🇳[Internship, Drug Metabolism and Pharmacokinetics (DMPK) department, 阿诺医药 Adlai Nortye, Hangzhou, China](Internship_阿诺医药_Adlai_Nortye.pdf)
