@@ -3,6 +3,10 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇺🇸[Faculty position at NIH](https://irp.nih.gov/careers/faculty-level-scientific-careers/stadtman-investigator-search-2024-2025)
+
+🇺🇸[Neuroscience Faculty Position, St. Jude Children's Research Hospital](https://www.nature.com/naturecareers/job/12821303/neuroscience-faculty-position/?TrackID=29551&BatchID=527&JobAlertId=38023&cmpid=JBE_TL_20240809_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240809_applynow_job2)
+
 🇨🇳[上交全球健康学院诚招PI](上交全球健康学院.jpg)
 
 🇺🇸[UMass Biochem & Mol Biotech faculty](https://jobs.sciencecareers.org/job/659798/tenured-or-tenure-track-faculty-position/?TrackID=364650&BatchID=6140&JobAlertId=418793&cmpid=JBE_TL_20240801_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240801_jobtitle_job3)
@@ -517,6 +521,10 @@
 <details>
   <summary><b>Postdocs 🪐</b></summary>
 
+🇸🇬[Research Fellow / Clinical Research Fellow in Myopia, National University of Singapore](https://www.mycareersfuture.gov.sg/job/sciences/research-fellow-national-university-singapore-bc3fcc769e0ff77c5a7eead7373c7cf8?source=MCF&event=Search)
+
+🇸🇬[Research Fellow in Visual Neurosciences, National University of Singapore](https://www.mycareersfuture.gov.sg/job/sciences/research-fellow-national-university-singapore-0cf0fb27e1631f1bcbdd11eade3a6bfd?source=MCF&event=Search)
+
 🇺🇸[✨UCSF postdoc in single-cell and organoid perturbations✨](https://opportunities.ucsf.edu/content/open-postdoctoral-position-human-organoids-and-single-cell-multiomics-university-california)
 
 🇺🇸[✨UCSF postdoc in single-cell and spatial data analysis✨](https://opportunities.ucsf.edu/content/open-postdoctoral-position-computational-analyses-single-cell-multiomic-and-spatial-data)
@@ -746,6 +754,10 @@ Foundation Models for Biomedicine](https://snap.stanford.edu/apply/index-postdoc
 
 <details>
   <summary><b>Others ⭐️</b></summary>
+
+🇺🇸[Experiment Research Assistant Position at Shakhnovich Lab, Harvard University](./exp_ra_shakhnovich.jpg)
+
+🇺🇸[Theory Research Assistant Position at Shakhnovich Lab, Harvard University](./theo_ra_shakhnovich.jpg)
 
 🇺🇸[Full time SRA I or SRA II in Microbiology and Immunology, UCSF](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=6495&siteid=5862#jobDetails=3537980_5862)
 
