@@ -521,6 +521,10 @@
 <details>
   <summary><b>Postdocs 🪐</b></summary>
 
+🇸🇬[Research Fellow / Clinical Research Fellow in Myopia, National University of Singapore](https://www.mycareersfuture.gov.sg/job/sciences/research-fellow-national-university-singapore-bc3fcc769e0ff77c5a7eead7373c7cf8?source=MCF&event=Search)
+
+🇸🇬[Research Fellow in Visual Neurosciences, National University of Singapore](https://www.mycareersfuture.gov.sg/job/sciences/research-fellow-national-university-singapore-0cf0fb27e1631f1bcbdd11eade3a6bfd?source=MCF&event=Search)
+
 🇺🇸[✨UCSF postdoc in single-cell and organoid perturbations✨](https://opportunities.ucsf.edu/content/open-postdoctoral-position-human-organoids-and-single-cell-multiomics-university-california)
 
 🇺🇸[✨UCSF postdoc in single-cell and spatial data analysis✨](https://opportunities.ucsf.edu/content/open-postdoctoral-position-computational-analyses-single-cell-multiomic-and-spatial-data)
