@@ -3,6 +3,8 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇺🇸[Associate/Assistant Professor, Department of Biochemistry and Molecular Biology (BIO), Uniformed Services University of the Health Sciences](https://www.higheredjobs.com/details.cfm?JobCode=178874746)
+
 🇺🇸[Faculty position at NIH](https://irp.nih.gov/careers/faculty-level-scientific-careers/stadtman-investigator-search-2024-2025)
 
 🇺🇸[Neuroscience Faculty Position, St. Jude Children's Research Hospital](https://www.nature.com/naturecareers/job/12821303/neuroscience-faculty-position/?TrackID=29551&BatchID=527&JobAlertId=38023&cmpid=JBE_TL_20240809_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240809_applynow_job2)
