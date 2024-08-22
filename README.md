@@ -3,6 +3,8 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇺🇸[Associate/Assistant Professor, Department of Biochemistry and Molecular Biology (BIO), Uniformed Services University of the Health Sciences](https://www.higheredjobs.com/details.cfm?JobCode=178874746)
+
 🇺🇸[Faculty position at NIH](https://irp.nih.gov/careers/faculty-level-scientific-careers/stadtman-investigator-search-2024-2025)
 
 🇺🇸[Neuroscience Faculty Position, St. Jude Children's Research Hospital](https://www.nature.com/naturecareers/job/12821303/neuroscience-faculty-position/?TrackID=29551&BatchID=527&JobAlertId=38023&cmpid=JBE_TL_20240809_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240809_applynow_job2)
@@ -520,6 +522,19 @@
 
 <details>
   <summary><b>Postdocs 🪐</b></summary>
+
+
+🇬🇧[EMBL-EBI/Sanger postdoctoral fellowship (ESPOD)](https://www.ebi.ac.uk/research/postdocs/espods)
+
+🇫🇷[Postdoctoral Organic/Medicinal Chemist at EMBL Grenoble](https://www.embl.org/jobs/position/GR00232)
+
+🇺🇸[Postdoc in High-Dimensional Statistics/Computational Biology, Harvard T.H. Chan School of Public Health](https://academicpositions.harvard.edu/postings/13972)
+
+🇺🇸[Multiple Postdoctoral Research Fellows and Research Associates in the areas of foundation AI, Harvard Medical School](https://zitniklab.hms.harvard.edu/jobs/)
+
+🇺🇸[Postdoc in Biostatistics and Epidemiology – Center for Tuberculosis Institute for Global Health Sciences (IGHS), UC San Francisco](./Center%20for%20TB%20Postdoc.pdf)
+
+🇺🇸[Postdoc position in systems biology, Chan Zuckerberg Biohub Chicago](./CZ_Postdoc_Son_v4.pdf)
 
 🇸🇬[Research Fellow / Clinical Research Fellow in Myopia, National University of Singapore](https://www.mycareersfuture.gov.sg/job/sciences/research-fellow-national-university-singapore-bc3fcc769e0ff77c5a7eead7373c7cf8?source=MCF&event=Search)
 
