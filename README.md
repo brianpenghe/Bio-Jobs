@@ -521,6 +521,14 @@
 <details>
   <summary><b>Postdocs 🪐</b></summary>
 
+🇺🇸[Postdoc in High-Dimensional Statistics/Computational Biology, Harvard T.H. Chan School of Public Health](https://academicpositions.harvard.edu/postings/13972)
+
+🇺🇸[Multiple Postdoctoral Research Fellows and Research Associates in the areas of foundation AI, Harvard Medical School](https://zitniklab.hms.harvard.edu/jobs/)
+
+🇺🇸[Postdoc in Biostatistics and Epidemiology – Center for Tuberculosis Institute for Global Health Sciences (IGHS), UC San Francisco](./Center%20for%20TB%20Postdoc.pdf)
+
+🇺🇸[Postdoc position in systems biology, Chan Zuckerberg Biohub Chicago](./CZ_Postdoc_Son_v4.pdf)
+
 🇸🇬[Research Fellow / Clinical Research Fellow in Myopia, National University of Singapore](https://www.mycareersfuture.gov.sg/job/sciences/research-fellow-national-university-singapore-bc3fcc769e0ff77c5a7eead7373c7cf8?source=MCF&event=Search)
 
 🇸🇬[Research Fellow in Visual Neurosciences, National University of Singapore](https://www.mycareersfuture.gov.sg/job/sciences/research-fellow-national-university-singapore-0cf0fb27e1631f1bcbdd11eade3a6bfd?source=MCF&event=Search)
