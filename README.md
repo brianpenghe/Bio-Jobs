@@ -521,6 +521,11 @@
 <details>
   <summary><b>Postdocs 🪐</b></summary>
 
+
+🇬🇧[EMBL-EBI/Sanger postdoctoral fellowship (ESPOD)](https://www.ebi.ac.uk/research/postdocs/espods)
+
+🇫🇷[Postdoctoral Organic/Medicinal Chemist at EMBL Grenoble](https://www.embl.org/jobs/position/GR00232)
+
 🇺🇸[Postdoc in High-Dimensional Statistics/Computational Biology, Harvard T.H. Chan School of Public Health](https://academicpositions.harvard.edu/postings/13972)
 
 🇺🇸[Multiple Postdoctoral Research Fellows and Research Associates in the areas of foundation AI, Harvard Medical School](https://zitniklab.hms.harvard.edu/jobs/)
