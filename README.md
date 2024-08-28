@@ -7,8 +7,6 @@
 
 🇺🇸[Faculty in virology, Northwestern](https://jobs.sciencecareers.org/job/660580/faculty-position-in-virology/?TrackID=364650&utm_source=jobs&utm_medium=email&utm_campaign=email-careers-job-alert&BatchID=6165&JobAlertId=418793)
 
-🇨🇳[浙大医学院附属第一医院苏殿三课题组]()
-
 🇨🇳[中国科学院杭州医学研究所诚招PI](中科院杭州医学.pdf)
 
 🇨🇳[深圳大学青年科学家论坛](深圳大学.jpeg)
