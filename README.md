@@ -5,11 +5,11 @@
 
 🇺🇸[Tenure-track Assistant Professor in Bioengineering, UCLA](https://recruit.apo.ucla.edu/JPF09613)
 
-🇺🇸[Faculty in virology, Northwestern](https://jobs.sciencecareers.org/job/660580/faculty-position-in-virology/?TrackID=364650&utm_source=jobs&utm_medium=email&utm_campaign=email-careers-job-alert&BatchID=6165&JobAlertId=418793)
+🇺🇸[Faculty in virology, Northwestern Northwestern University Feinberg School of Medicine](https://jobs.sciencecareers.org/job/660580/faculty-position-in-virology/?TrackID=364650&utm_source=jobs&utm_medium=email&utm_campaign=email-careers-job-alert&BatchID=6165&JobAlertId=418793)
 
 🇨🇳[中国科学院杭州医学研究所诚招PI](中科院杭州医学.pdf)
 
-🇨🇳[深圳大学青年科学家论坛](深圳大学.jpeg)
+🇨🇳[深圳大学青年科学家论坛，多个岗位](深圳大学.jpeg)
 
 🇺🇸[Associate/Assistant Professor, Department of Biochemistry and Molecular Biology (BIO), Uniformed Services University of the Health Sciences](https://www.higheredjobs.com/details.cfm?JobCode=178874746)
 
@@ -535,7 +535,7 @@
 
 🇩🇰[Fully funded Postdoc position in Neurobiology, Aarhus University](https://www.nature.com/naturecareers/job/12819840/fully-funded-postdoc-position-in-neurobiology/)
 
-🇪🇸[Postdoctoral PositionComputational Cancer Genomics Group at CNlO, Madrid](cnio_madrid.pdf)
+🇪🇸[Postdoctoral Position, Computational Cancer Genomics Group at CNIO, Madrid](cnio_madrid.pdf)
 
 🇺🇸[Postdoctoral Research Fellow Position in Bacterial Pathogenesis](https://www.uth.edu/postdocs/open-postdoc-positions.htm#d8935ee4-b008-4d84-aef5-457cd5d0b301)
 
