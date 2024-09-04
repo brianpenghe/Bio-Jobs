@@ -3,6 +3,8 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇸🇪[Group Leader, Department of Medical Biochemistry and Biophysics (MBB), Karolinska Institutet](https://ki.varbi.com/en/what:job/jobID:741513/type:job/where:4/apply:1)
+
 🇺🇸[Tenure-track Assistant Professor in Bioengineering, UCLA](https://recruit.apo.ucla.edu/JPF09613)
 
 🇺🇸[Faculty in virology, Northwestern Northwestern University Feinberg School of Medicine](https://jobs.sciencecareers.org/job/660580/faculty-position-in-virology/?TrackID=364650&utm_source=jobs&utm_medium=email&utm_campaign=email-careers-job-alert&BatchID=6165&JobAlertId=418793)
@@ -10,8 +12,6 @@
 🇨🇳[中国科学院杭州医学研究所诚招PI](中科院杭州医学.pdf)
 
 🇨🇳[深圳大学青年科学家论坛，多个岗位](深圳大学.jpeg)
-
-🇸🇪[Group Leader, Department of Medical Biochemistry and Biophysics (MBB), Karolinska Institutet](https://ki.varbi.com/en/what:job/jobID:741513/type:job/where:4/apply:1)
 
 🇺🇸[Associate/Assistant Professor, Department of Biochemistry and Molecular Biology (BIO), Uniformed Services University of the Health Sciences](https://www.higheredjobs.com/details.cfm?JobCode=178874746)
 
@@ -534,15 +534,16 @@
 
 <details>
   <summary><b>Postdocs 🪐</b></summary>
+  
+🏴󠁧󠁢󠁳󠁣󠁴󠁿[Postdoctoral Research Scientist - Tumour Microenvironment and Cancer Metabolism, CRUK Scotland Institute](https://www.jobs.ac.uk/job/DJN000/postdoctoral-research-scientist-tumour-microenvironment-and-cancer-metabolism?uuid=21acce29-6997-11ef-aadc-027e9b1da9c1&campaign=jbe20240903&source=jbe)
+
+🇫🇷[Postdoctoral Opportunity in Protein Function Prediction at Sorbonne Université](./Postdoctoral%20Opportunity%20in%20Protein%20Function%20Prediction%20at%20Sorbonne%20Université.pdf)
 
 🇩🇰[Fully funded Postdoc position in Neurobiology, Aarhus University](https://www.nature.com/naturecareers/job/12819840/fully-funded-postdoc-position-in-neurobiology/)
 
 🇪🇸[Postdoctoral Position, Computational Cancer Genomics Group at CNIO, Madrid](cnio_madrid.pdf)
 
 🇺🇸[Postdoctoral Research Fellow Position in Bacterial Pathogenesis](https://www.uth.edu/postdocs/open-postdoc-positions.htm#d8935ee4-b008-4d84-aef5-457cd5d0b301)
-🏴󠁧󠁢󠁳󠁣󠁴󠁿[Postdoctoral Research Scientist - Tumour Microenvironment and Cancer Metabolism, CRUK Scotland Institute](https://www.jobs.ac.uk/job/DJN000/postdoctoral-research-scientist-tumour-microenvironment-and-cancer-metabolism?uuid=21acce29-6997-11ef-aadc-027e9b1da9c1&campaign=jbe20240903&source=jbe)
-
-🇫🇷[Postdoctoral Opportunity in Protein Function Prediction at Sorbonne Université](./Postdoctoral%20Opportunity%20in%20Protein%20Function%20Prediction%20at%20Sorbonne%20Université.pdf)
 
 🏴󠁧󠁢󠁥󠁮󠁧󠁿[EMBL-EBI/Sanger postdoctoral fellowship (ESPOD)](https://www.ebi.ac.uk/research/postdocs/espods)
 
