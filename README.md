@@ -11,6 +11,8 @@
 
 🇨🇳[深圳大学青年科学家论坛，多个岗位](深圳大学.jpeg)
 
+🇸🇪[Group Leader, Department of Medical Biochemistry and Biophysics (MBB), Karolinska Institutet](https://ki.varbi.com/en/what:job/jobID:741513/type:job/where:4/apply:1)
+
 🇺🇸[Associate/Assistant Professor, Department of Biochemistry and Molecular Biology (BIO), Uniformed Services University of the Health Sciences](https://www.higheredjobs.com/details.cfm?JobCode=178874746)
 
 🇺🇸[Faculty position at NIH](https://irp.nih.gov/careers/faculty-level-scientific-careers/stadtman-investigator-search-2024-2025)
