@@ -540,8 +540,11 @@
 🇪🇸[Postdoctoral Position, Computational Cancer Genomics Group at CNIO, Madrid](cnio_madrid.pdf)
 
 🇺🇸[Postdoctoral Research Fellow Position in Bacterial Pathogenesis](https://www.uth.edu/postdocs/open-postdoc-positions.htm#d8935ee4-b008-4d84-aef5-457cd5d0b301)
+🏴󠁧󠁢󠁳󠁣󠁴󠁿[Postdoctoral Research Scientist - Tumour Microenvironment and Cancer Metabolism, CRUK Scotland Institute](https://www.jobs.ac.uk/job/DJN000/postdoctoral-research-scientist-tumour-microenvironment-and-cancer-metabolism?uuid=21acce29-6997-11ef-aadc-027e9b1da9c1&campaign=jbe20240903&source=jbe)
 
-🇬🇧[EMBL-EBI/Sanger postdoctoral fellowship (ESPOD)](https://www.ebi.ac.uk/research/postdocs/espods)
+🇫🇷[Postdoctoral Opportunity in Protein Function Prediction at Sorbonne Université](./Postdoctoral%20Opportunity%20in%20Protein%20Function%20Prediction%20at%20Sorbonne%20Université.pdf)
+
+🏴󠁧󠁢󠁥󠁮󠁧󠁿[EMBL-EBI/Sanger postdoctoral fellowship (ESPOD)](https://www.ebi.ac.uk/research/postdocs/espods)
 
 🇫🇷[Postdoctoral Organic/Medicinal Chemist at EMBL Grenoble](https://www.embl.org/jobs/position/GR00232)
 
