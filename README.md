@@ -790,6 +790,8 @@ Foundation Models for Biomedicine](https://snap.stanford.edu/apply/index-postdoc
 <details>
   <summary><b>Others ⭐️</b></summary>
 
+🏴󠁧󠁢󠁥󠁮󠁧󠁿[EMBL International PhD Programme](https://www.embl.org/about/info/embl-international-phd-programme/)
+
 🇺🇸[Experiment Research Assistant Position at Shakhnovich Lab, Harvard University](./exp_ra_shakhnovich.jpg)
 
 🇺🇸[Theory Research Assistant Position at Shakhnovich Lab, Harvard University](./theo_ra_shakhnovich.jpg)
