@@ -3,9 +3,9 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
-🇬🇧[Cambridge U Gurdon institute group leader](https://www.jobs.cam.ac.uk/job/47789/)
+🇬🇧[Two Group Leaders in human developmental biology, Cambridge University Gurdon institute](https://www.jobs.cam.ac.uk/job/47789/)
 
-🇬🇧[Group Leader in Stem Cell Science](https://www.jobs.cam.ac.uk/job/48231/)
+🇬🇧[Group Leader in Stem Cell Science, Cambridge University](https://www.jobs.cam.ac.uk/job/48231/)
 
 🇸🇪[Group Leader, Department of Medical Biochemistry and Biophysics (MBB), Karolinska Institutet](https://ki.varbi.com/en/what:job/jobID:741513/type:job/where:4/apply:1)
 
@@ -423,7 +423,7 @@
 
 🇬🇧[Principal Laboratory Research Scientist, Francis Crick Institute](https://www.crick.ac.uk/careers-study/vacancies/2024-09-02-principal-laboratory-research-scientist)
 
-🇬🇧[MRC research project, Exeter &Bristol, Neuroscience](https://gw4biomed.ac.uk/epigenetic-mechanisms-in-stem-cell-models-of-rett-syndrome/)
+🇬🇧[MRC research project, Exeter, Neuroscience](https://gw4biomed.ac.uk/epigenetic-mechanisms-in-stem-cell-models-of-rett-syndrome/)
 
 🇨🇳[浙大医学院附属第一医院苏殿三课题组](https://mp.weixin.qq.com/s/F8Qz9xRCS-dgaZxvtMh6VQ)
 
