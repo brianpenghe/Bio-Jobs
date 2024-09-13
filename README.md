@@ -3,6 +3,10 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇬🇧[Two Group Leaders in human developmental biology, Cambridge University Gurdon institute](https://www.jobs.cam.ac.uk/job/47789/)
+
+🇬🇧[Group Leader in Stem Cell Science, Cambridge University](https://www.jobs.cam.ac.uk/job/48231/)
+
 🇸🇪[Group Leader, Department of Medical Biochemistry and Biophysics (MBB), Karolinska Institutet](https://ki.varbi.com/en/what:job/jobID:741513/type:job/where:4/apply:1)
 
 🇺🇸[Tenure-track Assistant Professor in Bioengineering, UCLA](https://recruit.apo.ucla.edu/JPF09613)
@@ -417,6 +421,10 @@
 <details>
   <summary><b>Staff scientists 👩🏻‍🔬</b></summary>
 
+🇬🇧[Principal Laboratory Research Scientist, Francis Crick Institute](https://www.crick.ac.uk/careers-study/vacancies/2024-09-02-principal-laboratory-research-scientist)
+
+🇬🇧[MRC research project, Exeter, Neuroscience](https://gw4biomed.ac.uk/epigenetic-mechanisms-in-stem-cell-models-of-rett-syndrome/)
+
 🇨🇳[浙大医学院附属第一医院苏殿三课题组](https://mp.weixin.qq.com/s/F8Qz9xRCS-dgaZxvtMh6VQ)
 
 🇬🇧[Scientist II – Project Immunology (Full Time - Permanent), Mestag Therapeutics](./FT%20Permanent%20JD%20Scientist%20II%20Immunology-%20Final.pdf)
@@ -534,7 +542,7 @@
 
 <details>
   <summary><b>Postdocs 🪐</b></summary>
-  
+
 🏴󠁧󠁢󠁳󠁣󠁴󠁿[Postdoctoral Research Scientist - Tumour Microenvironment and Cancer Metabolism, CRUK Scotland Institute](https://www.jobs.ac.uk/job/DJN000/postdoctoral-research-scientist-tumour-microenvironment-and-cancer-metabolism?uuid=21acce29-6997-11ef-aadc-027e9b1da9c1&campaign=jbe20240903&source=jbe)
 
 🇫🇷[Postdoctoral Opportunity in Protein Function Prediction at Sorbonne Université](./Postdoctoral%20Opportunity%20in%20Protein%20Function%20Prediction%20at%20Sorbonne%20Université.pdf)
@@ -790,6 +798,12 @@ Foundation Models for Biomedicine](https://snap.stanford.edu/apply/index-postdoc
 
 <details>
   <summary><b>Others ⭐️</b></summary>
+
+🇨🇳[上海市青浦区剑桥宣讲会](上海市青浦区剑桥宣讲.pdf)
+
+🇨🇳[华中科技大学第十三届“国际青年学者东湖论坛·海外分论坛”](https://mp.weixin.qq.com/s/p70u1zMpbPIBIbZba37yvQ)
+
+🇨🇳[山东大学第九届齐鲁青年论坛](https://mp.weixin.qq.com/s/UFcXi9SvLRGL3q1q81Eh4A)
 
 🏴󠁧󠁢󠁥󠁮󠁧󠁿[EMBL International PhD Programme](https://www.embl.org/about/info/embl-international-phd-programme/)
 
