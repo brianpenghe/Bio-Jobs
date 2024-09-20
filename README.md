@@ -421,6 +421,8 @@
 <details>
   <summary><b>Staff scientists 👩🏻‍🔬</b></summary>
 
+🇬🇧[Senior scientist with experience in immunology, GSK](https://jobs.gsk.com/en-gb/jobs/404547?lang=en-us&previousLocale=en-GB)
+
 🇬🇧[Principal Laboratory Research Scientist, Francis Crick Institute](https://www.crick.ac.uk/careers-study/vacancies/2024-09-02-principal-laboratory-research-scientist)
 
 🇬🇧[MRC research project, Exeter, Neuroscience](https://gw4biomed.ac.uk/epigenetic-mechanisms-in-stem-cell-models-of-rett-syndrome/)
