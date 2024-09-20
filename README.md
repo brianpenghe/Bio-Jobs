@@ -3,6 +3,12 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇺🇸[Group leader in development of Instrumented Tissues and their application to inflammation and immunity, Chan Zuckerberg Biohub Chicago](https://job-boards.greenhouse.io/czbiohubchicago/jobs/4219891005)
+
+🇨🇭[Assistant professor for SNSF Starting Grant in Biochemistry](https://jobs.uzh.ch/job-vacancies/assistant-professor-for-snsf-starting-grant-in-biochemistry/0d4d925e-5720-486c-bd97-00b26d7d6f32)
+
+🇬🇧[Lecturer (Assistant Prof Equivalent) in developmental, cell or stem cell biology, genetics or genomics with focus on craniofacial biology and/or human disease modelling, King's College London](https://my.corehr.com/pls/coreportal_kclp/erq_jobspec_version_4.display_form?p_company=1&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=095025)
+
 🇬🇧[Two Group Leaders in human developmental biology, Cambridge University Gurdon institute](https://www.jobs.cam.ac.uk/job/47789/)
 
 🇬🇧[Group Leader in Stem Cell Science, Cambridge University](https://www.jobs.cam.ac.uk/job/48231/)
