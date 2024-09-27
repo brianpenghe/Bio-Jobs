@@ -435,6 +435,10 @@
 <details>
   <summary><b>Staff scientists 👩🏻‍🔬</b></summary>
 
+🇺🇸[AI/ML Engineers, AI/ML Phenomics Team at GSK](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---California---San-Francisco/AI-ML-Engineer_405239)
+
+🇺🇸[Staff Scientist (Research Lab Specialist Senior) at the University of Michigan Medical School](https://careers.umich.edu/job_detail/254332/research-lab-specialist-senior-brcf-proteomics-resource-facility)
+
 🇬🇧[Senior scientist with experience in immunology, GSK](https://jobs.gsk.com/en-gb/jobs/404547?lang=en-us&previousLocale=en-GB)
 
 🇬🇧[Principal Laboratory Research Scientist, Francis Crick Institute](https://www.crick.ac.uk/careers-study/vacancies/2024-09-02-principal-laboratory-research-scientist)
