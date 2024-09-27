@@ -3,6 +3,14 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇨🇦[PI in Biomedical Discovery Research, The Lunenfeld-Tanenbaum Research Institute (LTRI) of Sinai Health, University of Toronto](https://apply.interfolio.com/152420)
+
+🇨🇦[PI positions in Population Health Data Science, The Lunenfeld-Tanenbaum Research Institute (LTRI) of Sinai Health, University of Toronto](https://apply.interfolio.com/152361)
+
+🇺🇸[University of Utah Department of Human Genetics Open Search for Tenure-Track Faculty](https://utah.peopleadmin.com/postings/170913)
+
+🇺🇸[Computational Genomics (together with Department of Bioinformatics)](https://utah.peopleadmin.com/postings/170449)
+
 🇺🇸[Group leader in development of Instrumented Tissues and their application to inflammation and immunity, Chan Zuckerberg Biohub Chicago](https://job-boards.greenhouse.io/czbiohubchicago/jobs/4219891005)
 
 🇨🇭[Assistant professor for SNSF Starting Grant in Biochemistry](https://jobs.uzh.ch/job-vacancies/assistant-professor-for-snsf-starting-grant-in-biochemistry/0d4d925e-5720-486c-bd97-00b26d7d6f32)
@@ -427,6 +435,10 @@
 <details>
   <summary><b>Staff scientists 👩🏻‍🔬</b></summary>
 
+🇺🇸[AI/ML Engineers, AI/ML Phenomics Team at GSK](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---California---San-Francisco/AI-ML-Engineer_405239)
+
+🇺🇸[Staff Scientist (Research Lab Specialist Senior) at the University of Michigan Medical School](https://careers.umich.edu/job_detail/254332/research-lab-specialist-senior-brcf-proteomics-resource-facility)
+
 🇬🇧[Senior scientist with experience in immunology, GSK](https://jobs.gsk.com/en-gb/jobs/404547?lang=en-us&previousLocale=en-GB)
 
 🇬🇧[Principal Laboratory Research Scientist, Francis Crick Institute](https://www.crick.ac.uk/careers-study/vacancies/2024-09-02-principal-laboratory-research-scientist)
@@ -550,6 +562,10 @@
 
 <details>
   <summary><b>Postdocs 🪐</b></summary>
+
+🇨🇦[Postdoctoral Research Program (PRP), Natural Resources Canada](https://nrcan-rncan.hiringplatform.ca/processes/6355-postdoctoral-research-program-prp?locale=en)
+
+🇺🇸[Postdoctoral in Computational Biology, Broad Institute of Harvard and MIT](https://docs.google.com/document/d/1R5kSSUX4A3x0CZYsTUdUtxPJYHRwZ04SIl5G06_MrlQ/preview)
 
 🏴󠁧󠁢󠁳󠁣󠁴󠁿[Postdoctoral Research Scientist - Tumour Microenvironment and Cancer Metabolism, CRUK Scotland Institute](https://www.jobs.ac.uk/job/DJN000/postdoctoral-research-scientist-tumour-microenvironment-and-cancer-metabolism?uuid=21acce29-6997-11ef-aadc-027e9b1da9c1&campaign=jbe20240903&source=jbe)
 
