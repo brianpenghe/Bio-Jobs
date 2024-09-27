@@ -563,6 +563,10 @@
 <details>
   <summary><b>Postdocs 🪐</b></summary>
 
+🇨🇦[Postdoctoral Research Program (PRP), Natural Resources Canada](https://nrcan-rncan.hiringplatform.ca/processes/6355-postdoctoral-research-program-prp?locale=en)
+
+🇺🇸[Postdoctoral in Computational Biology, Broad Institute of Harvard and MIT](https://docs.google.com/document/d/1R5kSSUX4A3x0CZYsTUdUtxPJYHRwZ04SIl5G06_MrlQ/preview)
+
 🏴󠁧󠁢󠁳󠁣󠁴󠁿[Postdoctoral Research Scientist - Tumour Microenvironment and Cancer Metabolism, CRUK Scotland Institute](https://www.jobs.ac.uk/job/DJN000/postdoctoral-research-scientist-tumour-microenvironment-and-cancer-metabolism?uuid=21acce29-6997-11ef-aadc-027e9b1da9c1&campaign=jbe20240903&source=jbe)
 
 🇫🇷[Postdoctoral Opportunity in Protein Function Prediction at Sorbonne Université](./Postdoctoral%20Opportunity%20in%20Protein%20Function%20Prediction%20at%20Sorbonne%20Université.pdf)
