@@ -3,6 +3,14 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇨🇦[PI in Biomedical Discovery Research, The Lunenfeld-Tanenbaum Research Institute (LTRI) of Sinai Health, University of Toronto](https://apply.interfolio.com/152420)
+
+🇨🇦[PI positions in Population Health Data Science, The Lunenfeld-Tanenbaum Research Institute (LTRI) of Sinai Health, University of Toronto](https://apply.interfolio.com/152361)
+
+🇺🇸[University of Utah Department of Human Genetics Open Search for Tenure-Track Faculty](https://utah.peopleadmin.com/postings/170913)
+
+🇺🇸[Computational Genomics (together with Department of Bioinformatics)](https://utah.peopleadmin.com/postings/170449)
+
 🇺🇸[Group leader in development of Instrumented Tissues and their application to inflammation and immunity, Chan Zuckerberg Biohub Chicago](https://job-boards.greenhouse.io/czbiohubchicago/jobs/4219891005)
 
 🇨🇭[Assistant professor for SNSF Starting Grant in Biochemistry](https://jobs.uzh.ch/job-vacancies/assistant-professor-for-snsf-starting-grant-in-biochemistry/0d4d925e-5720-486c-bd97-00b26d7d6f32)
