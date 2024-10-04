@@ -435,6 +435,10 @@
 <details>
   <summary><b>Staff scientists 👩🏻‍🔬</b></summary>
 
+🇬🇧[Cambridge University Senior research technician](https://www.jobs.cam.ac.uk/job/48353/)
+
+🇺🇸[Principal Scientist, Biophysical Characterization at Merck](https://jobs.merck.com/us/en/job/R313622/Principal-Scientist-Biophysical-Characterization)
+
 🇺🇸[AI/ML Engineers, AI/ML Phenomics Team at GSK](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---California---San-Francisco/AI-ML-Engineer_405239)
 
 🇺🇸[Staff Scientist (Research Lab Specialist Senior) at the University of Michigan Medical School](https://careers.umich.edu/job_detail/254332/research-lab-specialist-senior-brcf-proteomics-resource-facility)
