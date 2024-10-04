@@ -435,6 +435,10 @@
 <details>
   <summary><b>Staff scientists 👩🏻‍🔬</b></summary>
 
+🇬🇧[Cambridge University Senior research technician](https://www.jobs.cam.ac.uk/job/48353/)
+
+🇺🇸[Principal Scientist, Biophysical Characterization at Merck](https://jobs.merck.com/us/en/job/R313622/Principal-Scientist-Biophysical-Characterization)
+
 🇺🇸[AI/ML Engineers, AI/ML Phenomics Team at GSK](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---California---San-Francisco/AI-ML-Engineer_405239)
 
 🇺🇸[Staff Scientist (Research Lab Specialist Senior) at the University of Michigan Medical School](https://careers.umich.edu/job_detail/254332/research-lab-specialist-senior-brcf-proteomics-resource-facility)
@@ -562,6 +566,16 @@
 
 <details>
   <summary><b>Postdocs 🪐</b></summary>
+
+🇺🇸[Postdoctoral at Stanford Medicine focusing on tumor-infiltrating lymphocyte (TIL) therapies for melanoma](https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-allison-betof-warner)
+
+🇬🇧[Postdoctoral Fellow - In situ structural biology, AZ Cambridge](https://careers.astrazeneca.com/job/cambridge/postdoctoral-fellow-in-situ-structural-biology-of-sarm1/7684/69550666720)
+
+🇺🇸[Postdoctoral Positions in Biomicrofluidics & Spatial Transcriptomics, Chemistry & Institute for Genomic Biology, University of Illinois](https://hanlab.scs.illinois.edu/1615-2/)
+
+🇺🇸[MD Anderson TRIUMPH postdoc fellowship](https://www.mdanderson.org/education-training/research-training/postdoctoral-training/postdoctoral-fellowships/cprit-triumph-program.html)
+
+🇺🇸[Postdoctoral researchers in AI Modeling and Earth System Science, Digital Agricultural Group at the University of Minnesota – Twin Cities](https://umn-digitalag.com/join-us/)
 
 🇨🇦[Postdoctoral Research Program (PRP), Natural Resources Canada](https://nrcan-rncan.hiringplatform.ca/processes/6355-postdoctoral-research-program-prp?locale=en)
 
