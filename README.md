@@ -567,6 +567,16 @@
 <details>
   <summary><b>Postdocs 🪐</b></summary>
 
+🇺🇸[Postdoctoral at Stanford Medicine focusing on tumor-infiltrating lymphocyte (TIL) therapies for melanoma](https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-allison-betof-warner)
+
+🇬🇧[Postdoctoral Fellow - In situ structural biology, AZ Cambridge](https://careers.astrazeneca.com/job/cambridge/postdoctoral-fellow-in-situ-structural-biology-of-sarm1/7684/69550666720)
+
+🇺🇸[Postdoctoral Positions in Biomicrofluidics & Spatial Transcriptomics, Chemistry & Institute for Genomic Biology, University of Illinois](https://hanlab.scs.illinois.edu/1615-2/)
+
+🇺🇸[MD Anderson TRIUMPH postdoc fellowship](https://www.mdanderson.org/education-training/research-training/postdoctoral-training/postdoctoral-fellowships/cprit-triumph-program.html)
+
+🇺🇸[Postdoctoral researchers in AI Modeling and Earth System Science, Digital Agricultural Group at the University of Minnesota – Twin Cities](https://umn-digitalag.com/join-us/)
+
 🇨🇦[Postdoctoral Research Program (PRP), Natural Resources Canada](https://nrcan-rncan.hiringplatform.ca/processes/6355-postdoctoral-research-program-prp?locale=en)
 
 🇺🇸[Postdoctoral in Computational Biology, Broad Institute of Harvard and MIT](https://docs.google.com/document/d/1R5kSSUX4A3x0CZYsTUdUtxPJYHRwZ04SIl5G06_MrlQ/preview)
