@@ -3,6 +3,14 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇺🇸[Arc Institute Core Investigator](https://arcinstitute.org/programs/core-investigators)
+
+🇨🇳[国家生物信心中心招聘](https://mp.weixin.qq.com/s/ZptulehQ19ADe1_5goiNkw)
+
+🇨🇭[Scientific Junior Group Leaders, Institute of Human Biology (IHB)](https://institutehumanbiology.com/about-the-ihb/careers/scientific-junior-group-leaders/)
+
+🇳🇱[Tenure-track Principal Investigator position – Hubrecht Institute – Utrecht](https://www.hubrecht.eu/job/tenure-track-principal-investigator-position-hubrecht-institute-utrecht/)
+
 🇨🇦[PI in Biomedical Discovery Research, The Lunenfeld-Tanenbaum Research Institute (LTRI) of Sinai Health, University of Toronto](https://apply.interfolio.com/152420)
 
 🇨🇦[PI positions in Population Health Data Science, The Lunenfeld-Tanenbaum Research Institute (LTRI) of Sinai Health, University of Toronto](https://apply.interfolio.com/152361)
@@ -567,6 +575,10 @@
 <details>
   <summary><b>Postdocs 🪐</b></summary>
 
+🇬🇧[ARISE2 - MSCA-funded postdoctoral fellowship programme at EMBL](https://www.embl.org/training/arise2/)
+
+🇺🇸[Postdoc, Grad student at Wu Tsai Neurosciences Institute, Stanford University](./fanglab.jpg)
+
 🇺🇸[Postdoctoral at Stanford Medicine focusing on tumor-infiltrating lymphocyte (TIL) therapies for melanoma](https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-allison-betof-warner)
 
 🇬🇧[Postdoctoral Fellow - In situ structural biology, AZ Cambridge](https://careers.astrazeneca.com/job/cambridge/postdoctoral-fellow-in-situ-structural-biology-of-sarm1/7684/69550666720)
@@ -836,6 +848,12 @@ Foundation Models for Biomedicine](https://snap.stanford.edu/apply/index-postdoc
 
 <details>
   <summary><b>Others ⭐️</b></summary>
+
+🇸🇬[新加坡国立大学焦春磊课题组【CRISPR 发掘与改造】博士招聘](./新加坡国立大学焦春磊课题组博士招聘公告.pdf)
+
+🇬🇧[Early Career Research Fellowships, Churchill College Competition](https://jrf.chu.cam.ac.uk/rf_2025/)
+
+🇺🇸[Research Scientist Intern, Perception (PhD), Meta](https://www.metacareers.com/jobs/537742862058086/)
 
 🇨🇳[上海市青浦区剑桥宣讲会](上海市青浦区剑桥宣讲.pdf)
 
