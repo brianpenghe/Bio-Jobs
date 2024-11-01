@@ -845,6 +845,12 @@ Foundation Models for Biomedicine](https://snap.stanford.edu/apply/index-postdoc
 <details>
   <summary><b>Others ⭐️</b></summary>
 
+🇸🇬[新加坡国立大学焦春磊课题组【CRISPR 发掘与改造】博士招聘](./新加坡国立大学焦春磊课题组博士招聘公告.pdf)
+
+🇬🇧[Early Career Research Fellowships, Churchill College Competition](https://jrf.chu.cam.ac.uk/rf_2025/)
+
+🇺🇸[Research Scientist Intern, Perception (PhD), Meta](https://www.metacareers.com/jobs/537742862058086/)
+
 🇨🇳[上海市青浦区剑桥宣讲会](上海市青浦区剑桥宣讲.pdf)
 
 🇨🇳[华中科技大学第十三届“国际青年学者东湖论坛·海外分论坛”](https://mp.weixin.qq.com/s/p70u1zMpbPIBIbZba37yvQ)
