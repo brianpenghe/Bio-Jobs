@@ -575,6 +575,10 @@
 <details>
   <summary><b>Postdocs 🪐</b></summary>
 
+🇬🇧[ARISE2 - MSCA-funded postdoctoral fellowship programme at EMBL](https://www.embl.org/training/arise2/)
+
+🇺🇸[Postdoc, Grad student at Wu Tsai Neurosciences Institute, Stanford University](./fanglab.jpg)
+
 🇺🇸[Postdoctoral at Stanford Medicine focusing on tumor-infiltrating lymphocyte (TIL) therapies for melanoma](https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-allison-betof-warner)
 
 🇬🇧[Postdoctoral Fellow - In situ structural biology, AZ Cambridge](https://careers.astrazeneca.com/job/cambridge/postdoctoral-fellow-in-situ-structural-biology-of-sarm1/7684/69550666720)
