@@ -3,6 +3,14 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇺🇸[Arc Institute Core Investigator](https://arcinstitute.org/programs/core-investigators)
+
+🇨🇳[国家生物信心中心招聘](https://mp.weixin.qq.com/s/ZptulehQ19ADe1_5goiNkw)
+
+🇨🇭[Scientific Junior Group Leaders, Institute of Human Biology (IHB)](https://institutehumanbiology.com/about-the-ihb/careers/scientific-junior-group-leaders/)
+
+🇳🇱[Tenure-track Principal Investigator position – Hubrecht Institute – Utrecht](https://www.hubrecht.eu/job/tenure-track-principal-investigator-position-hubrecht-institute-utrecht/)
+
 🇨🇦[PI in Biomedical Discovery Research, The Lunenfeld-Tanenbaum Research Institute (LTRI) of Sinai Health, University of Toronto](https://apply.interfolio.com/152420)
 
 🇨🇦[PI positions in Population Health Data Science, The Lunenfeld-Tanenbaum Research Institute (LTRI) of Sinai Health, University of Toronto](https://apply.interfolio.com/152361)
