@@ -86,22 +86,51 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Principal Scientist, Biophysical Characterization at Merck](https://jobs.merck.com/us/en/job/R313622/Principal-Scientist-Biophysical-Characterization)  
+- 🇺🇸 [AI/ML Engineers, AI/ML Phenomics Team at GSK](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---California---San-Francisco/AI-ML-Engineer_405239)  
+- 🇺🇸 [Staff Scientist (Research Lab Specialist Senior) at the University of Michigan Medical School](https://careers.umich.edu/job_detail/254332/research-lab-specialist-senior-brcf-proteomics-resource-facility)  
+- 🇺🇸 [RNA Technology Scientist, Verve Therapeutics](https://www.linkedin.com/jobs/view/3977998423/)  
+- 🇺🇸 [Senior Computational Biologist, Merck Sharp & Dohme](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Senior-Computational-Biologist_R303307-1)  
+- 🇺🇸 [Research Associate I-III Services, Active Motif](https://activemotif.isolvedhire.com/jobs/1117173.html)  
+- 🇺🇸 [Bioinformatics Scientist, Active Motif](https://activemotif.isolvedhire.com/jobs/1183311.html)  
+- 🇺🇸 [Computational Cancer Biologist, Shennon Biotechnologies](https://boards.greenhouse.io/shennonbiotechnologies/jobs/4067332007)  
+- 🇺🇸 [Research Associate/Data Analyst, Department of Oral Health Policy and Epidemiology (OHPE) at the Harvard School of Dental Medicine (HSDM)](https://academicpositions.harvard.edu/postings/13757)  
+- 🇺🇸 [UCLA Academic Administrator III Associate Director of Computational Biology and Neuroscience Programs](https://jobs.sciencecareers.org/job/658614/academic-administrator-iii-associate-director-of-computational-biology-and-neuroscience-programs/?TrackID=364650&BatchID=6085&JobAlertId=418793&cmpid=JBE_TL_20240606_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240606_applynow_job1)  
+
 </details>
 
 <details>
 <summary>🌎 Europe</summary>
+
+- 🇬🇧 [Cambridge University Senior Research Technician](https://www.jobs.cam.ac.uk/job/48353/)  
+- 🇬🇧 [Senior Scientist with experience in immunology, GSK](https://jobs.gsk.com/en-gb/jobs/404547?lang=en-us&previousLocale=en-GB)  
+- 🇬🇧 [Principal Laboratory Research Scientist, Francis Crick Institute](https://www.crick.ac.uk/careers-study/vacancies/2024-09-02-principal-laboratory-research-scientist)  
+- 🇬🇧 [Scientist II – Project Immunology (Full Time - Permanent), Mestag Therapeutics](./FT%20Permanent%20JD%20Scientist%20II%20Immunology-%20Final.pdf)  
+- 🇬🇧 [Research Assistant/Research Associate, Department of Pathology at University of Cambridge](./ResearchAssistant_ResearchAssociate_Aug2024_v3.pdf)  
+- 🇬🇧 [Senior Research Associates - Bioinformatician Team, Institute of Metabolic Science – Metabolic Research Laboratories (IMS-MRL) at University of Cambridge](https://www.nature.com/naturecareers/job/12820129/senior-research-associates-x-3-bioinformatician-team/)  
+- 🇬🇧 [Senior Bioinformatician, Wellcome Sanger Institute](https://www.linkedin.com/posts/open-targets_were-recruiting-activity-7206962029331365889-iTvG/?utm_source=share&utm_medium=member_ios)  
+- 🇬🇧 [Scientist II Immunology, Mestag Therapeutics](https://www.linkedin.com/jobs/view/3966557275/?alternateChannel=search&refId=UrF1Y1LCuZ4P5LrtqpcGwg%3D%3D&trackingId=cChmwhg%2FSB7G3QMAIDbP%2FQ%3D%3D)  
+- 🇬🇧 [Bioinformatician (Fixed Term), Milner Therapeutics Institute (MTI) at University of Cambridge](https://www.jobs.cam.ac.uk/job/47209/)  
+- 🇬🇧 [Senior Research Associate (Single Cell/Transcriptomics Senior Bioinformatician), Cambridge University Institute of Metabolic Science – Metabolic Research Laboratories (IMS-MRL)](https://www.nature.com/naturecareers/job/12819739/senior-research-associate-single-cell-transcriptomics-senior-bioinformatician-/?TrackID=29551&BatchID=488&JobAlertId=38023&cmpid=JBE_TL_20240701_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240701_jobtitle_job1)  
+- 🇬🇧 [Lecturer in Metabolic Biochemistry, University of Reading](https://www.jobs.ac.uk/job/DIC416/lecturer-in-metabolic-biochemistry)  
+- 🇬🇧 [Departmental Lecturer in Engineering Biology (Control Engineering), University of Oxford - Department of Engineering Science](https://www.jobs.ac.uk/job/DIC940/departmental-lecturer-in-engineering-biology-control-engineering)  
+- 🇫🇷 [INSERM - U1312 BRIC Call for applications- junior and senior scientists](https://www.nature.com/naturecareers/job/12818576/call-for-applications-junior-and-senior-scientists/?TrackID=29551&BatchID=456&JobAlertId=38023&cmpid=JBE_TL_20240529_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240529_applynow_job1)  
+- 🇩🇪 [Max Planck Institute for Biology of Ageing (MPIAGE) Bioinformatician (m/f/div)](https://www.nature.com/naturecareers/job/12818607/bioinformatician-m-f-div-/?TrackID=29551&BatchID=457&JobAlertId=38023&cmpid=JBE_TL_20240530_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240530_applynow_job2)  
 
 </details>
 
 <details>
 <summary>🌎 Asia</summary>
 
+- 🇨🇳 [浙大医学院附属第一医院苏殿三课题组](https://mp.weixin.qq.com/s/F8Qz9xRCS-dgaZxvtMh6VQ)  
+- 🇨🇳 [Data Scientist | 百济神州 | 从文献、新闻、patent里挖药物靶点](https://app.mokahr.com/recommendation-recruitment/beigene/98936?recommendCode=NTA1Myk&single=true#/job/bece1a2d-7c69-4d1f-93cd-4e5b78c0819b)  
+
 </details>
 
-<details>
+<!-- <details>
 <summary>🌎 Oceania</summary>
 
-</details>
+</details> -->
 
 ### Postdoc
 **Postdoctoral positions and fellowships**
