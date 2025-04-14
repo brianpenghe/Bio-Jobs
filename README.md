@@ -198,7 +198,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 
 ### PhD
 **PhD studentships and graduate programs**
-<details>
+<!-- <details>
 <summary>🌎 North America</summary>
 
 </details>
@@ -216,14 +216,14 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 Oceania</summary>
 
-</details>
+</details> -->
 
 ### RA/Internship
 **Research assistant and internship opportunities**
-<details>
+<!-- <details>
 <summary>🌎 North America</summary>
 
-</details>
+</details> -->
 
 <details>
 <summary>🌎 Europe</summary>
@@ -232,15 +232,15 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 
 </details>
 
-<details>
+<!-- <details>
 <summary>🌎 Asia</summary>
 
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 <summary>🌎 Oceania</summary>
 
-</details>
+</details> -->
 
 ### Others
 **Miscellaneous opportunities**
@@ -251,20 +251,20 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 
 </details>
 
-<details>
+<!-- <details>
 <summary>🌎 Europe</summary>
 
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 <summary>🌎 Asia</summary>
 
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 <summary>🌎 Oceania</summary>
 
-</details>
+</details> -->
 
 ---
 
