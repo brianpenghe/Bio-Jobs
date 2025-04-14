@@ -137,25 +137,64 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Postdoc, Grad student at Wu Tsai Neurosciences Institute, Stanford University](./fanglab.jpg)  
+- 🇺🇸 [Postdoctoral at Stanford Medicine focusing on tumor-infiltrating lymphocyte (TIL) therapies for melanoma](https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-allison-betof-warner)  
+- 🇺🇸 [Postdoctoral Positions in Biomicrofluidics & Spatial Transcriptomics, Chemistry & Institute for Genomic Biology, University of Illinois](https://hanlab.scs.illinois.edu/1615-2/)  
+- 🇺🇸 [MD Anderson TRIUMPH postdoc fellowship](https://www.mdanderson.org/education-training/research-training/postdoctoral-training/postdoctoral-fellowships/cprit-triumph-program.html)  
+- 🇺🇸 [Postdoctoral researchers in AI Modeling and Earth System Science, Digital Agricultural Group at the University of Minnesota – Twin Cities](https://umn-digitalag.com/join-us/)  
+- 🇺🇸 [Postdoctoral in Computational Biology, Broad Institute of Harvard and MIT](https://docs.google.com/document/d/1R5kSSUX4A3x0CZYsTUdUtxPJYHRwZ04SIl5G06_MrlQ/preview)  
+- 🇺🇸 [Postdoctoral Research Fellow Position in Bacterial Pathogenesis](https://www.uth.edu/postdocs/open-postdoc-positions.htm#d8935ee4-b008-4d84-aef5-457cd5d0b301)  
+- 🇺🇸 [Postdoc in High-Dimensional Statistics/Computational Biology, Harvard T.H. Chan School of Public Health](https://academicpositions.harvard.edu/postings/13972)  
+- 🇺🇸 [Multiple Postdoctoral Research Fellows and Research Associates in the areas of foundation AI, Harvard Medical School](https://zitniklab.hms.harvard.edu/jobs/)  
+- 🇺🇸 [Postdoc in Biostatistics and Epidemiology – Center for Tuberculosis Institute for Global Health Sciences (IGHS), UC San Francisco](./Center%20for%20TB%20Postdoc.pdf)  
+- 🇺🇸 [Postdoc position in systems biology, Chan Zuckerberg Biohub Chicago](./CZ_Postdoc_Son_v4.pdf)  
+- 🇺🇸 [✨UCSF postdoc in single-cell and organoid perturbations✨](https://opportunities.ucsf.edu/content/open-postdoctoral-position-human-organoids-and-single-cell-multiomics-university-california)  
+- 🇺🇸 [✨UCSF postdoc in single-cell and spatial data analysis✨](https://opportunities.ucsf.edu/content/open-postdoctoral-position-computational-analyses-single-cell-multiomic-and-spatial-data)  
+- 🇺🇸 [Postdoc, Qing Yi group, Weill Cornell Medicine](Qing_Yi_postdoc.pdf)  
+- 🇺🇸 [Research Fellow in Machine Learning and Protein Design, Biogen, Cambridge, MA](https://www.linkedin.com/jobs/view/3973364853/)  
+- 🇺🇸 [Novartis Data Science Innovation Postdoctoral Fellow: Cardiac AI](https://novartis.wd3.myworkdayjobs.com/es/Novartis_Careers/job/Cambridge-USA/Data-Science-Innovation-Postdoctoral-Fellow--Cardiac-AI_REQ-10014140)  
+- 🇺🇸 [Post Doctoral Researcher, Data Science – Artificial Intelligence for Computer Vision, Johnson & Johnson Innovative Medicine (J&J IM)](https://jobs.jnj.com/en/jobs/2406195057w/post-doctoral-researcher-data-science-artificial-intelligence-for-computer-vision/)  
+- 🇨🇦 [Postdoctoral Research Program (PRP), Natural Resources Canada](https://nrcan-rncan.hiringplatform.ca/processes/6355-postdoctoral-research-program-prp?locale=en)  
+
 </details>
 
 <details>
 <summary>🌎 Europe</summary>
 
-🏴󠁧󠁢󠁳󠁣󠁴󠁿[Postdoctoral Research Fellow in Pathogen Genomics | Professor Deborah Williamson and Professor Matt Holden | School of Medicine, University of St Andrews](https://www.jobs.ac.uk/job/DMR693/research-fellow-ar3117sb)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿[Postdoctoral Research Fellow in Pathogen Genomics | Professor Deborah Williamson and Professor Matt Holden | School of Medicine, University of St Andrews](https://www.jobs.ac.uk/job/DMR693/research-fellow-ar3117sb)
 
-🇬🇧[Postdoctoral Fellow in early detection, cancer genomics and long-read sequencing data analysis | Cortes-Ciriano group | EMBL-EBI](https://embl.wd103.myworkdayjobs.com/en-US/EMBL/job/Postdoctoral-Fellow_JR351)
+- 🇬🇧[Postdoctoral Fellow in early detection, cancer genomics and long-read sequencing data analysis | Cortes-Ciriano group | EMBL-EBI](https://embl.wd103.myworkdayjobs.com/en-US/EMBL/job/Postdoctoral-Fellow_JR351)
+
+- 🇬🇧 [ARISE2 - MSCA-funded postdoctoral fellowship programme at EMBL](https://www.embl.org/training/arise2/)  
+- 🇬🇧 [Postdoctoral Fellow - In situ structural biology, AZ Cambridge](https://careers.astrazeneca.com/job/cambridge/postdoctoral-fellow-in-situ-structural-biology-of-sarm1/7684/69550666720)  
+- 🇬🇧 [UCL Research Assistant / Research Fellow in Neuroembryology](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?nPostingId=9940&nPostingTargetId=25580&id=Q1KFK026203F3VBQBLO8M8M07&LG=UK&languageSelect=UK&mask=ext)  
+- 🇬🇧 [Research Associate in Engineering Biology for Magnetic Control, The University of Edinburgh](https://www.jobs.ac.uk/job/DIW367/research-associate-in-engineering-biology-for-magnetic-control)  
+- 🇬🇧 [Research Fellow/Associate, Imperial College London, Bezos Centre for Sustainable Protein](https://www.jobs.ac.uk/job/DIW113/research-fellow-associate)  
+- 🇬🇧 [Senior Postdoctoral Scientist for Synthetic Biologics, Rosalind Franklin Institute](https://www.jobs.ac.uk/job/DIM824/senior-postdoctoral-scientist-for-synthetic-biologics-10334)  
+- 🇩🇰 [Fully funded Postdoc position in Neurobiology, Aarhus University](https://www.nature.com/naturecareers/job/12819840/fully-funded-postdoc-position-in-neurobiology/)  
+- 🇩🇪 [Postdoctoral Fellow, Systems Genetics and Precision Health, EMBL Heidelberg](https://www.embl.org/jobs/position/HD02665)  
+- 🇫🇷 [Postdoctoral Opportunity in Protein Function Prediction at Sorbonne Université](./Postdoctoral%20Opportunity%20in%20Protein%20Function%20Prediction%20at%20Sorbonne%20Université.pdf)  
+- 🇫🇷 [Postdoctoral Organic/Medicinal Chemist at EMBL Grenoble](https://www.embl.org/jobs/position/GR00232)  
+- 🇨🇭 [Data Science Innovation Fellow](https://www.novartis.com/careers/career-search/job/details/req-10013704-data-science-innovation-fellow)  
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Postdoctoral Research Scientist - Tumour Microenvironment and Cancer Metabolism, CRUK Scotland Institute](https://www.jobs.ac.uk/job/DJN000/postdoctoral-research-scientist-tumour-microenvironment-and-cancer-metabolism?uuid=21acce29-6997-11ef-aadc-027e9b1da9c1&campaign=jbe20240903&source=jbe)  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [EMBL-EBI/Sanger postdoctoral fellowship (ESPOD)](https://www.ebi.ac.uk/research/postdocs/espods)  
+
 </details>
 
 <details>
 <summary>🌎 Asia</summary>
 
+- 🇨🇳 [上交全球健康学院诚招博士后](上交全球健康学院.jpg)  
+- 🇸🇬 [Research Fellow / Clinical Research Fellow in Myopia, National University of Singapore](https://www.mycareersfuture.gov.sg/job/sciences/research-fellow-national-university-singapore-bc3fcc769e0ff77c5a7eead7373c7cf8?source=MCF&event=Search)  
+- 🇸🇬 [Research Fellow in Visual Neurosciences, National University of Singapore](https://www.mycareersfuture.gov.sg/job/sciences/research-fellow-national-university-singapore-0cf0fb27e1631f1bcbdd11eade3a6bfd?source=MCF&event=Search)  
+- 🇭🇰 [AI for Computational Biology Postdoc, Department of Computer Science at University of Hong Kong](https://mp.weixin.qq.com/s/CjCxol6_q5KwSECZUr_p8Q)  
+
 </details>
 
-<details>
+<!-- <details>
 <summary>🌎 Oceania</summary>
 
-</details>
+</details> -->
 
 ### PhD
 **PhD studentships and graduate programs**
