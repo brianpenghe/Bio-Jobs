@@ -137,6 +137,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Michigan Innovation and Entrepreneurship Fellowship](https://biointerfaces.umich.edu/fellowship/)
 - 🇺🇸 [Postdoc, Grad student at Wu Tsai Neurosciences Institute, Stanford University](./fanglab.jpg)  
 - 🇺🇸 [Postdoctoral at Stanford Medicine focusing on tumor-infiltrating lymphocyte (TIL) therapies for melanoma](https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-allison-betof-warner)  
 - 🇺🇸 [Postdoctoral Positions in Biomicrofluidics & Spatial Transcriptomics, Chemistry & Institute for Genomic Biology, University of Illinois](https://hanlab.scs.illinois.edu/1615-2/)  
@@ -161,10 +162,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Novo Nordisk Postdoctoral Research Fellow | Radcliffe Department of Medicine, University of Oxford](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=178554)
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿[Postdoctoral Research Fellow in Pathogen Genomics | Professor Deborah Williamson and Professor Matt Holden | School of Medicine, University of St Andrews](https://www.jobs.ac.uk/job/DMR693/research-fellow-ar3117sb)
-
 - 🇬🇧[Postdoctoral Fellow in early detection, cancer genomics and long-read sequencing data analysis | Cortes-Ciriano group | EMBL-EBI](https://embl.wd103.myworkdayjobs.com/en-US/EMBL/job/Postdoctoral-Fellow_JR351)
-
 - 🇬🇧 [ARISE2 - MSCA-funded postdoctoral fellowship programme at EMBL](https://www.embl.org/training/arise2/)  
 - 🇬🇧 [Postdoctoral Fellow - In situ structural biology, AZ Cambridge](https://careers.astrazeneca.com/job/cambridge/postdoctoral-fellow-in-situ-structural-biology-of-sarm1/7684/69550666720)  
 - 🇬🇧 [UCL Research Assistant / Research Fellow in Neuroembryology](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?nPostingId=9940&nPostingTargetId=25580&id=Q1KFK026203F3VBQBLO8M8M07&LG=UK&languageSelect=UK&mask=ext)  
