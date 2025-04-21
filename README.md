@@ -247,6 +247,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+🇺🇸/🇨🇳[Chief Editor | Nature Biomedical Engineering](https://springernature.wd3.myworkdayjobs.com/en-US/SpringerNatureCareers/job/New-York/Chief-Editor--Nature-Biomedical-Engineering_JR102620)
 🇺🇸[Associate or Senior Editor | Nature Genetics and Nature Communication](https://www.nature.com/naturecareers/job/12838754/associate-or-senior-editor-nature-genetics-and-nature-communication/?TrackID=27704&BatchID=773&JobAlertId=35682&cmpid=JBE_TL_20250412_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20250412_jobtitle_job1)
 
 </details>
