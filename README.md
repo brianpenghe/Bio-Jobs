@@ -49,10 +49,10 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 Europe</summary>
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿[Group Leader in Generative and Synthetic Genomics | Sanger Institute](https://sanger.wd103.myworkdayjobs.com/en-US/WellcomeSangerInstitute/job/Hinxton-Cambridgeshire/Group-Leader---Generative-and-Synthetic-Genomics_JR102799)
-
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿[Protein Function Content Team Leader | EMBL-EBI](https://embl.wd103.myworkdayjobs.com/en-US/EMBL/job/Protein-Function-Content-Team-Leader_JR343)
-
+- 🇨🇭 [Assistant professor in AI-oriented Computational Biology | Department of Computational Biology, University of Lausanne (UNIL)](https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=universitdP&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=fr%5fFR&career_job_req_id=22212&selected_lang=fr_FR&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=Europe/Zurich&_s.crb=wOHdnQ6kHT4w3w7tDfxMLsCeIfAJq%2f35KHss2OhCupw%3d)
+- 🇸🇪 [Assistant professor in Vivo-mimetic Technology | KTH Royal Institute of Technology, School of Engineering Sciences](https://www.kth.se/lediga-jobb/795970?l=en)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Group Leader in Generative and Synthetic Genomics | Sanger Institute](https://sanger.wd103.myworkdayjobs.com/en-US/WellcomeSangerInstitute/job/Hinxton-Cambridgeshire/Group-Leader---Generative-and-Synthetic-Genomics_JR102799)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Protein Function Content Team Leader | EMBL-EBI](https://embl.wd103.myworkdayjobs.com/en-US/EMBL/job/Protein-Function-Content-Team-Leader_JR343)
 - 🇨🇭 [Scientific Junior Group Leaders, Institute of Human Biology (IHB)](https://institutehumanbiology.com/about-the-ihb/careers/scientific-junior-group-leaders/)  
 - 🇳🇱 [Tenure-track Principal Investigator position – Hubrecht Institute – Utrecht](https://www.hubrecht.eu/job/tenure-track-principal-investigator-position-hubrecht-institute-utrecht/)  
 - 🇬🇧 [Lecturer in developmental, cell or stem cell biology, King's College London](https://my.corehr.com/pls/coreportal_kclp/erq_jobspec_version_4.display_form?p_company=1&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=095025)  
