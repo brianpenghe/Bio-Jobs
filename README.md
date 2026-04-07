@@ -18,11 +18,15 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 
 ## Job Postings
 
+*Newest postings first within each regional list—add new rows at the top.*
+
 ### Team Leader/PI
 **Team Leaders and Principal Investigators**
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Tenure-Track Assistant Professor, Department of Microbiology and Immunology, Weill Cornell Medicine, New York](https://www.nature.com/naturecareers/job/12857225/tenure-track-assistant-professor-department-of-microbiology-and-immunology/)  
+- 🇺🇸 [Tenure-track Assistant Professor, Biologic and Materials Sciences & Prosthodontics (BMSP, M-PACT), University of Michigan School of Dentistry, Ann Arbor](https://apply.interfolio.com/183598)  
 - 🇺🇸 [Arc Institute Core Investigator](https://arcinstitute.org/programs/core-investigators)  
 - 🇨🇦 [PI in Biomedical Discovery Research, The Lunenfeld-Tanenbaum Research Institute (LTRI) of Sinai Health, University of Toronto](https://apply.interfolio.com/152420)  
 - 🇨🇦 [PI positions in Population Health Data Science, The Lunenfeld-Tanenbaum Research Institute (LTRI) of Sinai Health, University of Toronto](https://apply.interfolio.com/152361)  
