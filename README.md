@@ -47,7 +47,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 </details>
 
 <details>
-<summary>🌎 Europe</summary>
+<summary>🌍 Europe</summary>
 
 - 🇨🇭 [Assistant professor in AI-oriented Computational Biology | Department of Computational Biology, University of Lausanne (UNIL)](https://career5.successfactors.eu/career?career%5fns=job%5flisting&company=universitdP&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=fr%5fFR&career_job_req_id=22212&selected_lang=fr_FR&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=Europe/Zurich&_s.crb=wOHdnQ6kHT4w3w7tDfxMLsCeIfAJq%2f35KHss2OhCupw%3d)
 - 🇸🇪 [Assistant professor in Vivo-mimetic Technology | KTH Royal Institute of Technology, School of Engineering Sciences](https://www.kth.se/lediga-jobb/795970?l=en)
@@ -64,7 +64,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 </details>
 
 <details>
-<summary>🌎 Asia</summary>
+<summary>🌏 Asia & Oceania</summary>
 
 - 🇨🇳 [国家生物信息中心招聘](https://mp.weixin.qq.com/s/ZptulehQ19ADe1_5goiNkw)  
 - 🇨🇳 [中国科学院杭州医学研究所诚招PI](./files/中科院杭州医学.pdf)  
@@ -75,11 +75,6 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🇸🇬 [Nanyang Assistant/Associate Professorship (NAP), Nanyang Technological University (NTU)](https://www.nature.com/naturecareers/job/12820900/nanyang-assistant-associate-professorship-nap-/?TrackID=29551&BatchID=518&JobAlertId=38023&cmpid=JBE_TL_20240731_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240731_jobtitle_job1) 
 
 </details>
-
-<!-- <details>
-<summary>🌎 Oceania</summary>
-
-</details> -->
 
 ### Staff Scientist
 **Research positions in Academia or Industry**
@@ -100,7 +95,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 </details>
 
 <details>
-<summary>🌎 Europe</summary>
+<summary>🌍 Europe</summary>
 
 - 🇬🇧 [Cambridge University Senior Research Technician](https://www.jobs.cam.ac.uk/job/48353/)  
 - 🇬🇧 [Senior Scientist with experience in immunology, GSK](https://jobs.gsk.com/en-gb/jobs/404547?lang=en-us&previousLocale=en-GB)  
@@ -120,17 +115,12 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 </details>
 
 <details>
-<summary>🌎 Asia</summary>
+<summary>🌏 Asia & Oceania</summary>
 
 - 🇨🇳 [浙大医学院附属第一医院苏殿三课题组](https://mp.weixin.qq.com/s/F8Qz9xRCS-dgaZxvtMh6VQ)  
 - 🇨🇳 [Data Scientist | 百济神州 | 从文献、新闻、patent里挖药物靶点](https://app.mokahr.com/recommendation-recruitment/beigene/98936?recommendCode=NTA1Myk&single=true#/job/bece1a2d-7c69-4d1f-93cd-4e5b78c0819b)  
 
 </details>
-
-<!-- <details>
-<summary>🌎 Oceania</summary>
-
-</details> -->
 
 ### Postdoc
 **Postdoctoral positions and fellowships**
@@ -160,7 +150,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 </details>
 
 <details>
-<summary>🌎 Europe</summary>
+<summary>🌍 Europe</summary>
 
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Novo Nordisk Postdoctoral Research Fellow | Radcliffe Department of Medicine, University of Oxford](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=178554)
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿[Postdoctoral Research Fellow in Pathogen Genomics | Professor Deborah Williamson and Professor Matt Holden | School of Medicine, University of St Andrews](https://www.jobs.ac.uk/job/DMR693/research-fellow-ar3117sb)
@@ -182,7 +172,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 </details>
 
 <details>
-<summary>🌎 Asia</summary>
+<summary>🌏 Asia & Oceania</summary>
 
 - 🇨🇳 [上交全球健康学院诚招博士后](上交全球健康学院.jpg)  
 - 🇸🇬 [Research Fellow / Clinical Research Fellow in Myopia, National University of Singapore](https://www.mycareersfuture.gov.sg/job/sciences/research-fellow-national-university-singapore-bc3fcc769e0ff77c5a7eead7373c7cf8?source=MCF&event=Search)  
@@ -190,11 +180,6 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🇭🇰 [AI for Computational Biology Postdoc, Department of Computer Science at University of Hong Kong](https://mp.weixin.qq.com/s/CjCxol6_q5KwSECZUr_p8Q)  
 
 </details>
-
-<!-- <details>
-<summary>🌎 Oceania</summary>
-
-</details> -->
 
 ### PhD
 **PhD studentships and graduate programs**
@@ -204,17 +189,12 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 </details>
 
 <details>
-<summary>🌎 Europe</summary>
+<summary>🌍 Europe</summary>
 
 </details>
 
 <details>
-<summary>🌎 Asia</summary>
-
-</details>
-
-<details>
-<summary>🌎 Oceania</summary>
+<summary>🌏 Asia & Oceania</summary>
 
 </details> -->
 
@@ -226,19 +206,14 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 </details> -->
 
 <details>
-<summary>🌎 Europe</summary>
+<summary>🌍 Europe</summary>
 
 🇩🇪🇬🇧🇫🇷🇪🇸🇮🇹[EMBL TechDev Internship Programme](https://embl.wd103.myworkdayjobs.com/en-US/EMBL/job/EMBL-TechDev-Internships_JR1401)
 
 </details>
 
 <!-- <details>
-<summary>🌎 Asia</summary>
-
-</details> -->
-
-<!-- <details>
-<summary>🌎 Oceania</summary>
+<summary>🌏 Asia & Oceania</summary>
 
 </details> -->
 
@@ -253,17 +228,12 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 </details>
 
 <!-- <details>
-<summary>🌎 Europe</summary>
+<summary>🌍 Europe</summary>
 
 </details> -->
 
 <!-- <details>
-<summary>🌎 Asia</summary>
-
-</details> -->
-
-<!-- <details>
-<summary>🌎 Oceania</summary>
+<summary>🌏 Asia & Oceania</summary>
 
 </details> -->
 
