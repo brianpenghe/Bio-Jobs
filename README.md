@@ -25,6 +25,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Senior faculty (associate/full professor), Thomas C. Jenkins Department of Biophysics, Johns Hopkins University, Baltimore](https://www.nature.com/naturecareers/job/12858285/senior-faculty-position-in-biophysics/)  
+- 🇺🇸 [Junior faculty (tenure-track assistant professor), Thomas C. Jenkins Department of Biophysics, Johns Hopkins University, Baltimore](https://www.nature.com/naturecareers/job/12858284/junior-faculty-position-in-biophysics/)  
 - 🇺🇸 [Tenure-Track Assistant Professor, Department of Microbiology and Immunology, Weill Cornell Medicine, New York](https://www.nature.com/naturecareers/job/12857225/tenure-track-assistant-professor-department-of-microbiology-and-immunology/)  
 - 🇺🇸 [Tenure-track Assistant Professor, Biologic and Materials Sciences & Prosthodontics (BMSP, M-PACT), University of Michigan School of Dentistry, Ann Arbor](https://apply.interfolio.com/183598)  
 - 🇺🇸 [Arc Institute Core Investigator](https://arcinstitute.org/programs/core-investigators)  
