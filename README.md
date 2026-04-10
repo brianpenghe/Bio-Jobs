@@ -25,6 +25,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Faculty, Center for Innate Immunity and Inflammation (open rank, tenure-track), OSUCCC – James / Pelotonia Institute for Immuno-Oncology, Ohio State University, Columbus](https://jobs.sciencecareers.org/job/677603/faculty-center-for-innate-immunity-and-inflammation-open-rank-track-/?TrackID=364650&BatchID=6756&JobAlertId=418793&cmpid=JBE_TL_20260408_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20260408_applynow_job1)  
 - 🇺🇸 [Senior faculty (associate/full professor), Thomas C. Jenkins Department of Biophysics, Johns Hopkins University, Baltimore](https://www.nature.com/naturecareers/job/12858285/senior-faculty-position-in-biophysics/)  
 - 🇺🇸 [Junior faculty (tenure-track assistant professor), Thomas C. Jenkins Department of Biophysics, Johns Hopkins University, Baltimore](https://www.nature.com/naturecareers/job/12858284/junior-faculty-position-in-biophysics/)  
 - 🇺🇸 [Tenure-Track Assistant Professor, Department of Microbiology and Immunology, Weill Cornell Medicine, New York](https://www.nature.com/naturecareers/job/12857225/tenure-track-assistant-professor-department-of-microbiology-and-immunology/)  
