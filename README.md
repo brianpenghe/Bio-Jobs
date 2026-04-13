@@ -25,6 +25,11 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Tenure-track faculty (3 positions), AI and machine learning for drug discovery — cluster hire (College of Pharmacy, LSI, Medical School), University of Michigan, Ann Arbor](https://careers.umich.edu/job_detail/268854/tenure-track-faculty-positions-artificial-intelligence-and-machine-learning-drug) · [apply via Interfolio](https://apply.interfolio.com/174339) · [Nature ad (expired)](https://www.nature.com/naturecareers/job/12845071/tenure-track-faculty-positions-in-artificial-intelligence-and-machine-learning-for-drug-discovery/)  
+- 🇺🇸 [Faculty position (open rank) in arthritis research, Department of Biomedical Engineering (primary) & Orthopaedic Surgery, Cleveland Clinic, Cleveland](https://www.lerner.ccf.org/careers/faculty/) · [BME careers](https://www.lerner.ccf.org/biomedical-engineering/careers/) · [Nature “joint diseases” ad (expired)](https://www.nature.com/naturecareers/job/12839079/faculty-position-in-joint-diseases-research/)  
+- 🇺🇸 [Assistant or Associate Professor, research faculty (tenure track), Division of Human Genetics, Cincinnati Children’s Hospital Medical Center / University of Cincinnati — JR151441](https://jobs.cincinnatichildrens.org/us/en/job/JR151441/Human-Genetics-Assistant-or-Associate-Professor-Research-Tenure) · [Faculty jobs at Cincinnati Children’s](https://jobs.cincinnatichildrens.org/us/en/c/faculty-jobs)  
+- 🇺🇸 [Assistant Professor (QE9855), tenure track — Biomedical & Translational Sciences, USD Sanford School of Medicine, Vermillion](https://yourfuture.sdbor.edu/postings/47678)  
+- 🇺🇸 [Immunology faculty (assistant/associate professor, research faculty), Kao Autoimmunity Institute / Comprehensive Transplant Center, Cedars-Sinai Health Sciences University, Los Angeles](https://careers.cshs.org/job/los-angeles/kao-autoimmunity-institute-kai-transplant-immunology-research-faculty/252/93125813984)  
 - 🇺🇸 [Faculty, Center for Innate Immunity and Inflammation (open rank, tenure-track), OSUCCC – James / Pelotonia Institute for Immuno-Oncology, Ohio State University, Columbus](https://jobs.sciencecareers.org/job/677603/faculty-center-for-innate-immunity-and-inflammation-open-rank-track-/?TrackID=364650&BatchID=6756&JobAlertId=418793&cmpid=JBE_TL_20260408_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20260408_applynow_job1)  
 - 🇺🇸 [Senior faculty (associate/full professor), Thomas C. Jenkins Department of Biophysics, Johns Hopkins University, Baltimore](https://www.nature.com/naturecareers/job/12858285/senior-faculty-position-in-biophysics/)  
 - 🇺🇸 [Junior faculty (tenure-track assistant professor), Thomas C. Jenkins Department of Biophysics, Johns Hopkins University, Baltimore](https://www.nature.com/naturecareers/job/12858284/junior-faculty-position-in-biophysics/)  
@@ -73,6 +78,11 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇭🇰 [Clinical Professor / Clinical Associate Professor / Clinical Assistant Professor (several posts), HKUST School of Medicine](https://hrmsxprod.psft.ust.hk:8044/psp/hrmsxprod/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_CE.GBL?Page=HRS_CE_JOB_DTL&Action=A&JobOpeningId=11094&SiteId=1000&PostingSeq=1) · [all HKUST academic openings](https://hkustcareers.hkust.edu.hk/join-us/current-opening/academic-careers)  
+- 🇭🇰 [Professor / Associate Professor / Assistant Professor — Biomedical Sciences (several posts), HKUST School of Medicine](https://hrmsxprod.psft.ust.hk:8044/psp/hrmsxprod/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_CE.GBL?Page=HRS_CE_JOB_DTL&Action=A&JobOpeningId=11095&SiteId=1000&PostingSeq=1)  
+- 🇨🇳 [Faculty positions, Center for Interdisciplinary Studies (CIS), Westlake University, Hangzhou](https://www.nature.com/naturecareers/job/12854539/faculty-positions-in-the-center-for-interdisciplinary-studies-cis-westlake-university/)  
+- 🇨🇳 [Faculty positions, Center for Machine Learning Research (CMLR), Peking University, Beijing](https://www.nature.com/naturecareers/job/12854440/faculty-positions-at-the-center-for-machine-learning-research-cmlr-peking-university/)  
+- 🇨🇳 [Global recruitment — faculty, postdocs, and specialists, Hangzhou Institute of Medicine, Chinese Academy of Sciences (HIMCAS)](https://www.nature.com/naturecareers/job/12840795/global-recruitment-for-faculty-postdocs-and-specialists-at-hangzhou-institute-of-medicine-cas-/)  
 - 🇨🇳 [国家生物信息中心招聘](https://mp.weixin.qq.com/s/ZptulehQ19ADe1_5goiNkw)  
 - 🇨🇳 [中国科学院杭州医学研究所诚招PI](./files/中科院杭州医学.pdf)  
 - 🇨🇳 [深圳大学青年科学家论坛](./files/深圳大学.jpeg)  
