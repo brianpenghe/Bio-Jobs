@@ -10,7 +10,6 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
   - [PhD](#phd)
   - [RA/Internship](#rainternship)
   - [Others](#others)
-- [Career Seminars](#career-seminars)
 
 ---
 
@@ -262,10 +261,3 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 </details> -->
 
 ---
-
-## Career Seminars
-**Upcoming virtual/in-person events**
-
----
-
-📧 **Contact**: [biojobs25@gmail.com](mailto:biojobs25@gmail.com)
