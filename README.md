@@ -1,7 +1,5 @@
 # Bio Jobs
 
-![Bio Jobs Header](./figs/BioJobs.svg)
-
 A curated list of opportunities in biology/medicine/bioinformatics, including academic positions, industry roles, and career development resources.
 
 ## Table of Contents 📑
@@ -267,13 +265,6 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 
 ## Career Seminars
 **Upcoming virtual/in-person events**
-
----
-
-## RedNote 小红书号
-<a href="https://www.xiaohongshu.com/user/profile/669ab586000000000b032fa1?xsec_token=YB7hUMe2ZuR_hSg6S0gpx-RIj6RDHVHm84jOoNc-TOqmY=&xsec_source=app_share&xhsshare=CopyLink&appuid=669ab586000000000b032fa1&apptime=1744661962&share_id=298f2e5be8b847669a828090e5756daf">
-<img src="./figs/Rednote.JPG" width="40%" />
-</a>
 
 ---
 
