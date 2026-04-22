@@ -205,6 +205,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇸🇬 [PhD and postdoctoral positions — neutrophil biology (Hsu Lab), Immunology Translational Research Programme, Yong Loo Lin School of Medicine, NUS](https://lnkd.in/ez7v5GXY) · [recruitment flyer](./files/NUS-Hsu-Lab-neutrophil-phd-postdoc.png)  
 - 🇨🇳 [上交全球健康学院诚招博士后](上交全球健康学院.jpg)  
 - 🇸🇬 [Research Fellow / Clinical Research Fellow in Myopia, National University of Singapore](https://www.mycareersfuture.gov.sg/job/sciences/research-fellow-national-university-singapore-bc3fcc769e0ff77c5a7eead7373c7cf8?source=MCF&event=Search)  
 - 🇸🇬 [Research Fellow in Visual Neurosciences, National University of Singapore](https://www.mycareersfuture.gov.sg/job/sciences/research-fellow-national-university-singapore-0cf0fb27e1631f1bcbdd11eade3a6bfd?source=MCF&event=Search)  
@@ -214,20 +215,12 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 
 ### PhD
 **PhD studentships and graduate programs**
-<!-- <details>
-<summary>🌎 North America</summary>
-
-</details>
-
-<details>
-<summary>🌍 Europe</summary>
-
-</details>
-
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
-</details> -->
+- 🇸🇬 [PhD and postdoctoral positions — neutrophil biology (Hsu Lab), Immunology Translational Research Programme, Yong Loo Lin School of Medicine, NUS](https://lnkd.in/ez7v5GXY) · [recruitment flyer](./files/NUS-Hsu-Lab-neutrophil-phd-postdoc.png)  
+
+</details>
 
 ### RA/Internship
 **Research assistant and internship opportunities**
