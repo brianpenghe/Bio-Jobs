@@ -218,6 +218,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇭🇰 [HKU Presidential PhD Scholar Programme (HKU-PS Programme)](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme)  
 - 🇸🇬 [PhD and postdoctoral positions — neutrophil biology (Hsu Lab), Immunology Translational Research Programme, Yong Loo Lin School of Medicine, NUS](https://lnkd.in/ez7v5GXY) · [recruitment flyer](./files/NUS-Hsu-Lab-neutrophil-phd-postdoc.png)  
 
 </details>
