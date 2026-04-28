@@ -186,6 +186,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Postdoctoral Research Fellow — single-cell genomics / chromatin spatial organization & gene regulation (Hu Lab), Department of Genomic Sciences and Systems Biology, Cleveland Clinic Research, Cleveland](./Postdoc_HuLab_ClevelandClinic.pdf) · apply: [hum@ccf.org](mailto:hum@ccf.org) · deadline June 30, 2026  
 - 🇺🇸 [CURE Epilepsy — Taking Flight Award (invited full proposals due Mar 24, 2026)](https://www.cureepilepsy.org/for-researchers/grants-program/)  
 - 🇺🇸 [Partnership for Clean Competition — anti-doping research grants & postdoctoral fellowships (full applications due Mar 1 & Sep 1)](https://cleancompetition.org/application-center)  
 - 🇺🇸 [Cancer Research Institute — CRI Irvington Postdoctoral Fellowship (deadline Mar 2, 2026)](https://www.cancerresearch.org/cri-irvington-postdoctoral-fellowship)  
