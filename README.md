@@ -157,6 +157,29 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [CURE Epilepsy — Taking Flight Award (invited full proposals due Mar 24, 2026)](https://www.cureepilepsy.org/for-researchers/grants-program/)  
+- 🇺🇸 [Partnership for Clean Competition — anti-doping research grants & postdoctoral fellowships (full applications due Mar 1 & Sep 1)](https://cleancompetition.org/application-center)  
+- 🇺🇸 [Cancer Research Institute — CRI Irvington Postdoctoral Fellowship (deadline Mar 2, 2026)](https://www.cancerresearch.org/cri-irvington-postdoctoral-fellowship)  
+- 🇺🇸 [Cancer Research Institute — Immuno-Informatics Postdoctoral Fellowship (deadline Mar 2, 2026)](https://www.cancerresearch.org/immuno-informatics-postdoctoral-fellowship)  
+- 🇺🇸 [Craig H. Neilsen Foundation — Psychosocial Research postdoctoral fellowship (LOI closes Mar 5, 2026)](https://chnfoundation.org/programs/psychosocial-research/)  
+- 🇺🇸 [Desmoid Tumor Research Foundation — research grants (LOI Mar 16; full application Apr 20, 2026)](https://www.desmoidtumorresearch.org/research-grants)  
+- 🇺🇸 [Prostate Cancer Foundation & Pfizer — PCF Challenge Awards (deadline Mar 16, 2026)](https://www.pcf.org/collaborate-with-us/challenge-awards/)  
+- 🇺🇸 [Damon Runyon Cancer Research Foundation — Fellowship Award (deadline Mar 16, 2026)](https://www.damonrunyon.org/for-scientists/apply-for-funding/damon-runyon-fellowship-award/)  
+- 🇺🇸 [MTF Biologics — administered research grants (LOI Mar 23, 2026)](https://www.mtfbiologics.org/grants-research)  
+- 🇺🇸 [Ovarian Cancer Research Alliance — Mentored Investigator Award (LOI Mar 25, 2026)](https://ocrahope.org/for-researchers/research-funding/)  
+- 🇺🇸 [Zuckerman Postdoctoral Scholars Program (deadline Mar 30, 2026)](https://zuckermaninstitute.columbia.edu/zuckerman-postdoctoral-scholars-program)  
+- 🇺🇸 [American Australian Association — EDU Australia to United States fellowships (deadline Mar 31, 2026)](https://www.americanaustralian.org/edu-fellowships)  
+- 🇺🇸 [NREL — Director’s Postdoctoral Fellowship (deadline Mar 31, 2026)](https://www.nrel.gov/careers/postdoctoral-research-fellowships.html)  
+- 🇺🇸 [AACAP — pilot research awards (multiple tracks; deadline Apr 1, 2026)](https://www.aacap.org/aacap/research/research_awards.aspx)  
+- 🇺🇸 [Pfizer — 2026 US GI / IBD fellowship institutional grant (competitive grant; deadline Apr 1, 2026)](https://www.cybergrants.com/pfizer/GMGFellowship/) · [RFP PDF (2026 I&I US GI Fellowship)](https://cdn.pfizer.com/pfizercom/2026-02/2026-I%26I-US-GI-Fellowship.pdf)  
+- 🇺🇸 [Crohn’s & Colitis Foundation — career development & research fellowship awards (LOI Apr 4, 2026)](https://www.crohnscolitisfoundation.org/research/grants-fellowships)  
+- 🇺🇸 [NIH — Ruth L. Kirschstein NRSA Individual Postdoctoral Fellowship (Parent F32; receipt deadline Apr 8, 2026)](https://researchtraining.nih.gov/programs/fellowships/F32)  
+- 🇺🇸 [Angelman Syndrome Foundation — call for research proposals (deadline Apr 15, 2026)](https://www.angelman.org/research/for-researchers/apply-for-a-grant/)  
+- 🇺🇸 [Smithsonian Tropical Research Institute — short-term fellowship (deadline Apr 15, 2026)](https://stri.si.edu/academic-programs/short-term-fellowship)  
+- 🇺🇸 [PhRMA Foundation — postdoctoral fellowships in drug delivery & drug discovery (LOI Apr 15, 2026)](https://www.phrmafoundation.org/post-doctoral-fellowships)  
+- 🇺🇸 [CHEST Foundation — grants (deadline Apr 20, 2026)](https://www.chestnet.org/Foundation/Grant-and-Scholarship-Opportunities)  
+- 🇺🇸 [American Speech-Language-Hearing Foundation — New Century Scholars & New Investigators research grants (deadline Apr 22, 2026)](https://www.ashfoundation.org/research/grants/)  
+- 🇺🇸 [Parkinson’s Foundation — postdoctoral fellowships for basic scientists (full application Mar 4, 2026)](https://www.parkinson.org/research/grants)  
 - 🇺🇸 [Michigan Innovation and Entrepreneurship Fellowship](https://biointerfaces.umich.edu/fellowship/)
 - 🇺🇸 [Postdoc, Grad student at Wu Tsai Neurosciences Institute, Stanford University](./fanglab.jpg)  
 - 🇺🇸 [Postdoctoral at Stanford Medicine focusing on tumor-infiltrating lymphocyte (TIL) therapies for melanoma](https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-allison-betof-warner)  
@@ -182,6 +205,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇩🇪 [German Historical Institute (Washington, DC) — doctoral & postdoctoral research fellowships (deadline Apr 1, 2026)](https://www.ghi-dc.org/fellowships)  
 - 🇩🇪 [Two postdoctoral positions (f/m/d) in bioengineering / systems biology and yeast & mammalian cell engineering, ZMBH, Universität Heidelberg, Heidelberg](https://www.nature.com/naturecareers/job/12858451/two-postdoctoral-positions-f-m-d-in-bioengineering-systems-biology-and-yeast-and-mammalian-cell-/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Novo Nordisk Postdoctoral Research Fellow | Radcliffe Department of Medicine, University of Oxford](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=178554)
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿[Postdoctoral Research Fellow in Pathogen Genomics | Professor Deborah Williamson and Professor Matt Holden | School of Medicine, University of St Andrews](https://www.jobs.ac.uk/job/DMR693/research-fellow-ar3117sb)
