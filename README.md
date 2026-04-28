@@ -22,6 +22,23 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Assistant or Associate Professor (research tenure-track), Biomedical Informatics — JR218955, Cincinnati Children's Hospital Medical Center / University of Cincinnati](https://jobs.cincinnatichildrens.org/us/en/job/JR218955/Biomedical-Informatics-Assistant-Professor-Associate-Professor-Research) · [Faculty jobs at Cincinnati Children's](https://jobs.cincinnatichildrens.org/us/en/c/faculty-jobs)  
+- 🇺🇸 [Faculty position — transformative pulmonary science & genomic engineering (Boston Children's Hospital — Division of Pulmonary Medicine), Boston](https://jobs.sciencecareers.org/job/677747/faculty-position-transformative-pulmonary-science-and-genomic-engineering/)  
+- 🇺🇸 [Assistant / Associate / Full Professor — pharmacoepidemiology / pharmacoeconomics (Department of Clinical Pharmacy), UCSF, San Francisco](https://jobs.sciencecareers.org/job/677738/assistant-associate-full-professor-pharmacoepidemiology-pharmacoeconomics/)  
+- 🇺🇸 [Tenure-track Assistant Professor (Department of Biology), Texas A&M University, College Station](https://jobs.sciencecareers.org/job/677737/tenure-track-assistant-professor/)  
+- 🇺🇸 [Assistant or Associate Professor, UMCES Chesapeake Biological Lab (University of Maryland Center for Environmental Science), Solomons](https://jobs.sciencecareers.org/job/677733/assistant-or-associate-professor-umces-chesapeake-biological-lab/)  
+- 🇺🇸 [Physician Scientist — Assist / Assoc / Full Professor (Department of Medicine), University of Arizona, Tucson](https://jobs.sciencecareers.org/job/677713/physician-scientist-assist-assoc-full-professor-department-of-medicine-university-of-arizona/)  
+- 🇺🇸 [Research Scientist — Assist / Assoc / Full Professor (Department of Medicine), University of Arizona, Tucson](https://jobs.sciencecareers.org/job/677712/research-scientist-assist-assoc-full-professor-department-of-medicine-university-of-arizona/)  
+- 🇺🇸 [Tenure-track Assistant or Associate Professor — Parkinson's disease research, Albany Medical College, Albany](https://jobs.sciencecareers.org/job/677711/tenure-track-assistant-or-associate-professor-position-in-parkinson-s-disease/)  
+- 🇺🇸 [Tenure-track Assistant / Associate Professor of Physiology, University of Tennessee Health Science Center (UTHSC), Memphis](https://jobs.sciencecareers.org/job/677702/tenure-track-assistant-associate-professor-of-physiology/)  
+- 🇺🇸 [The Barbara B. Knowles Ph.D. endowed professorship — cancer biology & immune therapy research, The Wistar Institute, Philadelphia](https://jobs.sciencecareers.org/job/677694/the-barbara-b-knowles-ph-d-endowed-professorship-in-cancer-biology-and-immune-therapy-research/)  
+- 🇺🇸 [Assistant / Associate / Professor — virology (RNA virus / emerging viruses), University of Florida, Gainesville](https://jobs.sciencecareers.org/job/677683/assistant-associate-professor-virology-rna-virus-emerging-viruses/)  
+- 🇺🇸 [Assistant Professor of Medicine (tenure track), Columbia University, New York City](https://jobs.sciencecareers.org/job/677682/assistant-professor-of-medicine-tenure-track-/)  
+- 🇺🇸 [Biology Instructor, Oklahoma School of Science and Mathematics, Oklahoma City](https://jobs.sciencecareers.org/job/677681/biology-instructor/)  
+- 🇺🇸 [Associate Professor to Full Professor of Genetics — Molecular Genetics & Microbiology (College of Medicine), University of Florida, Gainesville](https://jobs.sciencecareers.org/job/677678/associate-professor-to-full-professor-of-genetics-molecular-genetics-and-microbiology/)  
+- 🇺🇸 [Assistant Professor — neurobiology of pain (Department of Neurobiology; affiliated Bioengineering), University of Pittsburgh, Pittsburgh](https://jobs.sciencecareers.org/job/677675/assistant-professor-neurobiology-of-pain/)  
+- 🇺🇸 [Professor — Institute for Health and Lifespan Research, University of Texas at El Paso](https://jobs.sciencecareers.org/job/677668/professor-in-the-institute-for-health-and-lifespan-research/)  
+- 🇨🇦 [Faculty position (Academic Clinician — multiple divisions recruit independently), SickKids / University of Toronto, Toronto](https://www.sickkids.ca/en/careers-volunteer/careers/)  
 - 🇺🇸 [Associate or full professor, Weissman Hood Institute at TouroCOM Montana, Great Falls](https://www.weissmanhood.org/opportunities)  
 - 🇺🇸 [Assistant/Associate/Full Professor (tenure-track) — cancer research, Department of Pathology and Translational Pathobiology, LSU Health Shreveport, Shreveport](https://jobs.sciencecareers.org/job/677660/assistant-associate-full-professor-tenure-track-cancer-research/?TrackID=9)  
 - 🇺🇸 [Assistant Professor (tenure-track), Albany Medical College, Albany](https://jobs.sciencecareers.org/job/677634/assistant-professor-tenure-track/?TrackID=9)  
@@ -64,6 +81,11 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇬🇧 [Associate Professor or Assistant Professor — quantitative, systems & engineering biology (School of Life Sciences), University of Warwick, Coventry](https://www.nature.com/naturecareers/job/12858641/associate-professor-or-assistant-professor-in-quantitative-systems-and-engineering-biology/)  
+- 🇫🇮 [Group Leader — computational neuroscience & neuro-AI, University of Helsinki, Helsinki](https://www.nature.com/naturecareers/job/12858613/group-leader-with-focus-on-computational-neuroscience-and-neuro-ai/)  
+- 🇫🇮 [Professor — nutrition & cardiometabolic health, University of Helsinki, Helsinki](https://www.nature.com/naturecareers/job/12858558/professor-in-nutrition-and-cardiometabolic-health/)  
+- 🇬🇧 [Lecturer in Neuroscience (Grade 8), University of Leeds, Leeds](https://jobs.sciencecareers.org/job/677701/lecturer-in-neuroscience/)  
+- 🇩🇰 [Tenure-track Assistant / Associate / Professor — ecophysiology & ecology (Department of Bioscience), Aarhus University, Aarhus](https://www.nature.com/naturecareers/job/12854638/tenure-track-assistant-associate-professor-professor-in-ecophysiology-and-ecology-department-of-b-/)  
 - 🇩🇪 [W3 or W2TTW3 professorship in pharmaceutical biology, Friedrich-Schiller-Universität Jena, Jena](https://www.nature.com/naturecareers/job/12858447/w3-or-w2ttw3-professorship-for-pharmaceutical-biology/?LinkSource=PremiumListing) · [Berufungsportal](https://www.berufungsportal.uni-jena.de/)  
 - 🇧🇪 [Junior professor in metabolism-associated diseases, Department of Chronic Diseases and Metabolism (CHROMETA), KU Leuven](https://www.nature.com/naturecareers/job/12858453/junior-professor-in-metabolism-associated-diseases/) · [official vacancy](https://www.kuleuven.be/personeel/jobsite/jobs/60625147)  
 - 🇩🇪 [Full professorship (W3) of anesthesiology (chair; directs Department of Anesthesiology), Ludwig-Maximilians-Universität München (LMU), Munich](https://www.nature.com/naturecareers/job/12858459/full-professorship-w3-of-anesthesiology-chair-/)  
@@ -86,6 +108,12 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇶🇦 [Senior Faculty — data science & artificial intelligence (AI Center for Precision Health), Weill Cornell Medicine–Qatar, Doha](https://jobs.weill.cornell.edu/Qatar/go/All-Qatar-Jobs/9047900/) · [Career opportunities](https://qatar-weill.cornell.edu/human-resources/career-opportunities)  
+- 🇨🇳 [Faculty positions — School of Medicine, The Chinese University of Hong Kong, Shenzhen (CUHK Shenzhen)](https://www.nature.com/naturecareers/job/12858632/faculty-positions-in-school-of-medicine-the-chinese-university-of-hong-kong-shenzhen/)  
+- 🇨🇳 [Global talent recruitment — College of Engineering, Huazhong Agricultural University (HZAU), Wuhan](https://www.nature.com/naturecareers/job/12856815/global-talent-recruitment-announcement-of-the-college-of-engineering-hzau/)  
+- 🇨🇳 [Chemistry faculty positions, Westlake University, Hangzhou](https://www.nature.com/naturecareers/job/12854500/chemistry-faculty-positions-at-westlake-university/)  
+- 🇨🇳 [Faculty positions — Center for Life Sciences (CLS), Beijing](https://www.nature.com/naturecareers/job/12840855/faculty-positions-at-center-for-life-sciences/)  
+- 🇨🇳 [Early-career group leader opportunities — Xuemin Investigator Program, Xuemin Institute of Advanced Studies (Fudan University), Shanghai](https://xuemin.org/investigator)  
 - 🇨🇳 [Global Faculty Recruitment 2026 — tenured/tenure-track positions (all ranks), Tsinghua Shenzhen International Graduate School (SIGS), Shenzhen](https://www.nature.com/naturecareers/job/12857131/global-faculty-recruitment-2026-tenured-tenure-track-positions-at-all-ranks/?TrackID=62) · [SIGS recruitment portal](https://talent.sigs.tsinghua.edu.cn/)  
 - 🇸🇬 [NRF Fellowship — Singapore early-career award (PhD; ≤7 years post‑PhD; all S&T fields & nationalities; up to ~SGD 3.25M over 5 years incl. 30% overheads); appointees offered tenure-track faculty positions at Singapore universities/research institutions](https://www.nrf.gov.sg/grants/nrff/) · [BEARS (UC Berkeley–Singapore hub)](https://bears.berkeley.edu/)  
 - 🇨🇳 [Shanghai Jiao Tong University global recruitment (faculty/postdoc/research), Shanghai](https://www.nature.com/naturecareers/job/12856986/shanghai-jiao-tong-university-global-recruitment/)  
@@ -127,6 +155,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇩🇪 [Scientist — Computational Genomics, TRON gGmbH, Mainz](https://www.nature.com/naturecareers/job/12858644/scientist-computational-genomics/)  
 - 🇬🇧 [Cambridge University Senior Research Technician](https://www.jobs.cam.ac.uk/job/48353/)  
 - 🇬🇧 [Senior Scientist with experience in immunology, GSK](https://jobs.gsk.com/en-gb/jobs/404547?lang=en-us&previousLocale=en-GB)  
 - 🇬🇧 [Principal Laboratory Research Scientist, Francis Crick Institute](https://www.crick.ac.uk/careers-study/vacancies/2024-09-02-principal-laboratory-research-scientist)  
