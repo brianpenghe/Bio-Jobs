@@ -22,6 +22,10 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇨🇦 [Canada Impact+ Research Chair in Marine Bioresources Optimization, Faculty of Science, Memorial University of Newfoundland, Newfoundland & Labrador](https://jobs.sciencecareers.org/job/677771/canada-impact-research-chair-in-marine-bioresources-optimization/)  
+- 🇺🇸 [Tenure-track faculty positions (Assistant / Associate / Full Professor), Department of Pharmacology, Toxicology & Neuroscience, LSU Health Shreveport, Shreveport](https://jobs.sciencecareers.org/job/677770/tenure-track-faculty-positions-department-of-pharmacology-toxicology-and-neuroscience/)  
+- 🇺🇸 [Assistant Professor of Biological Sciences, Southeastern Louisiana University, Hammond](https://jobs.sciencecareers.org/job/677769/assistant-professor-of-biological-sciences/)  
+- 🇺🇸 [Full-time tenure-track faculty (Associate or Full Professor), Department of Pharmacology, Toxicology & Neuroscience, LSU Health Shreveport, Shreveport](https://jobs.sciencecareers.org/job/677432/full-time-tenure-track-faculty-position-at-the-rank-of-associate-or-full-professor/)  
 - 🇺🇸 [Assistant or Associate Professor (research tenure-track), Biomedical Informatics — JR218955, Cincinnati Children's Hospital Medical Center / University of Cincinnati](https://jobs.cincinnatichildrens.org/us/en/job/JR218955/Biomedical-Informatics-Assistant-Professor-Associate-Professor-Research) · [Faculty jobs at Cincinnati Children's](https://jobs.cincinnatichildrens.org/us/en/c/faculty-jobs)  
 - 🇺🇸 [Faculty position — transformative pulmonary science & genomic engineering (Boston Children's Hospital — Division of Pulmonary Medicine), Boston](https://jobs.sciencecareers.org/job/677747/faculty-position-transformative-pulmonary-science-and-genomic-engineering/)  
 - 🇺🇸 [Assistant / Associate / Full Professor — pharmacoepidemiology / pharmacoeconomics (Department of Clinical Pharmacy), UCSF, San Francisco](https://jobs.sciencecareers.org/job/677738/assistant-associate-full-professor-pharmacoepidemiology-pharmacoeconomics/)  
