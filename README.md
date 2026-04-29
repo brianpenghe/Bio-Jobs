@@ -22,6 +22,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Assistant Professor, Stanford Dermatology, Stanford University, Stanford](https://www.nature.com/naturecareers/job/12858766/assistant-professor-stanford-dermatology/)  
 - 🇨🇦 [Canada Impact+ Research Chair in Marine Bioresources Optimization, Faculty of Science, Memorial University of Newfoundland, Newfoundland & Labrador](https://jobs.sciencecareers.org/job/677771/canada-impact-research-chair-in-marine-bioresources-optimization/)  
 - 🇺🇸 [Tenure-track faculty positions (Assistant / Associate / Full Professor), Department of Pharmacology, Toxicology & Neuroscience, LSU Health Shreveport, Shreveport](https://jobs.sciencecareers.org/job/677770/tenure-track-faculty-positions-department-of-pharmacology-toxicology-and-neuroscience/)  
 - 🇺🇸 [Assistant Professor of Biological Sciences, Southeastern Louisiana University, Hammond](https://jobs.sciencecareers.org/job/677769/assistant-professor-of-biological-sciences/)  
@@ -85,6 +86,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Group Leader in Cancer Biology (two posts), Ludwig Institute for Cancer Research — Nuffield Department of Medicine, University of Oxford, Oxford](https://jobs.sciencecareers.org/job/677754/group-leader-in-cancer-biology/)  
 - 🇬🇧 [Associate Professor or Assistant Professor — quantitative, systems & engineering biology (School of Life Sciences), University of Warwick, Coventry](https://www.nature.com/naturecareers/job/12858641/associate-professor-or-assistant-professor-in-quantitative-systems-and-engineering-biology/)  
 - 🇫🇮 [Group Leader — computational neuroscience & neuro-AI, University of Helsinki, Helsinki](https://www.nature.com/naturecareers/job/12858613/group-leader-with-focus-on-computational-neuroscience-and-neuro-ai/)  
 - 🇫🇮 [Professor — nutrition & cardiometabolic health, University of Helsinki, Helsinki](https://www.nature.com/naturecareers/job/12858558/professor-in-nutrition-and-cardiometabolic-health/)  
@@ -113,6 +115,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <summary>🌏 Asia & Oceania</summary>
 
 - 🇶🇦 [Senior Faculty — data science & artificial intelligence (AI Center for Precision Health), Weill Cornell Medicine–Qatar, Doha](https://jobs.weill.cornell.edu/Qatar/go/All-Qatar-Jobs/9047900/) · [Career opportunities](https://qatar-weill.cornell.edu/human-resources/career-opportunities)  
+- 🇸🇬 [Assistant Professor, Associate Professor & Full Professor, Cancer Science Institute of Singapore, Singapore](https://www.nature.com/naturecareers/job/12858729/assistant-professor-associate-professor-and-full-professor/)  
+- 🇨🇳 [Faculty positions, Institute of Physics (IOP), Chinese Academy of Sciences, Beijing](https://www.nature.com/naturecareers/job/12858728/faculty-positions-at-institute-of-physics-iop-chinese-academy-of-sciences/)  
+- 🇨🇳 [2026 Overseas Outstanding Young Scholars — talent recruitment, Nankai University, Tianjin](https://www.nature.com/naturecareers/job/12852614/2026-overseas-outstanding-young-scholars-nku-invites-talents-from-around-the-world-/)  
 - 🇨🇳 [Faculty positions — School of Medicine, The Chinese University of Hong Kong, Shenzhen (CUHK Shenzhen)](https://www.nature.com/naturecareers/job/12858632/faculty-positions-in-school-of-medicine-the-chinese-university-of-hong-kong-shenzhen/)  
 - 🇨🇳 [Global talent recruitment — College of Engineering, Huazhong Agricultural University (HZAU), Wuhan](https://www.nature.com/naturecareers/job/12856815/global-talent-recruitment-announcement-of-the-college-of-engineering-hzau/)  
 - 🇨🇳 [Chemistry faculty positions, Westlake University, Hangzhou](https://www.nature.com/naturecareers/job/12854500/chemistry-faculty-positions-at-westlake-university/)  
