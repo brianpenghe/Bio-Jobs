@@ -23,6 +23,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <summary>🌎 North America</summary>
 
 - 🇺🇸 [Assistant Professor, Stanford Dermatology, Stanford University, Stanford](https://www.nature.com/naturecareers/job/12858766/assistant-professor-stanford-dermatology/)  
+- 🇺🇸 [Assistant / Associate Professor — basic science faculty (Mitochondrial & Metabolic Research Center), University of Rochester Medical Center, Rochester](https://jobs.sciencecareers.org/job/677800/assistant-associate-professor-basic-science-faculty-position-mitochondrial-and-metabolic-research/)  
 - 🇨🇦 [Canada Impact+ Research Chair in Marine Bioresources Optimization, Faculty of Science, Memorial University of Newfoundland, Newfoundland & Labrador](https://jobs.sciencecareers.org/job/677771/canada-impact-research-chair-in-marine-bioresources-optimization/)  
 - 🇺🇸 [Tenure-track faculty positions (Assistant / Associate / Full Professor), Department of Pharmacology, Toxicology & Neuroscience, LSU Health Shreveport, Shreveport](https://jobs.sciencecareers.org/job/677770/tenure-track-faculty-positions-department-of-pharmacology-toxicology-and-neuroscience/)  
 - 🇺🇸 [Assistant Professor of Biological Sciences, Southeastern Louisiana University, Hammond](https://jobs.sciencecareers.org/job/677769/assistant-professor-of-biological-sciences/)  
@@ -195,6 +196,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Postdoc openings — computational genomics, AI precision oncology, cancer biology & immunobiology, University of Pittsburgh, Pittsburgh](https://www.nature.com/naturecareers/job/12858867/postdoc-openings-computational-genomics-ai-precision-oncology-cancer-biology-and-immunobiology/)  
 - 🇺🇸 [Postdoctoral Research Fellow — single-cell genomics / chromatin spatial organization & gene regulation (Hu Lab), Department of Genomic Sciences and Systems Biology, Cleveland Clinic Research, Cleveland](./Postdoc_HuLab_ClevelandClinic.pdf) · apply: [hum@ccf.org](mailto:hum@ccf.org) · deadline June 30, 2026  
 - 🇺🇸 [CURE Epilepsy — Taking Flight Award (invited full proposals due Mar 24, 2026)](https://www.cureepilepsy.org/for-researchers/grants-program/)  
 - 🇺🇸 [Partnership for Clean Competition — anti-doping research grants & postdoctoral fellowships (full applications due Mar 1 & Sep 1)](https://cleancompetition.org/application-center)  
