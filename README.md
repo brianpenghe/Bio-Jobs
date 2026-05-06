@@ -22,6 +22,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Cancer Biology Research Program Co-Leader (MCW Cancer Center; Department of Pharmacology & Toxicology), Medical College of Wisconsin, Milwaukee](https://www.nature.com/naturecareers/job/12858903/cancer-biology-research-program-co-leader/)  
 - 🇺🇸 [Assistant Professor, Stanford Dermatology, Stanford University, Stanford](https://www.nature.com/naturecareers/job/12858766/assistant-professor-stanford-dermatology/)  
 - 🇺🇸 [Assistant / Associate Professor — basic science faculty (Mitochondrial & Metabolic Research Center), University of Rochester Medical Center, Rochester](https://jobs.sciencecareers.org/job/677800/assistant-associate-professor-basic-science-faculty-position-mitochondrial-and-metabolic-research/)  
 - 🇨🇦 [Canada Impact+ Research Chair in Marine Bioresources Optimization, Faculty of Science, Memorial University of Newfoundland, Newfoundland & Labrador](https://jobs.sciencecareers.org/job/677771/canada-impact-research-chair-in-marine-bioresources-optimization/)  
