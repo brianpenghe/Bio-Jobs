@@ -158,6 +158,26 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Senior Scientist — Biologics AI Innovation — AstraZeneca, Waltham, MA / Gaithersburg, MD](https://careers.astrazeneca.com/us/job/waltham/senior-scientist-biologics-ai-innovation/7684/91364650448)  
+- 🇺🇸 [Associate Principal AI Scientist — AstraZeneca, Durham, NC](https://careers.astrazeneca.com/us/job/durham/associate-principal-ai-scientist/7684/94209440304)  
+- 🇺🇸 [Staff Engineer, Agentic AI — Oncology Data Science & AI — AstraZeneca, Boston, MA / Gaithersburg, MD](https://careers.astrazeneca.com/us/job/boston/staff-engineer-agentic-ai-oncology-data-science-and-ai/7684/88274164528)  
+- 🇺🇸 [Senior Informatics Specialist — AstraZeneca, Boston, MA](https://careers.astrazeneca.com/us/job/boston/senior-informatics-specialist/7684/94600754672)  
+- 🇺🇸 [Associate Director — AI Scientist, Computational Radiology — AstraZeneca, Boston, MA](https://careers.astrazeneca.com/us/job/boston/associate-director-ai-scientist-computational-radiology/7684/91935455120)  
+- 🇺🇸 [Machine Learning Scientist / Senior Machine Learning Scientist — Calico, South San Francisco, CA](https://boards.greenhouse.io/calicolabs/jobs/8533254002)  
+- 🇺🇸 [Machine Learning Scientist / Senior Machine Learning Scientist / Engineer — Calico, South San Francisco, CA](https://boards.greenhouse.io/calicolabs/jobs/8465426002)  
+- 🇺🇸 [Senior Data Engineer, Drug Discovery Data Engineering — Calico, South San Francisco, CA](https://boards.greenhouse.io/calicolabs/jobs/8430186002)  
+- 🇺🇸 [Senior Machine Learning Research Engineer (ML Platform) — Calico, South San Francisco, CA](https://boards.greenhouse.io/calicolabs/jobs/8457339002)  
+- 🇺🇸 [Senior Machine Learning Software Engineer (MLOps) — Calico, South San Francisco, CA](https://boards.greenhouse.io/calicolabs/jobs/8457266002)  
+- 🇺🇸 [Scientist II, Clinical Bioinformatics — 10x Genomics, United States](https://boards.greenhouse.io/10xgenomics/jobs/7565668)  
+- 🇺🇸 [Senior Data Platform Engineer — 10x Genomics, United States](https://boards.greenhouse.io/10xgenomics/jobs/7852216)  
+- 🇺🇸 [Technical Lead, Instrument Software — 10x Genomics, United States](https://boards.greenhouse.io/10xgenomics/jobs/7318082)  
+- 🇺🇸 [Associate Principal Scientist, Computational Biologist & Image Analysis Expert — Merck, Burlington, MA](https://jobs.merck.com/us/en/job/R396052)  
+- 🇺🇸 [Director, Data Science, Foundation Model AI — Merck (MSD), Cambridge, MA](https://jobs.merck.com/us/en/job/R392839)  
+- 🇺🇸 [Specialist, Data Science — Digital Operations and Innovation — Merck](https://jobs.merck.com/us/en/job/R394000)  
+- 🇺🇸 [Senior Applied AI Engineer — GSK, Cambridge, MA](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Cambridge-300-Technology-Square/Senior-Applied-AI-Engineer_436766)  
+- 🇺🇸 [Senior Director, Medical, Translational & Computational Pathologist — GSK, Upper Providence, PA / remote](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---Pennsylvania---Upper-Providence/Senior-Director--Medical--Translational-and-Computational-Pathologist_439732)  
+- 🇺🇸 [Process Development Engineer III, Data Science — Regeneron, Tarrytown, NY](https://careers.regeneron.com/en/jobs/r46197/process-development-engineer-iii-data-science/)  
+- 🇺🇸 [Gilead — job search (bioinformatics / data science / computational biology)](https://www.gilead.com/careers)  
 - 🇺🇸 [Executive Director, Computational Biology - Oncology — Genentech, South San Francisco, CA (#ComputationCOE)](https://careers.gene.com/us/en/job/GENEUS202507117693EXTERNALENUS)  
 - 🇺🇸 [Senior Machine Learning Scientist, Frontier Research, AI for Drug Discovery — Genentech, South San Francisco, CA (#ComputationCOE)](https://careers.gene.com/us/en/job/GENEUS202605111099EXTERNALENUS)  
 - 🇺🇸 [Software Development Engineer, AI for Drug Discovery — Genentech, New York, NY (#ComputationCOE)](https://careers.gene.com/us/en/job/GENEUS202605111391EXTERNALENUS)  
@@ -194,6 +214,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇨🇭 [Director, AI for Science — GSK (home-based — Switzerland / Baar)](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Home-Worker--CHE--Baar/Director--AI-for-Science_440748-1)  
+- 🇬🇧 [AIML Software Engineer, AI for Science — GSK, London, UK](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/London-The-Stanley-Building/AIML-Software-Engineer--AI-for-Science_435679-1)  
+- 🇬🇧 [AIML Engineer, AI for Science — GSK, London, UK](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK---Kings-Cross--London/AIML-Engineer--AI-for-Science_435678-1)  
 - 🇩🇪 [Scientist — Computational Genomics, TRON gGmbH, Mainz](https://www.nature.com/naturecareers/job/12858644/scientist-computational-genomics/)  
 - 🇬🇧 [Cambridge University Senior Research Technician](https://www.jobs.cam.ac.uk/job/48353/)  
 - 🇬🇧 [Senior Scientist with experience in immunology, GSK](https://jobs.gsk.com/en-gb/jobs/404547?lang=en-us&previousLocale=en-GB)  
