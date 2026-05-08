@@ -91,6 +91,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇩🇪 [Full Professorship (W3) — Proteomics & Translational Biomarkers (f/m/d), Medizinische Fakultät Mannheim, Heidelberg University, Mannheim](https://www.nature.com/naturecareers/job/12858943/full-professorship-w3-for-proteomics-and-translational-biomarkers-f-m-d-/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Group Leader in Cancer Biology (two posts), Ludwig Institute for Cancer Research — Nuffield Department of Medicine, University of Oxford, Oxford](https://jobs.sciencecareers.org/job/677754/group-leader-in-cancer-biology/)  
 - 🇬🇧 [Associate Professor or Assistant Professor — quantitative, systems & engineering biology (School of Life Sciences), University of Warwick, Coventry](https://www.nature.com/naturecareers/job/12858641/associate-professor-or-assistant-professor-in-quantitative-systems-and-engineering-biology/)  
 - 🇫🇮 [Group Leader — computational neuroscience & neuro-AI, University of Helsinki, Helsinki](https://www.nature.com/naturecareers/job/12858613/group-leader-with-focus-on-computational-neuroscience-and-neuro-ai/)  
@@ -120,6 +121,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <summary>🌏 Asia & Oceania</summary>
 
 - 🇶🇦 [Senior Faculty — data science & artificial intelligence (AI Center for Precision Health), Weill Cornell Medicine–Qatar, Doha](https://jobs.weill.cornell.edu/Qatar/go/All-Qatar-Jobs/9047900/) · [Career opportunities](https://qatar-weill.cornell.edu/human-resources/career-opportunities)  
+- 🇨🇳 [Chair Professor positions, City University of Hong Kong (Dongguan), Dongguan](https://www.nature.com/naturecareers/job/12858731/chair-professor-positions-at-city-university-of-hong-kong-dongguan-/)  
+- 🇨🇳 [Professor / Associate Professor positions, City University of Hong Kong (Dongguan), Dongguan](https://www.nature.com/naturecareers/job/12858732/professor-associate-professor-positions-at-city-university-of-hong-kong-dongguan-/)  
+- 🇨🇳 [Assistant Professor positions, City University of Hong Kong (Dongguan), Dongguan](https://www.nature.com/naturecareers/job/12858734/assistant-professor-positions-at-city-university-of-hong-kong-dongguan-/)  
 - 🇸🇬 [Assistant Professor, Associate Professor & Full Professor, Cancer Science Institute of Singapore, Singapore](https://www.nature.com/naturecareers/job/12858729/assistant-professor-associate-professor-and-full-professor/)  
 - 🇨🇳 [Faculty positions, Institute of Physics (IOP), Chinese Academy of Sciences, Beijing](https://www.nature.com/naturecareers/job/12858728/faculty-positions-at-institute-of-physics-iop-chinese-academy-of-sciences/)  
 - 🇨🇳 [2026 Overseas Outstanding Young Scholars — talent recruitment, Nankai University, Tianjin](https://www.nature.com/naturecareers/job/12852614/2026-overseas-outstanding-young-scholars-nku-invites-talents-from-around-the-world-/)  
