@@ -22,6 +22,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Open rank faculty (Assistant/Associate/Full; ladder rank or in-residence), Institute for Human Genetics, UCSF, San Francisco — JPF06052](https://aprecruit.ucsf.edu/JPF06052)  
 - 🇺🇸 [Open rank faculty — Type 1 diabetes immunology (tenure-track), Mayo Clinic (Rochester, Phoenix, or Jacksonville)](https://www.nature.com/naturecareers/job/12858925/open-rank-faculty-position-type-1-diabetes-immunology/)  
 - 🇺🇸 [Assistant / Associate Professor — human genomics / molecular genetics / pharmacogenomics (Department of Biochemistry & Molecular Biology), Wright State University, Dayton](https://jobs.sciencecareers.org/job/677826/assistant-associate-professor/)  
 - 🇺🇸 [Open rank faculty — Cellular Biology & Anatomy, Augusta University, Augusta](https://jobs.sciencecareers.org/job/677823/open-rank-faculty-in-cellular-biology-and-anatomy/)  
