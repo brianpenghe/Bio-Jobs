@@ -92,6 +92,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [(Senior) Group Leader — Advanced Genome Technologies — Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/677849/-senior-group-leader-advanced-genome-technologies-plant-biology-institute/)  
 - 🇩🇪 [Full Professorship (W3) — Proteomics & Translational Biomarkers (f/m/d), Medizinische Fakultät Mannheim, Heidelberg University, Mannheim](https://www.nature.com/naturecareers/job/12858943/full-professorship-w3-for-proteomics-and-translational-biomarkers-f-m-d-/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Group Leader in Cancer Biology (two posts), Ludwig Institute for Cancer Research — Nuffield Department of Medicine, University of Oxford, Oxford](https://jobs.sciencecareers.org/job/677754/group-leader-in-cancer-biology/) · closes 2026-05-18  
 - 🇬🇧 [Associate Professor or Assistant Professor — quantitative, systems & engineering biology (School of Life Sciences), University of Warwick, Coventry](https://www.nature.com/naturecareers/job/12858641/associate-professor-or-assistant-professor-in-quantitative-systems-and-engineering-biology/) · closes 2026-05-31  
@@ -121,6 +122,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇨🇳 [Global Recruitment of Outstanding Young Talents (Excellent Young Scholars—Overseas), Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), Shenzhen](https://www.nature.com/naturecareers/job/12858264/global-recruitment-of-outstanding-young-talents/) · deadline 2027-04-06  
 - 🇶🇦 [Senior Faculty — data science & artificial intelligence (AI Center for Precision Health), Weill Cornell Medicine–Qatar, Doha](https://jobs.weill.cornell.edu/Qatar/go/All-Qatar-Jobs/9047900/) · [Career opportunities](https://qatar-weill.cornell.edu/human-resources/career-opportunities)  
 - 🇨🇳 [Chair Professor positions, City University of Hong Kong (Dongguan), Dongguan](https://www.nature.com/naturecareers/job/12858731/chair-professor-positions-at-city-university-of-hong-kong-dongguan-/)  
 - 🇨🇳 [Professor / Associate Professor positions, City University of Hong Kong (Dongguan), Dongguan](https://www.nature.com/naturecareers/job/12858732/professor-associate-professor-positions-at-city-university-of-hong-kong-dongguan-/)  
@@ -158,6 +160,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Staff Scientist — Antibody Biology Unit (ABU), Laboratory of Immunogenetics, NIAID / NIH; Rockville, MD](https://jobs.sciencecareers.org/job/677841/staff-scientist/)  
 - 🇺🇸 [Senior Scientist — Biologics AI Innovation — AstraZeneca, Waltham, MA / Gaithersburg, MD](https://careers.astrazeneca.com/us/job/waltham/senior-scientist-biologics-ai-innovation/7684/91364650448)  
 - 🇺🇸 [Associate Principal AI Scientist — AstraZeneca, Durham, NC](https://careers.astrazeneca.com/us/job/durham/associate-principal-ai-scientist/7684/94209440304)  
 - 🇺🇸 [Staff Engineer, Agentic AI — Oncology Data Science & AI — AstraZeneca, Boston, MA / Gaithersburg, MD](https://careers.astrazeneca.com/us/job/boston/staff-engineer-agentic-ai-oncology-data-science-and-ai/7684/88274164528)  
