@@ -122,6 +122,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇨🇳 [Faculty positions — School of Basic Medical Sciences, Hainan Medical University, Haikou, Hainan](https://www.nature.com/naturecareers/job/12858969/faculty-positions-in-school-of-basic-medical-sciences-hainan-medical-university/)  
+- 🇨🇳 [Seeking Global Talents at All Levels — Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), Shenzhen](https://www.nature.com/naturecareers/job/12848288/seeking-global-talents-at-all-levels-siat/)  
 - 🇨🇳 [Global Recruitment of Outstanding Young Talents (Excellent Young Scholars—Overseas), Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), Shenzhen](https://www.nature.com/naturecareers/job/12858264/global-recruitment-of-outstanding-young-talents/) · deadline 2027-04-06  
 - 🇶🇦 [Senior Faculty — data science & artificial intelligence (AI Center for Precision Health), Weill Cornell Medicine–Qatar, Doha](https://jobs.weill.cornell.edu/Qatar/go/All-Qatar-Jobs/9047900/) · [Career opportunities](https://qatar-weill.cornell.edu/human-resources/career-opportunities)  
 - 🇨🇳 [Chair Professor positions, City University of Hong Kong (Dongguan), Dongguan](https://www.nature.com/naturecareers/job/12858731/chair-professor-positions-at-city-university-of-hong-kong-dongguan-/)  
