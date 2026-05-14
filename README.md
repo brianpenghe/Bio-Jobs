@@ -253,6 +253,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸/🇩🇪 [Global Science Scholars — postdoctoral fellowship (CZ Biohub × Max Planck Society / MPI-CBG & MPI-PKS Dresden; 3 years; U.S. partner universities ↔ Germany)](https://www.czbiohub.org/program-mpi-global-science-scholars/) · deadline 2026-05-20  
 - 🇺🇸 [Genitourinary Pathology Fellowship (GME subspecialty; 1 year; 2027 availability; 3 positions) — Memorial Sloan Kettering Cancer Center (MSK), New York, NY](https://www.mskcc.org/hcp-education-training/fellowships/genitourinary-pathology-fellowship) · deadline September 1  
 - 🇺🇸 [Postdoc openings — computational genomics, AI precision oncology, cancer biology & immunobiology, University of Pittsburgh, Pittsburgh](https://www.nature.com/naturecareers/job/12858867/postdoc-openings-computational-genomics-ai-precision-oncology-cancer-biology-and-immunobiology/)  
 - 🇺🇸 [Postdoctoral Research Fellow — single-cell genomics / chromatin spatial organization & gene regulation (Hu Lab), Department of Genomic Sciences and Systems Biology, Cleveland Clinic Research, Cleveland](./Postdoc_HuLab_ClevelandClinic.pdf) · apply: [hum@ccf.org](mailto:hum@ccf.org) · deadline June 30, 2026  
