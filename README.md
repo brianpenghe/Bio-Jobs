@@ -381,10 +381,12 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 
 ### RA/Internship
 **Research assistant and internship opportunities**
-<!-- <details>
+<details>
 <summary>🌎 North America</summary>
 
-</details> -->
+- 🇨🇦 [Canadian science internships, co-ops, and entry-level roles — Hanzilla Jobs](https://jobs.hanzilla.co/sciences/)
+
+</details>
 
 <details>
 <summary>🌍 Europe</summary>
