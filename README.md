@@ -183,6 +183,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Scientist I — single-cell genomics & bioinformatics, Molecular Genetics (Allen Institute for Brain Science), Allen Institute, Seattle, WA](https://alleninstitute.org/careers/jobs?jobId=41a69245-7e6a-bab7-fe63-8a820a682b57)  
 - 🇺🇸 [Staff Scientist — Antibody Biology Unit (ABU), Laboratory of Immunogenetics, NIAID / NIH; Rockville, MD](https://jobs.sciencecareers.org/job/677841/staff-scientist/)  
 - 🇺🇸 [Research Associate — cardiovascular biology, Baylor College of Medicine, Houston, TX](https://jobs.sciencecareers.org/job/678852/research-associate-cardiovascular-biology/)  
 - 🇺🇸 [Senior Scientist — Biologics AI Innovation — AstraZeneca, Waltham, MA / Gaithersburg, MD](https://careers.astrazeneca.com/us/job/waltham/senior-scientist-biologics-ai-innovation/7684/91364650448)  
