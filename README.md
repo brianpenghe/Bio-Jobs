@@ -140,6 +140,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇨🇳 [Faculty positions — AI for life sciences, Westlake University School of Life Science, Hangzhou](https://www.nature.com/naturecareers/job/12856430/faculty-positions-in-ai-for-life-sciences-at-westlake-university/)  
+- 🇨🇳 [Faculty positions — SUSTech School of Medicine, Southern University of Science and Technology, Shenzhen](https://www.nature.com/naturecareers/job/12852624/faculty-positions-at-sustech-school-of-medicine/)  
 - 🇨🇳 [Strategic Scientist, Outstanding Young Investigator, and postdoctoral positions — Chengdu Institute of Biology, Chinese Academy of Sciences (CIBCAS), Chengdu](https://www.nature.com/naturecareers/job/12859179/strategic-scientist-outstanding-youg-investigator-and-postdoctoral-positions-at-cibcas/)  
 - 🇨🇳 [Global talent recruitment — State Key Laboratory of Quantitative Synthetic Biology, Shenzhen](https://www.nature.com/naturecareers/job/12841544/state-key-laboratory-of-quantitative-synthetic-biology-global-talent-wanted/)  
 - 🇨🇳 [Principal Investigator / Associate Professor — Center for Advanced Smart Materials (CASM), Yongjiang Laboratory (Y-Lab), Ningbo, Zhejiang](https://www.nature.com/naturecareers/job/12859052/principal-investigator-associate-professor/)  
@@ -242,6 +244,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Bioinformatician, Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/678900/bioinformatician/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [AI & Automation Lead for Plant Transformation — Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/678887/ai-and-automation-lead-for-plant-transformation-plant-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Senior Research Associate — Transformation Facility, Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/678881/senior-research-associate-transformation-facility-plant-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Applications Scientist — pathogen science, Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/678866/applications-scientist-pathogen/)  
@@ -280,6 +283,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <summary>🌎 North America</summary>
 
 - 🇺🇸/🇩🇪 [Global Science Scholars — postdoctoral fellowship (CZ Biohub × Max Planck Society / MPI-CBG & MPI-PKS Dresden; 3 years; U.S. partner universities ↔ Germany)](https://www.czbiohub.org/program-mpi-global-science-scholars/) · deadline 2026-05-20  
+- 🇺🇸 [Postdoctoral Research Fellow — cancer biology (Tribbles 2 pseudokinase & drug resistance), Henry Ford Health System, Detroit, MI](https://jobs.sciencecareers.org/job/678902/cancer-biology-post-doctoral-research-fellow/)  
 - 🇺🇸 [Postdoctoral Associate — statistical genomics (Atkinson Lab), Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, TX](https://jobs.sciencecareers.org/job/678891/postdoctoral-associate-statistical-genomics/)  
 - 🇺🇸 [Postdoctoral Scholar or Research Scientist — Markey Comprehensive Cancer Center, University of Kentucky, Lexington, KY](https://jobs.sciencecareers.org/job/678854/postdoctoral-scholar-or-research-scientist/)  
 - 🇺🇸 [Postdoctoral Research Associate — structural biology, University of Massachusetts Amherst, Amherst](https://jobs.sciencecareers.org/job/678862/postdoctoral-research-associate-structural-biology/)  
