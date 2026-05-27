@@ -306,6 +306,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Postdoctoral Fellow — cardiovascular genetics, deep learning & epidemiology (Pirruccello Lab), Cardiovascular Research Institute (CVRI), UCSF, San Francisco, CA](https://postdocs.ucsf.edu/postdoctoral-openings#pirruccello-lab)  
 - 🇺🇸 [Rowland Fellowship — Harvard University, Cambridge, MA](https://jobs.sciencecareers.org/job/678924/rowland-fellowship/)  
 - 🇺🇸 [Postdoctoral Fellow — immunology (Charles Lab), Division of Infectious Diseases, Massachusetts General Hospital, Boston, MA](https://jobs.sciencecareers.org/job/678935/postdoctoral-fellow-immunology/)  
 - 🇺🇸 [Postdoctoral Fellow — vascular cell signaling, LSU Health Shreveport, Shreveport, LA](https://jobs.sciencecareers.org/job/678930/postdoctoral-fellow-in-vascular-cell-signaling/)  
