@@ -22,6 +22,11 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇨🇦 [Canada Research Chair (CRC) Tier 1 — mass spectrometry ‘omics for novel therapeutics, Schulich School of Medicine & Dentistry, Western University, London, ON](https://jobs.sciencecareers.org/job/678981/canada-research-chair-crc-tier-1-in-mass-spectrometry-omics-for-novel-therapeutics/)  
+- 🇺🇸 [Immunology Chair, Tufts University School of Medicine, Boston, MA](https://jobs.sciencecareers.org/job/678980/immunology-chair/)  
+- 🇺🇸 [Director — Center of Excellence in Environmental Toxicology (standing faculty), University of Pennsylvania, Philadelphia, PA](https://jobs.sciencecareers.org/job/678973/director-of-the-center-of-excellence-in-environmental-toxicology-standing-faculty/)  
+- 🇺🇸 [Tenure-track faculty (Assistant / Associate Professor) — Center for Inflammation & Lung Research, Lewis Katz School of Medicine, Temple University, Philadelphia, PA](https://jobs.sciencecareers.org/job/678966/tenure-track-faculty-assistant-or-associate-professor-/)  
+- 🇺🇸 [Teaching faculty in biology, Tidewater Community College, Chesapeake, VA](https://jobs.sciencecareers.org/job/678982/teaching-faculty-in-biology/)  
 - 🇺🇸 [Assistant / Associate Professor (tenure-track) — Columbia Institute for CiCET, Columbia University, New York, NY](https://www.nature.com/naturecareers/job/12859317/assistant-professor-associate-professor-tenure-track-in-columbia-institute-for-cicet/)  
 - 🇺🇸 [Assistant Professor of Biochemistry — protein homeostasis, University of Massachusetts Amherst, Amherst, MA](https://jobs.sciencecareers.org/job/678912/assistant-professor-of-biochemistry-protein-homeostasis/)  
 - 🇺🇸 [Assistant / Associate / Full Professor, University of Colorado Anschutz Medical Campus, Aurora, CO](https://jobs.sciencecareers.org/job/678921/assistant-associate-full-professor/)  
@@ -152,6 +157,11 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇨🇳 [Global faculty recruitment in artificial intelligence, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.nature.com/naturecareers/job/12857029/global-faculty-recruitment-in-artificial-intelligence-the-chinese-university-of-hong-kong-shenzhen/)  
+- 🇨🇳 [Open-rank faculty position (tenure / teaching / research stream) — School of Science and Engineering, CUHK-Shenzhen, Shenzhen](https://www.nature.com/naturecareers/job/12857060/open-rank-faculty-position-tenure-teaching-research-stream-school-of-science-and-engineering/)  
+- 🇨🇳 [Faculty positions — Center of Bioelectronic Medicine, School of Life Sciences, Westlake University, Hangzhou](https://www.nature.com/naturecareers/job/12856823/faculty-positions-in-center-of-bioelectronic-medicine-school-of-life-sciences-westlake-university/)  
+- 🇨🇳 [Faculty positions in chemical biology, Westlake University, Hangzhou](https://www.nature.com/naturecareers/job/12856824/faculty-positions-in-chemical-biology-westlake-university/)  
+- 🇨🇳 [Open PI positions, Shenzhen Bay Laboratory, Shenzhen](https://www.nature.com/naturecareers/job/12839812/open-pi-positions-at-shenzhen-bay-laboratory/)  
 - 🇸🇬 [Assistant / Associate Professor in biology education, National Institute of Education (NIE), Singapore](https://www.nature.com/naturecareers/job/12859387/assistant-professor-associate-professor-in-biology-education-/)  
 - 🇨🇳 [Join Tsinghua Medicine — faculty recruitment, Tsinghua University School of Medicine, Beijing](https://www.nature.com/naturecareers/job/12859322/join-tsinghua-medicine-transforming-medicine-and-healthcare-for-a-shared-future-/)  
 - 🇨🇳 [Faculty position in biology, Duke Kunshan University, Kunshan, Jiangsu](https://www.nature.com/naturecareers/job/12859371/faculty-position-in-biology/)  
@@ -266,6 +276,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [(Senior) Scientist — research metagenomics (pathogen), Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/678975/-senior-scientist-research-metagenomics-pathogen/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Head of Bioinformatics — Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/678954/head-of-bioinformatics-plant-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Scientific Communications Manager — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/678948/scientific-communications-manager-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Bioinformatician, Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/678900/bioinformatician/)  
@@ -428,6 +439,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Research Laboratory Technician II (Benayoun Lab), University of Southern California, Los Angeles, CA](https://jobs.sciencecareers.org/job/678968/research-laboratory-technician-ii/)  
 - 🇨🇦 [Canadian science internships, co-ops, and entry-level roles — Hanzilla Jobs](https://jobs.hanzilla.co/sciences/)
 
 </details>
@@ -435,6 +447,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant (Zuercher Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/678977/research-assistant-zuercher-lab-generative-biology-insititute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/678952/research-assistant-generative-biology-institute/)  
 - 🇩🇪🇬🇧🇫🇷🇪🇸🇮🇹 [EMBL TechDev Internship Programme](https://embl.wd103.myworkdayjobs.com/en-US/EMBL/job/EMBL-TechDev-Internships_JR1401)
 
