@@ -22,6 +22,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Assistant Professor — pathology (tenure-track), Department of Pathology, Midwestern University, Downers Grove, IL](https://jobs.sciencecareers.org/job/679034/assistant-professor-il-pathology/)  
+- 🇺🇸 [Open rank tenure-track or tenured faculty position — Craniofacial Biology, University of Colorado Anschutz Medical Campus, Aurora, CO](https://jobs.sciencecareers.org/job/679024/open-rank-tenure-track-or-tenured-faculty-position/)  
 - 🇨🇦 [Faculty position — nucleic acid–based nanomedicine, Department of Cellular & Physiological Sciences, University of British Columbia, Vancouver, BC](https://www.nature.com/naturecareers/job/12859527/faculty-position-in-nucleic-acid-based-nanomedicine-/)  
 - 🇺🇸 [Faculty position — childhood cancer research & Scientific Director of Brain Tumor Program, Nationwide Children's Hospital, Columbus, OH](https://jobs.sciencecareers.org/job/679002/faculty-position-childhood-cancer-research-and-scientific-director-of-brain-tumor-program/)  
 - 🇺🇸 [Group Leader (PI-equivalent) — immunology, Chan Zuckerberg Biohub New York, New York, NY](https://jobs.sciencecareers.org/job/678995/group-leader-immunology-/)  
@@ -129,8 +131,10 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇨🇭 [Professorship in One Health (open rank) — University of Basel & Swiss TPH, Basel](https://www.nature.com/naturecareers/job/12859558/professorship-in-one-health-open-rank-/)  
+- 🇩🇰 [Senior Researcher and Head of Section — Coastal Ecology, Technical University of Denmark (DTU Aqua), Copenhagen](https://www.nature.com/naturecareers/job/12859552/senior-researcher-and-head-of-section-coastal-ecology/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Principal Investigators (all levels) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/678953/principal-investigators-all-levels-generative-biology-institute/)  
-- 🇸🇪 [Assistant Professor — join a global community of excellence, Karolinska Institutet, Stockholm](https://jobs.sciencecareers.org/job/679013/assistant-professor-join-a-global-community-of-excellence/)  
+- 🇸🇪 [Assistant Professor Recruitment Programme 2026 (21 positions) — Karolinska Institutet, Stockholm](https://ki.se/en/about-ki/jobs-at-ki/assistant-professor-recruitment-programme-2026) · [Science Careers](https://jobs.sciencecareers.org/job/679013/assistant-professor-join-a-global-community-of-excellence/) · applications 2026-06-01 – 2026-08-31  
 - 🇬🇧 [Clinical Lecturer / Clinical Associate Professor (Neuropathology), University College London (UCL), London](https://www.nature.com/naturecareers/job/12859511/clinical-lecturer-clinical-associate-professor-neuropathology-/)  
 - 🇩🇪 [W3 Professorship for plant biotechnology, University of Freiburg, Freiburg im Breisgau](https://www.nature.com/naturecareers/job/12859402/w3-professorship-for-plant-biotechnology/)  
 - 🇩🇰 [Professor in protein design, University of Copenhagen, Copenhagen](https://www.nature.com/naturecareers/job/12859293/professor-in-protein-design/)  
@@ -173,6 +177,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇨🇳 [Global recruitment for faculty and researchers, Anhui Normal University, Wuhu, Anhui](https://www.nature.com/naturecareers/job/12859510/global-recruitment-for-faculty-and-researchers-at-anhui-normal-university/)  
+- 🇨🇳 [Faculty positions — Department of Biomedical Engineering, Southern University of Science and Technology (SUSTech), Shenzhen](https://www.nature.com/naturecareers/job/12853107/faculty-positions-at-sustech-department-of-biomedical-engineering/)  
+- 🇸🇬 [Tenure-track faculty positions — Programme in Cancer and Stem Cell Biology, Duke-NUS Medical School, Singapore](https://jobs.sciencecareers.org/job/679028/tenure-track-faculty-positions-programme-in-cancer-and-stem-cell-biology/)  
 - 🇯🇵 [Team Director (Principal Investigator, indefinite-term) — RIKEN Center for Sustainable Resource Science (CSRS), Wako, Saitama](https://www.nature.com/naturecareers/job/12859327/seeking-a-team-director-principal-investigator-indefinite-term-26-344-/)  
 - 🇨🇳 [Faculty positions — School of Biomedical Engineering (BME), ShanghaiTech University, Shanghai](https://www.nature.com/naturecareers/job/12841662/faculty-positions-school-of-biomedical-engineering-bme-/)  
 - 🇨🇳 [Faculty positions — Life Science and Technology, ShanghaiTech University, Shanghai](https://www.nature.com/naturecareers/job/12841633/faculty-positions-life-science-and-technology-/)  
@@ -342,6 +349,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Postdoctoral Fellow — immunometabolism, cardiovascular & metabolic disease, University of Pittsburgh School of Medicine & UPMC, Pittsburgh, PA](https://jobs.sciencecareers.org/job/679031/postdoctoral-fellow-research-opportunity-in-immunometabolism-cardiovascular-and-metabolic-disease/)  
 - 🇺🇸 [Research Fellowship — early postdoctoral training in basic biomedical sciences (3 years), The Helen Hay Whitney Foundation](https://hhwf.org/research-fellowship/) · deadline 2026-06-15  
 - 🇺🇸 [Postdoctoral Associate — bioinformatics education, Baylor College of Medicine, Houston, TX](https://jobs.sciencecareers.org/job/679008/postdoctoral-associate-bioinformatics-education/)  
 - 🇺🇸 [Postdoctoral Associate — cancer epidemiology, Baylor College of Medicine, Houston, TX](https://jobs.sciencecareers.org/job/679000/postdoctoral-associate-cancer-epidemiology/)  
@@ -410,6 +418,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴 [Postdoctoral Research Fellow (Zuercher Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/679026/postdoctoral-research-fellow-zuercher-lab-generative-biology-institute/)  
 - 🏴 [Postdoctoral Researcher — plant molecular biologist in nitrogen fixation (Plant Biology Institute), Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/679011/postdoctoral-researcher-plant-molecular-biologist-in-nitrogen-fixation-pbi/)  
 - 🏴 [Postdoctoral Researcher — plant biochemist in nitrogen fixation (Plant Biology Institute), Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/678997/postdoctoral-researcher-plant-biochemist-in-nitrogen-fixation-pbi/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/678951/postdoctoral-research-fellow-generative-biology-institute/)  
@@ -494,6 +503,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸/🇬🇧 [Associate or Senior Editor — Science (AAAS), Washington, DC / Cambridge, UK](https://jobs.sciencecareers.org/job/679035/associate-or-senior-editor/)  
 🇺🇸/🇨🇳[Chief Editor | Nature Biomedical Engineering](https://springernature.wd3.myworkdayjobs.com/en-US/SpringerNatureCareers/job/New-York/Chief-Editor--Nature-Biomedical-Engineering_JR102620)
 🇺🇸[Associate or Senior Editor | Nature Genetics and Nature Communication](https://www.nature.com/naturecareers/job/12838754/associate-or-senior-editor-nature-genetics-and-nature-communication/?TrackID=27704&BatchID=773&JobAlertId=35682&cmpid=JBE_TL_20250412_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20250412_jobtitle_job1)
 
