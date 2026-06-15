@@ -22,6 +22,16 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Human genetics Assistant or Associate Professor (research faculty), Cincinnati Children's Hospital Medical Center, Cincinnati, OH](https://www.nature.com/naturecareers/job/12860740/human-genetics-assistant-or-associate-professor-research-faculty-opportunity-jr151441/)  
+- 🇺🇸 [Assistant / Associate / Full Professor — biomedical sciences (tenure-track), Old Dominion University, Norfolk, VA](https://jobs.sciencecareers.org/job/679089/assistant-associate-full-professor-of-biomedical-sciences-tenure-track-/)  
+- 🇺🇸 [Assistant Professor (tenure-track) — immunology, Program in Cellular and Molecular Medicine, Boston Children's Hospital / Harvard Medical School, Boston, MA](https://www.nature.com/naturecareers/job/12860772/assistant-professor-tenure-track-pcmm-boston-children-s-hospital-harvard-medical-school-immunology/)  
+- 🇺🇸 [Assistant / Associate / Full Professor — genetics (MGM Center for NeuroGenetics), University of Florida College of Medicine, Gainesville, FL](https://jobs.sciencecareers.org/job/679083/assistant-associate-or-full-professor-of-genetics-mgm-center-for-neurogenetics/)  
+- 🇺🇸 [All ranks — Assistant / Associate Professor of Neurology (tenure or tenure-track), Columbia University Medical Center, New York, NY](https://www.nature.com/naturecareers/job/12860742/all-ranks-assistant-associate-professor-of-neurology-tenure-or-tenure-track-/)  
+- 🇺🇸 [Associate Professor or Professor — neuroscience, LSU Health Sciences Center New Orleans, New Orleans, LA](https://jobs.sciencecareers.org/job/679079/associate-professor-or-professor/)  
+- 🇺🇸 [Assistant or Associate Professor — space biology / astrobiology, University of Florida, Brevard, FL](https://jobs.sciencecareers.org/job/679071/assistant-or-associate-professor-space-biology-astrobiology/)  
+- 🇺🇸 [Assistant Professor — pathology, Virginia Commonwealth University Department of Pathology, Richmond, VA](https://jobs.sciencecareers.org/job/679070/assistant-professor-vcu-department-of-pathology/)  
+- 🇺🇸 [Tenure-track faculty position — plant biology, Pennsylvania State University, State College, PA](https://jobs.sciencecareers.org/job/679065/tenure-track-faculty-position-in-plant-biology/)  
+- 🇺🇸 [Assistant or Associate Professor — bacteriology, University of Iowa, Iowa City, IA](https://jobs.sciencecareers.org/job/678994/assistant-or-associate-professor-in-bacteriology/)  
 - 🇺🇸 [Tenure / tenure-stream Assistant to Professor — environmental health sciences (toxicology, epidemiology & molecular epidemiology), University of Pittsburgh, Pittsburgh, PA](https://www.nature.com/naturecareers/job/12860711/tenure-tenure-stream-assistant-to-professor-25006079-/)  
 - 🇺🇸 [Assistant Professor (tenure-track) — craniofacial biology (genetic, genomic & epigenomic approaches), USC Center for Craniofacial Molecular Biology, Los Angeles, CA](https://www.nature.com/naturecareers/job/12860687/assistant-professor/)  
 - 🇺🇸 [Faculty — Principal Investigator (host–pathogen interactions, antimicrobial discovery & vaccines), Trudeau Institute, Saranac Lake, NY](https://jobs.sciencecareers.org/job/679062/faculty-principal-investigator/)  
@@ -138,6 +148,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇩🇰 [Associate Professor — functional genomics & metabolism, University of Southern Denmark (SDU), Odense](https://www.nature.com/naturecareers/job/12858409/associate-professor-in-functional-genomics-and-metabolism/)  
+- 🇩🇪 [Research Associate (postdoctoral fellow) & independent research group leader pathway, Philipps-Universität Marburg, Marburg](https://www.nature.com/naturecareers/job/12860734/research-associate-postdoctoral-fellow-and-independent-research-group-leader/)  
 - 🇩🇪 [Junior Group Leader (f) — protein biochemistry / RNA biology, Martin Luther University Halle-Wittenberg, Halle (Saale)](https://www.nature.com/naturecareers/job/12860686/junior-group-leader-f-in-protein-science/)  
 - 🇨🇭 [Professorship in One Health (open rank) — University of Basel & Swiss TPH, Basel](https://www.nature.com/naturecareers/job/12859558/professorship-in-one-health-open-rank-/)  
 - 🇩🇰 [Senior Researcher and Head of Section — Coastal Ecology, Technical University of Denmark (DTU Aqua), Copenhagen](https://www.nature.com/naturecareers/job/12859552/senior-researcher-and-head-of-section-coastal-ecology/)  
@@ -185,6 +197,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇭🇰 [Professor(s) — Department of Microbiology, The Chinese University of Hong Kong (CUHK), Hong Kong](https://www.nature.com/naturecareers/job/12860775/professor-s-/)  
+- 🇨🇳 [Faculty position — School of Biomedical Engineering, Nanjing University, Suzhou, Jiangsu](https://www.nature.com/naturecareers/job/12858330/faculty-position-in-school-of-biomedical-engineering-nanjing-university/)  
+- 🇨🇳 [Multiple faculty & postdoctoral positions — ultrasound medicine & engineering, State Key Laboratory of Ultrasound in Medicine and Engineering, Chongqing](https://www.nature.com/naturecareers/job/12853239/multiple-faculty-and-postdoctoral-positions-in-ultrasound-medicine-and-engineering/)  
 - 🇨🇳 [Institute positions — Shenzhen University of Advanced Technology (SUAT), Shenzhen](https://www.nature.com/naturecareers/job/12853307/institute-positions-available-at-shenzhen-university-of-advanced-technology/)  
 - 🇨🇳 [Faculty positions — Shenzhen University of Advanced Technology (SUAT), Shenzhen](https://www.nature.com/naturecareers/job/12853306/faculty-positions-available-at-shenzhen-university-of-advanced-technology/)  
 - 🇰🇷 [Executive & experienced hire recruitment — CHA Medical & CHA Bio Group, South Korea](https://jobs.sciencecareers.org/job/679041/-cha-medical-and-cha-bio-group-executive-and-experienced-hire-recruitment-2026-06-15-kst-/) · deadline ~2026-06-15  
@@ -318,6 +333,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇩🇰 [Senior Researcher — antimicrobial resistance genomics & bioinformatics, Technical University of Denmark (DTU), Copenhagen](https://www.nature.com/naturecareers/job/12860782/senior-researcher-in-antimicrobial-resistance-genomics-and-bioinformatics/)  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [(Senior) Computational Genomics Scientist — pathogen science, Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/679087/-senior-computational-genomics-scientist-pathogen/)  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Bio-ML Scientists (all levels) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/679072/bio-ml-scientists-all-levels-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Crop Transformation Pipeline Manager — Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/679006/crop-transformation-pipeline-manager-plant-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Associate — Transformation Facility, Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/679007/research-associate-transformation-facility-plant-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [(Senior) Scientist — research metagenomics (pathogen), Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/678975/-senior-scientist-research-metagenomics-pathogen/)  
@@ -361,6 +379,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Postdoctoral Associate — tandem repeat biology, Baylor College of Medicine, Houston, TX](https://jobs.sciencecareers.org/job/679067/postdoctoral-associate-tandem-repeat-biology/)  
 - 🇺🇸 [Postdoctoral Associate — cancer metastasis (Zhao Lab), Lester & Sue Smith Breast Center, Baylor College of Medicine, Houston, TX](https://jobs.sciencecareers.org/job/679054/postdoctoral-associate-cancer-metastasis/)  
 - 🇺🇸 [Postdoctoral Fellow — neuropharmacology (Precision Medicine Program; He Lab), Midwestern University, Downers Grove, IL](https://jobs.sciencecareers.org/job/679043/-post-doctoral-fellow-neuropharmacology-il-precision-medicine-program/)  
 - 🇺🇸 [Postdoctoral Fellow — immunometabolism, cardiovascular & metabolic disease, University of Pittsburgh School of Medicine & UPMC, Pittsburgh, PA](https://jobs.sciencecareers.org/job/679031/postdoctoral-fellow-research-opportunity-in-immunometabolism-cardiovascular-and-metabolic-disease/)  
