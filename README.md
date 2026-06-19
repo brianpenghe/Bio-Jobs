@@ -22,6 +22,10 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Professor — Dana-Farber Cancer Institute / Harvard Medical School, Boston, MA](https://www.nature.com/naturecareers/job/12860933/professor/)  
+- 🇺🇸 [Professor faculty search — immunology, University of Arizona, Tucson, AZ](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/24453?c=arizona&sq=req24453)  
+- 🇺🇸 [Assistant or Associate Professor — Oregon Health & Science University (OHSU), Portland, OR](https://facultycareers-ohsu.icims.com/jobs/39006/assistant-or-associate-professor/job)  
+- 🇺🇸 [Principal Scientist / Lab Head — synthetic immunology, Genentech, South San Francisco, CA](https://careers.gene.com/us/en/job/202601-101383/Principal-Scientist-Lab-Head-Synthetic-Immunity)  
 - 🇺🇸 [Director — Center of Excellence in Environmental Toxicology (standing faculty), University of Pennsylvania, Philadelphia, PA](https://jobs.sciencecareers.org/job/678973/director-of-the-center-of-excellence-in-environmental-toxicology-standing-faculty/)  
 - 🇺🇸 [Director, Protein Sciences — Flagship Pioneering, Somerville, MA USA](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8593843002?gh_jid=8593843002)  
 - 🇺🇸 [Director, Antibody Discovery — Flagship Pioneering, Cambridge, MA USA](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8477766002?gh_jid=8477766002)  
@@ -162,6 +166,12 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇪🇸 [Team Leader (PI) — oncology translational and clinical research, Center for Cancer Research and Advanced Therapies (CITAC), Málaga, Andalucía](https://www.nature.com/naturecareers/job/12860863/team-leader-recruitment-oncology-translational-and-clinical-research/)  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Early Career Group Leader — Francis Crick Institute, London](https://www.crick.ac.uk/careers-study/faculty/early-career-group-leaders)  
+- 🇸🇪 [Assistant Professor — immunotechnology, Lund University, Lund](https://lu.varbi.com/en/what:job/jobID:911427/)  
+- 🇸🇪 [Assistant Professor — immuno-oncology and immune cell engineering, Lund University, Lund](https://lu.varbi.com/en/what:job/jobID:909877/)  
+- 🇸🇪 [Assistant Professor — experimental cancer immunotherapy, Lund University, Lund](https://lu.varbi.com/en/what:job/jobID:909862/)  
+- 🇫🇷 [Junior Research Group Leader — Institut Pasteur, Paris](https://research.pasteur.fr/en/call/creation-of-new-junior-research-groups-at-the-institut-pasteur-call-for-applications-2026/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Director, Antibody Discovery — Flagship Pioneering, Cambridge, UK](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8485130002?gh_jid=8485130002)  
 - 🇩🇪 [W2 Professorship — medicinal and pharmaceutical chemistry (pharmaceutical analysis), Technical University of Braunschweig, Brunswick](https://www.nature.com/naturecareers/job/12860853/professorship-for-medicinal-and-pharmaceutical-chemistry-pharmaceutical-analysis-/) · apply by 2026-08-02  
 - 🇩🇰 [Associate Professor — functional genomics & metabolism, University of Southern Denmark (SDU), Odense](https://www.nature.com/naturecareers/job/12858409/associate-professor-in-functional-genomics-and-metabolism/)  
@@ -213,6 +223,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇨🇳 [Independent Investigator Fellowship Program — National Institute of Biological Sciences (NIBS), Beijing](https://www.nature.com/naturecareers/job/12860918/independent-investigator-fellowship-program/)  
 - 🇨🇳 [Faculty positions — Tsinghua Shenzhen International Graduate School (SIGS), Shenzhen](https://www.nature.com/naturecareers/job/12860778/tsinghua-shenzhen-international-graduate-school-/)  
 - 🇭🇰 [Professor(s) — Department of Microbiology, The Chinese University of Hong Kong (CUHK), Hong Kong](https://www.nature.com/naturecareers/job/12860775/professor-s-/)  
 - 🇨🇳 [Faculty position — School of Biomedical Engineering, Nanjing University, Suzhou, Jiangsu](https://www.nature.com/naturecareers/job/12858330/faculty-position-in-school-of-biomedical-engineering-nanjing-university/)  
@@ -286,6 +297,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Immunology Scientist / Senior Scientist — NewLimit, South San Francisco, CA](https://job-boards.greenhouse.io/newlimit/jobs/5798308004)  
+- 🇺🇸 [Scientist — single-cell technology development & translational genomics (Systems Biology), Chan Zuckerberg Biohub, San Francisco, CA](https://job-boards.greenhouse.io/biohub/jobs/7305629?gh_src=l5du454b1us)  
 - 🇺🇸 [Executive Director, Preclinical and Translational Sciences — 4D Molecular Therapeutics, Remote, United States](https://4dmoleculartherapeutics.com/careers/?gh_jid=4690434005)  
 - 🇺🇸 [Associate Director, Biology — Ratio Therapeutics, Boston, Massachusetts](https://ratiotx.bamboohr.com/careers/74)  
 - 🇺🇸 [Senior/Executive Director, Head of Immunology — Marengo Therapeutics, Cambridge, MA](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3972440)  
@@ -1021,6 +1034,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇸🇬 [Scientist — neutrophil biology, A*STAR, Singapore](https://careers.a-star.edu.sg/default/job/Scientist%2C-Neutrophil-BIology/2345-en_GB)  
+- 🇸🇬 [Scientist — autoimmunity, A*STAR, Singapore](https://careers.a-star.edu.sg/default/job/Scientist%2C-Autoimmunity/2495-en_GB)  
+- 🇸🇬 [Scientist — mucosal immunology & microbiome, A*STAR, Singapore](https://careers.a-star.edu.sg/job/50006529-Scientist%2C-Mucosal-Immunology-&-Microbiome/2178-en_GB/)  
 - 🇯🇵 [Associate Director, Biology, Cardurion Pharmaceuticals, K.K. — Cardurion Pharmaceuticals, Fujisawa, Kanagawa, Japan](https://jp.linkedin.com/jobs/view/associate-director-biology-cardurion-pharmaceuticals-k-k-at-cardurion-pharmaceuticals-4343315600)  
 - 🇺🇸 [Principal Scientist to Associate Director, Analytical Development — Structure Therapeutics, Shanghai, Pudong District](https://structuretx.bamboohr.com/careers/500)  
 - 🇮🇳 [Discovery Toxicology Project Leader — Morphic Therapeutic, Indianapolis, IN](https://www.linkedin.com/jobs/view/discovery-toxicology-project-leader-at-eli-lilly-and-company-4343909900)  
@@ -1049,6 +1065,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Postdoctoral Fellow — bio-based materials & synthetic biology, University of Missouri, Columbia, MO](https://jobs.sciencecareers.org/job/679126/postdoctoral-fellow/)  
+- 🇺🇸 [Postdoctoral Fellow — immunogenomics of inflammation & stress (Immunogenomics Group), Chan Zuckerberg Biohub, San Francisco, CA](https://job-boards.greenhouse.io/biohub/jobs/7305631?gh_src=st585g6z1us)  
+- 🇺🇸 [Postdoctoral Fellow — engineering non-coding genome in immune cells (Immunogenomics Group), Chan Zuckerberg Biohub, San Francisco, CA](https://job-boards.greenhouse.io/biohub/jobs/7305630?gh_src=tmh4vlrx1us)  
 - 🇺🇸 [Postdoctoral Fellowships — barrier immunology, Temple University, Philadelphia, PA](https://jobs.sciencecareers.org/job/679113/postdoctoral-fellowships-in-barrier-immunology/)  
 - 🇺🇸 [Postdoctoral Associate — cancer biology and bioinformatics (Putluri Lab), Baylor College of Medicine, Houston, TX](https://jobs.sciencecareers.org/job/679108/postdoctoral-associate-cancer-biology-and-bioinformatics/)  
 - 🇺🇸 [Postdoctoral Fellow — immunology (Bosmann Laboratory), Department of Medicine, Boston University, Boston, MA](https://jobs.sciencecareers.org/job/679118/postdoctoral-fellow-in-immunology/)  
@@ -1124,7 +1143,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (van Bijsterveldt Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/679049/postdoctoral-research-fellow-van-bijsterveldt-lab-generative-biology-institute/)  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (van Bijsterveldt Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679121/postdoctoral-research-fellow-van-bijsterveldt-lab-generative-biology-institute/)  
 - 🇩🇪 [Fully funded 4-year postdoc — cognitive & computational neuroscience (social cognition; DoellerLab), Max Planck Institute for Human Cognitive and Brain Sciences (MPI CBS), Leipzig](https://jobs.sciencecareers.org/job/679038/fully-funded-4-year-postdoc-position-in-cognitive-and-computational-neuroscience-area-social-cogni/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Zuercher Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/679026/postdoctoral-research-fellow-zuercher-lab-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Researcher — plant molecular biologist in nitrogen fixation (Plant Biology Institute), Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/679011/postdoctoral-researcher-plant-molecular-biologist-in-nitrogen-fixation-pbi/)  
@@ -1187,6 +1206,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Senior Immunology Research Associate — NewLimit, South San Francisco, CA](https://job-boards.greenhouse.io/newlimit/jobs/5779542004)  
 - 🇺🇸 [Laboratory Assistant — Karius, Redwood City, CA](https://jobs.lever.co/kariusdx/faaaa842-04a3-4efe-a469-25c2ef29b8d2)  
 - 🇺🇸 [Water Application Technician-WI — Tidal Vision, Ludington, Michigan](https://tidalvision.bamboohr.com/careers/238)  
 - 🇺🇸 [Swine Neonatal Care Technician — eGenesis, Greater Madison, WI Area](https://jobs.lever.co/egenesisbio/e3e9bb5d-f954-4231-8976-7849587fae47)  
