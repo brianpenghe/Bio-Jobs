@@ -22,6 +22,10 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Tenure-track Assistant/Associate Professor — genetics, genomics & cell biology, University of Mississippi Medical Center, Jackson, MS](https://jobs.sciencecareers.org/job/679149/tenure-track-assistant-associate-professor-genetics-genomics-and-cell-biology/)  
+- 🇺🇸 [Tenure-track Assistant Professor — ophthalmology & visual sciences, West Virginia University, Morgantown, WV](https://jobs.sciencecareers.org/job/679150/tenure-track-assistant-professor-west-virginia-university/)  
+- 🇺🇸 [Developmental biology faculty — Otolaryngology–Head & Neck Surgery, Stanford University, Stanford, CA](https://www.nature.com/naturecareers/job/12860995/developmental-biology-faculty-in-otolaryngology-head-and-neck-surgery/)  
+- 🇺🇸 [Professor or Associate Professor (tenure-track or tenured) — basic HIV/AIDS research, Albert Einstein College of Medicine, Bronx, NY](https://www.nature.com/naturecareers/job/12861019/professor-or-associate-professor-tenure-track-or-tenured-in-basic-hiv-aids-research/)  
 - 🇺🇸 [Professor — Dana-Farber Cancer Institute / Harvard Medical School, Boston, MA](https://www.nature.com/naturecareers/job/12860933/professor/)  
 - 🇺🇸 [Professor faculty search — immunology, University of Arizona, Tucson, AZ](https://arizona.csod.com/ux/ats/careersite/4/home/requisition/24453?c=arizona&sq=req24453)  
 - 🇺🇸 [Assistant or Associate Professor — Oregon Health & Science University (OHSU), Portland, OR](https://facultycareers-ohsu.icims.com/jobs/39006/assistant-or-associate-professor/job)  
@@ -166,6 +170,12 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Principal Investigators (all levels) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679141/principal-investigators-all-levels-generative-biology-institute/)  
+- 🇸🇪 [Group Leader — Molecular Infection Medicine Sweden (MIMS), Umeå University, Umeå](https://jobs.sciencecareers.org/job/679156/group-leader-in-molecular-infection-medicine/)  
+- 🇩🇪 [W3 endowed professorship — pneumology (COPD focus), Heidelberg University Medical Faculty, Heidelberg](https://www.nature.com/naturecareers/job/12860969/w3-stiftungsprofessur-fuer-pneumologie-mit-schwerpunkt-copd-w-m-d-/)  
+- 🇨🇭 [Professorship of traumatology of the musculoskeletal system — University of Zurich (UZH), Zürich](https://www.nature.com/naturecareers/job/12860982/professorship-of-traumatology-of-the-musculoskeletal-system/)  
+- 🇨🇭 [Professorship of neurology — University of Zurich (UZH), Zürich](https://www.nature.com/naturecareers/job/12860980/professorship-of-neurology/)  
+- 🇩🇪 [W3 Professorship in agrobioinformatics — Justus Liebig University Giessen, Gießen](https://www.nature.com/naturecareers/job/12861021/w3-professorship-in-agrobioinformatics/)  
 - 🇪🇸 [Team Leader (PI) — oncology translational and clinical research, Center for Cancer Research and Advanced Therapies (CITAC), Málaga, Andalucía](https://www.nature.com/naturecareers/job/12860863/team-leader-recruitment-oncology-translational-and-clinical-research/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Early Career Group Leader — Francis Crick Institute, London](https://www.crick.ac.uk/careers-study/faculty/early-career-group-leaders)  
 - 🇸🇪 [Assistant Professor — immunotechnology, Lund University, Lund](https://lu.varbi.com/en/what:job/jobID:911427/)  
@@ -223,6 +233,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇭🇰 [Neuroscience and neurological diseases faculty positions — Hong Kong University of Science and Technology (HKUST), Hong Kong](https://www.nature.com/naturecareers/job/12860844/neuroscience-and-neurological-diseases-faculty-positions/)  
+- 🇨🇳 [Department chairs — College of Basic Medical Sciences, Shanghai Jiao Tong University School of Medicine, Shanghai](https://jobs.sciencecareers.org/job/679144/department-chairs-of-the-college-of-basic-medical-sciences-sjtu-school-of-medicine/)  
+- 🇨🇳 [Global recruitment for high-level talents — China National Center for Bioinformation (CNCB), Beijing](https://www.nature.com/naturecareers/job/12860964/china-national-center-for-bioinformation-announces-global-recruitment-for-high-level-talents/)  
 - 🇨🇳 [Independent Investigator Fellowship Program — National Institute of Biological Sciences (NIBS), Beijing](https://www.nature.com/naturecareers/job/12860918/independent-investigator-fellowship-program/)  
 - 🇨🇳 [Faculty positions — Tsinghua Shenzhen International Graduate School (SIGS), Shenzhen](https://www.nature.com/naturecareers/job/12860778/tsinghua-shenzhen-international-graduate-school-/)  
 - 🇭🇰 [Professor(s) — Department of Microbiology, The Chinese University of Hong Kong (CUHK), Hong Kong](https://www.nature.com/naturecareers/job/12860775/professor-s-/)  
@@ -297,6 +310,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Research Associate, DNA Synthesis — Atlas Data Storage, South San Francisco, CA](https://ats.rippling.com/atlas-data-storage/jobs/5e43c76b-0d5e-4fe5-b31b-c958c3b275ea)  
+- 🇺🇸 [Research Associate, DNA Synthesis — Mammoth DS, South San Francisco, CA](https://www.builtinsf.com/job/engineer-associate-research-associate-dna-synthesis-platform/7611948)  
 - 🇺🇸 [Immunology Scientist / Senior Scientist — NewLimit, South San Francisco, CA](https://job-boards.greenhouse.io/newlimit/jobs/5798308004)  
 - 🇺🇸 [Scientist — single-cell technology development & translational genomics (Systems Biology), Chan Zuckerberg Biohub, San Francisco, CA](https://job-boards.greenhouse.io/biohub/jobs/7305629?gh_src=l5du454b1us)  
 - 🇺🇸 [Executive Director, Preclinical and Translational Sciences — 4D Molecular Therapeutics, Remote, United States](https://4dmoleculartherapeutics.com/careers/?gh_jid=4690434005)  
@@ -439,7 +454,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🇺🇸 [Scientist I — Kula Bio, Natick, MA](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4242723)  
 - 🇺🇸 [Manufacturing Science & Technology (MSAT) Engineer - Fermentation Process Development — Kula Bio, Natick, MA](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4242960)  
 - 🇺🇸 [Senior Scientist, Analytical Development — Aurion Biotechnologies, Cambridge, MA](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4244538)  
-- 🇺🇸 [Research Associate II/ Senior Research Associate, In Vitro Pharmacology — Epic Bio, South San Francisco, California, United States](https://job-boards.greenhouse.io/epicbio/jobs/6018775004)  
+- 🇺🇸 [Research Associate II/ Senior Research Associate, In Vitro Pharmacology — Epicrispr Biotechnologies (Epic Bio), South San Francisco, California, United States](https://job-boards.greenhouse.io/epicbio/jobs/6018775004)  
 - 🇺🇸 [Scientist I/II, Pharmacology and Translational Science — Artiva Biotherapeutics, San Diego, California](https://artivabio.bamboohr.com/careers/196)  
 - 🇺🇸 [Supervising Principal Scientist, Process Development — Cellares, South San Francisco, CA](https://jobs.lever.co/cellares/d3bafa91-c50e-4b45-9341-7f752c670a0c)  
 - 🇺🇸 [Associate Scientist, Process Development (I,II,III) — Cellares, South San Francisco, CA](https://jobs.lever.co/cellares/14d3ccc7-5e87-4ba9-a407-8f8a62c725b9)  
@@ -967,6 +982,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Head of Responsible Innovation — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679137/head-of-responsible-innovation-generative-biology-institute/)  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Scientific Communications Manager — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679136/scientific-communications-manager-generative-biology-institute/)  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Senior Scientist, Biotechnology — pathogen, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679129/senior-scientist-biotechnology-pathogen/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [CMC Analytical Lead — Engitix, London, England, Storbritannien](https://uk.linkedin.com/jobs/view/cmc-analytical-lead-at-engitix-therapeutics-4420712554)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Scientist, Macrophage & Myeloid Biology — Engitix, London, England, Storbritannien och Nordirland](https://uk.linkedin.com/jobs/view/scientist-macrophage-myeloid-biology-at-engitix-therapeutics-4425779999)  
 - 🇩🇪 [Manager, Preclinical Development — Immunic Therapeutics, Gräfelfing, Bavaria, Germany](https://de.linkedin.com/jobs/view/manager-preclinical-development-at-immunic-therapeutics-4424875838)  
@@ -1065,6 +1083,15 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Postdoctoral or scientist positions — neural repair & regeneration research, Temple University, Philadelphia, PA](https://jobs.sciencecareers.org/job/679158/postdoctoral-or-scientist-positions-for-neural-repair-and-regeneration-research/)  
+- 🇺🇸 [Postdoctoral Fellow, Immunology Discovery (Moussion Lab) — Genentech, South San Francisco, CA](https://careers.gene.com/us/en/job/202605-111993/Postdoctoral-Fellow-Immunology-Discovery-Moussion-Lab)  
+- 🇺🇸 [Postdoctoral Research Associate — oncology, Washington University School of Medicine, St. Louis, MO](https://wustl.wd1.myworkdayjobs.com/en-US/external/job/Washington-University-Medical-Campus/Postdoctoral-Research-Associate---Oncology_JR94186)  
+- 🇺🇸 [Postdoctoral Fellow — pharmacology, UTMB Health, Galveston, TX](https://applyjobs.utmb.edu/jobs/postdoctoral-fellow-pharmacology-32193)  
+- 🇺🇸 [Postdoctoral Fellow I — pathology postdoctoral fellows, UTMB Health, Galveston, TX](https://applyjobs.utmb.edu/jobs/postdoctoral-fellow-i-pathology-postdoctoral-fellows-20801)  
+- 🇺🇸 [Postdoctoral Research Associate — Texas A&M AgriLife Research, College Station, TX](https://tamus.wd1.myworkdayjobs.com/en-US/AgriLife_Research_External/job/College-Station-TX/Postdoctoral-Research-Associate_R-093077-1)  
+- 🇺🇸 [Postdoctoral Researcher (co-evolution) — University of Mississippi, Oxford, MS](https://www.darwinsdaemon.com/openings.php) · [LinkedIn listing](https://www.linkedin.com/jobs/view/4424214398/)  
+- 🇺🇸 [Postdoctoral positions — immune–brain function, innovative therapeutics development & machine intelligence (iPSC brain organoids), University of California San Diego, San Diego, CA](https://jobs.sciencecareers.org/job/679128/immune-and-brain-function-research-innovative-therapeutics-development-machine-intelligence-/)  
+- 🇺🇸 [Postdoctoral Associate — cancer cell therapy, Center for Cell and Gene Therapy, Baylor College of Medicine, Houston, TX](https://jobs.sciencecareers.org/job/679132/postdoctoral-associate-cancer-cell-therapy/)  
 - 🇺🇸 [Postdoctoral Fellow — bio-based materials & synthetic biology, University of Missouri, Columbia, MO](https://jobs.sciencecareers.org/job/679126/postdoctoral-fellow/)  
 - 🇺🇸 [Postdoctoral Fellow — immunogenomics of inflammation & stress (Immunogenomics Group), Chan Zuckerberg Biohub, San Francisco, CA](https://job-boards.greenhouse.io/biohub/jobs/7305631?gh_src=st585g6z1us)  
 - 🇺🇸 [Postdoctoral Fellow — engineering non-coding genome in immune cells (Immunogenomics Group), Chan Zuckerberg Biohub, San Francisco, CA](https://job-boards.greenhouse.io/biohub/jobs/7305630?gh_src=tmh4vlrx1us)  
@@ -1143,6 +1170,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679139/postdoctoral-research-fellow-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (van Bijsterveldt Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679121/postdoctoral-research-fellow-van-bijsterveldt-lab-generative-biology-institute/)  
 - 🇩🇪 [Fully funded 4-year postdoc — cognitive & computational neuroscience (social cognition; DoellerLab), Max Planck Institute for Human Cognitive and Brain Sciences (MPI CBS), Leipzig](https://jobs.sciencecareers.org/job/679038/fully-funded-4-year-postdoc-position-in-cognitive-and-computational-neuroscience-area-social-cogni/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Zuercher Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/679026/postdoctoral-research-fellow-zuercher-lab-generative-biology-institute/)  
@@ -1287,6 +1315,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679140/research-assistant-generative-biology-institute/)  
 - 🇫🇷 [Research Intern (Flow Matching models) — Owkin, Paris, Île-de-France, France](https://fr.linkedin.com/jobs/view/research-intern-flow-matching-models-at-owkin-4422888572)  
 - 🇫🇷 [AI Engineer - Intern — Owkin, Paris, Île-de-France, France](https://fr.linkedin.com/jobs/view/ai-engineer-intern-at-owkin-4416315526)  
 - 🇫🇷 [Lab Technician - CDD — Owkin, Paris, Île-de-France, France](https://fr.linkedin.com/jobs/view/lab-technician-cdd-at-owkin-4408850924)  
@@ -1319,6 +1348,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Director — Pharmacology, Physiology, and Biological Chemistry (PPBC) Division, NIH/NIGMS, Bethesda, MD](https://jobs.sciencecareers.org/job/679160/director/)  
 - 🇨🇦 [Veterinary Anatomy Assistant Professor (teaching), University of Calgary, Calgary](https://jobs.sciencecareers.org/job/678885/veterinary-anatomy-assistant-professor-teaching-/)  
 - 🇺🇸 [Executive Director — Duke Human Vaccine Institute, Duke University School of Medicine, Durham, NC](https://jobs.sciencecareers.org/job/679084/executive-director/)  
 - 🇺🇸 [Dean — Division of Biological Sciences, University of California, Berkeley, Berkeley, CA](https://jobs.sciencecareers.org/job/679097/dean-of-the-division-of-biological-sciences/)  
