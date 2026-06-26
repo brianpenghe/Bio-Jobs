@@ -22,6 +22,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Faculty position (tenure-track Assistant Professor) — microbiology & immunology, Geisel School of Medicine at Dartmouth, Hanover, NH](https://jobs.sciencecareers.org/job/679171/faculty-position/)  
+- 🇺🇸 [Assistant Professor (tenure-track) — microbiology, University of Washington Department of Microbiology, Seattle, WA](https://jobs.sciencecareers.org/job/679182/assistant-professor-tenure-track-department-of-microbiology-university-of-washington/)  
+- 🇺🇸 [Assistant Professor of Pathology, Research (structural & computational biology) — Stanford University, Stanford, CA](https://www.nature.com/naturecareers/job/12861099/assistant-professor-of-pathology-research-structural-and-computational-biology-/)  
 - 🇺🇸 [Tenure-track Assistant/Associate Professor — genetics, genomics & cell biology, University of Mississippi Medical Center, Jackson, MS](https://jobs.sciencecareers.org/job/679149/tenure-track-assistant-associate-professor-genetics-genomics-and-cell-biology/)  
 - 🇺🇸 [Tenure-track Assistant Professor — ophthalmology & visual sciences, West Virginia University, Morgantown, WV](https://jobs.sciencecareers.org/job/679150/tenure-track-assistant-professor-west-virginia-university/)  
 - 🇺🇸 [Developmental biology faculty — Otolaryngology–Head & Neck Surgery, Stanford University, Stanford, CA](https://www.nature.com/naturecareers/job/12860995/developmental-biology-faculty-in-otolaryngology-head-and-neck-surgery/)  
@@ -170,6 +173,10 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇨🇭 [Assistant/Associate Professor in climate biophysics — University of Basel, Basel](https://jobs.sciencecareers.org/job/679172/assistant-associate-professor-in-climate-biophysics/)  
+- 🇫🇷 [Junior Professor Chair (tenure-track) — INSERM Unit 1176, Paris area, France](https://www.nature.com/naturecareers/job/12861088/junior-professor-chair-tenure-track-position-inserm-france/)  
+- 🇫🇷 [Senior Group Leader — rare genetic eye diseases & therapeutic innovation, Imagine Institute, Paris](https://www.nature.com/naturecareers/job/12861044/senior-group-leader-rare-genetic-eye-diseases-and-therapeutic-innovation/)  
+- 🇮🇹 [Researchers and technologists — agrosystems, environment & food, Fondazione, Italy](https://jobs.sciencecareers.org/job/679039/researchers-and-technologists-in-the-research-areas-agrosystems-environment-and-food/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Principal Investigators (all levels) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679141/principal-investigators-all-levels-generative-biology-institute/)  
 - 🇸🇪 [Group Leader — Molecular Infection Medicine Sweden (MIMS), Umeå University, Umeå](https://jobs.sciencecareers.org/job/679156/group-leader-in-molecular-infection-medicine/)  
 - 🇩🇪 [W3 endowed professorship — pneumology (COPD focus), Heidelberg University Medical Faculty, Heidelberg](https://www.nature.com/naturecareers/job/12860969/w3-stiftungsprofessur-fuer-pneumologie-mit-schwerpunkt-copd-w-m-d-/)  
@@ -310,6 +317,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Software Engineering Manager, Data Engineering — Eikon Therapeutics, Millbrae, CA](https://job-boards.greenhouse.io/eikontherapeutics/jobs/5129843007)  
 - 🇺🇸 [Research Associate, DNA Synthesis — Atlas Data Storage, South San Francisco, CA](https://ats.rippling.com/atlas-data-storage/jobs/5e43c76b-0d5e-4fe5-b31b-c958c3b275ea)  
 - 🇺🇸 [Research Associate, DNA Synthesis — Mammoth DS, South San Francisco, CA](https://www.builtinsf.com/job/engineer-associate-research-associate-dna-synthesis-platform/7611948)  
 - 🇺🇸 [Immunology Scientist / Senior Scientist — NewLimit, South San Francisco, CA](https://job-boards.greenhouse.io/newlimit/jobs/5798308004)  
@@ -1083,6 +1091,10 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Postdoctoral positions — mechanisms of heart failure research, LSU Health Shreveport, Shreveport, LA](https://jobs.sciencecareers.org/job/679166/postdoctoral-positions-for-mechanisms-of-heart-failure-research/)  
+- 🇺🇸 [Postdoctoral Fellow — tumor immunology & immunotherapy (prostate cancer), University of Louisville, Louisville, KY](https://jobs.sciencecareers.org/job/679178/postdoctoral-fellow/)  
+- 🇺🇸 [Post-Doctoral Research Fellow — gnomAD-LR (Talkowski Lab), Brigham and Women's Hospital / Massachusetts General Hospital, Boston, MA](https://release-qa-theme.webscribble.com/job/post-doctoral-research-fellow-gnomad-lr-boston-ma-1139de94bdb5fb0c28bf854af3b63f12b)  
+- 🇺🇸 [Postdoctoral Fellow — human genetics & cardiometabolic disease, Amgen, Cambridge, MA](https://careers.amgen.com/en/job/cambridge/postdoctoral-fellow-human-genetics-and-cardiometabolic-disease/87/96488089184)  
 - 🇺🇸 [Postdoctoral or scientist positions — neural repair & regeneration research, Temple University, Philadelphia, PA](https://jobs.sciencecareers.org/job/679158/postdoctoral-or-scientist-positions-for-neural-repair-and-regeneration-research/)  
 - 🇺🇸 [Postdoctoral Fellow, Immunology Discovery (Moussion Lab) — Genentech, South San Francisco, CA](https://careers.gene.com/us/en/job/202605-111993/Postdoctoral-Fellow-Immunology-Discovery-Moussion-Lab)  
 - 🇺🇸 [Postdoctoral Research Associate — oncology, Washington University School of Medicine, St. Louis, MO](https://wustl.wd1.myworkdayjobs.com/en-US/external/job/Washington-University-Medical-Campus/Postdoctoral-Research-Associate---Oncology_JR94186)  
@@ -1234,6 +1246,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Research Technician (career-track) — gut–liver axis & microbiome, Cleveland Clinic, Cleveland, OH](https://jobs.sciencecareers.org/job/679163/research-technician-career-track-gut-liver-axis-and-microbiome/)  
 - 🇺🇸 [Senior Immunology Research Associate — NewLimit, South San Francisco, CA](https://job-boards.greenhouse.io/newlimit/jobs/5779542004)  
 - 🇺🇸 [Laboratory Assistant — Karius, Redwood City, CA](https://jobs.lever.co/kariusdx/faaaa842-04a3-4efe-a469-25c2ef29b8d2)  
 - 🇺🇸 [Water Application Technician-WI — Tidal Vision, Ludington, Michigan](https://tidalvision.bamboohr.com/careers/238)  
@@ -1315,6 +1328,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant (Zuercher Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679175/research-assistant-zuercher-lab-generative-biology-insititute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679140/research-assistant-generative-biology-institute/)  
 - 🇫🇷 [Research Intern (Flow Matching models) — Owkin, Paris, Île-de-France, France](https://fr.linkedin.com/jobs/view/research-intern-flow-matching-models-at-owkin-4422888572)  
 - 🇫🇷 [AI Engineer - Intern — Owkin, Paris, Île-de-France, France](https://fr.linkedin.com/jobs/view/ai-engineer-intern-at-owkin-4416315526)  
@@ -1348,6 +1362,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇲🇴 [Dean of Faculty of Medicine — University of Macau (UM), Macau](https://www.nature.com/naturecareers/job/12861046/dean-of-faculty-of-medicine/)  
 - 🇺🇸 [Director — Pharmacology, Physiology, and Biological Chemistry (PPBC) Division, NIH/NIGMS, Bethesda, MD](https://jobs.sciencecareers.org/job/679160/director/)  
 - 🇨🇦 [Veterinary Anatomy Assistant Professor (teaching), University of Calgary, Calgary](https://jobs.sciencecareers.org/job/678885/veterinary-anatomy-assistant-professor-teaching-/)  
 - 🇺🇸 [Executive Director — Duke Human Vaccine Institute, Duke University School of Medicine, Durham, NC](https://jobs.sciencecareers.org/job/679084/executive-director/)  
