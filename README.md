@@ -990,6 +990,18 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant / Research Associate (×2) — Department of Plant Sciences, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistant-research-associate-x-2-fixed-term-pd50035) · closes 2026-07-12  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant/Associate — Department of Pathology, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistantassociate-fixed-term-pk49836) · closes 2026-07-01  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant/Associate — Department of Clinical Neurosciences, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistantassociate-fixed-term-rr50022) · closes 2026-07-12  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant / Research Associate — single-cell genomics of breast cancer prevention — Department of Pharmacology, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistant-research-associate-single-cell-genomics-of-breast-cancer-prevention-pl50034) · closes 2026-07-05  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Associate — single-cell genomics of chromosomal instability (Markowetz Group) — Cancer Research UK Cambridge Institute, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-associate-single-cell-genomics-of-chromosomal-instability-markowetz-group-fixed-term-sw50106) · closes 2026-07-14  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Associate (Dupree Group) — Department of Biochemistry, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-associate-dupree-group-fixed-term-ph50055) · closes 2026-07-26  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Associate — CIMR Clinical Biochemistry, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-associate-fixed-term-sg49944) · closes 2026-07-07  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Associate — Department of Physiology, Development and Neuroscience, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-associate-fixed-term-pm49745-0) · closes 2026-06-28  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Associate — Department of Physiology, Development and Neuroscience, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-associate-fixed-term-pm50095) · closes 2026-07-06  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Associate — Department of Psychiatry, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-associate-fixed-term-rn50004) · closes 2026-06-29  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Associate — Department of Haematology, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-associate-fixed-term-rb49980) · closes 2026-06-30  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Associate — MRC Mitochondrial Biology Unit, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-associate-fixed-term-sm49951) · closes 2026-07-01  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Head of Responsible Innovation — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679137/head-of-responsible-innovation-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Scientific Communications Manager — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679136/scientific-communications-manager-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Senior Scientist, Biotechnology — pathogen, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679129/senior-scientist-biotechnology-pathogen/)  
@@ -1182,6 +1194,16 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Associate in developmental timing — Gurdon Institute, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-associate-in-developmental-timing-fixed-term-pr49711-0) · closes 2026-06-30  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Associate (Honorary Resident Doctor/GP) — Department of Public Health and Primary Care, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-associate-honorary-resident-doctorgp-fixed-term-sn50152) · closes 2026-07-09  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Associate (Honorary Resident Doctor) — Department of Oncology, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-associate-honorary-resident-doctor-rd50155) · closes 2026-07-09  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Associate — solid-state NMR — Yusuf Hamied Department of Chemistry, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/postdoctoral-research-associate-solid-state-nmr-fixed-term-ma50144) · closes 2026-07-23  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Associate or Assistant Research Professor in qualitative public health intervention research — Institute of Metabolic Science Epidemiology (Clinical Biochemistry), University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/postdoctoral-research-associate-or-assistant-research-professor-in-qualitative-public-health-sj49849) · closes 2026-07-15  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Associate in molecular evolution & functional genomics — Department of Applied Mathematics and Theoretical Physics, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/postdoctoral-research-associate-in-molecular-evolution-and-functional-genomics-fixed-term-le49741-0) · closes 2026-06-26  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Associate in biophysics (microfluidics & optics) — Yusuf Hamied Department of Chemistry, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/postdoctoral-research-associate-in-biophysics-with-focus-on-microfluidics-and-optics-fixed-term-ma50116) · closes 2026-07-21  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Post-doctoral Research Associate (×2) — Yusuf Hamied Department of Chemistry, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/post-doctoral-research-associate-x-2-fixed-term-ma49955) · closes 2026-07-08  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [CG-TIC Postdoctoral Research Associate — respiratory epithelial models for COPD — Department of Medicine, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/cg-tic-postdoctoral-research-associate-respiratory-epithelial-models-for-copd-rc49883) · closes 2026-07-05  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [CG-TIC Postdoctoral Research Associate — Department of Medicine, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/cg-tic-postdoctoral-research-associate-fixed-term-rc49887) · closes 2026-07-05  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679139/postdoctoral-research-fellow-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (van Bijsterveldt Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679121/postdoctoral-research-fellow-van-bijsterveldt-lab-generative-biology-institute/)  
 - 🇩🇪 [Fully funded 4-year postdoc — cognitive & computational neuroscience (social cognition; DoellerLab), Max Planck Institute for Human Cognitive and Brain Sciences (MPI CBS), Leipzig](https://jobs.sciencecareers.org/job/679038/fully-funded-4-year-postdoc-position-in-cognitive-and-computational-neuroscience-area-social-cogni/)  
@@ -1228,6 +1250,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant / PhD Studentship — Department of Zoology, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistant-phd-studentship-fixed-term-pf49977) · closes 2026-06-26  
 - 🇩🇪 [PhD student (m/f/d), German Center for Neurodegenerative Diseases (DZNE), Langen](https://jobs.sciencecareers.org/job/678907/phd-student-m-f-d-/)  
 - 🇩🇪 [PhD position (f/m/d) — translational biochemistry & biophysics (neurogenetic disorders), University of Ulm, Ulm](https://jobs.sciencecareers.org/job/678919/phd-position-f-m-d-in-translational-biochemistry-biophysics-with-focus-on-neurogenetic-disorders/)  
 
@@ -1328,6 +1351,18 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant — biodiversity & land-use change — Department of Zoology, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistant-biodiversity-and-land-use-changefixed-term-pf49870) · closes 2026-07-12  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant in developmental timing — Gurdon Institute, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistant-in-developmental-timing-fixed-term-pr49710-0) · closes 2026-06-30  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant (Dupree Group) — Department of Biochemistry, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistant-dupree-group-fixed-term-ph50054) · closes 2026-07-26  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant (piRNA Team) — Cancer Research UK Cambridge Institute, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistant-pirna-team-fixed-term-sw50119) · closes 2026-07-09  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant (part-time) — Department of Public Health and Primary Care, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistant-part-time-fixed-term-sn50156) · closes 2026-07-19  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant — MRC Cognition and Brain Sciences Unit, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistant-fixed-term-su50138) · closes 2026-07-12  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant — Department of Medicine, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistant-fixed-term-rc49804) · closes 2026-06-28  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant — Department of Genetics, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistant-fixed-term-pc50072) · closes 2026-07-01  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant — Department of Psychology, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistant-fixed-term-pj49987) · closes 2026-07-02  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant — MRC Cognition and Brain Sciences Unit, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistant-fixed-term-su49881) · closes 2026-07-09  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant (Creixell Group) — Cancer Research UK Cambridge Institute, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistant-creixell-group-fixed-term-sw50003) · closes 2026-07-09  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant (clinical trials) — Department of Clinical Biochemistry, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistant-clinical-trials-rg50105) · closes 2026-07-10  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant (Zuercher Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679175/research-assistant-zuercher-lab-generative-biology-insititute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679140/research-assistant-generative-biology-institute/)  
 - 🇫🇷 [Research Intern (Flow Matching models) — Owkin, Paris, Île-de-France, France](https://fr.linkedin.com/jobs/view/research-intern-flow-matching-models-at-owkin-4422888572)  
