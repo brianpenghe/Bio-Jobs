@@ -22,6 +22,12 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Assistant Professor/Associate Professor (tenure track) — systems biology (microbial systems biology), Cecil H. and Ida Green Center, Lyda Hill Department of Bioinformatics, UT Southwestern Medical Center, Dallas, TX](https://www.compbiojobs.com/jobs/4187/assistant-professorassociate-professor-tenure-track-faculty-in-systems-biology)  
+- 🇺🇸 [Assistant/Associate/Full Professor (tenure system) — computational biology, Department of Computational Mathematics, Science and Engineering (CMSE), Michigan State University, East Lansing, MI](https://careers.msu.edu/jobs/ast-asc-full-professor-tenure-system-east-lansing-michigan-united-states-e144babd-a429-4a65-8dc9-e9e457645c85)  
+- 🇺🇸 [Research Assistant Professor — genomic sequencing data analysis, Center for Biomedical Research, Tuskegee University, Tuskegee, AL](https://tuskegee.peopleadmin.com/postings/3659)  
+- 🇺🇸 [Assistant Professor — biology & biotechnology, Worcester Polytechnic Institute, Worcester, MA](https://jobs.sciencecareers.org/job/679187/assistant-professor-biology-and-biotechnology/)  
+- 🇺🇸 [Microbiology and Immunology faculty position (ladder rank Assistant Professor) — University of California San Francisco, San Francisco, CA](https://jobs.sciencecareers.org/job/679188/microbiology-and-immunology-faculty-position-ladder-rank-assistant-professor/)  
+- 🇺🇸 [Biomedical Informatics (BMI) academic faculty (Assistant or Associate Professor) — Cincinnati Children's Hospital Medical Center, Cincinnati, OH](https://www.nature.com/naturecareers/job/12861097/biomedical-informatics-bmi-academic-faculty-opportunities-assistant-or-associate-professor-/)  
 - 🇺🇸 [Faculty position (tenure-track Assistant Professor) — microbiology & immunology, Geisel School of Medicine at Dartmouth, Hanover, NH](https://jobs.sciencecareers.org/job/679171/faculty-position/)  
 - 🇺🇸 [Assistant Professor (tenure-track) — microbiology, University of Washington Department of Microbiology, Seattle, WA](https://jobs.sciencecareers.org/job/679182/assistant-professor-tenure-track-department-of-microbiology-university-of-washington/)  
 - 🇺🇸 [Assistant Professor of Pathology, Research (structural & computational biology) — Stanford University, Stanford, CA](https://www.nature.com/naturecareers/job/12861099/assistant-professor-of-pathology-research-structural-and-computational-biology-/)  
@@ -240,6 +246,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇨🇳 [2027 Overseas Outstanding Young Scholars — Nankai University, Tianjin](https://www.nature.com/naturecareers/job/12861007/2027-overseas-outstanding-young-scholars-nku-invites-talents-from-around-the-world/)  
+- 🇨🇳 [Global faculty recruitment — University of Chinese Academy of Sciences (UCAS), Beijing](https://www.nature.com/naturecareers/job/12861041/university-of-chinese-academy-of-sciences-ucas-global-faculty-recruitment/)  
 - 🇭🇰 [Neuroscience and neurological diseases faculty positions — Hong Kong University of Science and Technology (HKUST), Hong Kong](https://www.nature.com/naturecareers/job/12860844/neuroscience-and-neurological-diseases-faculty-positions/)  
 - 🇨🇳 [Department chairs — College of Basic Medical Sciences, Shanghai Jiao Tong University School of Medicine, Shanghai](https://jobs.sciencecareers.org/job/679144/department-chairs-of-the-college-of-basic-medical-sciences-sjtu-school-of-medicine/)  
 - 🇨🇳 [Global recruitment for high-level talents — China National Center for Bioinformation (CNCB), Beijing](https://www.nature.com/naturecareers/job/12860964/china-national-center-for-bioinformation-announces-global-recruitment-for-high-level-talents/)  
@@ -317,6 +325,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Kampmann Lab — Junior/Assistant Specialist, University of California San Francisco, San Francisco, CA](https://aprecruit.ucsf.edu/JPF05956)  
+- 🇺🇸 [Scientist — epigenomics, GC Therapeutics, Somerville, MA](https://www.linkedin.com/jobs/view/scientist-epigenomics-at-gc-therapeutics-4416722288)  
+- 🇺🇸 [Staff Scientist — repository, Coriell Institute for Medical Research, Camden, NJ](https://jobs.sciencecareers.org/job/679185/staff-scientist-repository-/)  
 - 🇺🇸 [Software Engineering Manager, Data Engineering — Eikon Therapeutics, Millbrae, CA](https://job-boards.greenhouse.io/eikontherapeutics/jobs/5129843007)  
 - 🇺🇸 [Research Associate, DNA Synthesis — Atlas Data Storage, South San Francisco, CA](https://ats.rippling.com/atlas-data-storage/jobs/5e43c76b-0d5e-4fe5-b31b-c958c3b275ea)  
 - 🇺🇸 [Research Associate, DNA Synthesis — Mammoth DS, South San Francisco, CA](https://www.builtinsf.com/job/engineer-associate-research-associate-dna-synthesis-platform/7611948)  
@@ -570,7 +581,6 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🇺🇸 [Research Associate II – Translational Sciences (Contract) — Pliant Therapeutics, South San Francisco](https://job-boards.greenhouse.io/plianttherapeuticsinc/jobs/7746889003)  
 - 🇺🇸 [Principal Associate Scientist, Biology — Fog Pharmaceuticals, Cambridge](https://parabilismed.com/job-opportunity/?gh_jid=8560172002)  
 - 🇺🇸 [Process Development Scientist I — Watchmaker Genomics, Boulder, Colorado, USA](https://www.linkedin.com/jobs/view/process-development-scientist-i-at-watchmaker-genomics-4417716403)  
-- 🇺🇸 [Scientist - Epigenomics — GC Therapeutics, Cambridge, MA](https://www.linkedin.com/jobs/view/scientist-epigenomics-at-gc-therapeutics-4416722288)  
 - 🇺🇸 [Clinical Research Associate II — Systimmune, Remote](https://systimmune.applytojob.com/apply/ZJankjbFWc/Clinical-Research-Associate-II)  
 - 🇺🇸 [Hardware Systems Engineer — MOBILion Systems, Chadds Ford, PA](https://mobilion-systems-inc.breezy.hr/p/36969817e7ca-hardware-systems-engineer)  
 - 🇺🇸 [Quality Engineer — Hyalex Orthopaedics, Lexington, MA](https://hyalex.breezy.hr/p/4a4008d99fe0-quality-engineer)  
@@ -1103,9 +1113,13 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Post-Doctoral Fellow — Massachusetts General Hospital (1200 The General Hospital Corporation), Charlestown/East Boston, MA](https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/MGBExternal/job/Charlestown-MA/Post-Doctoral-Fellow_RQ4061997)  
+- 🇺🇸 [Postdoctoral Associate — structural biology & biophysics (Deaconescu Lab), Rutgers University, Piscataway, NJ](https://jobs.rutgers.edu/postings/257275)  
+- 🇺🇸 [Postdoctoral Scholar — Research Associate (Lu Lab; cardiovascular gene regulation), Keck School of Medicine of USC, Los Angeles, CA](https://usccareers.usc.edu/job/los-angeles/postdoctoral-scholar-research-associate/1209/86037095936)  
+- 🇺🇸 [Postdoctoral Associate — tumor immunology (Shin Lab), Baylor College of Medicine, Houston, TX](https://jobs.sciencecareers.org/job/679195/postdoctoral-associate-tumor-immunology/)  
 - 🇺🇸 [Postdoctoral positions — mechanisms of heart failure research, LSU Health Shreveport, Shreveport, LA](https://jobs.sciencecareers.org/job/679166/postdoctoral-positions-for-mechanisms-of-heart-failure-research/)  
 - 🇺🇸 [Postdoctoral Fellow — tumor immunology & immunotherapy (prostate cancer), University of Louisville, Louisville, KY](https://jobs.sciencecareers.org/job/679178/postdoctoral-fellow/)  
-- 🇺🇸 [Post-Doctoral Research Fellow — gnomAD-LR (Talkowski Lab), Brigham and Women's Hospital / Massachusetts General Hospital, Boston, MA](https://release-qa-theme.webscribble.com/job/post-doctoral-research-fellow-gnomad-lr-boston-ma-1139de94bdb5fb0c28bf854af3b63f12b)  
+- 🇺🇸 [Post-Doctoral Research Fellow — gnomAD-LR (Talkowski Lab), Brigham and Women's Hospital / Massachusetts General Hospital, Boston, MA](https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/MGBExternal/job/Boston-MA/Post-Doctoral-Research-Fellow---gnomAD-LR_RQ4066105)  
 - 🇺🇸 [Postdoctoral Fellow — human genetics & cardiometabolic disease, Amgen, Cambridge, MA](https://careers.amgen.com/en/job/cambridge/postdoctoral-fellow-human-genetics-and-cardiometabolic-disease/87/96488089184)  
 - 🇺🇸 [Postdoctoral or scientist positions — neural repair & regeneration research, Temple University, Philadelphia, PA](https://jobs.sciencecareers.org/job/679158/postdoctoral-or-scientist-positions-for-neural-repair-and-regeneration-research/)  
 - 🇺🇸 [Postdoctoral Fellow, Immunology Discovery (Moussion Lab) — Genentech, South San Francisco, CA](https://careers.gene.com/us/en/job/202605-111993/Postdoctoral-Fellow-Immunology-Discovery-Moussion-Lab)  
@@ -1194,6 +1208,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Tian Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679189/postdoctoral-research-fellow-tian-lab-generative-biology-institute/)  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Spinck Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679190/postdoctoral-research-fellow-spinck-lab-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Associate in developmental timing — Gurdon Institute, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-associate-in-developmental-timing-fixed-term-pr49711-0) · closes 2026-06-30  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Associate (Honorary Resident Doctor/GP) — Department of Public Health and Primary Care, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-associate-honorary-resident-doctorgp-fixed-term-sn50152) · closes 2026-07-09  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Associate (Honorary Resident Doctor) — Department of Oncology, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-associate-honorary-resident-doctor-rd50155) · closes 2026-07-09  
@@ -1397,6 +1413,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Remote Biotechnology Research Expert — AI Trainer ($1150–$1450/hr), Mercor, San Mateo, CA (remote)](https://www.mercor.com/experts/)  
 - 🇲🇴 [Dean of Faculty of Medicine — University of Macau (UM), Macau](https://www.nature.com/naturecareers/job/12861046/dean-of-faculty-of-medicine/)  
 - 🇺🇸 [Director — Pharmacology, Physiology, and Biological Chemistry (PPBC) Division, NIH/NIGMS, Bethesda, MD](https://jobs.sciencecareers.org/job/679160/director/)  
 - 🇨🇦 [Veterinary Anatomy Assistant Professor (teaching), University of Calgary, Calgary](https://jobs.sciencecareers.org/job/678885/veterinary-anatomy-assistant-professor-teaching-/)  
