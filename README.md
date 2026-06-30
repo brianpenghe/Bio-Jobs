@@ -22,6 +22,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Assistant/Associate Professor of Translational Omics — NC State University, Raleigh, NC](https://jobs.ncsu.edu/postings/228950)  
+- 🇺🇸 [Research Faculty (open rank/track) — Department of Surgery / Division of Trauma Critical Care and Burn Surgery, The Ohio State University, Columbus, OH](https://careers.wexnermedical.osu.edu/search/jobdetails/research-faculty---department-of-surgerydivision-of-trauma-critical-care-and-burn-surgery-open-ranktrack/9c88248b-df1b-4e52-a303-1c9df331b77f)  
 - 🇺🇸 [Tenure-track position — mammalogy, California Polytechnic State University, San Luis Obispo, CA](https://jobs.sciencecareers.org/job/679201/tenure-track-position-mammalogy/)  
 - 🇺🇸 [Tenure-track position — physiology, California Polytechnic State University, San Luis Obispo, CA](https://jobs.sciencecareers.org/job/679202/tenure-track-position-physiology/)  
 - 🇺🇸 [Assistant Professor/Associate Professor (tenure track) — systems biology (microbial systems biology), Cecil H. and Ida Green Center, Lyda Hill Department of Bioinformatics, UT Southwestern Medical Center, Dallas, TX](https://www.compbiojobs.com/jobs/4187/assistant-professorassociate-professor-tenure-track-faculty-in-systems-biology)  
@@ -328,6 +330,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [AI-Enabled Spatial Neuropathology & Multi-Omics — Sanofi, Somerville, MA](https://jobs.sanofi.com/en/job/cambridge/ai-enabled-spatial-neuropathology-and-multi-omics/2649/38834128640)  
 - 🇺🇸 [Kampmann Lab — Junior/Assistant Specialist, University of California San Francisco, San Francisco, CA](https://aprecruit.ucsf.edu/JPF05956)  
 - 🇺🇸 [Scientist — epigenomics, GC Therapeutics, Somerville, MA](https://www.linkedin.com/jobs/view/scientist-epigenomics-at-gc-therapeutics-4416722288)  
 - 🇺🇸 [Staff Scientist — repository, Coriell Institute for Medical Research, Camden, NJ](https://jobs.sciencecareers.org/job/679185/staff-scientist-repository-/)  
@@ -1116,6 +1119,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Postdoctoral Fellow, Protein Sciences (Ciferri Lab) — Genentech, South San Francisco, CA](https://careers.gene.com/us/en/job/202606-116489/Postdoctoral-Fellow-Protein-Sciences-Ciferri-Lab)  
 - 🇺🇸 [Postdoctoral fellows — immunology & host–pathogen interactions, University of Maryland, College Park, MD](https://jobs.sciencecareers.org/job/679193/postdoctoral-fellows/)  
 - 🇺🇸 [Postdoctoral scholar — metabolic biology (adipose metabolism), University of California, Berkeley, Berkeley, CA](https://jobs.sciencecareers.org/job/679205/postdoctoral-scholar-on-metabolic-biology/)  
 - 🇺🇸 [Computational postdoctoral fellow — Quantitative Modeling Group, Lawrence Berkeley National Laboratory, Berkeley, CA](https://jobs.sciencecareers.org/job/679204/computational-postdoctoral-fellow-quantitative-modeling-group-/)  
