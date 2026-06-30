@@ -22,6 +22,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Tenure-track position — mammalogy, California Polytechnic State University, San Luis Obispo, CA](https://jobs.sciencecareers.org/job/679201/tenure-track-position-mammalogy/)  
+- 🇺🇸 [Tenure-track position — physiology, California Polytechnic State University, San Luis Obispo, CA](https://jobs.sciencecareers.org/job/679202/tenure-track-position-physiology/)  
 - 🇺🇸 [Assistant Professor/Associate Professor (tenure track) — systems biology (microbial systems biology), Cecil H. and Ida Green Center, Lyda Hill Department of Bioinformatics, UT Southwestern Medical Center, Dallas, TX](https://www.compbiojobs.com/jobs/4187/assistant-professorassociate-professor-tenure-track-faculty-in-systems-biology)  
 - 🇺🇸 [Assistant/Associate/Full Professor (tenure system) — computational biology, Department of Computational Mathematics, Science and Engineering (CMSE), Michigan State University, East Lansing, MI](https://careers.msu.edu/jobs/ast-asc-full-professor-tenure-system-east-lansing-michigan-united-states-e144babd-a429-4a65-8dc9-e9e457645c85)  
 - 🇺🇸 [Research Assistant Professor — genomic sequencing data analysis, Center for Biomedical Research, Tuskegee University, Tuskegee, AL](https://tuskegee.peopleadmin.com/postings/3659)  
@@ -179,6 +181,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Assistant Professor — Department of Life Sciences (ecology, evolution & environmental sciences), Imperial College London, Silwood Park, Berkshire](https://www.nature.com/naturecareers/job/12861160/assistant-professor-in-the-department-of-life-sciences/)  
 - 🇨🇭 [Assistant/Associate Professor in climate biophysics — University of Basel, Basel](https://jobs.sciencecareers.org/job/679172/assistant-associate-professor-in-climate-biophysics/)  
 - 🇫🇷 [Junior Professor Chair (tenure-track) — INSERM Unit 1176, Paris area, France](https://www.nature.com/naturecareers/job/12861088/junior-professor-chair-tenure-track-position-inserm-france/)  
 - 🇫🇷 [Senior Group Leader — rare genetic eye diseases & therapeutic innovation, Imagine Institute, Paris](https://www.nature.com/naturecareers/job/12861044/senior-group-leader-rare-genetic-eye-diseases-and-therapeutic-innovation/)  
@@ -1113,6 +1116,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Postdoctoral fellows — immunology & host–pathogen interactions, University of Maryland, College Park, MD](https://jobs.sciencecareers.org/job/679193/postdoctoral-fellows/)  
+- 🇺🇸 [Postdoctoral scholar — metabolic biology (adipose metabolism), University of California, Berkeley, Berkeley, CA](https://jobs.sciencecareers.org/job/679205/postdoctoral-scholar-on-metabolic-biology/)  
+- 🇺🇸 [Computational postdoctoral fellow — Quantitative Modeling Group, Lawrence Berkeley National Laboratory, Berkeley, CA](https://jobs.sciencecareers.org/job/679204/computational-postdoctoral-fellow-quantitative-modeling-group-/)  
 - 🇺🇸 [Post-Doctoral Fellow — Massachusetts General Hospital (1200 The General Hospital Corporation), Charlestown/East Boston, MA](https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/MGBExternal/job/Charlestown-MA/Post-Doctoral-Fellow_RQ4061997)  
 - 🇺🇸 [Postdoctoral Associate — structural biology & biophysics (Deaconescu Lab), Rutgers University, Piscataway, NJ](https://jobs.rutgers.edu/postings/257275)  
 - 🇺🇸 [Postdoctoral Scholar — Research Associate (Lu Lab; cardiovascular gene regulation), Keck School of Medicine of USC, Los Angeles, CA](https://usccareers.usc.edu/job/los-angeles/postdoctoral-scholar-research-associate/1209/86037095936)  
