@@ -1119,6 +1119,15 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Rowland Fellowship — Rowland Institute at Harvard University, Cambridge, MA](https://rowland.harvard.edu/fellowships) · deadline 2026-08-01  
+- 🇺🇸 [Damon Runyon Cancer Research Foundation — Fellowship Award](https://www.damonrunyon.org/for-scientists/application-guidelines/fellowship) · deadline 2026-08-14  
+- 🇺🇸 [TRDRP Postdoctoral Research Award — Tobacco-Related Disease Research Program of California](https://www.trdrp.org/what-we-fund/award-mechanisms/postdoctoral-award.html) · LOI due 2026-08-20  
+- 🇺🇸 [CRI Irvington Postdoctoral Fellowship — Cancer Research Institute (immunology)](https://www.cancerresearch.org/cri-irvington-postdoctoral-fellowship) · deadline 2026-09-01  
+- 🇺🇸 [CRI Immuno-Informatics Postdoctoral Fellowship — Cancer Research Institute (immunology + data science)](https://www.cancerresearch.org/immuno-informatics-postdoctoral-fellowship) · deadline 2026-09-01  
+- 🌍 [GloCal Health Fellowship — UC Global Health Institute / NIH Fogarty (12-month mentored global health research; UC & international sites)](https://ucghi.universityofcalifornia.edu/fellowships/glocal-health-fellowship) · deadline 2026-09-15 · fellowships begin July 2027  
+- 🇺🇸/🇮🇱 [Fulbright Israel Postdoc Fellowship — research at Israeli institutions (up to 20 months; $95,000)](https://www.fulbright.org.il/USPostdoc) · deadline 2026-09-15  
+- 🇺🇸 [Embark — Gladstone Institutes Presidential Postdoctoral Program, San Francisco, CA](https://gladstone.org/embark) · rolling basis  
+- 🇺🇸 [Pivot — funding opportunities database (federal, private, international; UCSF affiliates)](https://guides.ucsf.edu/c.php?g=100994&p=654897)  
 - 🇺🇸 [Postdoctoral Fellow, Protein Sciences (Ciferri Lab) — Genentech, South San Francisco, CA](https://careers.gene.com/us/en/job/202606-116489/Postdoctoral-Fellow-Protein-Sciences-Ciferri-Lab)  
 - 🇺🇸 [Postdoctoral fellows — immunology & host–pathogen interactions, University of Maryland, College Park, MD](https://jobs.sciencecareers.org/job/679193/postdoctoral-fellows/)  
 - 🇺🇸 [Postdoctoral scholar — metabolic biology (adipose metabolism), University of California, Berkeley, Berkeley, CA](https://jobs.sciencecareers.org/job/679205/postdoctoral-scholar-on-metabolic-biology/)  
@@ -1155,7 +1164,6 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🇺🇸 [Postdoctoral Associate — cancer epidemiology, Baylor College of Medicine, Houston, TX](https://jobs.sciencecareers.org/job/679000/postdoctoral-associate-cancer-epidemiology/)  
 - 🇨🇦 [Postdoctoral Fellow (Taipale Lab; Donnelly Centre), University of Toronto, Toronto, ON](https://jobs.sciencecareers.org/job/678990/postdoctoral-fellow/)  
 - 🇺🇸 [Postdoctoral Fellow — cardiovascular genetics, deep learning & epidemiology (Pirruccello Lab), Cardiovascular Research Institute (CVRI), UCSF, San Francisco, CA](https://postdocs.ucsf.edu/postdoctoral-openings#pirruccello-lab)  
-- 🇺🇸 [Rowland Fellowship — Harvard University, Cambridge, MA](https://jobs.sciencecareers.org/job/678924/rowland-fellowship/)  
 - 🇺🇸 [Postdoctoral Fellow — immunology (Charles Lab), Division of Infectious Diseases, Massachusetts General Hospital, Boston, MA](https://jobs.sciencecareers.org/job/678935/postdoctoral-fellow-immunology/)  
 - 🇺🇸 [Postdoctoral Fellow — vascular cell signaling, LSU Health Shreveport, Shreveport, LA](https://jobs.sciencecareers.org/job/678930/postdoctoral-fellow-in-vascular-cell-signaling/)  
 - 🇺🇸 [Postdoctoral positions — computational materials science, University of Georgia, Athens, GA](https://jobs.sciencecareers.org/job/678929/postdoctoral-positions-in-computational-materials-science/)  
@@ -1172,12 +1180,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🇺🇸 [Postdoctoral Research Fellow — single-cell genomics / chromatin spatial organization & gene regulation (Hu Lab), Department of Genomic Sciences and Systems Biology, Cleveland Clinic Research, Cleveland](./Postdoc_HuLab_ClevelandClinic.pdf) · apply: [hum@ccf.org](mailto:hum@ccf.org) · deadline June 30, 2026  
 - 🇺🇸 [CURE Epilepsy — Taking Flight Award (invited full proposals due Mar 24, 2026)](https://www.cureepilepsy.org/for-researchers/grants-program/)  
 - 🇺🇸 [Partnership for Clean Competition — anti-doping research grants & postdoctoral fellowships (full applications due Mar 1 & Sep 1)](https://cleancompetition.org/application-center)  
-- 🇺🇸 [Cancer Research Institute — CRI Irvington Postdoctoral Fellowship (deadline Mar 2, 2026)](https://www.cancerresearch.org/cri-irvington-postdoctoral-fellowship)  
-- 🇺🇸 [Cancer Research Institute — Immuno-Informatics Postdoctoral Fellowship (deadline Mar 2, 2026)](https://www.cancerresearch.org/immuno-informatics-postdoctoral-fellowship)  
 - 🇺🇸 [Craig H. Neilsen Foundation — Psychosocial Research postdoctoral fellowship (LOI closes Mar 5, 2026)](https://chnfoundation.org/programs/psychosocial-research/)  
 - 🇺🇸 [Desmoid Tumor Research Foundation — research grants (LOI Mar 16; full application Apr 20, 2026)](https://www.desmoidtumorresearch.org/research-grants)  
 - 🇺🇸 [Prostate Cancer Foundation & Pfizer — PCF Challenge Awards (deadline Mar 16, 2026)](https://www.pcf.org/collaborate-with-us/challenge-awards/)  
-- 🇺🇸 [Damon Runyon Cancer Research Foundation — Fellowship Award (deadline Mar 16, 2026)](https://www.damonrunyon.org/for-scientists/apply-for-funding/damon-runyon-fellowship-award/)  
 - 🇺🇸 [MTF Biologics — administered research grants (LOI Mar 23, 2026)](https://www.mtfbiologics.org/grants-research)  
 - 🇺🇸 [Ovarian Cancer Research Alliance — Mentored Investigator Award (LOI Mar 25, 2026)](https://ocrahope.org/for-researchers/research-funding/)  
 - 🇺🇸 [Zuckerman Postdoctoral Scholars Program (deadline Mar 30, 2026)](https://zuckermaninstitute.columbia.edu/zuckerman-postdoctoral-scholars-program)  
