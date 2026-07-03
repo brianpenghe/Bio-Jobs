@@ -22,6 +22,13 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Open rank faculty — biology of infections, UT Health Science Center San Antonio, San Antonio, TX](https://jobs.sciencecareers.org/job/679225/open-rank-faculty-biology-of-infections/)  
+- 🇺🇸 [Assistant Professor — molecular & cellular physiology, LSU Health Sciences Center Shreveport, Shreveport, LA](https://jobs.sciencecareers.org/job/679231/assistant-professor-of-molecular-and-cellular-physiology/)  
+- 🇺🇸 [Tenure-track Assistant Professor (×2) — physiology, Villanova University, Villanova, PA](https://jobs.sciencecareers.org/job/679157/tenure-track-assistant-professor-positions-in-physiology-/)  
+- 🇺🇸 [Assistant/Associate Professor (tenure-track) — physiology & biophysics, Stony Brook University, Stony Brook, NY](https://jobs.sciencecareers.org/job/679216/assistant-associate-professor-physiology-and-biophysics-tenure-track-/)  
+- 🇺🇸 [Associate or Full Professor (tenure-track) — Perinatal Research Center Director, Children's Hospital of Philadelphia (CHOP), Philadelphia, PA](https://jobs.sciencecareers.org/job/679217/associate-or-full-professor-tenure-track-perinatal-research-center-director/)  
+- 🇺🇸 [Sol Sherry Thrombosis Research Center — non-tenure-track faculty, Lewis Katz School of Medicine at Temple University, Philadelphia, PA](https://jobs.sciencecareers.org/job/679212/sol-sherry-thrombosis-research-center-non-tenure-track-faculty/)  
+- 🇺🇸 [Bioinformatics — Assistant to Associate Professor (non-tenure research track), Rutgers Cancer Institute, New Brunswick, NJ](https://www.nature.com/naturecareers/job/12860719/bioinformatics-assistant-to-associate-professor-non-tenure-research-track/)  
 - 🇺🇸 [Assistant/Associate Professor of Translational Omics — NC State University, Raleigh, NC](https://jobs.ncsu.edu/postings/228950)  
 - 🇺🇸 [Research Faculty (open rank/track) — Department of Surgery / Division of Trauma Critical Care and Burn Surgery, The Ohio State University, Columbus, OH](https://careers.wexnermedical.osu.edu/search/jobdetails/research-faculty---department-of-surgerydivision-of-trauma-critical-care-and-burn-surgery-open-ranktrack/9c88248b-df1b-4e52-a303-1c9df331b77f)  
 - 🇺🇸 [Tenure-track position — mammalogy, California Polytechnic State University, San Luis Obispo, CA](https://jobs.sciencecareers.org/job/679201/tenure-track-position-mammalogy/)  
@@ -183,6 +190,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇩🇪 [W3 Professorship — bioinformatics & molecular genetics, University of Freiburg, Freiburg im Breisgau](https://www.nature.com/naturecareers/job/12861085/w3-professorship-for-bioinformatics-and-molecular-genetics/)  
+- 🇩🇪 [Tenure-track Professorship (W1 → W2) — genetics, Philipps-Universität Marburg, Marburg](https://www.nature.com/naturecareers/job/12861186/tenure-track-professorship-w1-tenure-track-to-w2-in-genetics/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Assistant Professor — Department of Life Sciences (ecology, evolution & environmental sciences), Imperial College London, Silwood Park, Berkshire](https://www.nature.com/naturecareers/job/12861160/assistant-professor-in-the-department-of-life-sciences/)  
 - 🇨🇭 [Assistant/Associate Professor in climate biophysics — University of Basel, Basel](https://jobs.sciencecareers.org/job/679172/assistant-associate-professor-in-climate-biophysics/)  
 - 🇫🇷 [Junior Professor Chair (tenure-track) — INSERM Unit 1176, Paris area, France](https://www.nature.com/naturecareers/job/12861088/junior-professor-chair-tenure-track-position-inserm-france/)  
@@ -251,6 +260,11 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇨🇳 [Faculty positions — Center for Infectious Disease Research, Westlake University, Hangzhou](https://www.nature.com/naturecareers/job/12851286/faculty-positions-at-center-for-infectious-disease-research-westlake-university/)  
+- 🇨🇳 [Qiushi Chair Professor / Distinguished Scholar / ZJU100 Young Professor — Zhejiang University, Hangzhou](https://www.nature.com/naturecareers/job/12861173/qiushi-chair-professor-distinguished-scholar-zju100-young-professor-positions-at-zhejiang-university/)  
+- 🇨🇳 [Professor / Research Fellow / Postdoctoral Researcher — Zhejiang University, Hangzhou](https://www.nature.com/naturecareers/job/12861174/professor-research-fellow-postdoctoral-researcher-positions-at-zhejiang-university/)  
+- 🇨🇳 [Talent recruitment — College of Plant Science & Technology, Huazhong Agricultural University (HZAU), Wuhan](https://www.nature.com/naturecareers/job/12861151/talent-recruitment-announcement-at-the-college-of-plant-science-and-technology/)  
+- 🇨🇳 [High-level talent recruitment — Center for Agricultural Microbiology, Huazhong Agricultural University (HZAU), Wuhan](https://www.nature.com/naturecareers/job/12861150/recruitment-announcement-for-high-level-talent-at-the-center-for-agricultural-microbiology/)  
 - 🇨🇳 [2027 Overseas Outstanding Young Scholars — Nankai University, Tianjin](https://www.nature.com/naturecareers/job/12861007/2027-overseas-outstanding-young-scholars-nku-invites-talents-from-around-the-world/)  
 - 🇨🇳 [Global faculty recruitment — University of Chinese Academy of Sciences (UCAS), Beijing](https://www.nature.com/naturecareers/job/12861041/university-of-chinese-academy-of-sciences-ucas-global-faculty-recruitment/)  
 - 🇭🇰 [Neuroscience and neurological diseases faculty positions — Hong Kong University of Science and Technology (HKUST), Hong Kong](https://www.nature.com/naturecareers/job/12860844/neuroscience-and-neurological-diseases-faculty-positions/)  
@@ -330,6 +344,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Senior Scientist, Computational Discovery & Translational Analytics — Amgen, South San Francisco, CA](https://careers.amgen.com/en/job/south-san-francisco/senior-scientist-computational-discovery-and-translational-analytics/87/93958004912)  
+- 🇺🇸 [Senior Scientist, Computational Biology (multimodal data integration) — Genentech, South San Francisco, CA](https://careers.gene.com/us/en/job/202606-115014/Senior-Scientist-Computational-Biology-Multimodal-Data-Integration)  
+- 🇺🇸 [mRNA Immuno-Oncology Scientist (contract) — Experis, Cambridge, MA](https://www.experis.com/en/job/396084/mrna-immuno-oncology-scientist)  
 - 🇺🇸 [AI-Enabled Spatial Neuropathology & Multi-Omics — Sanofi, Somerville, MA](https://jobs.sanofi.com/en/job/cambridge/ai-enabled-spatial-neuropathology-and-multi-omics/2649/38834128640)  
 - 🇺🇸 [Kampmann Lab — Junior/Assistant Specialist, University of California San Francisco, San Francisco, CA](https://aprecruit.ucsf.edu/JPF05956)  
 - 🇺🇸 [Scientist — epigenomics, GC Therapeutics, Somerville, MA](https://www.linkedin.com/jobs/view/scientist-epigenomics-at-gc-therapeutics-4416722288)  
@@ -1006,6 +1023,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇩🇪 [Head of Protein Biochemistry and Biophysics — Max Planck Institute of Immunobiology and Epigenetics (MPI-IE), Freiburg im Breisgau](https://jobs.sciencecareers.org/job/679209/head-of-protein-biochemistry-and-biophysics-m-f-div-/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant / Research Associate (×2) — Department of Plant Sciences, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistant-research-associate-x-2-fixed-term-pd50035) · closes 2026-07-12  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant/Associate — Department of Pathology, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistantassociate-fixed-term-pk49836) · closes 2026-07-01  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant/Associate — Department of Clinical Neurosciences, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistantassociate-fixed-term-rr50022) · closes 2026-07-12  
@@ -1128,6 +1146,12 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🇺🇸/🇮🇱 [Fulbright Israel Postdoc Fellowship — research at Israeli institutions (up to 20 months; $95,000)](https://www.fulbright.org.il/USPostdoc) · deadline 2026-09-15  
 - 🇺🇸 [Embark — Gladstone Institutes Presidential Postdoctoral Program, San Francisco, CA](https://gladstone.org/embark) · rolling basis  
 - 🇺🇸 [Pivot — funding opportunities database (federal, private, international; UCSF affiliates)](https://guides.ucsf.edu/c.php?g=100994&p=654897)  
+- 🇺🇸 [Postdoctoral Fellow, Computational Biology & Medicine (Jhunjhunwala Lab) — Genentech, South San Francisco, CA](https://careers.gene.com/us/en/job/202602-104753/Postdoctoral-Fellow-Computational-Biology-Medicine-Jhunjhunwala-Lab)  
+- 🇺🇸 [Postdoctoral Fellow, Human Genetics (Bhangale Lab) — Genentech, South San Francisco, CA](https://careers.gene.com/us/en/job/202606-115492/Postdoctoral-Fellow-Human-Genetics-Bhangale-Lab)  
+- 🇺🇸 [Postdoctoral Fellow, Technology Development (Regev & Lubeck Labs) — Genentech, South San Francisco, CA](https://careers.gene.com/us/en/job/202606-116747/Postdoctoral-Fellow-Technology-Development-Regev-Lubeck-Labs)  
+- 🇺🇸 [Postdoc Research Scholar (Nascone-Yoder Lab) — NC State University, Raleigh, NC](https://jobs.ncsu.edu/postings/231786)  
+- 🇺🇸 [Postdoctoral Researcher — structural biology / biochemistry & cell biology (Joiner Lab), University of Cincinnati, Cincinnati, OH](https://jobs.uc.edu/job/Postdoctoral-Researcher-Positions-in-Structural-Biology-Biochemistry-and-Cell-Biology/101764-en_US/)  
+- 🇺🇸 [Postdoctoral Fellow or Research Scientist — cell biology (B cell biology & biochemistry), UM Greenebaum Comprehensive Cancer Center, Baltimore, MD](https://jobs.sciencecareers.org/job/679227/postdoctoral-fellow-or-research-scientist-cell-biology/)  
 - 🇺🇸 [Postdoctoral Fellow, Protein Sciences (Ciferri Lab) — Genentech, South San Francisco, CA](https://careers.gene.com/us/en/job/202606-116489/Postdoctoral-Fellow-Protein-Sciences-Ciferri-Lab)  
 - 🇺🇸 [Postdoctoral fellows — immunology & host–pathogen interactions, University of Maryland, College Park, MD](https://jobs.sciencecareers.org/job/679193/postdoctoral-fellows/)  
 - 🇺🇸 [Postdoctoral scholar — metabolic biology (adipose metabolism), University of California, Berkeley, Berkeley, CA](https://jobs.sciencecareers.org/job/679205/postdoctoral-scholar-on-metabolic-biology/)  
@@ -1223,6 +1247,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Zuercher Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679220/postdoctoral-research-fellow-zuercher-lab-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Tian Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679189/postdoctoral-research-fellow-tian-lab-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Spinck Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679190/postdoctoral-research-fellow-spinck-lab-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Associate in developmental timing — Gurdon Institute, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-associate-in-developmental-timing-fixed-term-pr49711-0) · closes 2026-06-30  
@@ -1238,7 +1263,6 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679139/postdoctoral-research-fellow-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (van Bijsterveldt Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679121/postdoctoral-research-fellow-van-bijsterveldt-lab-generative-biology-institute/)  
 - 🇩🇪 [Fully funded 4-year postdoc — cognitive & computational neuroscience (social cognition; DoellerLab), Max Planck Institute for Human Cognitive and Brain Sciences (MPI CBS), Leipzig](https://jobs.sciencecareers.org/job/679038/fully-funded-4-year-postdoc-position-in-cognitive-and-computational-neuroscience-area-social-cogni/)  
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Zuercher Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/679026/postdoctoral-research-fellow-zuercher-lab-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Researcher — plant molecular biologist in nitrogen fixation (Plant Biology Institute), Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/679011/postdoctoral-researcher-plant-molecular-biologist-in-nitrogen-fixation-pbi/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Researcher — plant biochemist in nitrogen fixation (Plant Biology Institute), Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/678997/postdoctoral-researcher-plant-biochemist-in-nitrogen-fixation-pbi/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford](https://jobs.sciencecareers.org/job/678951/postdoctoral-research-fellow-generative-biology-institute/)  
@@ -1382,6 +1406,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Laboratory Technician — Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679219/laboratory-technician-plant-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant — biodiversity & land-use change — Department of Zoology, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistant-biodiversity-and-land-use-changefixed-term-pf49870) · closes 2026-07-12  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant in developmental timing — Gurdon Institute, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistant-in-developmental-timing-fixed-term-pr49710-0) · closes 2026-06-30  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant (Dupree Group) — Department of Biochemistry, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistant-dupree-group-fixed-term-ph50054) · closes 2026-07-26  
@@ -1428,6 +1453,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Assistant Teaching Professor — marine biology, Scripps Institution of Oceanography, UC San Diego, La Jolla, CA](https://jobs.sciencecareers.org/job/679208/assistant-teaching-professor-marine-biology/)  
 - 🇺🇸 [Remote Biotechnology Research Expert — AI Trainer ($1150–$1450/hr), Mercor, San Mateo, CA (remote)](https://www.mercor.com/experts/)  
 - 🇲🇴 [Dean of Faculty of Medicine — University of Macau (UM), Macau](https://www.nature.com/naturecareers/job/12861046/dean-of-faculty-of-medicine/)  
 - 🇺🇸 [Director — Pharmacology, Physiology, and Biological Chemistry (PPBC) Division, NIH/NIGMS, Bethesda, MD](https://jobs.sciencecareers.org/job/679160/director/)  
