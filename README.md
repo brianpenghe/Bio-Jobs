@@ -22,6 +22,13 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Instructor/Assistant Professor — Gastroenterology Research Center, Internal Medicine, McGovern Medical School at UTHealth Houston, Houston, TX](https://careers.uth.tmc.edu/us/en/job/250001R0/Instructor-Assistant-Professor-Gastroenterology-Research-Center-Internal-Medicine-McGovern-Medical-School)  
+- 🇺🇸 [Tenure-track faculty — microbiology & immunology, Vanderbilt University Medical Center, Nashville, TN](https://jobs.sciencecareers.org/job/679246/tenure-track-faculty-positions-in-microbiology-and-immunology/)  
+- 🇺🇸 [Open rank faculty — biochemistry, University of Wisconsin–Madison, Madison, WI](https://jobs.sciencecareers.org/job/679240/assistant-associate-full-professor-of-biochemistry-tenured-or-tenure-track-/)  
+- 🇺🇸 [Open rank faculty — systems & synthetic biology, UW–Madison Department of Bacteriology, Madison, WI](https://jobs.sciencecareers.org/job/679214/assistant-associate-or-full-professor-tenured-or-tenure-track-/)  
+- 🇺🇸 [Assistant Professor (tenure-track) — New Bioeconomy, UW–Madison Department of Bacteriology, Madison, WI](https://jobs.sciencecareers.org/job/679215/assistant-professor-tenure-track-/)  
+- 🇺🇸 [Assistant Professor (tenure-track) — biology (neuroscience), Lafayette College, Easton, PA](https://jobs.sciencecareers.org/job/679236/assistant-professor-of-biology-neuroscience-/)  
+- 🇺🇸 [Visiting Assistant Professor — biology, Middlebury College, Middlebury, VT](https://jobs.sciencecareers.org/job/679241/visiting-assistant-professor-of-biology)  
 - 🇺🇸 [Open rank faculty — biology of infections, UT Health Science Center San Antonio, San Antonio, TX](https://jobs.sciencecareers.org/job/679225/open-rank-faculty-biology-of-infections/)  
 - 🇺🇸 [Assistant Professor — molecular & cellular physiology, LSU Health Sciences Center Shreveport, Shreveport, LA](https://jobs.sciencecareers.org/job/679231/assistant-professor-of-molecular-and-cellular-physiology/)  
 - 🇺🇸 [Tenure-track Assistant Professor (×2) — physiology, Villanova University, Villanova, PA](https://jobs.sciencecareers.org/job/679157/tenure-track-assistant-professor-positions-in-physiology-/)  
@@ -190,6 +197,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇨🇭 [Professor — molecular cell biology & biochemistry, ETH Zurich, Zurich, Switzerland](https://jobs.sciencecareers.org/job/679252/professor-of-molecular-cell-biology-and-biochemistry/)  
 - 🇩🇪 [W3 Professorship — bioinformatics & molecular genetics, University of Freiburg, Freiburg im Breisgau](https://www.nature.com/naturecareers/job/12861085/w3-professorship-for-bioinformatics-and-molecular-genetics/)  
 - 🇩🇪 [Tenure-track Professorship (W1 → W2) — genetics, Philipps-Universität Marburg, Marburg](https://www.nature.com/naturecareers/job/12861186/tenure-track-professorship-w1-tenure-track-to-w2-in-genetics/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Assistant Professor — Department of Life Sciences (ecology, evolution & environmental sciences), Imperial College London, Silwood Park, Berkshire](https://www.nature.com/naturecareers/job/12861160/assistant-professor-in-the-department-of-life-sciences/)  
@@ -260,6 +268,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇯🇵 [Professor — quantitative biosciences, Institute for Quantitative Biosciences, University of Tokyo, Tokyo, Japan](https://jobs.sciencecareers.org/job/679248/professor-in-quantitative-biosciences-at-the-university-of-tokyo/)  
+- 🇭🇰 [Assistant/Associate/Full/Chair Professors (substantiation-track) — City University of Hong Kong, Hong Kong](https://www.nature.com/naturecareers/job/12861146/assistant-professors-associate-professors-professors-chair-professors-on-substantiation-track-/)  
 - 🇨🇳 [Faculty positions — Center for Infectious Disease Research, Westlake University, Hangzhou](https://www.nature.com/naturecareers/job/12851286/faculty-positions-at-center-for-infectious-disease-research-westlake-university/)  
 - 🇨🇳 [Qiushi Chair Professor / Distinguished Scholar / ZJU100 Young Professor — Zhejiang University, Hangzhou](https://www.nature.com/naturecareers/job/12861173/qiushi-chair-professor-distinguished-scholar-zju100-young-professor-positions-at-zhejiang-university/)  
 - 🇨🇳 [Professor / Research Fellow / Postdoctoral Researcher — Zhejiang University, Hangzhou](https://www.nature.com/naturecareers/job/12861174/professor-research-fellow-postdoctoral-researcher-positions-at-zhejiang-university/)  
@@ -1146,6 +1156,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🇺🇸/🇮🇱 [Fulbright Israel Postdoc Fellowship — research at Israeli institutions (up to 20 months; $95,000)](https://www.fulbright.org.il/USPostdoc) · deadline 2026-09-15  
 - 🇺🇸 [Embark — Gladstone Institutes Presidential Postdoctoral Program, San Francisco, CA](https://gladstone.org/embark) · rolling basis  
 - 🇺🇸 [Pivot — funding opportunities database (federal, private, international; UCSF affiliates)](https://guides.ucsf.edu/c.php?g=100994&p=654897)  
+- 🇺🇸 [Post-Doctoral Research Fellow — Laryngology AI, Massachusetts Eye and Ear, Boston, MA](https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/MGBExternal/job/Boston-MA/Post-Doctoral-Research-Fellow---Laryngology-AI_RQ4069689)  
+- 🇺🇸 [Postdoctoral Fellow — pediatrics (adolescent behavioral health), Indiana University School of Medicine, Indianapolis, IN](https://indiana.peopleadmin.com/postings/32588)  
 - 🇺🇸 [Postdoctoral Fellow, Computational Biology & Medicine (Jhunjhunwala Lab) — Genentech, South San Francisco, CA](https://careers.gene.com/us/en/job/202602-104753/Postdoctoral-Fellow-Computational-Biology-Medicine-Jhunjhunwala-Lab)  
 - 🇺🇸 [Postdoctoral Fellow, Human Genetics (Bhangale Lab) — Genentech, South San Francisco, CA](https://careers.gene.com/us/en/job/202606-115492/Postdoctoral-Fellow-Human-Genetics-Bhangale-Lab)  
 - 🇺🇸 [Postdoctoral Fellow, Technology Development (Regev & Lubeck Labs) — Genentech, South San Francisco, CA](https://careers.gene.com/us/en/job/202606-116747/Postdoctoral-Fellow-Technology-Development-Regev-Lubeck-Labs)  

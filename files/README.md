@@ -3,6 +3,28 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇺🇸[Assistant Professor (Tenure Track), Bacteriology, UW-Madison](https://jobs.sciencecareers.org/job/679215/assistant-professor-tenure-track-/)
+
+🇺🇸[Assistant/Associate/Full Professor (Systems & Synthetic Biology), Bacteriology, UW-Madison](https://jobs.sciencecareers.org/job/679214/assistant-associate-or-full-professor-tenured-or-tenure-track-/)
+
+🇺🇸[Assistant/Associate/Full Professor of Biochemistry, UW-Madison](https://jobs.sciencecareers.org/job/679240/assistant-associate-full-professor-of-biochemistry-tenured-or-tenure-track-/)
+
+🇺🇸[Tenure Track Faculty in Microbiology & Immunology, Vanderbilt University Medical Center](https://jobs.sciencecareers.org/job/679246/tenure-track-faculty-positions-in-microbiology-and-immunology/)
+
+🇺🇸[Assistant Professor of Biology (Neuroscience), Lafayette College](https://jobs.sciencecareers.org/job/679236/assistant-professor-of-biology-neuroscience-/)
+
+🇺🇸[Visiting Assistant Professor of Biology, Middlebury College](https://jobs.sciencecareers.org/job/679241/visiting-assistant-professor-of-biology/)
+
+🇺🇸[Tenure-Track Assistant Professor in Physiology, Villanova University](https://jobs.sciencecareers.org/job/679157/tenure-track-assistant-professor-positions-in-physiology-/)
+
+🇨🇭[Professor of Molecular Cell Biology and Biochemistry, ETH Zurich](https://jobs.sciencecareers.org/job/679252/professor-of-molecular-cell-biology-and-biochemistry/)
+
+🇯🇵[Professor in Quantitative Biosciences, University of Tokyo](https://jobs.sciencecareers.org/job/679248/professor-in-quantitative-biosciences-at-the-university-of-tokyo/)
+
+🇨🇳[Faculty Positions, SUSTech Department of Biomedical Engineering](https://www.nature.com/naturecareers/job/12853107/faculty-positions-at-sustech-department-of-biomedical-engineering/)
+
+🇭🇰[Assistant/Associate/Full/Chair Professors, City University of Hong Kong](https://www.nature.com/naturecareers/job/12861146/assistant-professors-associate-professors-professors-chair-professors-on-substantiation-track-/)
+
 🇺🇸[Arc Institute Core Investigator](https://arcinstitute.org/programs/core-investigators)
 
 🇨🇳[国家生物信心中心招聘](https://mp.weixin.qq.com/s/ZptulehQ19ADe1_5goiNkw)
