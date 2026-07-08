@@ -22,6 +22,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Assistant/Associate/Full Professor — pharmacoepidemiology, Stanford University, Stanford, CA](https://www.nature.com/naturecareers/job/12861463/assistant-associate-or-full-professor-of-pharmacoepidemiology/)  
+- 🇺🇸 [Associate/Full Professor — plant ecology, evolution & systematics (Director, UC Berkeley Herbaria), University of California, Berkeley, Berkeley, CA](https://jobs.sciencecareers.org/job/679254/associate-full-professor-plant-ecology-evolution-and-systematics-integrative-biology/)  
+- 🇺🇸 [Assistant Professor (tenure-track) — toxicology, Colorado State University, Fort Collins, CO](https://jobs.sciencecareers.org/job/679263/assistant-professor/)  
 - 🇺🇸 [Instructor/Assistant Professor — Gastroenterology Research Center, Internal Medicine, McGovern Medical School at UTHealth Houston, Houston, TX](https://careers.uth.tmc.edu/us/en/job/250001R0/Instructor-Assistant-Professor-Gastroenterology-Research-Center-Internal-Medicine-McGovern-Medical-School)  
 - 🇺🇸 [Tenure-track faculty — microbiology & immunology, Vanderbilt University Medical Center, Nashville, TN](https://jobs.sciencecareers.org/job/679246/tenure-track-faculty-positions-in-microbiology-and-immunology/)  
 - 🇺🇸 [Open rank faculty — biochemistry, University of Wisconsin–Madison, Madison, WI](https://jobs.sciencecareers.org/job/679240/assistant-associate-full-professor-of-biochemistry-tenured-or-tenure-track-/)  
@@ -197,6 +200,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇨🇭 [Professor — biosensing for prevention & rehabilitation, ETH Zurich, St. Gallen / Zürich, Switzerland](https://www.nature.com/naturecareers/job/12861453/professor-of-biosensing-for-prevention-and-rehabilitation/)  
+- 🇸🇪 [Northern Star Fellows (tenure-track) — Umeå University, Umeå, Sweden](https://www.nature.com/naturecareers/job/12861405/northern-star-fellows/)  
 - 🇨🇭 [Professor — molecular cell biology & biochemistry, ETH Zurich, Zurich, Switzerland](https://jobs.sciencecareers.org/job/679252/professor-of-molecular-cell-biology-and-biochemistry/)  
 - 🇩🇪 [W3 Professorship — bioinformatics & molecular genetics, University of Freiburg, Freiburg im Breisgau](https://www.nature.com/naturecareers/job/12861085/w3-professorship-for-bioinformatics-and-molecular-genetics/)  
 - 🇩🇪 [Tenure-track Professorship (W1 → W2) — genetics, Philipps-Universität Marburg, Marburg](https://www.nature.com/naturecareers/job/12861186/tenure-track-professorship-w1-tenure-track-to-w2-in-genetics/)  
@@ -268,6 +273,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇭🇰 [Tenure-track Professor/Associate Professor/Assistant Professor — pharmacology & pharmacy, University of Hong Kong, Hong Kong](https://www.nature.com/naturecareers/job/12861403/tenure-track-professor-associate-professor-assistant-professor/)  
+- 🇭🇰 [Aging & age-related diseases — faculty positions, Hong Kong University of Science and Technology (HKUST), Hong Kong](https://www.nature.com/naturecareers/job/12861330/aging-and-age-related-diseases-faculty-positions/)  
 - 🇯🇵 [Professor — quantitative biosciences, Institute for Quantitative Biosciences, University of Tokyo, Tokyo, Japan](https://jobs.sciencecareers.org/job/679248/professor-in-quantitative-biosciences-at-the-university-of-tokyo/)  
 - 🇭🇰 [Assistant/Associate/Full/Chair Professors (substantiation-track) — City University of Hong Kong, Hong Kong](https://www.nature.com/naturecareers/job/12861146/assistant-professors-associate-professors-professors-chair-professors-on-substantiation-track-/)  
 - 🇨🇳 [Faculty positions — Center for Infectious Disease Research, Westlake University, Hangzhou](https://www.nature.com/naturecareers/job/12851286/faculty-positions-at-center-for-infectious-disease-research-westlake-university/)  
