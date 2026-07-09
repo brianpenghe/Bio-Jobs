@@ -1163,6 +1163,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🇺🇸/🇮🇱 [Fulbright Israel Postdoc Fellowship — research at Israeli institutions (up to 20 months; $95,000)](https://www.fulbright.org.il/USPostdoc) · deadline 2026-09-15  
 - 🇺🇸 [Embark — Gladstone Institutes Presidential Postdoctoral Program, San Francisco, CA](https://gladstone.org/embark) · rolling basis  
 - 🇺🇸 [Pivot — funding opportunities database (federal, private, international; UCSF affiliates)](https://guides.ucsf.edu/c.php?g=100994&p=654897)  
+- 🇺🇸 [Postdoctoral Fellow(s) — regeneration genomics (CAR-T tissue repair, transposable elements & aging, single-cell multi-omics / 3D genome), Diao Lab, Department of Cell Biology, Duke University, Durham, NC](https://diaolab.github.io/) · apply: [diaolabjobs@duke.edu](mailto:diaolabjobs@duke.edu) · rolling  
 - 🇺🇸 [Post-Doctoral Research Fellow — Laryngology AI, Massachusetts Eye and Ear, Boston, MA](https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/MGBExternal/job/Boston-MA/Post-Doctoral-Research-Fellow---Laryngology-AI_RQ4069689)  
 - 🇺🇸 [Postdoctoral Fellow — pediatrics (adolescent behavioral health), Indiana University School of Medicine, Indianapolis, IN](https://indiana.peopleadmin.com/postings/32588)  
 - 🇺🇸 [Postdoctoral Fellow, Computational Biology & Medicine (Jhunjhunwala Lab) — Genentech, South San Francisco, CA](https://careers.gene.com/us/en/job/202602-104753/Postdoctoral-Fellow-Computational-Biology-Medicine-Jhunjhunwala-Lab)  
