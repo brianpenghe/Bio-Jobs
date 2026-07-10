@@ -22,6 +22,11 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Assistant Professor — Physiology & Cardiovascular Institute, University of Pennsylvania, Philadelphia, PA](https://jobs.sciencecareers.org/job/679293/assistant-professor/)  
+- 🇺🇸 [Faculty position — immunoengineering, Mayo Clinic, Phoenix, AZ](https://jobs.sciencecareers.org/job/679282/faculty-position-in-immunoengineering/)  
+- 🇺🇸 [Tenured Associate/Full Professor — biology, Claremont McKenna College, Claremont, CA](https://jobs.sciencecareers.org/job/679280/tenured-associate-full-professor-in-biology/)  
+- 🇺🇸 [Faculty position — cancer genomics, University of Maryland School of Medicine, Baltimore, MD](https://www.nature.com/naturecareers/job/12861499/faculty-position-in-cancer-genomics/)  
+- 🇺🇸 [Assistant Professor — peripheral nervous system, Michigan State University, East Lansing, MI](https://www.nature.com/naturecareers/job/12861497/assistant-professor-in-peripheral-nervous-system/)  
 - 🇺🇸 [Assistant/Associate/Full Professor — pharmacoepidemiology, Stanford University, Stanford, CA](https://www.nature.com/naturecareers/job/12861463/assistant-associate-or-full-professor-of-pharmacoepidemiology/)  
 - 🇺🇸 [Associate/Full Professor — plant ecology, evolution & systematics (Director, UC Berkeley Herbaria), University of California, Berkeley, Berkeley, CA](https://jobs.sciencecareers.org/job/679254/associate-full-professor-plant-ecology-evolution-and-systematics-integrative-biology/)  
 - 🇺🇸 [Assistant Professor (tenure-track) — toxicology, Colorado State University, Fort Collins, CO](https://jobs.sciencecareers.org/job/679263/assistant-professor/)  
@@ -200,6 +205,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇫🇷 [New research group leader — Hearing Institute, Institut Pasteur, Paris, France](https://jobs.sciencecareers.org/job/679287/creation-of-a-new-research-group-at-the-hearing-institute-institut-pasteur-paris-/)  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Senior Group Leader — Advanced Genome Technologies, Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, UK](https://jobs.sciencecareers.org/job/679272/senior-group-leader-advanced-genome-technologies/)  
+- 🇸🇪 [Two Senior Lecturers — medical research, Lund University, Lund, Sweden](https://www.nature.com/naturecareers/job/12861490/two-senior-lecturers-in-medical-research/)  
 - 🇨🇭 [Professor — biosensing for prevention & rehabilitation, ETH Zurich, St. Gallen / Zürich, Switzerland](https://www.nature.com/naturecareers/job/12861453/professor-of-biosensing-for-prevention-and-rehabilitation/)  
 - 🇸🇪 [Northern Star Fellows (tenure-track) — Umeå University, Umeå, Sweden](https://www.nature.com/naturecareers/job/12861405/northern-star-fellows/)  
 - 🇨🇭 [Professor — molecular cell biology & biochemistry, ETH Zurich, Zurich, Switzerland](https://jobs.sciencecareers.org/job/679252/professor-of-molecular-cell-biology-and-biochemistry/)  
@@ -273,6 +281,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇨🇳 [Faculty positions — Systems Hub, Hong Kong University of Science and Technology (Guangzhou), Guangzhou](https://www.nature.com/naturecareers/job/12861473/faculty-positions-in-systems-hub/)  
 - 🇭🇰 [Tenure-track Professor/Associate Professor/Assistant Professor — pharmacology & pharmacy, University of Hong Kong, Hong Kong](https://www.nature.com/naturecareers/job/12861403/tenure-track-professor-associate-professor-assistant-professor/)  
 - 🇭🇰 [Aging & age-related diseases — faculty positions, Hong Kong University of Science and Technology (HKUST), Hong Kong](https://www.nature.com/naturecareers/job/12861330/aging-and-age-related-diseases-faculty-positions/)  
 - 🇯🇵 [Professor — quantitative biosciences, Institute for Quantitative Biosciences, University of Tokyo, Tokyo, Japan](https://jobs.sciencecareers.org/job/679248/professor-in-quantitative-biosciences-at-the-university-of-tokyo/)  
@@ -322,7 +331,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🇨🇳 [Strategic Scientist, Outstanding Young Investigator, and postdoctoral positions — Chengdu Institute of Biology, Chinese Academy of Sciences (CIBCAS), Chengdu](https://www.nature.com/naturecareers/job/12859179/strategic-scientist-outstanding-youg-investigator-and-postdoctoral-positions-at-cibcas/)  
 - 🇨🇳 [Global talent recruitment — State Key Laboratory of Quantitative Synthetic Biology, Shenzhen](https://www.nature.com/naturecareers/job/12841544/state-key-laboratory-of-quantitative-synthetic-biology-global-talent-wanted/)  
 - 🇨🇳 [Principal Investigator / Associate Professor — Center for Advanced Smart Materials (CASM), Yongjiang Laboratory (Y-Lab), Ningbo, Zhejiang](https://www.nature.com/naturecareers/job/12859052/principal-investigator-associate-professor/)  
-- 🇨🇳 [Faculty positions — School of Basic Medical Sciences, Hainan Medical University, Haikou, Hainan](https://www.nature.com/naturecareers/job/12858969/faculty-positions-in-school-of-basic-medical-sciences-hainan-medical-university/)  
+- 🇨🇳 [Faculty positions — School of Basic Medical Sciences, Hainan Medical University, Haikou, Hainan](https://www.nature.com/naturecareers/job/12861434/faculty-positions-in-school-of-basic-medical-sciences-hainan-medical-university/)  
 - 🇨🇳 [Seeking Global Talents at All Levels — Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), Shenzhen](https://www.nature.com/naturecareers/job/12848288/seeking-global-talents-at-all-levels-siat/)  
 - 🇨🇳 [Global Recruitment of Outstanding Young Talents (Excellent Young Scholars—Overseas), Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), Shenzhen](https://www.nature.com/naturecareers/job/12858264/global-recruitment-of-outstanding-young-talents/) · deadline 2027-04-06  
 - 🇶🇦 [Senior Faculty — data science & artificial intelligence (AI Center for Precision Health), Weill Cornell Medicine–Qatar, Doha](https://jobs.weill.cornell.edu/Qatar/go/All-Qatar-Jobs/9047900/) · [Career opportunities](https://qatar-weill.cornell.edu/human-resources/career-opportunities)  
@@ -1164,6 +1173,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🇺🇸 [Embark — Gladstone Institutes Presidential Postdoctoral Program, San Francisco, CA](https://gladstone.org/embark) · rolling basis  
 - 🇺🇸 [Pivot — funding opportunities database (federal, private, international; UCSF affiliates)](https://guides.ucsf.edu/c.php?g=100994&p=654897)  
 - 🇺🇸 [Postdoctoral Fellow(s) — regeneration genomics (CAR-T tissue repair, transposable elements & aging, single-cell multi-omics / 3D genome), Diao Lab, Department of Cell Biology, Duke University, Durham, NC](https://diaolab.github.io/) · apply: [diaolabjobs@duke.edu](mailto:diaolabjobs@duke.edu) · rolling  
+- 🇺🇸 [Postdoctoral Fellow — NIAID / NIH, Hamilton, MT](https://jobs.sciencecareers.org/job/679194/postdoctoral-fellow/)  
+- 🇺🇸 [Postdoctoral Fellow — neuroscience & stroke, Tulane University, New Orleans, LA](https://jobs.sciencecareers.org/job/679289/postdoctoral-fellow/)  
+- 🇺🇸 [Postdoctoral Scholar — machine learning / AI in molecular & cellular biology, Pennsylvania State University, PA](https://jobs.sciencecareers.org/job/679299/postdoctoral-scholar-machine-learning-or-artificial-intelligence-in-molecular-and-cellular-biology-/)  
 - 🇺🇸 [Post-Doctoral Research Fellow — Laryngology AI, Massachusetts Eye and Ear, Boston, MA](https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/MGBExternal/job/Boston-MA/Post-Doctoral-Research-Fellow---Laryngology-AI_RQ4069689)  
 - 🇺🇸 [Postdoctoral Fellow — pediatrics (adolescent behavioral health), Indiana University School of Medicine, Indianapolis, IN](https://indiana.peopleadmin.com/postings/32588)  
 - 🇺🇸 [Postdoctoral Fellow, Computational Biology & Medicine (Jhunjhunwala Lab) — Genentech, South San Francisco, CA](https://careers.gene.com/us/en/job/202602-104753/Postdoctoral-Fellow-Computational-Biology-Medicine-Jhunjhunwala-Lab)  
@@ -1267,6 +1279,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇩🇪 [Fully funded 4-year postdoctoral position — cognitive & computational neuroscience, Max Planck Institute for Human Cognitive and Brain Sciences (MPI CBS), Leipzig, Germany](https://jobs.sciencecareers.org/job/679265/fully-funded-4-year-postdoctoral-position-in-cognitive-and-computational-neuroscience/)  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Pellock Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679274/postdoctoral-research-fellow-pellock-lab-generative-biology-institute/)  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Rehm Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679273/postdoctoral-research-fellow-rehm-lab-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Zuercher Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679220/postdoctoral-research-fellow-zuercher-lab-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Tian Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679189/postdoctoral-research-fellow-tian-lab-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Spinck Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679190/postdoctoral-research-fellow-spinck-lab-generative-biology-institute/)  
