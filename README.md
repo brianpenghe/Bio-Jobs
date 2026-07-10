@@ -22,6 +22,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Term Assistant Professor — computational & data sciences, George Mason University, Fairfax, VA](https://listings.jobs.gmu.edu/jobs/term-assistant-professor-computational-and-data-sciences-fairfax-va-virginia-united-states-other)  
+- 🇺🇸 [Associate Professor/Professor — computational oncology, Scientific Computing and Imaging (SCI) Institute, University of Utah, Salt Lake City, UT](https://utah.peopleadmin.com/postings/167559)  
 - 🇺🇸 [Assistant Professor — Physiology & Cardiovascular Institute, University of Pennsylvania, Philadelphia, PA](https://jobs.sciencecareers.org/job/679293/assistant-professor/)  
 - 🇺🇸 [Faculty position — immunoengineering, Mayo Clinic, Phoenix, AZ](https://jobs.sciencecareers.org/job/679282/faculty-position-in-immunoengineering/)  
 - 🇺🇸 [Tenured Associate/Full Professor — biology, Claremont McKenna College, Claremont, CA](https://jobs.sciencecareers.org/job/679280/tenured-associate-full-professor-in-biology/)  
@@ -370,6 +372,11 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Clinical Laboratory Scientist — molecular (Monogram Biosciences), Labcorp, South San Francisco, CA](https://careers.ascp.org/jobs/22030285/clinical-lab-scientist-molecular)  
+- 🇺🇸 [Scientist I — toxicology (contract), Aequor, South San Francisco, CA](https://hirelifescience.com/employer/company/4656/Aequor-Life-Sciences)  
+- 🇺🇸 [Scientist I (contract) — Advanced Clinical, South San Francisco, CA](https://www.advancedclinical.com/aji_job/us_scientist-i_co-south-san-francisco-ca-36321/)  
+- 🇺🇸 [Research Scientist — lysosomal pathway & glial biology (contract), Bayside Solutions, South San Francisco, CA](https://baysidesolutions.com/job-search)  
+- 🇺🇸 [Data Scientist — University of Wisconsin–Madison, Madison, WI](https://jobs.wisc.edu/jobs/data-scientist-madison-wisconsin-united-states-a45e8420-034a-487e-b832-dc165e04c053)  
 - 🇺🇸 [Senior Scientist, Computational Discovery & Translational Analytics — Amgen, South San Francisco, CA](https://careers.amgen.com/en/job/south-san-francisco/senior-scientist-computational-discovery-and-translational-analytics/87/93958004912)  
 - 🇺🇸 [Senior Scientist, Computational Biology (multimodal data integration) — Genentech, South San Francisco, CA](https://careers.gene.com/us/en/job/202606-115014/Senior-Scientist-Computational-Biology-Multimodal-Data-Integration)  
 - 🇺🇸 [mRNA Immuno-Oncology Scientist (contract) — Experis, Cambridge, MA](https://www.experis.com/en/job/396084/mrna-immuno-oncology-scientist)  
@@ -1163,6 +1170,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Postdoctoral Fellow — discovery protein science, Amgen, South San Francisco, CA](https://careers.amgen.com/en/job/south-san-francisco/postdoctoral-fellow-discovery-protein-science/87/96798948064)  
+- 🇺🇸 [Postdoctoral Researcher — Dynamic Sustainability Lab, Syracuse University, Syracuse, NY](https://www.sujobopps.com/postings/113466)  
 - 🇺🇸 [Rowland Fellowship — Rowland Institute at Harvard University, Cambridge, MA](https://rowland.harvard.edu/fellowships) · deadline 2026-08-01  
 - 🇺🇸 [Damon Runyon Cancer Research Foundation — Fellowship Award](https://www.damonrunyon.org/for-scientists/application-guidelines/fellowship) · deadline 2026-08-14  
 - 🇺🇸 [TRDRP Postdoctoral Research Award — Tobacco-Related Disease Research Program of California](https://www.trdrp.org/what-we-fund/award-mechanisms/postdoctoral-award.html) · LOI due 2026-08-20  
