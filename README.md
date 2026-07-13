@@ -22,6 +22,10 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Assistant Professor — estuarine & coastal ecology (Chesapeake Biological Lab), University of Maryland Center for Environmental Science, Solomons, MD](https://jobs.sciencecareers.org/job/679306/assistant-professor-estuarine-and-coastal-ecology-chesapeake-biological-lab/)  
+- 🇺🇸 [Assistant Professor — genetics (mammalian genetics), University of Florida, Gainesville, FL](https://jobs.sciencecareers.org/job/679311/assistant-professor-genetics-mammalian-genetics/)  
+- 🇺🇸 [Faculty — basic and/or translational blood research, Versiti, Wauwatosa, WI](https://jobs.sciencecareers.org/job/679294/faculty-basic-and-or-translational-blood-research/)  
+- 🇺🇸 [Assistant/Associate Professor — computational biology/data science, Louisiana State University, Baton Rouge, LA](https://www.lsuagcenter.com/profiles/amarrero/articles/page1733349742216)  
 - 🇺🇸 [Term Assistant Professor — computational & data sciences, George Mason University, Fairfax, VA](https://listings.jobs.gmu.edu/jobs/term-assistant-professor-computational-and-data-sciences-fairfax-va-virginia-united-states-other)  
 - 🇺🇸 [Associate Professor/Professor — computational oncology, Scientific Computing and Imaging (SCI) Institute, University of Utah, Salt Lake City, UT](https://utah.peopleadmin.com/postings/167559)  
 - 🇺🇸 [Assistant Professor — Physiology & Cardiovascular Institute, University of Pennsylvania, Philadelphia, PA](https://jobs.sciencecareers.org/job/679293/assistant-professor/)  
@@ -207,6 +211,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇩🇰 [Assistant/Associate Professor — molecular biology, Roskilde University, Copenhagen area, Denmark](https://www.nature.com/naturecareers/job/12861609/assistant-associate-professor-in-molecular-biology/)  
+- 🇸🇪 [Senior Lecturer (Associate Professor) — plant physiology, Umeå University, Umeå, Sweden](https://www.nature.com/naturecareers/job/12861638/senior-lecturer-associate-professor-in-plant-physiology/)  
 - 🇫🇷 [New research group leader — Hearing Institute, Institut Pasteur, Paris, France](https://jobs.sciencecareers.org/job/679287/creation-of-a-new-research-group-at-the-hearing-institute-institut-pasteur-paris-/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Senior Group Leader — Advanced Genome Technologies, Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, UK](https://jobs.sciencecareers.org/job/679272/senior-group-leader-advanced-genome-technologies/)  
 - 🇸🇪 [Two Senior Lecturers — medical research, Lund University, Lund, Sweden](https://www.nature.com/naturecareers/job/12861490/two-senior-lecturers-in-medical-research/)  
@@ -372,6 +378,12 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Target Validation Sr Director — Amgen, South San Francisco, CA](https://careers.amgen.com/en/job/south-san-francisco/target-validation-sr-director/87/94231007152)  
+- 🇺🇸 [Scientist (oligonucleotide, contract) — Aequor Technologies, South San Francisco, CA](https://www.linkedin.com/jobs/view/scientist-at-aequor-4433627183)  
+- 🇺🇸 [Associate Research Scientist (Scientific, contract) — Omni Inclusive, Brisbane, CA](https://www.linkedin.com/jobs/omni-inclusive-jobs?location=Brisbane%2C%20California%2C%20United%20States)  
+- 🇺🇸 [Vasudevan Lab — Junior/Assistant/Associate/Full Specialist, UCSF, Millbrae, CA](https://aprecruit.ucsf.edu/JPF05846)  
+- 🇺🇸 [Senior Research Associate — Bio-Techne, Minneapolis, MN](https://www.linkedin.com/jobs/view/senior-research-associate-cell-gene-therapy-solutions-at-bio-techne-4233120405)  
+- 🇺🇸 [Applied Research Associate — JPMorgan Chase, New York, NY](https://pitchmeai.com/jobs/jpmorganchase/applied-research-associate-yt8b8vqk1d)  
 - 🇺🇸 [Clinical Laboratory Scientist — molecular (Monogram Biosciences), Labcorp, South San Francisco, CA](https://careers.ascp.org/jobs/22030285/clinical-lab-scientist-molecular)  
 - 🇺🇸 [Scientist I — toxicology (contract), Aequor, South San Francisco, CA](https://hirelifescience.com/employer/company/4656/Aequor-Life-Sciences)  
 - 🇺🇸 [Scientist I (contract) — Advanced Clinical, South San Francisco, CA](https://www.advancedclinical.com/aji_job/us_scientist-i_co-south-san-francisco-ca-36321/)  
@@ -1056,6 +1068,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Bioinformatician — pathogens, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://www.nature.com/naturecareers/job/12861632/bioinformatician-pathogens/)  
 - 🇩🇪 [Head of Protein Biochemistry and Biophysics — Max Planck Institute of Immunobiology and Epigenetics (MPI-IE), Freiburg im Breisgau](https://jobs.sciencecareers.org/job/679209/head-of-protein-biochemistry-and-biophysics-m-f-div-/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant / Research Associate (×2) — Department of Plant Sciences, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistant-research-associate-x-2-fixed-term-pd50035) · closes 2026-07-12  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant/Associate — Department of Pathology, University of Cambridge, Cambridge](https://www.cam.ac.uk/jobs/research-assistantassociate-fixed-term-pk49836) · closes 2026-07-01  
@@ -1170,6 +1183,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Postdoctoral Scholar — computational biology (NSF NCEMS), Pennsylvania State University, Pennsylvania](https://jobs.sciencecareers.org/job/679300/postdoctoral-scholar-computational-biology-at-nsf-ncems/)  
+- 🇺🇸 [Postdoctoral Scholar — physics/statistical mechanics in molecular biology (NSF NCEMS), Pennsylvania State University, Pennsylvania](https://jobs.sciencecareers.org/job/679298/postdoctoral-scholar-physics-statistical-mechanics-in-molecular-biology-at-nsf-ncems/)  
 - 🇺🇸 [Postdoctoral Fellow — discovery protein science, Amgen, South San Francisco, CA](https://careers.amgen.com/en/job/south-san-francisco/postdoctoral-fellow-discovery-protein-science/87/96798948064)  
 - 🇺🇸 [Postdoctoral Researcher — Dynamic Sustainability Lab, Syracuse University, Syracuse, NY](https://www.sujobopps.com/postings/113466)  
 - 🇺🇸 [Rowland Fellowship — Rowland Institute at Harvard University, Cambridge, MA](https://rowland.harvard.edu/fellowships) · deadline 2026-08-01  
@@ -1288,6 +1303,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Liu Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679329/postdoctoral-research-fellow-liu-lab-generative-biology-institute/)  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Scientist — neurobiology (Truckenbrodt Lab), MRC Laboratory of Molecular Biology, Cambridge](https://jobs.sciencecareers.org/job/679303/postdoctoral-scientist-neurobiology-dr-sven-truckenbrodt-lmb-2526/)  
 - 🇩🇪 [Fully funded 4-year postdoctoral position — cognitive & computational neuroscience, Max Planck Institute for Human Cognitive and Brain Sciences (MPI CBS), Leipzig, Germany](https://jobs.sciencecareers.org/job/679265/fully-funded-4-year-postdoctoral-position-in-cognitive-and-computational-neuroscience/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Pellock Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679274/postdoctoral-research-fellow-pellock-lab-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Rehm Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679273/postdoctoral-research-fellow-rehm-lab-generative-biology-institute/)  
@@ -1368,6 +1385,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Research Associate, Biology (contract) — Bayside Solutions, South San Francisco, CA](https://baysidesolutions.com/job-search?keyword=Research+Associate%2C+Biology&location=CA+-+South+San+Francisco)  
+- 🇺🇸 [Molecular Biology Research Associate — Cardio Therapeutics, Myoventive, South San Francisco, CA](https://www.wayup.com/i-j-Research-Associate-Molecular-and-Cellular-Biology-MYOVENTIVE-976863774252594/)  
 - 🇺🇸 [Research Technician (career-track) — gut–liver axis & microbiome, Cleveland Clinic, Cleveland, OH](https://jobs.sciencecareers.org/job/679163/research-technician-career-track-gut-liver-axis-and-microbiome/)  
 - 🇺🇸 [Senior Immunology Research Associate — NewLimit, South San Francisco, CA](https://job-boards.greenhouse.io/newlimit/jobs/5779542004)  
 - 🇺🇸 [Laboratory Assistant — Karius, Redwood City, CA](https://jobs.lever.co/kariusdx/faaaa842-04a3-4efe-a469-25c2ef29b8d2)  
@@ -1497,6 +1516,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Patent Agent — Diamond Personnel, Sunnyvale, CA](https://www.bcgsearch.com/jobdetail/X2UN407777/job.html)  
 - 🇺🇸 [Assistant Teaching Professor — marine biology, Scripps Institution of Oceanography, UC San Diego, La Jolla, CA](https://jobs.sciencecareers.org/job/679208/assistant-teaching-professor-marine-biology/)  
 - 🇺🇸 [Remote Biotechnology Research Expert — AI Trainer ($1150–$1450/hr), Mercor, San Mateo, CA (remote)](https://www.mercor.com/experts/)  
 - 🇲🇴 [Dean of Faculty of Medicine — University of Macau (UM), Macau](https://www.nature.com/naturecareers/job/12861046/dean-of-faculty-of-medicine/)  
