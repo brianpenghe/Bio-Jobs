@@ -22,6 +22,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Assistant Professor of Physics — Touro University, Brooklyn / New York, NY](https://www.linkedin.com/jobs/view/assistant-professor-of-physics-at-touro-university-4145947351)  
 - 🇺🇸 [Ohio Eminent Scholar in Structural Biology (open rank) — Miami University, Oxford, OH](https://www.nature.com/naturecareers/job/12861723/ohio-eminent-scholar-in-structural-biology-open-rank/)  
 - 🇺🇸 [Tenure-track Assistant Professor — marine biology, Texas A&M University at Galveston, Galveston, TX](https://jobs.sciencecareers.org/job/679350/tenure-track-assistant-professor-in-marine-biology/)  
 - 🇺🇸 [Assistant/Associate/Full Professor of Medical Sciences (in Medicine) — aging & the thymus, Columbia University CCTI, New York, NY](https://jobs.sciencecareers.org/job/679348/assistant-professor-associate-professor-or-professor-of-medical-sciences-in-medicine-aging/)  
@@ -309,6 +310,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇭🇰 [AI in Bioscience faculty positions — Division of Life Science, Hong Kong University of Science and Technology (HKUST), Hong Kong](https://www.nature.com/naturecareers/job/12861661/ai-in-bioscience-faculty-positions/)  
 - 🇨🇳 [Principal Investigator and postdoctoral positions — Chinese Institute for Medical Physiology (CIMR), Beijing](https://www.nature.com/naturecareers/job/12861745/principal-investigator-and-postdoctoral-positions-at-chinese-institute-for-medical-physiology-cimr/)  
 - 🇹🇼 [Director — Institute of Molecular Biology, Academia Sinica, Taipei](https://jobs.sciencecareers.org/job/679332/director/)  
 
@@ -402,6 +404,11 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Gene_Research_Scientific — Aequor, South San Francisco, CA](https://www.ziprecruiter.com/c/Aequor-Inc/Job/Gene_Research_Scientific/-in-South-San-Francisco,CA?jid=5e2f3fd57b7facfb)  
+- 🇺🇸 [Senior Bioinformatics Scientist — Aa 2 It (AA2IT), South San Francisco, CA](https://www.indeed.com/cmp/Aa2it-2/jobs)  
+- 🇺🇸 [Bioinformatics Research Scientist II — Veracyte, South San Francisco / San Diego, CA (remote-friendly)](https://www.veracyte.com/company/careers/job-detail?gh_jid=5101421007)  
+- 🇺🇸 [Staff Bioinformatics Research Engineer — Freenome, Brisbane, CA](https://builtin.com/job/staff-bioinformatics-research-engineer/6802136)  
+- 🇺🇸 [Computational Biologist — cancer genomics (Sheltzer Lab), Stanford University School of Medicine, Stanford, CA](https://researchersjob.com/computational-biologist-in-cancer-genomics/)  
 - 🇺🇸 [Computational Biologist — Medasource, South San Francisco, CA](https://www.linkedin.com/jobs/view/computational-biologist-at-medasource-4311660954)  
 - 🇺🇸 [Computational Protein Design Scientist | Protein Design | Synthetic Biology | Python | Hybrid — Enigma, Millbrae, CA](https://talents.vaia.com/companies/enigma/machine-learning-research-scientist-generative-models-protein-design-deep-learning-pyth-20723551/)  
 - 🇺🇸 [Sr. Product Manager — DNAnexus, Mountain View, CA](https://jobs.smartrecruiters.com/DNAnexus/744000136864439-sr-product-manager)  
@@ -1217,6 +1224,10 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Postdoctoral Fellow / Scientist I — Synthetic Spatial Omics (cell engineering), Chan Zuckerberg Biohub New York, New York, NY](https://job-boards.greenhouse.io/biohub/jobs/8056434)  
+- 🇺🇸 [Post Doctoral Research Fellow — Boise State University, Boise, ID](https://jobs.boisestate.edu/en-us/job/499419/post-doctoral-research-fellow)  
+- 🇺🇸 [Postdoctoral Researcher — AI-augmented decision science, Indiana University Bloomington, Bloomington, IN](https://indiana.peopleadmin.com/postings/31525)  
+- 🇺🇸 [Postdoctoral Researcher in Computational Biology and Machine Learning — Chu Lab, University of Virginia (via Virginia DHRM), Charlottesville, VA](https://www.jobs.virginia.gov/jobs/postdoctoral-researcher-in-computational-biology-and-machine-learning-charlottesville-virginia-united-states)  
 - 🇺🇸 [Postdoctoral Fellow — AI/ML for aging & regenerative biology (Singh Lab), UCSF / BARI & BCHSI, San Francisco, CA](https://postdocs.ucsf.edu/postdoctoral-openings#singh-lab-ai-ml-in-aging-regenerative-biology)  
 - 🇺🇸 [Postdoctoral Fellow — experimental biology of aging / African killifish diapause (Singh Lab), UCSF / BARI & BCHSI, San Francisco, CA](https://postdocs.ucsf.edu/postdoctoral-openings#singh-lab-biology-of-aging)  
 - 🇺🇸 [Postdoctoral Associate — functional genomics, Baylor College of Medicine, Houston, TX](https://jobs.sciencecareers.org/job/679359/postdoctoral-associate-functional-genomics/)  
