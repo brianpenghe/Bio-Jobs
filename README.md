@@ -98,6 +98,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🇺🇸 [Pioneering Medicines: Vice President / Senior Vice President - Head of Biology (Invitro and InVivo Pharmacology) — Pioneering Medicines (Flagship), Cambridge, MA USA](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8547816002?gh_jid=8547816002)  
 - 🇺🇸 [Pioneering Medicines: Director / Senior Director, Metabolics Research — Pioneering Medicines (Flagship), Cambridge, MA USA](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8547808002?gh_jid=8547808002)  
 - 🇺🇸 [Vice President, Biology and Translational Science — Flagship Pioneering, Cambridge, MA USA](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8523198002?gh_jid=8523198002)  
+- 🇺🇸 [Director, Machine Learning, Alzheimer's Disease Initiative — Arc Institute, Palo Alto, CA](https://job-boards.greenhouse.io/arcinstitute/jobs/5565374004)  
 - 🇺🇸 [Director, Machine Learning, Virtual Cell Initiative — Arc Institute, Palo Alto, CA](https://job-boards.greenhouse.io/arcinstitute/jobs/5982590004)  
 - 🇺🇸 [Director, High-Throughput Biology — Eikon Therapeutics, Millbrae, CA](https://job-boards.greenhouse.io/eikontherapeutics/jobs/5085374007)  
 - 🇺🇸 [Director, Head of Bioinformatics — AIRNA Bio, Cambridge, Massachusetts, USA](https://www.linkedin.com/jobs/view/director-head-of-bioinformatics-at-airna-4393813206)  
@@ -411,6 +412,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Lab Manager, Hie & Pluvinage Labs — Arc Institute, Palo Alto, CA](https://job-boards.greenhouse.io/arcinstitute/jobs/6114725004)  
+- 🇺🇸 [Scientist, Cell Engineering — Arc Institute, Palo Alto, CA](https://job-boards.greenhouse.io/arcinstitute/jobs/5812149004)  
 - 🇺🇸 [Gene_Research_Scientific — Aequor, South San Francisco, CA](https://www.ziprecruiter.com/c/Aequor-Inc/Job/Gene_Research_Scientific/-in-South-San-Francisco,CA?jid=5e2f3fd57b7facfb)  
 - 🇺🇸 [Senior Bioinformatics Scientist — Aa 2 It (AA2IT), South San Francisco, CA](https://www.indeed.com/cmp/Aa2it-2/jobs)  
 - 🇺🇸 [Bioinformatics Research Scientist II — Veracyte, South San Francisco / San Diego, CA (remote-friendly)](https://www.veracyte.com/company/careers/job-detail?gh_jid=5101421007)  
@@ -507,7 +510,6 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🇺🇸 [Associate Director - Preclinical Development, Immunology — Terray Therapeutics, Monrovia, CA](https://ats.rippling.com/terraytx/jobs/29f2640f-ba14-4818-aa23-5aef955898ef)  
 - 🇺🇸 [Senior Director, CMC Technical Lead — Elektrofi, Boston, MA](https://www.linkedin.com/jobs/view/senior-director-cmc-technical-lead-at-elektrofi-4358774991)  
 - 🇺🇸 [Senior Director, Bioinformatics — Nautilus Biotechnology, San Carlos, CA](https://www.linkedin.com/jobs/view/senior-director-bioinformatics-at-nautilus-biotechnology-4378596854)  
-- 🇺🇸 [Machine Learning Research Lead, ADI, Computational Tech Center — Arc Institute, Palo Alto, CA](https://job-boards.greenhouse.io/arcinstitute/jobs/5565374004)  
 - 🇺🇸 [Director of Enterprise Programs, Process Development — Cellares, South San Francisco, CA](https://jobs.lever.co/cellares/2f9474da-bd08-48bc-9036-95124ba3f967)  
 - 🇺🇸 [Staff/ Senior/ Principal Systems Engineer - R&D — Culture Biosciences, South San Francisco, CA](https://culturebiosciences.com/careers?gh_jid=7775235003)  
 - 🇺🇸 [Manufacturing Associate, DNA Synthesis : Wednesday - Saturday, Swing Shift — Ansa Biotechnologies, Emeryville, CA](https://job-boards.greenhouse.io/ansabiotechnologies/jobs/4658759005)  
@@ -973,7 +975,6 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🇺🇸 [Clinical Scientist/Senior (Contract) — Adverum Biotechnologies, Redwood City, CA](https://jobs.lever.co/adverum/6daed5bb-f02b-4c81-9d06-f8d944dee5b5)  
 - 🇺🇸 [Senior Scientist, Process Development (I,II,III) — Cellares, South San Francisco, CA](https://jobs.lever.co/cellares/3e32ae87-2f95-4d1f-853e-0451e588ced2)  
 - 🇺🇸 [Senior Product Support Engineer — Nautilus Biotechnology, San Carlos, CA](https://www.linkedin.com/jobs/view/senior-product-support-engineer-at-nautilus-biotechnology-4374835340)  
-- 🇺🇸 [Scientist, Molecular Engineering — Arc Institute, Palo Alto, CA](https://job-boards.greenhouse.io/arcinstitute/jobs/5812149004)  
 - 🇺🇸 [Field Applications Scientist - APJ — Element Biosciences, APJ REMOTE](https://job-boards.greenhouse.io/elementbiosciences/jobs/5810552004)  
 - 🇺🇸 [Scientist/ Senior Scientist - Translational Cardiac Biology — Until Labs, Bay Area](https://jobs.lever.co/until/b5c0ae67-cdad-4f30-ae55-0057030c9bab)  
 - 🇺🇸 [Scientist, Genomics — Retro Biosciences, Redwood City, CA](https://jobs.lever.co/retro/688ebd3c-1d16-4ef8-9097-9c28de361d01)  
@@ -1458,6 +1459,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Senior Research Associate, Neural Cell Production (Fixed-Term Contract) — Arc Institute, Palo Alto, CA](https://job-boards.greenhouse.io/arcinstitute/jobs/6104308004)  
+- 🇺🇸 [Senior Research Associate, HPC Production (Fixed-Term Contract) — Arc Institute, Palo Alto, CA](https://job-boards.greenhouse.io/arcinstitute/jobs/6104567004)  
 - 🇺🇸 [Senior/Research Associate — NewLimit, South San Francisco, CA](https://job-boards.greenhouse.io/newlimit/jobs/5798299004)  
 - 🇺🇸 [Contract – Senior Research Associate — Cytokinetics, South San Francisco, CA](https://www.builtinsf.com/job/contract-senior-research-associate/9513673)  
 - 🇺🇸 [Research Associate, Discovery Biology — Assembly Biosciences, South San Francisco, CA](https://www.tealhq.com/job/research-associate-discovery-biology_7ea1a04b5c0525b1390f547f30c3d31e1f3b8)  
@@ -1601,6 +1604,10 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Scientific Program Manager Lead — Arc Institute, Palo Alto, CA](https://job-boards.greenhouse.io/arcinstitute/jobs/5842020004)  
+- 🇺🇸 [Community Support Contractor, Virtual Cell Challenge — Arc Institute (remote, US)](https://job-boards.greenhouse.io/arcinstitute/jobs/6101123004)  
+- 🇺🇸 [FP&A Manager — Arc Institute, Palo Alto, CA](https://job-boards.greenhouse.io/arcinstitute/jobs/5803130004)  
+- 🇺🇸 [People Operations & Compensation Lead — Arc Institute, Palo Alto, CA](https://job-boards.greenhouse.io/arcinstitute/jobs/6100038004)  
 - 🇺🇸 [Vice President and Senior Scientific Officer — SFARI, Simons Foundation, New York, NY](https://jobs.sciencecareers.org/job/679369/vice-president-and-senior-scientific-officer-sfari/)  
 
 - 🇺🇸 [Biology Specialist (Masters/PhDs) — Alignerr, Seattle, WA (remote)](https://aitrainer.work/jobs/alignerr/biology-specialist-mastersphds)  
