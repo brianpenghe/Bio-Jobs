@@ -22,6 +22,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Associate or Full Professor — Chief, Division of Genomics and Precision Medicine, University of California San Diego, San Diego, CA](https://jobs.sciencecareers.org/job/679376/associate-or-full-professor-chief-division-of-genomics-and-precision-medicine/)  
+- 🇺🇸 [Assistant, Associate or Full Professor — Ophthalmology (Research), Stanford University School of Medicine, Palo Alto, CA](https://www.nature.com/naturecareers/job/12861827/assistant-associate-or-full-professor-for-ophthalmology-research-/)  
+- 🇺🇸 [Assistant, Associate or Full Professor — Ophthalmology (Clinicians or Clinician-Scientists), Stanford University School of Medicine, Palo Alto, CA](https://www.nature.com/naturecareers/job/12861828/assistant-associate-or-full-professor-of-ophthalmology-clinicians-or-clinician-scientists-/)  
 - 🇺🇸 [Assistant Professor of Physics — Touro University, Brooklyn / New York, NY](https://www.linkedin.com/jobs/view/assistant-professor-of-physics-at-touro-university-4145947351)  
 - 🇺🇸 [Ohio Eminent Scholar in Structural Biology (open rank) — Miami University, Oxford, OH](https://www.nature.com/naturecareers/job/12861723/ohio-eminent-scholar-in-structural-biology-open-rank/)  
 - 🇺🇸 [Tenure-track Assistant Professor — marine biology, Texas A&M University at Galveston, Galveston, TX](https://jobs.sciencecareers.org/job/679350/tenure-track-assistant-professor-in-marine-biology/)  
@@ -227,6 +230,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Principal Investigators (all levels) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679385/principal-investigators-all-levels-generative-biology-institute/)  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [(Senior) Group Leader — Plant Phenotyping, Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679387/-senior-group-leader-plant-phenotyping-plant-biology-institute/)  
 - 🇫🇷 [Junior Professor Chair — AI for precision medicine & chronic inflammatory diseases (ENDOMIC-AI), Inria / University of Lille, Lille](https://www.nature.com/naturecareers/job/12861711/junior-professor-chair-in-ai-for-precision-medicine-and-chronic-inflammatory-diseases/)  
 - 🇩🇰 [Professor/Associate Professor — biomedical innovation, Aarhus University, Aarhus](https://www.nature.com/naturecareers/job/12861383/professor-associate-professor-in-biomedical-innovation/)  
 - 🇩🇰 [Tenure-track Assistant Professor — Department of Biomedicine, Aarhus University, Aarhus](https://www.nature.com/naturecareers/job/12861384/tenure-track-assistant-professor-at-the-department-of-biomedicine/)  
@@ -310,6 +315,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇨🇳 [Postdoc and Faculty — Institute of Precision Medicine, Zhejiang Chinese Medical University, Hangzhou](https://www.nature.com/naturecareers/job/12861842/postdoc-and-faculty/)  
+- 🇶🇦 [Assistant/Associate/Full Professor — College of Health and Life Sciences (CHLS), Hamad Bin Khalifa University (HBKU), Doha](https://www.nature.com/naturecareers/job/12861885/assistant-associate-full-professor/)  
 - 🇭🇰 [AI in Bioscience faculty positions — Division of Life Science, Hong Kong University of Science and Technology (HKUST), Hong Kong](https://www.nature.com/naturecareers/job/12861661/ai-in-bioscience-faculty-positions/)  
 - 🇨🇳 [Principal Investigator and postdoctoral positions — Chinese Institute for Medical Physiology (CIMR), Beijing](https://www.nature.com/naturecareers/job/12861745/principal-investigator-and-postdoctoral-positions-at-chinese-institute-for-medical-physiology-cimr/)  
 - 🇹🇼 [Director — Institute of Molecular Biology, Academia Sinica, Taipei](https://jobs.sciencecareers.org/job/679332/director/)  
@@ -1107,6 +1114,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Head of Responsible Innovation — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679381/head-of-responsible-innovation-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Bioinformatician — genomics & AI (foundation models), Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679341/bioinformatician/)  
 
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Bioinformatician — pathogens, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://www.nature.com/naturecareers/job/12861632/bioinformatician-pathogens/)  
@@ -1364,6 +1372,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679383/postdoctoral-research-fellow-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Jamali Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679342/postdoctoral-research-fellow-jamali-lab-generative-biology-institute/)  
 - 🇩🇪 [Postdoc — Institut für Auditorische Neurowissenschaften, Universitätsmedizin Göttingen, Göttingen](https://jobs.sciencecareers.org/job/679371/postdoc-positionc-institut-fuer-auditorische-neurowissenschaften/)  
 
@@ -1541,6 +1550,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679384/research-assistant-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Sequencing Technician — Applications Team (Pathogen), Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679378/sequencing-technician-applications-team-pathogen-/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Glassware and Media Prep Technician — Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679370/glassware-and-media-prep-technician-plant-biology-institute/)  
 
