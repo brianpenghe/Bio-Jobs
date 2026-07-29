@@ -22,6 +22,12 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [AI/ML for Biology — 4 tenure-track Assistant Professor positions, Duke University, Durham, NC](https://jobs.sciencecareers.org/job/679484/ai-ml-for-biology-4-tenure-track-assistant-professor-positions/)  
+- 🇺🇸 [Open-rank faculty — Cell Biology & Physiology / Neuroscience Center, University of North Carolina at Chapel Hill, Chapel Hill, NC](https://jobs.sciencecareers.org/job/679501/open-rank-faculty-cell-biology-and-physiology-neuroscience-center/)  
+- 🇺🇸 [George Lynn Cross Endowed Chair — Biological Sciences (microbiome / microbiome interactions), University of Oklahoma, Norman, OK](https://jobs.sciencecareers.org/job/679504/george-lynn-cross-endowed-chair-in-biological-sciences-microbiome-micr/)  
+- 🇺🇸 [Tenure-track faculty (open rank) — biochemistry / molecular biology, Howard University College of Medicine, Washington, DC](https://jobs.sciencecareers.org/job/679496/tenure-track-faculty-positions-open-rank-/)  
+- 🇺🇸 [Tenure-track Assistant Professor — Medical Physiology, Texas A&M University Vashisht College of Medicine, Bryan, TX](https://jobs.sciencecareers.org/job/679487/tenure-track-assistant-professor-texas-a-and-m-university-vashisht-col/)  
+- 🇺🇸 [Assistant Professor — Anatomy, Physiology & Pharmacology, Auburn University College of Veterinary Medicine, Auburn, AL](https://jobs.sciencecareers.org/job/679500/assistant-professor/)  
 - 🇺🇸 [Tenure-track faculty — human genetics, UT Southwestern Medical Center, Dallas, TX](https://www.nature.com/naturecareers/job/12862060/tenure-track-faculty-positions-in-human-genetics/)  
 - 🇺🇸 [Assistant/Associate/Full Professor (tenure line) — Dermatology, Stanford University, Redwood City, CA](https://www.nature.com/naturecareers/job/12862062/assistant-associate-full-professor-tenure-line-stanford-dermatology/)  
 - 🇺🇸 [Assistant Professor — cardiac/cell physiology, Loyola University Chicago, Maywood, IL](https://www.nature.com/naturecareers/job/12862061/assistant-professor/)  
@@ -334,6 +340,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇨🇳 [Faculty positions — Nonhuman Primate Research, School of Life Sciences, Westlake University, Hangzhou](https://www.nature.com/naturecareers/job/12856820/faculty-positions-in-nonhuman-primate-research-school-of-life-sciences/)  
+- 🇨🇳 [Faculty positions — Aging and Neurodegeneration, Westlake Laboratory of Life Sciences and Biomedicine, Hangzhou](https://jobs.sciencecareers.org/job/679476/faculty-positions-aging-and-neurodegeneration-westlake-laboratory-of-l/)  
 - 🇨🇳 [Faculty positions — Tsinghua Shenzhen International Graduate School (SIGS), Shenzhen](https://www.nature.com/naturecareers/job/12861902/tsinghua-shenzhen-international-graduate-school/)  
 - 🇨🇳 [Faculty / research careers — Interdisciplinary Research Center on Biology and Chemistry (IRCBC), Shanghai](https://jobs.sciencecareers.org/job/679421/exciting-research-career-opportunity-at-ircbc-in-shanghai-china/)  
 - 🇨🇳 [Faculty positions — Life Science and Technology, ShanghaiTech University, Shanghai](https://jobs.sciencecareers.org/job/679413/faculty-positions-life-science-and-technology-in-shanghaitech-universi/)  
@@ -1403,6 +1411,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Tian Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679475/postdoctoral-research-fellow-tian-lab-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Scientist — RNUopathies / ReNU syndrome (computational genomics & biomarkers), MRC CoRE in Therapeutic Genomics, University of Oxford, Oxford](https://www.jobs.ac.uk/job/DSG188/postdoctoral-scientist) · closes 2026-08-07  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679383/postdoctoral-research-fellow-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Jamali Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679342/postdoctoral-research-fellow-jamali-lab-generative-biology-institute/)  
@@ -1468,6 +1477,13 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 
 ### PhD
 **PhD studentships and graduate programs**
+<details>
+<summary>🌎 North America</summary>
+
+- 🇨🇦 [PhD in Neuroscience / Neuropharmacology (CIHR-funded, 5 years), University of Manitoba, Winnipeg](https://jobs.sciencecareers.org/job/679489/phd-in-neuroscience-neuropharmacology-cihr-funded-5-years-/)  
+
+</details>
+
 <details>
 <summary>🌍 Europe</summary>
 
