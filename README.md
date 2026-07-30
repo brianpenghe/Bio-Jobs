@@ -251,6 +251,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇩🇪 [Group Leader — AI in Biology, European Molecular Biology Laboratory (EMBL), Germany](https://www.nature.com/naturecareers/job/12862156/group-leader-ai-in-biology/)  
 - 🇵🇱 [Senior Group Leader / Professor — RNA/Cell Therapy, International Institute of Molecular and Cell Biology (IIMCB), Warsaw](https://www.nature.com/naturecareers/job/12861925/senior-group-leader-in-rna-cell-therapy-professor-position/)  
 - 🇨🇭 [Professor of Human Nutrition Biology — ETH Zurich, Zurich](https://www.nature.com/naturecareers/job/12861982/professor-of-human-nutrition-biology/)  
 - 🇩🇪 [W2 Professorship — Cluster of Excellence PhenoRob, University of Bonn, Bonn](https://www.nature.com/naturecareers/job/12861974/w2-professorship-within-the-cluster-of-excellence-phenorob/)  
