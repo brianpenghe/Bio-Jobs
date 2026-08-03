@@ -22,6 +22,20 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Assistant Professor — Molecular, Cellular, and Developmental Biology (MCDB), University of Michigan, Ann Arbor, MI](https://www.nature.com/naturecareers/job/12862252/assistant-professor/)  
+- 🇺🇸 [Assistant Professor in Neuroimmunology — Salk Institute for Biological Studies, La Jolla, CA](https://www.nature.com/naturecareers/job/12862202/assistant-professor-in-neuroimmunology-at-the-salk-institute-for-biolo/)  
+- 🇺🇸 [Associate Professor or Professor — Tissue Engineering, Northwestern University Feinberg School of Medicine, Chicago, IL](https://www.nature.com/naturecareers/job/12862200/associate-professor-or-professor-tissue-engineer/)  
+- 🇺🇸 [Assistant Professor — Precision Surgical Outcomes, Northwestern University Feinberg School of Medicine, Chicago, IL](https://www.nature.com/naturecareers/job/12862199/assistant-professor-precision-surgical-outcomes/)  
+- 🇺🇸 [Assistant Professor of Biology (two tenure-track positions) — Haverford College, Haverford, PA](https://www.nature.com/naturecareers/job/12862198/assistant-professor-of-biology-two-tenure-track-positions-/)  
+- 🇺🇸 [Tenure-track faculty — Microbial Pathogenesis, Yale School of Medicine, New Haven, CT](https://jobs.sciencecareers.org/job/679537/tenure-track-faculty-department-of-microbial-pathogenesis/)  
+- 🇺🇸 [Tenure-track Assistant Professor — Genetics/Genomics, Smith College, Northampton, MA](https://jobs.sciencecareers.org/job/679538/tenure-track-assistant-professor-genetics-genomics/)  
+- 🇺🇸 [Assistant/Associate Professor — stem cell biology, NYU Grossman School of Medicine, New York, NY](https://jobs.sciencecareers.org/job/679534/assistant-associate-professor-new-york-university-grossman-school-of-m/)  
+- 🇺🇸 [Assistant Professor — Molecular Biology (MGH) & Genetics (HMS), Massachusetts General Hospital / Harvard Medical School, Boston, MA](https://jobs.sciencecareers.org/job/679472/assistant-professor/)  
+- 🇺🇸 [Tenure-track faculty — Biology (start Fall 2027), Grinnell College, Grinnell, IA](https://jobs.sciencecareers.org/job/679536/department-of-biology-tenure-track-start-fall-2027-/)  
+- 🇺🇸 [Assistant Professor — Physiology, Midwestern University, Downers Grove, IL](https://jobs.sciencecareers.org/job/679517/assistant-professor-il-physiology/)  
+- 🇺🇸 [Assistant Professor — M-PACT / Complex Systems, University of Michigan LSA, Ann Arbor, MI](https://www.nature.com/naturecareers/job/12862250/assistant-professor-michigan-program-for-advancing-cultural-transforma/)  
+- 🇺🇸 [NIH Stadtman Investigator Program 2026–2027 — National Institutes of Health, Bethesda, MD](https://jobs.sciencecareers.org/job/679503/nih-stadtman-investigator-program-2026-2027/)  
+- 🇨🇦 [Tier 2 Canada Research Chair — Genomics in Precision Health, University of Lethbridge, Lethbridge](https://www.nature.com/naturecareers/job/12862139/posting-faculty-of-arts-and-sciences-tier-2-canada-research-chair-geno/)  
 - 🇺🇸 [AI/ML for Biology — 4 tenure-track Assistant Professor positions, Duke University, Durham, NC](https://jobs.sciencecareers.org/job/679484/ai-ml-for-biology-4-tenure-track-assistant-professor-positions/)  
 - 🇺🇸 [Open-rank faculty — Cell Biology & Physiology / Neuroscience Center, University of North Carolina at Chapel Hill, Chapel Hill, NC](https://jobs.sciencecareers.org/job/679501/open-rank-faculty-cell-biology-and-physiology-neuroscience-center/)  
 - 🇺🇸 [George Lynn Cross Endowed Chair — Biological Sciences (microbiome / microbiome interactions), University of Oklahoma, Norman, OK](https://jobs.sciencecareers.org/job/679504/george-lynn-cross-endowed-chair-in-biological-sciences-microbiome-micr/)  
@@ -251,6 +265,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇩🇪 [University Professor — Functional Genomics and Molecular Neurobiology, Faculty of Biology, Johannes Gutenberg University Mainz, Mainz](https://www.nature.com/naturecareers/job/12862232/university-professor-of-functional-genomics-and-molecular-neurobiology/)  
+- 🇩🇪 [Professorship — Structural Cell Biology, Leibniz-Forschungsinstitut für Molekulare Pharmakologie (FMP), Berlin](https://www.nature.com/naturecareers/job/12862240/professorship-in-structural-cell-biology/)  
+- 🇩🇰 [Professor or Associate Professor — natural sciences with focus on innovation (×4), Aarhus University, Aarhus](https://www.nature.com/naturecareers/job/12861387/professor-or-associate-professor-within-the-natural-sciences-with-a-fo/)  
 - 🇩🇪 [Group Leader — AI in Biology, European Molecular Biology Laboratory (EMBL), Germany](https://www.nature.com/naturecareers/job/12862156/group-leader-ai-in-biology/)  
 - 🇵🇱 [Senior Group Leader / Professor — RNA/Cell Therapy, International Institute of Molecular and Cell Biology (IIMCB), Warsaw](https://www.nature.com/naturecareers/job/12861925/senior-group-leader-in-rna-cell-therapy-professor-position/)  
 - 🇨🇭 [Professor of Human Nutrition Biology — ETH Zurich, Zurich](https://www.nature.com/naturecareers/job/12861982/professor-of-human-nutrition-biology/)  
@@ -341,6 +358,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇨🇳 [Fall 2026 Westlake Fellows Program — Westlake University, Hangzhou](https://www.nature.com/naturecareers/job/12861209/fall-2026-westlake-fellows-program-nominations-and-applications-open/)  
+- 🇻🇳 [VinUniversity Assistant Professorships (VAP) — VinUniversity, Vietnam](https://www.nature.com/naturecareers/job/12862258/vinuniversity-assistant-professorships-vap-/)  
 - 🇨🇳 [Faculty positions — Nonhuman Primate Research, School of Life Sciences, Westlake University, Hangzhou](https://www.nature.com/naturecareers/job/12856820/faculty-positions-in-nonhuman-primate-research-school-of-life-sciences/)  
 - 🇨🇳 [Faculty positions — Aging and Neurodegeneration, Westlake Laboratory of Life Sciences and Biomedicine, Hangzhou](https://jobs.sciencecareers.org/job/679476/faculty-positions-aging-and-neurodegeneration-westlake-laboratory-of-l/)  
 - 🇨🇳 [Faculty positions — Tsinghua Shenzhen International Graduate School (SIGS), Shenzhen](https://www.nature.com/naturecareers/job/12861902/tsinghua-shenzhen-international-graduate-school/)  
@@ -1147,6 +1166,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Bioinformatician — Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://www.nature.com/naturecareers/job/12862245/bioinformatician-plant-biology-institute/)  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Bioinformatician — Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679512/bioinformatician/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Head of Experimental Data Generation — Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679473/head-of-experimental-data-generation/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Bioinformatician — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679459/bioinformatician-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [HPC Engineer — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679458/hpc-engineer-generative-biology-institute/)  
@@ -1239,6 +1260,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇯🇵 [Research Scientist — RNA regulation, RIKEN PRI, Japan](https://jobs.sciencecareers.org/job/679505/research-scientist/)  
 - 🇸🇬 [Scientist — neutrophil biology, A*STAR, Singapore](https://careers.a-star.edu.sg/default/job/Scientist%2C-Neutrophil-BIology/2345-en_GB)  
 - 🇸🇬 [Scientist — autoimmunity, A*STAR, Singapore](https://careers.a-star.edu.sg/default/job/Scientist%2C-Autoimmunity/2495-en_GB)  
 - 🇸🇬 [Scientist — mucosal immunology & microbiome, A*STAR, Singapore](https://careers.a-star.edu.sg/job/50006529-Scientist%2C-Mucosal-Immunology-&-Microbiome/2178-en_GB/)  
@@ -1270,6 +1292,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Postdoctoral Fellow — genetics & biophysics of neuronal morphogenesis (autism gene screens in stem cell–derived human neurons); collaboration of Harvard, Princeton, Flatiron Institute & NYSBC (Needleman / Theesfeld)](https://needleman.seas.harvard.edu/research-neurons/) · inquire: [dan.needleman@gmail.com](mailto:dan.needleman@gmail.com) · [chandrat@princeton.edu](mailto:chandrat@princeton.edu)  
+- 🇺🇸 [Postdoctoral Fellow — cardiac diseases & aging (zebrafish / African turquoise killifish), Xiaolei Xu Lab, Mayo Clinic, Rochester, MN](https://jobs.sciencecareers.org/job/679516/postdoctoral-fellow-in-cardiac-diseases-and-aging/)  
 - 🇺🇸 [Postdoctoral Fellow — AI Neuroscience, Stephen & Denise Adams Center for Parkinson's Disease Research, Yale, New Haven, CT](https://www.nature.com/naturecareers/job/12861932/help-define-the-future-of-ai-neuroscience-postdoctoral-fellow/)  
 - 🇧🇷 [Postdoctoral Research Position — Computational Immunology / Bioinformatics, Universidade de São Paulo, São Paulo](https://www.nature.com/naturecareers/job/12861934/postdoctoral-research-position-in-computational-immunology-bioinformat/)  
 - 🇺🇸 [Postdoctoral Fellow / Scientist I — Synthetic Spatial Omics (cell engineering), Chan Zuckerberg Biohub New York, New York, NY](https://job-boards.greenhouse.io/biohub/jobs/8056434)  
@@ -1412,6 +1436,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [EMBL-EBI–Sanger Postdoctoral Fellowships (ESPOD) — Wellcome Genome Campus, Hinxton (2026 call)](https://www.ebi.ac.uk/research/postdocs/espods/) · closes 2026-09-27  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Fellow — Evolution and Generative AI (Osipova Lab), Francis Crick Institute, London](https://www.linkedin.com/jobs/view/4445536041/) · closes 2026-08-16  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Zuercher Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679527/postdoctoral-research-fellow-zuercher-lab-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Tian Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679475/postdoctoral-research-fellow-tian-lab-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Scientist — RNUopathies / ReNU syndrome (computational genomics & biomarkers), MRC CoRE in Therapeutic Genomics, University of Oxford, Oxford](https://www.jobs.ac.uk/job/DSG188/postdoctoral-scientist) · closes 2026-08-07  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679383/postdoctoral-research-fellow-generative-biology-institute/)  
@@ -1460,7 +1487,6 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🇫🇷 [Postdoctoral Organic/Medicinal Chemist at EMBL Grenoble](https://www.embl.org/jobs/position/GR00232)  
 - 🇨🇭 [Data Science Innovation Fellow](https://www.novartis.com/careers/career-search/job/details/req-10013704-data-science-innovation-fellow)  
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [Postdoctoral Research Scientist - Tumour Microenvironment and Cancer Metabolism, CRUK Scotland Institute](https://www.jobs.ac.uk/job/DJN000/postdoctoral-research-scientist-tumour-microenvironment-and-cancer-metabolism?uuid=21acce29-6997-11ef-aadc-027e9b1da9c1&campaign=jbe20240903&source=jbe)  
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [EMBL-EBI/Sanger postdoctoral fellowship (ESPOD)](https://www.ebi.ac.uk/research/postdocs/espods)  
 
 </details>
 
@@ -1601,6 +1627,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Laboratory Technician — Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679526/laboratory-technician-plant-biology-institute/)  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Laboratory Technician — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679510/laboratory-technician-generative-biology-institute/)  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Mass Spectrometry Technician — Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679513/mass-spectrometry-technician/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant (Zuercher Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679457/research-assistant-zuercher-lab-generative-biology-insititute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Research Assistant — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679384/research-assistant-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Sequencing Technician — Applications Team (Pathogen), Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679378/sequencing-technician-applications-team-pathogen-/)  
