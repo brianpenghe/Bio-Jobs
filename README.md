@@ -22,6 +22,15 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Multiple research-intensive Associate/Full Professor positions & 1855 Professorship — College of Human Medicine, Michigan State University, Flint / MI](https://www.nature.com/naturecareers/job/12862314/multiple-research-intensive-associate-full-professor-tenure-system-pos/)  
+- 🇺🇸 [Group Leader — Neural Circuit Regulation of Immune Function (BioMed X / Biogen), New Haven, CT](https://www.nature.com/naturecareers/job/12862333/group-leader-neural-circuit-regulation-of-immune-function/)  
+- 🇺🇸 [Open-rank tenure-track or tenured Professor — Biology, MIT, Cambridge, MA](https://www.nature.com/naturecareers/job/12862344/open-rank-tenure-track-or-tenured-professor/)  
+- 🇺🇸 [Assistant Professor — craniofacial molecular biology (genetic/genomic/epigenomic), USC Center for Craniofacial Molecular Biology, Los Angeles, CA](https://www.nature.com/naturecareers/job/12862345/assistant-professor/)  
+- 🇺🇸 [Tenure-track Assistant Professor — Bioinformatics / Biological AI, Department of Biology, Texas A&M University, College Station, TX](https://jobs.sciencecareers.org/job/679561/full-time-tenure-track-assistant-professor-position-in-bioinformatics-/)  
+- 🇺🇸 [Assistant Professor (tenure-system) — Plant Research Laboratory, Michigan State University, East Lansing, MI](https://jobs.sciencecareers.org/job/679558/assistant-professor-tenure-system-plant-research-laboratory/)  
+- 🇺🇸 [Assistant Professor of Biology (tenure-track) — Lake Forest College, Lake Forest, IL](https://jobs.sciencecareers.org/job/679555/assistant-professor-of-biology-tenure-track/)  
+- 🇺🇸 [Assistant Professor (non-tenure-track) — translational research (TP01), Icahn School of Medicine at Mount Sinai, New York, NY](https://jobs.sciencecareers.org/job/679554/tp01-assistant-professor-non-tenure-track/)  
+- 🇺🇸 [Ignite Scholar — Research Assistant Professor, Northeast Ohio Medical University, Rootstown, OH](https://jobs.sciencecareers.org/job/679552/ignite-scholar-research-assistant-professor/)  
 - 🇺🇸 [Assistant Professor — Molecular, Cellular, and Developmental Biology (MCDB), University of Michigan, Ann Arbor, MI](https://www.nature.com/naturecareers/job/12862252/assistant-professor/)  
 - 🇺🇸 [Assistant Professor in Neuroimmunology — Salk Institute for Biological Studies, La Jolla, CA](https://www.nature.com/naturecareers/job/12862202/assistant-professor-in-neuroimmunology-at-the-salk-institute-for-biolo/)  
 - 🇺🇸 [Associate Professor or Professor — Tissue Engineering, Northwestern University Feinberg School of Medicine, Chicago, IL](https://www.nature.com/naturecareers/job/12862200/associate-professor-or-professor-tissue-engineer/)  
@@ -265,6 +274,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇩🇰 [Group Leader / Associate Professor — live-cell in vitro analysis of cellular function and dysfunction, Aarhus University, Aarhus](https://www.nature.com/naturecareers/job/12862332/group-leader-associate-professor-in-live-cell-in-vitro-analysis-of-cel/)  
 - 🇩🇪 [University Professor — Functional Genomics and Molecular Neurobiology, Faculty of Biology, Johannes Gutenberg University Mainz, Mainz](https://www.nature.com/naturecareers/job/12862232/university-professor-of-functional-genomics-and-molecular-neurobiology/)  
 - 🇩🇪 [Professorship — Structural Cell Biology, Leibniz-Forschungsinstitut für Molekulare Pharmakologie (FMP), Berlin](https://www.nature.com/naturecareers/job/12862240/professorship-in-structural-cell-biology/)  
 - 🇩🇰 [Professor or Associate Professor — natural sciences with focus on innovation (×4), Aarhus University, Aarhus](https://www.nature.com/naturecareers/job/12861387/professor-or-associate-professor-within-the-natural-sciences-with-a-fo/)  
@@ -358,6 +368,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇭🇰 [Drug Discovery and Translational Therapeutics faculty positions — Hong Kong University of Science and Technology (HKUST), Hong Kong](https://www.nature.com/naturecareers/job/12862208/drug-discovery-and-translational-therapeutics-faculty-positions/)  
+- 🇸🇬 [Professor / Associate Professor / Assistant Professor of Geroscience — Lee Kong Chian School of Medicine, Singapore](https://www.nature.com/naturecareers/job/12862285/professor-associate-professor-assistant-professor-of-geroscience/)  
 - 🇨🇳 [Fall 2026 Westlake Fellows Program — Westlake University, Hangzhou](https://www.nature.com/naturecareers/job/12861209/fall-2026-westlake-fellows-program-nominations-and-applications-open/)  
 - 🇻🇳 [VinUniversity Assistant Professorships (VAP) — VinUniversity, Vietnam](https://www.nature.com/naturecareers/job/12862258/vinuniversity-assistant-professorships-vap-/)  
 - 🇨🇳 [Faculty positions — Nonhuman Primate Research, School of Life Sciences, Westlake University, Hangzhou](https://www.nature.com/naturecareers/job/12856820/faculty-positions-in-nonhuman-primate-research-school-of-life-sciences/)  
@@ -462,6 +474,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Lab Research Analyst I — FoodSeq bioinformatics pipelines & sequencing data ops (Edible Atlas / David Lab), Duke University, Durham, NC](https://careers.duke.edu/job/Durham-Lab-Research-Analyst-I-NC-27710/1414702000/) · [jobs page](https://edibleatlas.org/jobs) · inquire: [lawrence.david@duke.edu](mailto:lawrence.david@duke.edu)  
+- 🇺🇸 [Lab Research Analyst II — technical & scientific writing / genomic analysis (Edible Atlas / David Lab), Duke University, Durham, NC](https://careers.duke.edu/job/Durham-Lab-Research-Analyst-II-NC-27710/1406846900/) · [jobs page](https://edibleatlas.org/jobs) · inquire: [lawrence.david@duke.edu](mailto:lawrence.david@duke.edu)  
 - 🇺🇸 [Cancer Bioinformatician / Senior Analyst / Senior Computational Scientist — MUSC Radiation Medicine, Charleston, SC](https://www.nature.com/naturecareers/job/12861981/cancer-bioinformatician-senior-analyst-senior-computational-scientist/)  
 - 🇺🇸 [Lab Manager, Hie & Pluvinage Labs — Arc Institute, Palo Alto, CA](https://job-boards.greenhouse.io/arcinstitute/jobs/6114725004)  
 - 🇺🇸 [Scientist, Cell Engineering — Arc Institute, Palo Alto, CA](https://job-boards.greenhouse.io/arcinstitute/jobs/5812149004)  
@@ -1166,6 +1180,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇳🇴 [Researcher — Department of Immunology, Oslo University Hospital, Oslo](https://jobs.sciencecareers.org/job/679560/researcher-department-of-immunology/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Bioinformatician — Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://www.nature.com/naturecareers/job/12862245/bioinformatician-plant-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Bioinformatician — Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679512/bioinformatician/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Head of Experimental Data Generation — Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679473/head-of-experimental-data-generation/)  
