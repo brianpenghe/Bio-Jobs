@@ -22,6 +22,20 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Faculty Position in BioAI — Cold Spring Harbor Laboratory (CSHL), Cold Spring Harbor, NY](https://www.nature.com/naturecareers/job/12862578/faculty-position-in-bioai-at-cold-spring-harbor-laboratory/)  
+- 🇺🇸 [UTSW OBI Scholars — Assistant or Associate Professor, O'Donnell Brain Institute, UT Southwestern Medical Center, Dallas, TX](https://www.nature.com/naturecareers/job/12862576/utsw-obi-scholars-assistant-professor-or-associate-professor/)  
+- 🇺🇸 [Assistant or Associate Professor — developmental or stem cell biology, Upstate Medical University, Syracuse, NY](https://www.nature.com/naturecareers/job/12862574/assistant-or-associate-professor-developmental-or-stem-cell-biology/)  
+- 🇺🇸 [Assistant Professor — Molecular Biology, Princeton University, Princeton, NJ](https://www.nature.com/naturecareers/job/12862541/assistant-professor-of-molecular-biology/)  
+- 🇺🇸 [Assistant Professor of Pathology, Research — structural and computational biology, Stanford University, Stanford, CA](https://www.nature.com/naturecareers/job/12862518/assistant-professor-of-pathology-research-structural-and-computational-biology-/)  
+- 🇺🇸 [Assistant Professor — Chemical Biology, Institute of Biomolecular Design and Discovery, Yale University, New Haven, CT](https://jobs.sciencecareers.org/job/679669/assistant-professor-chemical-biology/)  
+- 🇺🇸 [Assistant Professor — Integrative Biology (×3), Oregon State University, Corvallis, OR](https://jobs.sciencecareers.org/job/679661/integrative-biology-assistant-professor/)  
+- 🇺🇸 [Assistant or Associate Professor — Molecular Physiology and Biological Physics, University of Virginia School of Medicine, Charlottesville, VA](https://jobs.sciencecareers.org/job/679658/assistant-or-associate-professor/)  
+- 🇺🇸 [Open-rank faculty — emerging pathogen research, Cleveland Clinic, Cleveland, OH](https://jobs.sciencecareers.org/job/679654/open-rank-faculty-positions-assistant-associate-full-professor-in-emerging-pathogen-research/)  
+- 🇺🇸 [Chief, Laboratory of Pathology — Center for Cancer Research, National Cancer Institute (NCI), Bethesda, MD](https://jobs.sciencecareers.org/job/679648/chief-laboratory-of-pathology/)  
+- 🇺🇸 [Assistant/Associate Professor on Term — neurocognition, Wu Tsai Institute, Yale University, New Haven, CT](https://jobs.sciencecareers.org/job/679635/assistant-associate-professor-on-term-neurocognition-wu-tsai-institute-and-partner-department-s-/)  
+- 🇺🇸 [Open-rank Professor — Physiology, LSU Health New Orleans, New Orleans, LA](https://jobs.sciencecareers.org/job/679628/open-rank-professor-in-physiology-at-lsu-health-new-orleans/)  
+- 🇺🇸 [Assistant Professor of Biology, Lawrence University, Appleton, WI](https://jobs.sciencecareers.org/job/679627/assistant-professor-of-biology/)  
+- 🇺🇸 [Physician-Scientist and Medical Director — Center for Healthy Aging, Oklahoma Medical Research Foundation (OMRF), Oklahoma City, OK](https://jobs.sciencecareers.org/job/679621/physician-scientist-and-medical-director-omrf-center-for-healthy-aging/)  
 - 🇺🇸 [AI-Enabled Biology and Medicine — open-rank faculty search, Biological Sciences Division, University of Chicago, Chicago, IL](https://www.nature.com/naturecareers/job/12862428/ai-enabled-biology-and-medicine-a-division-wide-open-rank-faculty/)  
 - 🇺🇸 [Translational Neuroscience — open-rank faculty search, Biological Sciences Division, University of Chicago, Chicago, IL](https://www.nature.com/naturecareers/job/12862425/translational-neuroscience-a-division-wide-open-rank-faculty-sear/)  
 - 🇺🇸 [Chemical Biology and Therapeutics — open-rank faculty search, Biological Sciences Division, University of Chicago, Chicago, IL](https://jobs.sciencecareers.org/job/679592/chemical-biology-and-therapeutics-a-division-wide-open-rank-facul/)  
@@ -288,6 +302,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇮🇹 [Scientific Director — Istituto Italiano di Tecnologia (IIT), Genoa](https://jobs.sciencecareers.org/job/679545/scientific-director-istituto-italiano-di-tecnologia-genoa-italy/)  
 - 🇩🇪 [Prospective Independent Research Group Leaders — Faculty of Sciences, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen](https://www.nature.com/naturecareers/job/12862364/prospective-independent-research-group-leaders-m-f-d-/)  
 - 🇩🇰 [Group Leader / Associate Professor — live-cell in vitro analysis of cellular function and dysfunction, Aarhus University, Aarhus](https://www.nature.com/naturecareers/job/12862332/group-leader-associate-professor-in-live-cell-in-vitro-analysis-of-cel/)  
 - 🇩🇪 [University Professor — Functional Genomics and Molecular Neurobiology, Faculty of Biology, Johannes Gutenberg University Mainz, Mainz](https://www.nature.com/naturecareers/job/12862232/university-professor-of-functional-genomics-and-molecular-neurobiology/)  
@@ -383,6 +398,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇹🇼 [Full-time faculty positions — Department of Medical Biotechnology and Laboratory Science, Chang Gung University, Taiwan](https://www.nature.com/naturecareers/job/12862525/full-time-faculty-positions-at-chang-gung-university-taiwan/)  
+- 🇳🇿 [Lecturer / Senior Lecturer — Biomedical Science, University of Auckland, Auckland](https://www.nature.com/naturecareers/job/12862492/lecturer-senior-lecturer-biomedical-science/)  
+- 🇨🇳 [Faculty positions — Systems Hub, Hong Kong University of Science and Technology (Guangzhou), Guangzhou](https://jobs.sciencecareers.org/job/679666/faculty-positions-in-systems-hub-hkust-gz-/)  
 - 🇦🇺 [Lecturer / Senior Lecturer — Faculty of Science Strategic Research Cluster, UNSW Sydney, Sydney](https://www.nature.com/naturecareers/job/12862397/lecturer-senior-lecturer-/)  
 - 🇭🇰 [Drug Discovery and Translational Therapeutics faculty positions — Hong Kong University of Science and Technology (HKUST), Hong Kong](https://www.nature.com/naturecareers/job/12862208/drug-discovery-and-translational-therapeutics-faculty-positions/)  
 - 🇸🇬 [Professor / Associate Professor / Assistant Professor of Geroscience — Lee Kong Chian School of Medicine, Singapore](https://www.nature.com/naturecareers/job/12862285/professor-associate-professor-assistant-professor-of-geroscience/)  
@@ -490,6 +508,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Scientific Director — Coalition to Cure CHD2 (CCC); CHD2 molecular medicines / ASO strategy (US remote)](./files/CCC_Scientific_Director_Coalition_to_Cure_CHD2.pdf) · apply: [laura@curechd2.org](mailto:laura@curechd2.org)  
+- 🇺🇸 [Research Assistant Professors — Hematology/Oncology (developmental therapeutics & immuno-oncology), UChicago Medicine, Chicago, IL](https://www.nature.com/naturecareers/job/12862548/research-assistant-professors-hematology-oncology/)  
 - 🇺🇸 [Lab Research Analyst I — FoodSeq bioinformatics pipelines & sequencing data ops (Edible Atlas / David Lab), Duke University, Durham, NC](https://careers.duke.edu/job/Durham-Lab-Research-Analyst-I-NC-27710/1414702000/) · [jobs page](https://edibleatlas.org/jobs) · inquire: [lawrence.david@duke.edu](mailto:lawrence.david@duke.edu)  
 - 🇺🇸 [Lab Research Analyst II — technical & scientific writing / genomic analysis (Edible Atlas / David Lab), Duke University, Durham, NC](https://careers.duke.edu/job/Durham-Lab-Research-Analyst-II-NC-27710/1406846900/) · [jobs page](https://edibleatlas.org/jobs) · inquire: [lawrence.david@duke.edu](mailto:lawrence.david@duke.edu)  
 - 🇺🇸 [Cancer Bioinformatician / Senior Analyst / Senior Computational Scientist — MUSC Radiation Medicine, Charleston, SC](https://www.nature.com/naturecareers/job/12861981/cancer-bioinformatician-senior-analyst-senior-computational-scientist/)  
@@ -1325,6 +1345,9 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Postdoctoral Fellow — neurogenetics, National Institute on Aging (NIA), Bethesda, MD](https://jobs.sciencecareers.org/job/679674/postdoctoral-fellow-in-neurogenetics/)  
+- 🇺🇸 [Postdoctoral Research Associate — cell-surface RNAs / glycoRNAs in viral entry (HPV), University of Nebraska Medical Center, Omaha, NE](https://jobs.sciencecareers.org/job/679655/postdoctoral-research-associate/)  
+- 🇺🇸 [Postdoctoral fellowship — neurogenomics, NINDS / NIH, Bethesda, MD](https://jobs.sciencecareers.org/job/679640/postdoctoral-fellowship-in-neurogenomics/)  
 - 🇺🇸 [Postdoctoral Fellow — Junjie Chen Lab, MD Anderson Cancer Center, Houston, TX](https://jobs.sciencecareers.org/job/679587/postdoctoral-fellow-junjie-chen-lab/)  
 - 🇺🇸 [Postdoctoral Research Associate — Developmental Neurobiology, St. Jude Children's Research Hospital, Memphis, TN](https://jobs.sciencecareers.org/job/679594/postdoctoral-research-associate-developmental-neurobiology/)  
 - 🇺🇸 [Postdoctoral Associate — cellular structural biology (Sun & Zhang Labs), University of Pittsburgh, Pittsburgh, PA](https://jobs.sciencecareers.org/job/679604/postdoctoral-associate/)  
