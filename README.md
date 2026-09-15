@@ -23,6 +23,15 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <summary>🌎 North America</summary>
 
 - 🇺🇸 [Junior Faculty — BioAI (biology × machine learning; wet lab available), Cold Spring Harbor Laboratory (CSHL), Cold Spring Harbor, NY](https://www.cshl.edu/about-us/careers/faculty-positions/) · rolling review · search chair: Justin Kinney · inquire: [jkinney@cshl.edu](mailto:jkinney@cshl.edu) · [Nature ad](https://www.nature.com/naturecareers/job/12862578/faculty-position-in-bioai-at-cold-spring-harbor-laboratory/)  
+- 🇺🇸 [Assistant Professor — Molecular Genetics (Biology / BBMB; undergraduate research), Whitman College, Walla Walla, WA](https://apply.interfolio.com/190719) · review begins 2026-09-21 · inquire: [mossbl@whitman.edu](mailto:mossbl@whitman.edu)  
+- 🇺🇸 [Tenure-track Faculty — Molecular Cell Biology, Division of Biology and Biological Engineering, Caltech, Pasadena, CA](https://www.nature.com/naturecareers/job/12864612/tenure-track-faculty-position-in-biology-and-biological-engineering/)  
+- 🇺🇸 [Assistant Professor (tenure-track) — Pharmaceutical Sciences, University of Michigan College of Pharmacy, Ann Arbor, MI](https://www.nature.com/naturecareers/job/12864602/assistant-professor-tenure-track-faculty-position/)  
+- 🇺🇸 [Director — Center for Alzheimer’s and Related Dementias (CARD), NIA / NINDS Intramural Research Program, Bethesda, MD](https://jobs.sciencecareers.org/job/680159/director-center-for-alzheimer-s-and-related-dementias/)  
+- 🇺🇸 [Open-rank Faculty — Plant Evolution & Director, Plant Resources Center, University of Texas at Austin, Austin, TX](https://jobs.sciencecareers.org/job/680162/open-rank-search-in-plant-evolution-and-director-of-the-ut-austin-plant-resources-center/)  
+- 🇺🇸 [Assistant Professor — Biochemistry / Molecular and Cellular Neuroscience, University of Massachusetts Amherst, Amherst, MA](https://jobs.sciencecareers.org/job/680158/assistant-professor-of-biochemistry-neuroscience/)  
+- 🇺🇸 [Assistant Professor (tenure-track) — Cellular & Integrative Physiology, UT Health Science Center San Antonio, San Antonio, TX](https://jobs.sciencecareers.org/job/680141/assistant-professor-tenure-track/)  
+- 🇺🇸 [Assistant Professor — Plant Physiology, Texas Tech University, Lubbock, TX](https://jobs.sciencecareers.org/job/680112/assistant-professor-plant-physiology/)  
+- 🇨🇦 [Assistant Professor (tenure-track) — Global Health Engineering & Equitable Health Technologies (Canada Impact+ Emerging Leader), UBC Medicine / School of Biomedical Engineering, Vancouver](https://www.nature.com/naturecareers/job/12864604/assistant-professor-tenure-track/)  
 - 🇺🇸 [Chilcott Professor — Biochemistry and Cell Biology (tenure-track), Dartmouth College, Hanover, NH](https://www.nature.com/naturecareers/job/12864510/chilcott-professor-biochemistry-and-cell-biology-at-dartmouth-tenure-track/)  
 - 🇺🇸 [Tenure-track Assistant Professor — Biochemistry and Cell Biology, Duke University, Durham, NC](https://www.nature.com/naturecareers/job/12864519/tenure-track-assistant-professor/)  
 - 🇺🇸 [Assistant/Associate Professor — Genomics, University of Texas at Arlington, Arlington, TX](https://www.nature.com/naturecareers/job/12864553/assistant-associate-professor-genomics/)  
@@ -425,6 +434,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇸🇪 [Associate Professor — Biochemistry, Uppsala University, Uppsala](https://www.nature.com/naturecareers/job/12864591/associate-professor-in-biochemistry/)  
 - 🇸🇪 [Professor — Medical Bacteriology, Uppsala University, Uppsala](https://www.nature.com/naturecareers/job/12864412/professor-in-medical-bacteriology/)  
 - 🇦🇹 [Founding Principal Investigators / Cori Pairs — Research Center for Molecular Medicine (CeMM), Austrian Academy of Sciences, Vienna](https://www.nature.com/naturecareers/job/12864350/founding-principal-investigators-starting-pis-and-cori-pairs-all-genders-/)  
 - 🇩🇪 [Independent Group Leader — Epithelial Inflammation and Cancer, University of Marburg, Marburg](https://www.nature.com/naturecareers/job/12864277/independent-group-leader-for-epithelial-inflammation-and-cancer/)  
@@ -528,6 +538,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇨🇳 [Directors / Discipline Leaders recruitment — Shantou University Medical College, Shantou](https://jobs.sciencecareers.org/job/680124/directors-recruitment-announcement/)  
 - 🇹🇼 [Tenure-track Faculty — Institute of Biological Chemistry, Academia Sinica, Taipei](https://jobs.sciencecareers.org/job/680120/tenure-track-faculty-positions-at-institute-of-biological-chemistry-academia-sinica-taiwan/)  
 - 🇭🇰 [Assistant Professor(s) — neuroscience (Gerald Choa Neuroscience Institute), Chinese University of Hong Kong, Hong Kong](https://www.nature.com/naturecareers/job/12864534/assistant-professor-s-/)  
 - 🇮🇳 [Faculty — School of Biosciences, Chanakya University, India](https://www.nature.com/naturecareers/job/12864539/faculty-position-at-chanakya-university-school-of-biosciences/)  
@@ -1730,6 +1741,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇦🇺 [Postdoctoral Research Fellow / Research Fellow — Statistical Genomics, University of Queensland, Brisbane](https://jobs.sciencecareers.org/job/680144/postdoctoral-research-fellow-research-fellow-in-statistical-genomics/)  
 - 🇸🇬 [Senior Postdoc / Postdoc — Statisticians, Bioinformaticians or Computational Biologists, LSI Neurobiology Programme, National University of Singapore](https://www.nature.com/naturecareers/job/12864263/statisticians-bioinformaticians-or-computational-biologist-snr-postdoc-postdoc/)  
 - 🇨🇳 [Postdoctoral Fellow — Protein Nanowire Electronics for Wearable Sensors, Tsinghua University, Beijing](https://www.nature.com/naturecareers/job/12862862/postdoctoral-fellow-protein-nanowire-electronics-for-wearable-sensors-/)  
 - 🇦🇺 [Postdoctoral Research Associate — plant developmental biology, University of Sydney, Sydney](https://jobs.sciencecareers.org/job/678865/postdoctoral-research-associate/)  
