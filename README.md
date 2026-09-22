@@ -22,6 +22,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [In Residence / Ladder Faculty (Assistant / Associate / Full Professor) — Gladstone-UCSF Institute of Genomic Immunology, San Francisco, CA](https://aprecruit.ucsf.edu/JPF05958) · review begins 2026-10-09  
+- 🇺🇸 [Tenure-track Faculty (all ranks) — Computational Genetics, School of Biological Sciences / Center for Integrative Genomics, Georgia Tech, Atlanta, GA](https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=3000&JobOpeningId=303632&PostingSeq=1) · review begins 2026-11-01 · inquire: [searches@biosci.gatech.edu](mailto:searches@biosci.gatech.edu)  
 - 🇨🇦 [Assistant Professor (tenure-track) — AI-based Protein Modeling and Design, University of British Columbia, Vancouver](https://www.nature.com/naturecareers/job/12864741/assistant-professor-tenure-track-in-ai-based-protein-modeling-and-design/)  
 - 🇺🇸 [Open-rank Faculty — Aging and Technology, Indiana University Bloomington, Bloomington, IN](https://www.nature.com/naturecareers/job/12864744/open-rank-tenured-tenure-track-faculty-position-in-aging-and-technology-indiana-university-/)  
 - 🇺🇸 [Tenure-Track Faculty Positions — Institute for Medical Engineering and Science (IMES), MIT, Cambridge, MA](https://www.nature.com/naturecareers/job/12864749/tenure-track-faculty-positions/)  
