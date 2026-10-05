@@ -22,6 +22,72 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Tenure-track Assistant Professor — Neuroscience, University of Texas at Austin, Austin, TX](https://www.nature.com/naturecareers/job/12864853/tenure-track-assistant-professor-in-neuroscience/)  
+- 🇺🇸 [Assistant / Associate Professor — Cancer Immunology, Emory University Microbiology & Immunology, Atlanta, GA](https://www.nature.com/naturecareers/job/12864896/assistant-associate-professor-in-cancer-immunology/)  
+- 🇺🇸 [Assistant Professor (tenure-track) — Experimental Pathology, Children's Hospital of Philadelphia / University of Pennsylvania, Philadelphia, PA](https://www.nature.com/naturecareers/job/12864897/assistant-professor-tenure-track-division-of-experimental-pathology-children-s-hospital-of-phil/)  
+- 🇺🇸 [Open-rank Faculty — Microbiology, Immunology and Molecular Genetics, UCLA, Los Angeles, CA](https://www.nature.com/naturecareers/job/12864898/open-rank-faculty-position/)  
+- 🇺🇸 [Neonatology Faculty (clinician-scientist), UC Davis School of Medicine, Sacramento, CA](https://www.nature.com/naturecareers/job/12864901/neonatology-faculty-position-26-27/)  
+- 🇺🇸 [Assistant Professor — Computational Biophysics & Biochemistry, Yale University MB&B, New Haven, CT](https://www.nature.com/naturecareers/job/12864903/assistant-professor-in-computational-biophysics-and-biochemistry/)  
+- 🇺🇸 [Senior Faculty — Cancer Research (#537713), Virginia Tech, Washington, DC](https://www.nature.com/naturecareers/job/12864945/senior-faculty-position-in-cancer-research-537713/)  
+- 🇺🇸 [Senior Faculty — Cancer Research (#537724), Virginia Tech, Roanoke, VA](https://www.nature.com/naturecareers/job/12864946/senior-faculty-position-in-cancer-research-537724/)  
+- 🇨🇦 [Assistant Professor — Systems Neurophysiology, University of Toronto, Toronto](https://www.nature.com/naturecareers/job/12864951/assistant-professor-systems-neurophysiology/)  
+- 🇺🇸 [Faculty — Immunology Research, University of Florida Department of Medicine, Gainesville, FL](https://www.nature.com/naturecareers/job/12864953/faculty-position-in-immunology-research/)  
+- 🇺🇸 [Assistant / Associate Professor (tenure-track) — Systems Biology, Columbia University Irving Medical Center, New York, NY](https://www.nature.com/naturecareers/job/12864995/assistant-associate-professor/)  
+- 🇺🇸 [Tenure-track Assistant Professor — biomedicine, Vanderbilt University, Nashville, TN](https://www.nature.com/naturecareers/job/12865007/tenure-track-assistant-professor-faculty-position/)  
+- 🇺🇸 [Assistant Professor (tenure-track) — biomedicine, University of Texas at Austin, Austin, TX](https://www.nature.com/naturecareers/job/12865008/assistant-professor-tenure-track/)  
+- 🇺🇸 [Tenure-track Assistant or Tenured Associate Professor — RNA Science and Technology, Indiana University Bloomington, Bloomington, IN](https://www.nature.com/naturecareers/job/12865035/tenure-track-assistant-or-tenured-associate-professor-faculty-position-in-rna-science-and-technology/)  
+- 🇺🇸 [Faculty — Eukaryotic Gene Regulation, Penn State University, University Park, PA](https://www.nature.com/naturecareers/job/12865049/faculty-position-in-eukaryotic-gene-regulation/)  
+- 🇺🇸 [Assistant Professor (tenure-track) — Bioengineering, University of Washington, Seattle, WA](https://www.nature.com/naturecareers/job/12865050/assistant-professor-tenure-track-bioengineering/)  
+- 🇺🇸 [Endowed Faculty — Physical and Quantitative Biology, Stony Brook University, Stony Brook, NY](https://www.nature.com/naturecareers/job/12865107/endowed-faculty-position-in-physical-and-quantitative-biology/)  
+- 🇺🇸 [Open-rank Faculty (tenure-track/tenured) — Neurobiology, UCLA David Geffen School of Medicine, Los Angeles, CA](https://www.nature.com/naturecareers/job/12865114/ucla-department-of-neurobiology-open-rank-tenure-track-tenured-faculty-position/)  
+- 🇺🇸 [Tenure-track Assistant Professors — biomedical and health sciences (M-PACT), University of Michigan, Ann Arbor, MI](https://www.nature.com/naturecareers/job/12865146/faculty-jobs-in-biomedical-and-health-sciences-university-of-michigan-m-pact-/)  
+- 🇺🇸 [Assistant Professor — Pharmacology, University of Minnesota Medical School, Minneapolis, MN](https://www.nature.com/naturecareers/job/12865158/assistant-professor-pharmacology/)  
+- 🇺🇸 [Physician-Scientist, Assistant or Associate Professor — Yale Cancer Center, New Haven, CT](https://www.nature.com/naturecareers/job/12865162/physician-scientist-assistant-or-associate-professor-yale-cancer-center/)  
+- 🇺🇸 [Open-rank Professor (tenured/tenure-track) — Herman Ostrow School of Dentistry, University of Southern California, Los Angeles, CA](https://www.nature.com/naturecareers/job/12865169/associate-or-professor-tenured-tenure-track-open-rank/)  
+- 🇺🇸 [Faculty — Advanced Leukemia Therapies and Research Center, Cincinnati Children's, Cincinnati, OH](https://www.nature.com/naturecareers/job/12865216/faculty-positions-in-the-advanced-leukemia-therapies-and-research-center-jr152492/)  
+- 🇺🇸 [Assistant Professor — Human Genetics, University of Michigan, Ann Arbor, MI](https://www.nature.com/naturecareers/job/12865221/assistant-professor/) · apply by 2026-11-13 via [Interfolio](https://apply.interfolio.com/190644)  
+- 🇺🇸 [Assistant or Associate Professor — Cell Biology, University of Virginia, Charlottesville, VA](https://www.nature.com/naturecareers/job/12865253/assistant-or-associate-professor-of-cell-biology/)  
+- 🇺🇸 [Assistant Professor — Health, Resilience and Adaptation, Salk Institute for Biological Studies, La Jolla, CA](https://www.nature.com/naturecareers/job/12865257/assistant-professor-in-health-resilience-and-adaptation-at-the-salk-institute/)  
+- 🇺🇸 [Assistant Professor (tenure-track) — Biological Sciences, Columbia University, New York, NY](https://www.nature.com/naturecareers/job/12865284/tenure-track-assistant-professor-department-of-biological-sciences/)  
+- 🇺🇸 [Assistant Professor — Genetic Optimization and Trait Engineering for Potato Improvement, Cornell University, Ithaca, NY](https://www.nature.com/naturecareers/job/12865310/assistant-professor-genetic-optimization-and-trait-engineering-for-potato-improvement/)  
+- 🇺🇸 [Basic Sciences Faculty, Bezos Family Distinguished Scholar — Fred Hutchinson Cancer Center, Seattle, WA](https://www.nature.com/naturecareers/job/12865311/basic-sciences-faculty-position-bezos-family-distinguished-scholar/)  
+- 🇺🇸 [Tenure-track Faculty — Biomedical Engineering / Center for Advanced Genomic Technologies, Duke University, Durham, NC](https://jobs.sciencecareers.org/job/680288/tenure-track-faculty-position/)  
+- 🇺🇸 [Assistant Professor — Microbiology & Immunology, Midwestern University, Glendale, AZ](https://jobs.sciencecareers.org/job/680307/assistant-professor-az-microbiology-and-immunology/)  
+- 🇺🇸 [Assistant Professor — Biochemistry & Molecular Biology, University of New Mexico, Albuquerque, NM](https://jobs.sciencecareers.org/job/680308/assistant-professor-of-biochemistry-and-molecular-biology/)  
+- 🇺🇸 [Assistant Professor — Cell and Regenerative Biology, University of Wisconsin–Madison, Madison, WI](https://jobs.sciencecareers.org/job/680309/assistant-professor/)  
+- 🇺🇸 [Faculty — Neuronal Cell Biology and Cryo-ET/vEM, St. Jude Children's Research Hospital, Memphis, TN](https://jobs.sciencecareers.org/job/680317/faculty-position-neuronal-cell-biology-and-cryo-et-vem/)  
+- 🇺🇸 [Assistant / Associate Professor — Integrative Shellfish Biology, UT Austin Marine Science Institute, Port Aransas, TX](https://jobs.sciencecareers.org/job/680322/faculty-assistant-associate-professor-in-integrative-shellfish-biology/)  
+- 🇺🇸 [Professor and Head — Department of Biochemistry and Biophysics, Texas A&M University, College Station, TX](https://jobs.sciencecareers.org/job/680341/professor-and-head-of-the-department-of-biochemistry-and-biophysics/)  
+- 🇺🇸 [Tenure-track Assistant or Associate Professor — Evolutionary Biology, University of Houston, Houston, TX](https://jobs.sciencecareers.org/job/680354/tenure-track-assistant-or-associate-professor-evolutionary-biology/)  
+- 🇺🇸 [Assistant Professor (tenure-track) — Neurobiology, Tufts University, Medford, MA](https://jobs.sciencecareers.org/job/680360/assistant-professor-in-neurobiology-tenure-track-/)  
+- 🇺🇸 [Assistant Professor (tenure-track) — Biochemistry, Molecular Biosciences, University of Texas at Austin, Austin, TX](https://jobs.sciencecareers.org/job/680364/assistant-professor/)  
+- 🇺🇸 [Open-rank Faculty (tenured/tenure-track) — Cellular and Molecular Medicine, FIU Herbert Wertheim College of Medicine, Miami, FL](https://jobs.sciencecareers.org/job/680370/tenured-tenure-track-faculty-position-open-rank-department-of-cellular-and-molecular-medicine/)  
+- 🇨🇦 [Assistant Professor (Canada Impact+ Emerging Leader) — Translational Quantitative Biomedical Imaging, UBC Pharmaceutical Sciences, Vancouver](https://jobs.sciencecareers.org/job/680371/canada-impact-emerging-leader-in-translational-quantitative-biomedical-imaging-assistant-professor/)  
+- 🇺🇸 [Tenure-track Assistant Professor — Biology, University of Pennsylvania, Philadelphia, PA](https://jobs.sciencecareers.org/job/680382/tenure-track-assistant-professor-of-biology/)  
+- 🇺🇸 [Tenure-track Assistant or Associate Professors (×2, research-focused), NYU College of Dentistry, New York, NY](https://jobs.sciencecareers.org/job/680386/tenure-track-faculty-positions/)  
+- 🇺🇸 [Physician-Scientist and Medical Director — Center for Healthy Aging, Oklahoma Medical Research Foundation, Oklahoma City, OK](https://jobs.sciencecareers.org/job/680390/physician-scientist-and-medical-director-omrf-center-for-healthy-aging/)  
+- 🇺🇸 [Assistant Professor — Pharmacology (chemical biology), Weill Cornell Medicine, New York, NY](https://jobs.sciencecareers.org/job/680391/assistant-professor-department-of-pharmacology-weill-cornell-medicine-/)  
+- 🇺🇸 [Physician-Scientist / Scientist — Immunology & Rheumatology, Stanford University, Stanford, CA](https://jobs.sciencecareers.org/job/680394/immunology-and-rheumatology-physician-scientist-scientist-search/)  
+- 🇺🇸 [Faculty — Cancer Immunology, Mayo Clinic, Phoenix, AZ](https://jobs.sciencecareers.org/job/680398/faculty-position-in-cancer-immunology/)  
+- 🇨🇦 [Assistant Professor (Canada Impact+ Emerging Leaders), McGill University, Sainte-Anne-de-Bellevue, QC](https://jobs.sciencecareers.org/job/680410/canada-impact-emerging-leaders/)  
+- 🇺🇸 [Professor — Medicinal Chemistry and Pharmacognosy, The Ohio State University, Columbus, OH](https://jobs.sciencecareers.org/job/680417/professor-of-medicinal-chemistry-and-pharmacognosy/)  
+- 🇨🇦 [Assistant Professor — Biological Engineering, University of Toronto Chemical Engineering, Toronto](https://jobs.sciencecareers.org/job/680418/assistant-professor-biological-engineering/)  
+- 🇺🇸 [Assistant Professor — Biochemistry, Montana State University, Bozeman, MT](https://jobs.sciencecareers.org/job/680424/assistant-professor-of-biochemistry/)  
+- 🇺🇸 [Assistant Professors (×2) — Molecular, Cell & Developmental Biology, UNC Chapel Hill, Chapel Hill, NC](https://jobs.sciencecareers.org/job/680433/assistant-professor-molecular-cell-developmental-biology-/)  
+- 🇺🇸 [Assistant Professor — Biotechnology-focused research, University of Nevada, Reno, NV](https://jobs.sciencecareers.org/job/680452/assistant-professor-biotechnology-focused-research/)  
+- 🇺🇸 [Faculty — Biomolecular Engineering, Bioengineering and Therapeutic Sciences, UCSF, San Francisco, CA](https://jobs.sciencecareers.org/job/680457/bts-biomolecular-engineering-faculty-recruitment/)  
+- 🇺🇸 [Assistant Professors (×2, tenure-track) — Behavioral and Integrative Neuroscience, UNC Chapel Hill, Chapel Hill, NC](https://jobs.sciencecareers.org/job/680463/assistant-professor/) · closes 2026-10-30  
+- 🇺🇸 [Tenure-track Faculty — biomedical sciences, University of Arkansas for Medical Sciences, Little Rock, AR](https://jobs.sciencecareers.org/job/680481/tenure-track-faculty-positions/)  
+- 🇺🇸 [Assistant Professor — Neuroscience, Zuckerman Mind Brain Behavior Institute, Columbia University, New York, NY](https://jobs.sciencecareers.org/job/680483/assistant-professor-of-neuroscience-in-the-mortimer-b-zuckerman-mind-brain-behavior-institute-/)  
+- 🇺🇸 [Tenure-track Assistant Professor — Plant Sciences, Purdue University, West Lafayette, IN](https://jobs.sciencecareers.org/job/680484/tenure-track-assistant-professor-in-plant-sciences/)  
+- 🇺🇸 [Assistant Professor — Tropical Medicine, University of Hawaiʻi John A. Burns School of Medicine, Honolulu, HI](https://jobs.sciencecareers.org/job/680485/assistant-professor-in-tropical-medicine/)  
+- 🇺🇸 [Faculty — Cancer Epigenetics Institute / Nuclear Dynamics and Cancer Program, Fox Chase Cancer Center, Philadelphia, PA](https://jobs.sciencecareers.org/job/680492/faculty-cancer-epigenetics-institute-and-nuclear-dynamics-and-cancer-program/)  
+- 🇺🇸 [Assistant Professor — Evolutionary Biology, University of Nevada, Reno, NV](https://jobs.sciencecareers.org/job/680500/assistant-professor-evolutionary-biology/)  
+- 🇺🇸 [Assistant / Associate Professor — Cancer Biology, University of North Texas, Denton, TX](https://jobs.sciencecareers.org/job/680504/associate-assistant-professor-of-cancer-biology/)  
+- 🇺🇸 [Assistant Professor — Biophysics, Boise State University, Boise, ID](https://jobs.sciencecareers.org/job/680526/assistant-professor-biophysics/)  
+- 🇨🇦 [Assistant Professor (tenure-track) — Biosensing, McGill University Faculty of Medicine and Health Sciences, Montréal](https://jobs.sciencecareers.org/job/680529/assistant-professor-tenure-track-in-biosensing/)  
+- 🇺🇸 [Assistant / Associate Professor — Chemical and Biological Engineering, Northwestern University, Evanston, IL](https://jobs.sciencecareers.org/job/680533/full-time-assistant-associate-professor-chemical-and-biological-engineering/)  
+- 🇺🇸 [Tenure-track Assistant Professor — Institute for Behavioral Genetics, University of Colorado Boulder, Boulder, CO](https://jobs.sciencecareers.org/job/680534/tenure-track-assistant-professor-institute-for-behavioral-genetics-university-of-colorado-boulder/)  
 - 🇺🇸 [In Residence / Ladder Faculty (Assistant / Associate / Full Professor) — Gladstone-UCSF Institute of Genomic Immunology, San Francisco, CA](https://aprecruit.ucsf.edu/JPF05958) · review begins 2026-10-09  
 - 🇺🇸 [Tenure-track Faculty (all ranks) — Computational Genetics, School of Biological Sciences / Center for Integrative Genomics, Georgia Tech, Atlanta, GA](https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=3000&JobOpeningId=303632&PostingSeq=1) · review begins 2026-11-01 · inquire: [searches@biosci.gatech.edu](mailto:searches@biosci.gatech.edu)  
 - 🇨🇦 [Assistant Professor (tenure-track) — AI-based Protein Modeling and Design, University of British Columbia, Vancouver](https://www.nature.com/naturecareers/job/12864741/assistant-professor-tenure-track-in-ai-based-protein-modeling-and-design/)  
@@ -471,6 +537,11 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇫🇷 [Interdisciplinary Group Leader — Chemistry of Biological Systems, Université Côte d'Azur, Nice](https://www.nature.com/naturecareers/job/12865042/call-for-an-interdisciplinary-group-leader-in-chemistry-of-biological-systems/)  
+- 🇫🇮 [Tenure-track Assistant / Associate Professors (×3) — Life Science, HiLIFE, University of Helsinki, Helsinki](https://www.nature.com/naturecareers/job/12865237/three-tenure-track-assistant-associate-professors-in-life-science-hilife/)  
+- 🇩🇪 [Junior Professor (W1, tenure track to W2) — Cellular Membrane Biology, Osnabrück University, Osnabrück](https://www.nature.com/naturecareers/job/12865246/juniorprofessur-w1-mit-tenure-track-auf-w2-fuer-zellulaere-membran-biologie/)  
+- 🇨🇭 [Assistant (tenure-track) or Associate Professor — Pharmaceutical Technology and Biopharmacy, University of Geneva, Geneva](https://www.nature.com/naturecareers/job/12865287/assistant-tenure-track-or-associate-professor-in-pharmaceutical-technology-and-biopharmacy/)  
+- 🇸🇪 [Associate Senior Lecturer (SciLifeLab Fellow) — Antimicrobial Resistance, SciLifeLab / Uppsala University, Uppsala](https://jobs.sciencecareers.org/job/680511/associate-senior-lecturer-scilifelab-fellow-in-antimicrobial-resistance/)  
 - 🇩🇪 [Professorship — Predicting and Understanding Disease Resolution and Remission, Charité – Universitätsmedizin Berlin, Berlin](https://www.nature.com/naturecareers/job/12864844/professorship-in-predicting-and-understanding-disease-resolution-and-remission-/)  
 - 🇱🇺 [Associate Professor or Assistant Professor — Clinical Microbiology, University of Luxembourg, Luxembourg](https://jobs.sciencecareers.org/job/680267/associate-professor-or-assistant-professor-in-clinical-microbiology/)  
 - 🇩🇪 [Deputy Head of Institute — BSL-4 zoonotic / emerging infectious pathogens, Friedrich-Loeffler-Institut (FLI), Greifswald](https://www.nature.com/naturecareers/job/12864679/deputy-head-of-institute-m-f-d-/)  
@@ -578,6 +649,11 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇨🇳 [Talent recruitment — College of Artificial Intelligence, Huazhong Agricultural University (HZAU), Wuhan](https://www.nature.com/naturecareers/job/12864821/talent-recruitment-announcement-at-the-college-of-artificial-intelligence/)  
+- 🇹🇼 [Junior Research Fellow — Independent Group Leader, Institute of Molecular Biology, Academia Sinica, Taipei](https://www.nature.com/naturecareers/job/12864926/junior-research-fellow-independent-group-leader/)  
+- 🇨🇳 [Principal Investigators — Neuroscience, Chinese Institute for Brain Research (CIBR), Beijing](https://www.nature.com/naturecareers/job/12864966/principal-investigators-in-neuroscience/)  
+- 🇱🇧 [Assistant / Associate / Full Professor — Medical Laboratory Sciences, American University of Beirut, Beirut](https://www.nature.com/naturecareers/job/12865019/assistant-associate-or-full-professor-medical-laboratory-sciences-program/)  
+- 🇭🇰 [Tenure-track Assistant / Associate Professor / Professor — biomedicine, The University of Hong Kong](https://www.nature.com/naturecareers/job/12865262/tenure-track-professor-associate-professor-assistant-professor/) · closes 2027-01-03  
 - 🇨🇳 [Directors / Discipline Leaders recruitment — Shantou University Medical College, Shantou](https://jobs.sciencecareers.org/job/680124/directors-recruitment-announcement/)  
 - 🇹🇼 [Tenure-track Faculty — Institute of Biological Chemistry, Academia Sinica, Taipei](https://jobs.sciencecareers.org/job/680120/tenure-track-faculty-positions-at-institute-of-biological-chemistry-academia-sinica-taiwan/)  
 - 🇭🇰 [Assistant Professor(s) — neuroscience (Gerald Choa Neuroscience Institute), Chinese University of Hong Kong, Hong Kong](https://www.nature.com/naturecareers/job/12864534/assistant-professor-s-/)  
@@ -704,6 +780,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Researcher — Influenza Aerosol and Transmission Biology, University of Missouri, Columbia, MO](https://jobs.sciencecareers.org/job/680331/researcher-in-influenza-aerosol-and-transmission-biology/)  
 - 🇺🇸 [ML Researcher — experiment recommendation / molecular ML (mZero), Emeryville, CA](https://jobs.sciencecareers.org/job/680019/ml-researcher/)  
 - 🇨🇦 [Cell and Systems Aquatics Biologist — University of Manitoba, Winnipeg](https://jobs.sciencecareers.org/job/679981/cell-and-systems-aquatics-biologist/)  
 - 🇺🇸 [Scientific Director — Coalition to Cure CHD2 (CCC); CHD2 molecular medicines / ASO strategy (US remote)](./files/CCC_Scientific_Director_Coalition_to_Cure_CHD2.pdf) · apply: [laura@curechd2.org](mailto:laura@curechd2.org)  
@@ -1414,6 +1491,14 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Bioinformatician — Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://www.nature.com/naturecareers/job/12865074/bioinformatician-plant-biology-institute/)  
+- 🇮🇹 [AI Scientist — Human Technopole, Milan](https://www.nature.com/naturecareers/job/12865208/ai-scientist/)  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Bioinformatician — Pathogen Programme, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680395/bioinformatician-pathogen/)  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Bioinformatics Engineer — Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680396/bioinformatics-engineer/)  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Scientist — Photosynthesis Assay Development, Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680402/scientist-photosynthesis-assay-development-plant-biology-institute/)  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Scientist — Advanced Genome Technologies, Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680487/scientist-advanced-genome-technologies-plant-biology-institute/)  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [AI & Automation Lead for Plant Transformation — Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680541/ai-and-automation-lead-for-plant-transformation-plant-biology-institute/)  
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Controlled Environment Lead — Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680543/controlled-environment-lead-plant-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Senior Software Engineer — Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680259/senior-software-engineer/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Team Coordinator (12-month fixed term) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680260/team-coordinator-12-month-fixed-term-contract/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Team Coordinator — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680170/team-coordinator-generative-biology-institute/)  
@@ -1555,6 +1640,13 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Postdoctoral Scholar — biochemistry / cell biology / genetics, University of Iowa, Iowa City, IA](https://jobs.sciencecareers.org/job/680388/postdoctoral-scholar/) · closes 2026-11-24  
+- 🇺🇸 [Postdoctoral and Predoctoral Fellows — biomedical sciences, University of Illinois Chicago, Chicago, IL](https://jobs.sciencecareers.org/job/680426/postdoctoral-and-predoctoral-fellow-positions/)  
+- 🇺🇸 [Postdoctoral Scientist — Gene Therapy / Neuromuscular Disease, Nationwide Children's Hospital, Columbus, OH](https://jobs.sciencecareers.org/job/680432/postdoctoral-scientist-gene-therapy-neuromuscular-disease/)  
+- 🇺🇸 [Postdoctoral Research Associate — Texas A&M University College of Pharmacy, College Station, TX](https://jobs.sciencecareers.org/job/680451/postdoctoral-research-associate-/)  
+- 🇺🇸 [Postdoctoral Fellow — Nuclear Organization and Gene Regulation, NYU Langone Health, New York, NY](https://jobs.sciencecareers.org/job/680502/postdoctoral-fellow-nuclear-organization-and-gene-regulation/)  
+- 🇺🇸 [Postdoctoral Associate — Bioinformatics, Baylor College of Medicine, Houston, TX](https://jobs.sciencecareers.org/job/680547/postdoctoral-associate-bioinformatics/)  
+- 🇺🇸 [Postdoctoral Associate — Cancer Bioinformatics, Biostatistics and Multi-Omics, Baylor College of Medicine, Houston, TX](https://jobs.sciencecareers.org/job/680552/postdoctoral-associate-cancer-bioinformatics-biostatistics-and-multi-omics/)  
 - 🇨🇦 [Postdoctoral Researcher — Schmidt AI in Science Fellow, University of Toronto Faculty of Arts and Science, Toronto](https://jobs.sciencecareers.org/job/679321/postdoctoral-researcher-schmidt-ai-in-science-fellow/)  
 - 🇺🇸 [Research Postdoctoral Fellow — Sgourakis Lab, Children's Hospital of Philadelphia, Philadelphia, PA](https://jobs.sciencecareers.org/job/680251/research-postdoctoral-fellow-sgourakis-lab/)  
 - 🇺🇸 [Postdoctoral Positions — T-Cell Immunology, University of Maryland School of Medicine, Baltimore, MD](https://jobs.sciencecareers.org/job/680262/postdoctoral-positions-in-t-cell-immunology/)  
@@ -1986,6 +2078,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Chief Executive Officer — Gloucester Marine Genomics Institute, Gloucester, MA](https://jobs.sciencecareers.org/job/680439/chief-executive-officer/)  
+- 🇺🇸 [College-level summer teaching — Summer Science Program (SSP International), various US host campuses](https://jobs.sciencecareers.org/job/680503/college-level-summer-teaching-opportunity-with-sspi-s-summer-science-program/)  
 - 🇺🇸 [Full-Time Senior Lecturer — Neuroscience, Vanderbilt University, Nashville, TN](https://www.nature.com/naturecareers/job/12864743/full-time-senior-lecturer-in-neuroscience-/)  
 - 🇺🇸 [Assistant Professor of Practice — Biotechnology and Genomics, Texas Tech University, Lubbock, TX](https://jobs.sciencecareers.org/job/680275/assistant-professor-of-practice-in-biotechnology-and-genomics/)  
 - 🇺🇸 [Instructor — School of Neuroscience (undergraduate teaching), Virginia Tech, Blacksburg, VA](https://jobs.sciencecareers.org/job/680058/instructor-school-of-neuroscience/)  
@@ -2020,6 +2114,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <!-- <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Selection Administrator — Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680542/selection-administrator/)  
 </details> -->
 
 <!-- <details>
