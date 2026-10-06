@@ -26,7 +26,7 @@ Copy and track:
 - [ ] 1. List inbox `*.txt`
 - [ ] 2. Extract unique Nature / Science Careers job IDs + clean URLs
 - [ ] 3. Drop IDs already in README.md
-- [ ] 4. Skip near-duplicates (same role mirrored on the other board, or newer SC/Nature ID for a role already listed)
+- [ ] 4. Resolve duplicates: one bullet per job, holding the most up-to-date official info (see Dedup)
 - [ ] 5. Fetch title / org / location / country for remaining jobs
 - [ ] 6. Categorize → section + region; insert at **top** of each regional list
 - [ ] 7. Delete processed inbox `*.txt`
@@ -46,13 +46,14 @@ Ignore logos, search, unsubscribe, beacons. Prefer clean URLs without TrackID qu
 
 **Skip if** the job ID is already in `README.md`.
 
-**Also skip near-duplicates**, e.g.:
+**One bullet per job.** When postings are identical in essence (same employer, same role, same lab/department/division, same rank and focus), keep exactly one bullet holding the most up-to-date official information:
 
-- Same role on Nature and Science Careers (keep whichever is already listed, or pick one Nature/SC URL)
-- Newer board ID for an identical title already listed (e.g. Ohio Eminent Scholar Nature + SC mirror)
-- Off-scope alerts (non-bio: aerosol modelling, pure organic chemistry, pure math/info unless clearly life-science)
+- **Newer posting of a job already listed** (re-post with a new Nature/SC/EIT ID): replace the old bullet — swap in the newer link and refresh details (title wording, deadline, contact) — and move it to the top of its regional list. Do not leave the old bullet behind.
+- **Same job on several sources at once** (Nature + Science Careers mirror): keep one bullet. Prefer the employer's official portal when known; otherwise the Nature or SC link.
+- **Never downgrade:** if the existing bullet links to the employer's portal or carries details the new alert lacks (inquiry contact, review date, flyer in `files/`), keep those and only update what is genuinely newer.
+- **Not duplicates:** different labs, divisions, ranks, focus areas, cities, or explicitly separate searches (e.g. two Virginia Tech senior cancer posts with different requisition numbers; Fred Hutch Bezos Scholar in Basic Sciences vs Precision Oncology). Keep both.
 
-**Do add** newer EIT / Greenhouse-style IDs when the list historically keeps distinct posting IDs for the same lab/role family (e.g. new GBI postdoc ID).
+**Skip** off-scope alerts (non-bio: aerosol modelling, pure organic chemistry, pure math/info unless clearly life-science), internal-only postings, and non-research clinical/nursing programs.
 
 ### Categorize
 
