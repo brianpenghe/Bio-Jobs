@@ -22,6 +22,12 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Faculty, Bezos Family Distinguished Scholar — Precision Oncology (Human Biology Division), Fred Hutchinson Cancer Center, Seattle, WA](https://jobs.sciencecareers.org/job/680537/faculty-position-bezos-family-distinguished-scholar-in-precision-oncology/) · closes 2026-12-01  
+- 🇺🇸 [Assistant / Associate / Full Professor — Cell and Biological Systems, Penn State College of Medicine, Hershey, PA](https://jobs.sciencecareers.org/job/680538/assistant-associate-full-professor-cell-and-biological-systems/) · closes 2026-11-02  
+- 🇺🇸 [Tenure-track Assistant Professor — Microbiology / Virology / Genetics, Wichita State University, Wichita, KS](https://jobs.sciencecareers.org/job/680577/tenure-track-assistant-professor/) · closes 2026-10-26  
+- 🇺🇸 [Principal Investigator / Faculty (Assistant, Associate or Professor; soft-money), San Diego Biomedical Research Institute, San Diego, CA](https://www.nature.com/naturecareers/job/12865328/principal-investigator-faculty-assistant-associate-or-professor-/) · closes 2026-12-04  
+- 🇺🇸 [Tenure-track Faculty — Neuroscience, Northwestern University Feinberg School of Medicine, Chicago, IL](https://www.nature.com/naturecareers/job/12865365/tenure-track-faculty-position-in-neuroscience/) · closes 2026-12-04  
+- 🇺🇸 [Assistant Professor (tenure-track) — Chemistry for Sustainable/Healthy Foods, Department of Food Science, Cornell University, Ithaca, NY](https://www.nature.com/naturecareers/job/12865292/assistant-professor-chemistry-for-sustainable-healthy-foods-/) · closes 2026-12-01  
 - 🇺🇸 [Tenure-track Assistant Professor — Neuroscience, University of Texas at Austin, Austin, TX](https://www.nature.com/naturecareers/job/12864853/tenure-track-assistant-professor-in-neuroscience/)  
 - 🇺🇸 [Assistant / Associate Professor — Cancer Immunology, Emory University Microbiology & Immunology, Atlanta, GA](https://www.nature.com/naturecareers/job/12864896/assistant-associate-professor-in-cancer-immunology/)  
 - 🇺🇸 [Assistant Professor (tenure-track) — Experimental Pathology, Children's Hospital of Philadelphia / University of Pennsylvania, Philadelphia, PA](https://www.nature.com/naturecareers/job/12864897/assistant-professor-tenure-track-division-of-experimental-pathology-children-s-hospital-of-phil/)  
@@ -537,6 +543,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇩🇰 [Professor or Associate Professor and Research Group Leader — molecular mechanisms of diabetes, Biotech Research and Innovation Centre (BRIC), University of Copenhagen, Copenhagen](https://www.nature.com/naturecareers/job/12865336/professor-or-asso-prof-and-research-group-leader-with-focus-on-molecular-mechanisms-of-diabetes/) · closes 2026-11-15  
 - 🇫🇷 [Interdisciplinary Group Leader — Chemistry of Biological Systems, Université Côte d'Azur, Nice](https://www.nature.com/naturecareers/job/12865042/call-for-an-interdisciplinary-group-leader-in-chemistry-of-biological-systems/)  
 - 🇫🇮 [Tenure-track Assistant / Associate Professors (×3) — Life Science, HiLIFE, University of Helsinki, Helsinki](https://www.nature.com/naturecareers/job/12865237/three-tenure-track-assistant-associate-professors-in-life-science-hilife/)  
 - 🇩🇪 [Junior Professor (W1, tenure track to W2) — Cellular Membrane Biology, Osnabrück University, Osnabrück](https://www.nature.com/naturecareers/job/12865246/juniorprofessur-w1-mit-tenure-track-auf-w2-fuer-zellulaere-membran-biologie/)  
@@ -1640,6 +1647,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Postdoctoral Associate — small-molecule therapeutics in neurological disease models, University of Minnesota Center for Drug Design, Minneapolis, MN](https://jobs.sciencecareers.org/job/680574/post-doctoral-associate/) · closes 2026-11-04  
 - 🇺🇸 [Postdoctoral Scholar — biochemistry / cell biology / genetics, University of Iowa, Iowa City, IA](https://jobs.sciencecareers.org/job/680388/postdoctoral-scholar/) · closes 2026-11-24  
 - 🇺🇸 [Postdoctoral and Predoctoral Fellows — biomedical sciences, University of Illinois Chicago, Chicago, IL](https://jobs.sciencecareers.org/job/680426/postdoctoral-and-predoctoral-fellow-positions/)  
 - 🇺🇸 [Postdoctoral Scientist — Gene Therapy / Neuromuscular Disease, Nationwide Children's Hospital, Columbus, OH](https://jobs.sciencecareers.org/job/680432/postdoctoral-scientist-gene-therapy-neuromuscular-disease/)  
