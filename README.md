@@ -22,6 +22,15 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Assistant or Associate Professor — Cell Biology, University of Virginia School of Medicine, Charlottesville, VA](https://www.nature.com/naturecareers/job/12865473/assistant-or-associate-professor-of-cell-biology/) · rolling review until 2026-12-31 via [Interfolio](http://apply.interfolio.com/191024) · closes 2027-01-05  
+- 🇺🇸 [Assistant/Associate Professor — Fundamental Neuroscience (Neurology, School of Medicine), UC Davis Health, Davis, CA](https://www.nature.com/naturecareers/job/12865477/cns-asst-assoc-professor-som-neurology-fundamental-neuroscience/) · full consideration by 2026-12-01  
+- 🇺🇸 [Open-rank Faculty — Theoretical Biology, Vanderbilt University Department of Biological Sciences, Nashville, TN](https://www.nature.com/naturecareers/job/12865410/open-rank-faculty-position-in-theoretical-biology/) · full consideration by 2026-11-06  
+- 🇺🇸 [Tenure-track Assistant Professor — Cancer Biology, Department of Oncological Sciences, Huntsman Cancer Institute / University of Utah, Salt Lake City, UT](https://www.nature.com/naturecareers/job/12865408/faculty-position-in-cancer-biology-department-of-oncological-sciences/) · apply by 2026-11-30  
+- 🇺🇸 [Faculty (Open Rank and Assistant Professor) — Genome Sciences, University of Washington School of Medicine, Seattle, WA](https://jobs.sciencecareers.org/job/680583/faculty-positions-in-genome-sciences-open-rank-and-assistant-professor-/) · full consideration by 2026-12-04  
+- 🇺🇸 [Tenure-track Assistant Professor — Bioorganic Chemistry / Chemical Biology, NYU Arts & Science, New York, NY](https://jobs.sciencecareers.org/job/680599/professor-assistant-professor-/) · closes 2026-10-31 via [Interfolio](https://apply.interfolio.com/194458)  
+- 🇺🇸 [Assistant Professor — Computational Biology (genetics & genomics), Johns Hopkins University Department of Biology, Baltimore, MD](https://jobs.sciencecareers.org/job/680595/assistant-professor-in-computational-biology/) · apply by 2026-11-08 via [Interfolio](https://apply.interfolio.com/194924)  
+- 🇺🇸 [Tenure-track Assistant Professor — Vector Biology & One Health, Oklahoma Biological Survey & Biological Sciences, University of Oklahoma, Norman, OK](https://jobs.sciencecareers.org/job/680590/asst-professor-oklahoma-biological-survey-and-biological-sciences-vector-biology-and-one-health-tt-/) · apply via [Interfolio](https://apply.interfolio.com/193462) · closes 2026-11-05  
+- 🇺🇸 [Senior Faculty — Cancer Research (#537724), Fralin Biomedical Research Institute, Virginia Tech, Roanoke, VA](https://jobs.sciencecareers.org/job/680291/senior-faculty-position-in-cancer-research-537724/) · closes 2026-10-22  
 - 🇺🇸 [Faculty, Bezos Family Distinguished Scholar — Precision Oncology (Human Biology Division), Fred Hutchinson Cancer Center, Seattle, WA](https://jobs.sciencecareers.org/job/680537/faculty-position-bezos-family-distinguished-scholar-in-precision-oncology/) · closes 2026-12-01  
 - 🇺🇸 [Assistant / Associate / Full Professor — Cell and Biological Systems, Penn State College of Medicine, Hershey, PA](https://jobs.sciencecareers.org/job/680538/assistant-associate-full-professor-cell-and-biological-systems/) · closes 2026-11-02  
 - 🇺🇸 [Tenure-track Assistant Professor — Microbiology / Virology / Genetics, Wichita State University, Wichita, KS](https://jobs.sciencecareers.org/job/680577/tenure-track-assistant-professor/) · closes 2026-10-26  
@@ -35,7 +44,6 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🇺🇸 [Neonatology Faculty (clinician-scientist), UC Davis School of Medicine, Sacramento, CA](https://www.nature.com/naturecareers/job/12864901/neonatology-faculty-position-26-27/)  
 - 🇺🇸 [Assistant Professor — Computational Biophysics & Biochemistry, Yale University MB&B, New Haven, CT](https://www.nature.com/naturecareers/job/12864903/assistant-professor-in-computational-biophysics-and-biochemistry/)  
 - 🇺🇸 [Senior Faculty — Cancer Research (#537713), Virginia Tech, Washington, DC](https://www.nature.com/naturecareers/job/12864945/senior-faculty-position-in-cancer-research-537713/)  
-- 🇺🇸 [Senior Faculty — Cancer Research (#537724), Virginia Tech, Roanoke, VA](https://www.nature.com/naturecareers/job/12864946/senior-faculty-position-in-cancer-research-537724/)  
 - 🇨🇦 [Assistant Professor — Systems Neurophysiology, University of Toronto, Toronto](https://www.nature.com/naturecareers/job/12864951/assistant-professor-systems-neurophysiology/)  
 - 🇺🇸 [Faculty — Immunology Research, University of Florida Department of Medicine, Gainesville, FL](https://www.nature.com/naturecareers/job/12864953/faculty-position-in-immunology-research/)  
 - 🇺🇸 [Assistant / Associate Professor (tenure-track) — Systems Biology, Columbia University Irving Medical Center, New York, NY](https://www.nature.com/naturecareers/job/12864995/assistant-associate-professor/)  
@@ -52,7 +60,6 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🇺🇸 [Open-rank Professor (tenured/tenure-track) — Herman Ostrow School of Dentistry, University of Southern California, Los Angeles, CA](https://www.nature.com/naturecareers/job/12865169/associate-or-professor-tenured-tenure-track-open-rank/)  
 - 🇺🇸 [Faculty — Advanced Leukemia Therapies and Research Center, Cincinnati Children's, Cincinnati, OH](https://www.nature.com/naturecareers/job/12865216/faculty-positions-in-the-advanced-leukemia-therapies-and-research-center-jr152492/)  
 - 🇺🇸 [Assistant Professor — Human Genetics, University of Michigan, Ann Arbor, MI](https://www.nature.com/naturecareers/job/12865221/assistant-professor/) · apply by 2026-11-13 via [Interfolio](https://apply.interfolio.com/190644)  
-- 🇺🇸 [Assistant or Associate Professor — Cell Biology, University of Virginia, Charlottesville, VA](https://www.nature.com/naturecareers/job/12865253/assistant-or-associate-professor-of-cell-biology/)  
 - 🇺🇸 [Assistant Professor — Health, Resilience and Adaptation, Salk Institute for Biological Studies, La Jolla, CA](https://www.nature.com/naturecareers/job/12865257/assistant-professor-in-health-resilience-and-adaptation-at-the-salk-institute/)  
 - 🇺🇸 [Assistant Professor (tenure-track) — Biological Sciences, Columbia University, New York, NY](https://www.nature.com/naturecareers/job/12865284/tenure-track-assistant-professor-department-of-biological-sciences/)  
 - 🇺🇸 [Assistant Professor — Genetic Optimization and Trait Engineering for Potato Improvement, Cornell University, Ithaca, NY](https://www.nature.com/naturecareers/job/12865310/assistant-professor-genetic-optimization-and-trait-engineering-for-potato-improvement/)  
@@ -542,6 +549,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🇩🇰 [Assistant Professor — plant-microbe interactions (barley genome & root microbiome), Department of Agroecology, Aarhus University, Aarhus](https://www.nature.com/naturecareers/job/12865433/assistant-professor-in-plant-microbe-interactions/) · closes 2026-11-05  
 - 🇩🇰 [Professor or Associate Professor and Research Group Leader — molecular mechanisms of diabetes, Biotech Research and Innovation Centre (BRIC), University of Copenhagen, Copenhagen](https://www.nature.com/naturecareers/job/12865336/professor-or-asso-prof-and-research-group-leader-with-focus-on-molecular-mechanisms-of-diabetes/) · closes 2026-11-15  
 - 🇫🇷 [Interdisciplinary Group Leader — Chemistry of Biological Systems, Université Côte d'Azur, Nice](https://www.nature.com/naturecareers/job/12865042/call-for-an-interdisciplinary-group-leader-in-chemistry-of-biological-systems/)  
 - 🇫🇮 [Tenure-track Assistant / Associate Professors (×3) — Life Science, HiLIFE, University of Helsinki, Helsinki](https://www.nature.com/naturecareers/job/12865237/three-tenure-track-assistant-associate-professors-in-life-science-hilife/)  
@@ -652,6 +660,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌏 Asia & Oceania</summary>
 
+- 🇯🇵 [Professor — quantitative biosciences, Institute for Quantitative Biosciences, University of Tokyo, Tokyo, Japan](https://www.nature.com/naturecareers/job/12865329/professor-in-quantitative-biosciences-at-the-university-of-tokyo/) · closes 2026-11-05  
 - 🇨🇳 [Talent recruitment — College of Artificial Intelligence, Huazhong Agricultural University (HZAU), Wuhan](https://www.nature.com/naturecareers/job/12864821/talent-recruitment-announcement-at-the-college-of-artificial-intelligence/)  
 - 🇹🇼 [Junior Research Fellow — Independent Group Leader, Institute of Molecular Biology, Academia Sinica, Taipei](https://www.nature.com/naturecareers/job/12864926/junior-research-fellow-independent-group-leader/)  
 - 🇨🇳 [Principal Investigators — Neuroscience, Chinese Institute for Brain Research (CIBR), Beijing](https://www.nature.com/naturecareers/job/12864966/principal-investigators-in-neuroscience/)  
@@ -694,7 +703,6 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🇹🇼 [Director — Institute of Cellular and Organismic Biology (ICOB), Academia Sinica, Taiwan](https://jobs.sciencecareers.org/job/679334/director-position-icob-academia-sinica-taiwan/)  
 - 🇭🇰 [Tenure-track Professor/Associate Professor/Assistant Professor — pharmacology & pharmacy, University of Hong Kong, Hong Kong](https://www.nature.com/naturecareers/job/12861403/tenure-track-professor-associate-professor-assistant-professor/)  
 - 🇭🇰 [Aging & age-related diseases — faculty positions, Hong Kong University of Science and Technology (HKUST), Hong Kong](https://www.nature.com/naturecareers/job/12861330/aging-and-age-related-diseases-faculty-positions/)  
-- 🇯🇵 [Professor — quantitative biosciences, Institute for Quantitative Biosciences, University of Tokyo, Tokyo, Japan](https://jobs.sciencecareers.org/job/679248/professor-in-quantitative-biosciences-at-the-university-of-tokyo/)  
 - 🇭🇰 [Assistant/Associate/Full/Chair Professors (substantiation-track) — City University of Hong Kong, Hong Kong](https://www.nature.com/naturecareers/job/12861146/assistant-professors-associate-professors-professors-chair-professors-on-substantiation-track-/)  
 - 🇨🇳 [Faculty positions — Center for Infectious Disease Research, Westlake University, Hangzhou](https://www.nature.com/naturecareers/job/12851286/faculty-positions-at-center-for-infectious-disease-research-westlake-university/)  
 - 🇨🇳 [Qiushi Chair Professor / Distinguished Scholar / ZJU100 Young Professor — Zhejiang University, Hangzhou](https://www.nature.com/naturecareers/job/12861173/qiushi-chair-professor-distinguished-scholar-zju100-young-professor-positions-at-zhejiang-university/)  
@@ -1619,6 +1627,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Postdoc — computational genomics, AI precision oncology, translational cancer biology & immunobiology (Wang Lab), UPMC Hillman Cancer Center / University of Pittsburgh, Pittsburgh, PA](https://www.nature.com/naturecareers/job/12865407/postdoc-position-for-computational-genomics-ai-precision-oncology-cancer-biology-and-immunobiology/) · contact: [wangxrecruit@gmail.com](mailto:wangxrecruit@gmail.com) · closes 2026-12-05  
 - 🇺🇸 [Postdoctoral Associate — small-molecule therapeutics in neurological disease models, University of Minnesota Center for Drug Design, Minneapolis, MN](https://jobs.sciencecareers.org/job/680574/post-doctoral-associate/) · closes 2026-11-04  
 - 🇺🇸 [Postdoctoral Scholar — biochemistry / cell biology / genetics, University of Iowa, Iowa City, IA](https://jobs.sciencecareers.org/job/680388/postdoctoral-scholar/) · closes 2026-11-24  
 - 🇺🇸 [Postdoctoral and Predoctoral Fellows — biomedical sciences, University of Illinois Chicago, Chicago, IL](https://jobs.sciencecareers.org/job/680426/postdoctoral-and-predoctoral-fellow-positions/)  
@@ -1751,7 +1760,6 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🇺🇸 [Postdoctoral Researcher — inflammation & leukocyte biology, Yale School of Medicine, New Haven, CT](https://jobs.sciencecareers.org/job/677391/postdoctoral-researcher-/)  
 - 🇺🇸 [Postdoctoral Fellow — host–pathogen interactions & bacterial effector biology, University of Iowa, Iowa City](https://jobs.sciencecareers.org/job/678873/postdoctoral-fellow-host-pathogen-interactions-and-bacterial-effector-biology/)  
 - 🇺🇸 [Genitourinary Pathology Fellowship (GME subspecialty; 1 year; 2027 availability; 3 positions) — Memorial Sloan Kettering Cancer Center (MSK), New York, NY](https://www.mskcc.org/hcp-education-training/fellowships/genitourinary-pathology-fellowship) · deadline September 1  
-- 🇺🇸 [Postdoc openings — computational genomics, AI precision oncology, cancer biology & immunobiology, University of Pittsburgh, Pittsburgh](https://www.nature.com/naturecareers/job/12858867/postdoc-openings-computational-genomics-ai-precision-oncology-cancer-biology-and-immunobiology/)  
 - 🇺🇸 [Postdoctoral Research Fellow — single-cell genomics / chromatin spatial organization & gene regulation (Hu Lab), Department of Genomic Sciences and Systems Biology, Cleveland Clinic Research, Cleveland](./files/Postdoc_HuLab_ClevelandClinic.pdf) · apply: [hum@ccf.org](mailto:hum@ccf.org) · deadline June 30, 2026  
 - 🇺🇸 [CURE Epilepsy — Taking Flight Award (invited full proposals due Mar 24, 2026)](https://www.cureepilepsy.org/for-researchers/grants-program/)  
 - 🇺🇸 [Partnership for Clean Competition — anti-doping research grants & postdoctoral fellowships (full applications due Mar 1 & Sep 1)](https://cleancompetition.org/application-center)  
