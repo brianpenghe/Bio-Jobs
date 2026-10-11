@@ -22,6 +22,14 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Assistant Professor (tenure-track) — broad search (Chemistry, Immunology & Microbiology, Integrative Structural & Computational Biology, Molecular & Cellular Biology, Translational Medicine, or Neuroscience), Scripps Research, La Jolla, CA](https://www.nature.com/naturecareers/job/12865575/assistant-professor-tenure-track/) · full consideration by 2026-12-31 · closes 2027-01-08  
+- 🇺🇸 [Associate Professor — Biochemistry and Molecular Biology (biochemistry, molecular or cancer biology), LSU Health Shreveport, Shreveport, LA](https://jobs.sciencecareers.org/job/680678/associate-professor-biochemistry-and-molecular-biology/) · closes 2026-12-04  
+- 🇺🇸 [Assistant, Associate, or Full Professor — Chemical Biology (drug discovery for cancer or other major diseases), Department of Biology and Biochemistry, University of Houston, Houston, TX](https://jobs.sciencecareers.org/job/680681/assistant-associate-or-full-professor-chemical-biologist/) · closes 2026-12-08  
+- 🇺🇸 [Assistant Professor (tenure-track) — Biological Physics, Department of Physics and Astronomy / Laufer Center for Physical and Quantitative Biology, Stony Brook University, Stony Brook, NY](https://www.nature.com/naturecareers/job/12865521/assistant-professor-in-biological-physics-tenure-track-/) · apply by 2026-11-30  
+- 🇺🇸 [Assistant Professor (tenure-track) — Chemistry for Sustainable/Healthy Foods, Department of Food Science, Cornell University, Ithaca, NY](https://www.nature.com/naturecareers/job/12865558/assistant-professor-chemistry-for-sustainable-healthy-foods-tenure-track/) · full consideration by 2026-10-25 via [AcademicJobsOnline](https://academicjobsonline.org/ajo/jobs/32785) · closes 2026-12-08  
+- 🇺🇸 [Assistant Professor (tenure-track) — Center for Pathogen Immunology, Department of Microbiology, NYU Langone Health, New York, NY](https://jobs.sciencecareers.org/job/680645/assistant-professor-center-for-pathogen-immunology-/) · closes 2026-12-07  
+- 🇺🇸 [Assistant/Associate Professor (tenure-track) — reproductive & developmental biology, Yanagimachi Institute for Biogenesis Research, JABSOM, University of Hawaii, Honolulu, HI](https://jobs.sciencecareers.org/job/680662/assistant-associate-professor-f3-f4-9-mo-faculty/) · review begins 2026-10-19  
+- 🇨🇦 [Assistant Professor (tenure-track; Canada Impact+ Emerging Leaders) — RNA Therapeutics and Engineering, Departments of Biochemistry and Biomedical Engineering, McGill University, Montréal, QC](https://www.nature.com/naturecareers/job/12865518/assistant-professor-tenure-track-departments-of-biochemistry-and-biomedical-engineering/) · apply by 2026-11-10 via [Workday](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/McIntyre--Medical/Assistant-Professor--Tenure-Track--Impact--Chairs-Emerging-Leaders-RNA-Therapeutics-Engineering---Departments-of-Biochemistry-and-Biomedical-Engineering-L000161_JR0000081675) · inquire: [sonia.nardini@mcgill.ca](mailto:sonia.nardini@mcgill.ca)  
 - 🇺🇸 [Tenure-track Assistant or Associate Professor — Neuroscience, Department of Neuroscience, Northwestern University Feinberg School of Medicine, Chicago, IL](https://jobs.sciencecareers.org/job/680616/tenure-track-faculty-position-in-neuroscience-/) · closes 2026-12-06  
 - 🇺🇸 [Assistant Professor (tenure-track) — AI for Biology, EECS & Center for Computational Biology, UC Berkeley, Berkeley, CA](https://aprecruit.berkeley.edu/JPF05560) · apply by 2026-11-09 · [Science Careers ad](https://jobs.sciencecareers.org/job/680605/assistant-professor-ai-for-biology/)  
 - 🇺🇸 [Assistant Professor (tenure-track) — Biochemistry/Biophysics (infectious disease preferred), Department of Molecular Biosciences, University of Kansas, Lawrence, KS](https://jobs.sciencecareers.org/job/680624/assistant-professor-in-biochemistry-biophysics/) · review begins 2026-11-02 · inquire: [erik.d.holmstrom@ku.edu](mailto:erik.d.holmstrom@ku.edu)  
@@ -39,7 +47,6 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🇺🇸 [Assistant / Associate / Full Professor — Cell and Biological Systems, Penn State College of Medicine, Hershey, PA](https://jobs.sciencecareers.org/job/680538/assistant-associate-full-professor-cell-and-biological-systems/) · closes 2026-11-02  
 - 🇺🇸 [Tenure-track Assistant Professor — Microbiology / Virology / Genetics, Wichita State University, Wichita, KS](https://jobs.sciencecareers.org/job/680577/tenure-track-assistant-professor/) · closes 2026-10-26  
 - 🇺🇸 [Principal Investigator / Faculty (Assistant, Associate or Professor; soft-money), San Diego Biomedical Research Institute, San Diego, CA](https://www.nature.com/naturecareers/job/12865328/principal-investigator-faculty-assistant-associate-or-professor-/) · closes 2026-12-04  
-- 🇺🇸 [Assistant Professor (tenure-track) — Chemistry for Sustainable/Healthy Foods, Department of Food Science, Cornell University, Ithaca, NY](https://www.nature.com/naturecareers/job/12865292/assistant-professor-chemistry-for-sustainable-healthy-foods-/) · closes 2026-12-01  
 - 🇺🇸 [Tenure-track Assistant Professor — Neuroscience, University of Texas at Austin, Austin, TX](https://www.nature.com/naturecareers/job/12864853/tenure-track-assistant-professor-in-neuroscience/)  
 - 🇺🇸 [Assistant / Associate Professor — Cancer Immunology, Emory University Microbiology & Immunology, Atlanta, GA](https://www.nature.com/naturecareers/job/12864896/assistant-associate-professor-in-cancer-immunology/)  
 - 🇺🇸 [Assistant Professor (tenure-track) — Experimental Pathology, Children's Hospital of Philadelphia / University of Pennsylvania, Philadelphia, PA](https://www.nature.com/naturecareers/job/12864897/assistant-professor-tenure-track-division-of-experimental-pathology-children-s-hospital-of-phil/)  
@@ -552,6 +559,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Senior Group Leader, Industry — plant biotechnology, Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://www.nature.com/naturecareers/job/12865553/senior-group-leader-industry-plant-biology-institute-/) · closes 2026-12-08  
 - 🇩🇰 [Assistant Professor — plant-microbe interactions (barley genome & root microbiome), Department of Agroecology, Aarhus University, Aarhus](https://www.nature.com/naturecareers/job/12865433/assistant-professor-in-plant-microbe-interactions/) · closes 2026-11-05  
 - 🇩🇰 [Professor or Associate Professor and Research Group Leader — molecular mechanisms of diabetes, Biotech Research and Innovation Centre (BRIC), University of Copenhagen, Copenhagen](https://www.nature.com/naturecareers/job/12865336/professor-or-asso-prof-and-research-group-leader-with-focus-on-molecular-mechanisms-of-diabetes/) · closes 2026-11-15  
 - 🇫🇷 [Interdisciplinary Group Leader — Chemistry of Biological Systems, Université Côte d'Azur, Nice](https://www.nature.com/naturecareers/job/12865042/call-for-an-interdisciplinary-group-leader-in-chemistry-of-biological-systems/)  
@@ -1496,6 +1504,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Scientist — Plant Biology and Functional Genomics, Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680676/scientist-plant-biology-and-functional-genomics-plant-biology-institute/) · closes 2026-11-07  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Head of Molecular Engineering — molecular & synthetic biology platform, Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680606/head-of-molecular-engineering-plant-biology-institute/) · closes 2026-11-05  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Bioinformatician — Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://www.nature.com/naturecareers/job/12865074/bioinformatician-plant-biology-institute/)  
 - 🇮🇹 [AI Scientist — Human Technopole, Milan](https://www.nature.com/naturecareers/job/12865208/ai-scientist/)  
@@ -1632,6 +1641,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Postdoctoral Fellow — TOP3B topoisomerase complex, RNA biology & neurodevelopment, Laboratory of Genetics and Genomics, National Institute on Aging (NIA) IRP, Baltimore, MD](https://jobs.sciencecareers.org/job/680627/postdoctoral-fellow-position-at-nih/) · apply by 2026-12-07  
+- 🇺🇸 [Postdoctoral Research Associate — cardiometabolic disease (vascular endothelium & liver fibrosis; Sun Lab), Department of Biochemistry, University of Nebraska–Lincoln, Lincoln, NE](https://jobs.sciencecareers.org/job/680617/post-doctoral-research-associate-cardiometabolic-disease/) · review begins 2026-11-09  
 - 🇺🇸 [Postdoc — computational genomics, AI precision oncology, translational cancer biology & immunobiology (Wang Lab), UPMC Hillman Cancer Center / University of Pittsburgh, Pittsburgh, PA](https://www.nature.com/naturecareers/job/12865407/postdoc-position-for-computational-genomics-ai-precision-oncology-cancer-biology-and-immunobiology/) · contact: [wangxrecruit@gmail.com](mailto:wangxrecruit@gmail.com) · closes 2026-12-05  
 - 🇺🇸 [Postdoctoral Associate — small-molecule therapeutics in neurological disease models, University of Minnesota Center for Drug Design, Minneapolis, MN](https://jobs.sciencecareers.org/job/680574/post-doctoral-associate/) · closes 2026-11-04  
 - 🇺🇸 [Postdoctoral Scholar — biochemistry / cell biology / genetics, University of Iowa, Iowa City, IA](https://jobs.sciencecareers.org/job/680388/postdoctoral-scholar/) · closes 2026-11-24  
@@ -2055,6 +2066,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Assistant Teaching Professor — Immunology (non-tenure-eligible), School of Life Sciences, Arizona State University, Tempe, AZ](https://jobs.sciencecareers.org/job/680654/assistant-teaching-professor-immunology/) · apply by 2026-11-14  
+- 🇺🇸 [Visiting Assistant Professor of Biology — Microbiology (2-year, teaching), Ripon College, Ripon, WI](https://jobs.sciencecareers.org/job/680651/visiting-assistant-professor-of-biology-microbiology-/) · review begins 2026-10-21  
 - 🇺🇸 [Teaching Assistant Professor of Honors (any STEM field; non-tenure-track, renewable) — The University of Alabama Honors College, Tuscaloosa, AL](https://jobs.sciencecareers.org/job/680629/honors-teaching-assistant-professor-renewable-contract-530659/) · review begins 2026-10-23 · inquire: [tmock@ua.edu](mailto:tmock@ua.edu)  
 - 🇺🇸 [Chief Executive Officer — Gloucester Marine Genomics Institute, Gloucester, MA](https://jobs.sciencecareers.org/job/680439/chief-executive-officer/)  
 - 🇺🇸 [College-level summer teaching — Summer Science Program (SSP International), various US host campuses](https://jobs.sciencecareers.org/job/680503/college-level-summer-teaching-opportunity-with-sspi-s-summer-science-program/)  
