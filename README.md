@@ -2185,6 +2185,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Student Engagement Administrator (12-month fixed term) — Education & Scholarships, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://apply.workable.com/ellison-institute-of-technology/j/646E445191/) · closes 2026-10-29 · [Science Careers ad](https://jobs.sciencecareers.org/job/680912/student-engagement-administrator-12-month-fixed-term-contract/)  
 - 🇫🇷 [Senior Scientific Officer — Research Grants, Human Frontier Science Program (HFSPO), Strasbourg](https://jobs.sciencecareers.org/job/680816/senior-scientific-officer-research-grants/) · closes 2026-11-30  
 
 </details>
