@@ -22,6 +22,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 **[UCSF Sandler Fellow — independent biomedical research group leader (2027 nominations), University of California, San Francisco, CA](mailto:frankel@cgl.ucsf.edu)** · **nomination deadline 2027-01-15** · 5-year nonrenewable fellowship funding salary and research program · mentor/advisor must email nomination letter + nominee CV to [Dr. Alan Frankel](mailto:frankel@cgl.ucsf.edu); selected candidates later submit 2 references + brief research plan · nominees in any area of modern biomedical sciences considered · recipients encouraged to apply for NIH DP5 before appointment  
 - 🇺🇸 [Assistant Professor (tenure-track) — computational biology (Biology / Schwarzman College of Computing), Massachusetts Institute of Technology, Cambridge, MA](https://jobs.sciencecareers.org/job/680981/assistant-professor-tenure-track/) · deadline 2026-12-01  
 - 🇺🇸 [Alvin I. Goodman Chair (Professor) — Nephrology (physician-scientist; kidney biology / transplantation / translational immunology), New York Medical College / Westchester Medical Center, Valhalla, NY](https://jobs.sciencecareers.org/job/680979/alvin-i-goodman-chair-nephrology/)  
 - 🇺🇸 [Assistant Professor (tenure-track, ×2) — Biomedical Sciences, Department of Biomedical Sciences, Georgia Southern University, Statesboro / Savannah, GA](https://jobs.sciencecareers.org/job/680956/assistant-professor-biomedical-sciences/) · review begins 2026-11-13 · Job Opening 304925  
