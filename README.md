@@ -1591,6 +1591,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Scientist — Advanced Genome Technologies, Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/681058/scientist-advanced-genome-technologies-plant-biology-institute/) · closes 2026-11-30  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Computational Biologist — Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680985/computational-biologist-plant-biology-institute/) · closes 2026-11-27  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Scientist — Plant Cellular Engineering (Metabolic and Synthetic Biology), Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680774/scientist-plant-cellular-engineering-metabolic-and-synthetic-biology-pbi/) · closes 2026-11-14  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Senior Platform Engineer — SciComp, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680805/senior-platform-engineer/) · closes 2026-11-15  
@@ -1604,7 +1605,6 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Bioinformatician — Pathogen Programme, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680395/bioinformatician-pathogen/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Bioinformatics Engineer — Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680396/bioinformatics-engineer/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Scientist — Photosynthesis Assay Development, Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680402/scientist-photosynthesis-assay-development-plant-biology-institute/)  
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Scientist — Advanced Genome Technologies, Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680487/scientist-advanced-genome-technologies-plant-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [AI & Automation Lead for Plant Transformation — Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680541/ai-and-automation-lead-for-plant-transformation-plant-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Controlled Environment Lead — Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680543/controlled-environment-lead-plant-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Senior Software Engineer — Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680259/senior-software-engineer/)  
