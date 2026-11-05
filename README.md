@@ -22,6 +22,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌎 North America</summary>
 
+- 🇺🇸 [Associate / Full Professor — cancer research (#537724), Fralin Biomedical Research Institute (FBRI), Virginia Tech, Roanoke, VA](https://jobs.apply.vt.edu/jobs/senior-faculty-position-in-cancer-research-virginia-tech-roanoke-roanoke-virginia-united-states) · closes 2026-12-03 · [Science Careers ad](https://jobs.sciencecareers.org/job/681109/senior-faculty-position-in-cancer-research-537724/)  
+- 🇺🇸 [Assistant Professor (tenure-track) — precision livestock management (sensing, monitoring, and AI), Department of Animal Science, University of California, Davis, Davis, CA](https://recruit.ucdavis.edu/JPF07963) · next review 2027-01-05 · closes 2027-06-04 · [Science Careers ad](https://jobs.sciencecareers.org/job/681095/assistant-professor-of-precision-livestock-management/)  
 - 🇺🇸 [Associate / Full Professor — human translational infectious disease and immunology, Vaccine & Gene Therapy Institute (VGTI), Oregon Health & Science University, Portland / Beaverton, OR](https://www.nature.com/naturecareers/job/12866370/associate-professor-or-professor-human-translational-infectious-disease-and-immunology/) · closes 2027-02-01 · [Science Careers ad](https://jobs.sciencecareers.org/job/681092/associate-professor-to-professor-human-translational-infectious-disease-and-immunology/)  
 - 🇨🇦 [Assistant Professor (tenure-track; Canada Impact+ Emerging Leaders) — genotype-to-phenotype biology, Donnelly Centre / Department of Biochemistry, University of Toronto, Toronto, ON](https://www.nature.com/naturecareers/job/12866352/assistant-professor-genotype-to-phenotype-biology-canada-impact-emerging-leaders-award-/) · closes 2027-01-02  
 - 🇺🇸 [Open-rank Faculty (tenured/tenure-track) — environmental fate and effects of microplastics (biological / ecological processes), O'Neill School of Public and Environmental Affairs, Indiana University Bloomington, Bloomington, IN](https://www.nature.com/naturecareers/job/12866351/open-rank-tenured-tenure-track-faculty-position-in-environmental-fate-and-effects-of-microplastics-/) · closes 2027-01-02  
@@ -138,7 +140,6 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🇺🇸 [Faculty (Open Rank and Assistant Professor) — Genome Sciences, University of Washington School of Medicine, Seattle, WA](https://jobs.sciencecareers.org/job/680583/faculty-positions-in-genome-sciences-open-rank-and-assistant-professor-/) · full consideration by 2026-12-04  
 - 🇺🇸 [Tenure-track Assistant Professor — Bioorganic Chemistry / Chemical Biology, NYU Arts & Science, New York, NY](https://jobs.sciencecareers.org/job/680599/professor-assistant-professor-/) · closes 2026-10-31 via [Interfolio](https://apply.interfolio.com/194458)  
 - 🇺🇸 [Tenure-track Assistant Professor — Vector Biology & One Health, Oklahoma Biological Survey & Biological Sciences, University of Oklahoma, Norman, OK](https://jobs.sciencecareers.org/job/680590/asst-professor-oklahoma-biological-survey-and-biological-sciences-vector-biology-and-one-health-tt-/) · apply via [Interfolio](https://apply.interfolio.com/193462) · closes 2026-11-05  
-- 🇺🇸 [Senior Faculty — Cancer Research (#537724), Fralin Biomedical Research Institute, Virginia Tech, Roanoke, VA](https://jobs.sciencecareers.org/job/680291/senior-faculty-position-in-cancer-research-537724/) · closes 2026-10-22  
 - 🇺🇸 [Faculty, Bezos Family Distinguished Scholar — Precision Oncology (Human Biology Division), Fred Hutchinson Cancer Center, Seattle, WA](https://jobs.sciencecareers.org/job/680537/faculty-position-bezos-family-distinguished-scholar-in-precision-oncology/) · closes 2026-12-01  
 - 🇺🇸 [Assistant / Associate / Full Professor — Cell and Biological Systems, Penn State College of Medicine, Hershey, PA](https://jobs.sciencecareers.org/job/680538/assistant-associate-full-professor-cell-and-biological-systems/) · closes 2026-11-02  
 - 🇺🇸 [Tenure-track Assistant Professor — Microbiology / Virology / Genetics, Wichita State University, Wichita, KS](https://jobs.sciencecareers.org/job/680577/tenure-track-assistant-professor/) · closes 2026-10-26  
@@ -646,6 +647,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [(Senior) Group Leader — advanced genome technologies and plant transformation, Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/681096/-senior-group-leader-advanced-genome-technologies-plant-biology-institute/) · closes 2026-12-03  
 - 🇧🇪 [Assistant / Associate Professor (Chargé de Cours, ×2) — Molecular Biology (Immunology / Microbiology / Host–Microorganism Interactions; Developmental Biology), Université libre de Bruxelles (ULB), Gosselies / Charleroi](https://www.nature.com/naturecareers/job/12866344/two-full-time-faculty-positions-in-molecular-biology-at-universite-libre-de-bruxelles-belgium/) · closes 2027-01-02  
 - 🇨🇭 [Professor — Pharmacoepidemiology and Public Health, Institute of Pharmaceutical Sciences, ETH Zurich, Zurich](https://www.nature.com/naturecareers/job/12866311/professor-of-pharmacoepidemiology-and-public-health/) · closes 2027-01-31  
 - 🇸🇪 [Assistant Professor (SciLifeLab Fellow) — experimental protein biochemistry, SciLifeLab / Uppsala University, Uppsala](https://www.nature.com/naturecareers/job/12866310/assistant-professor-in-biochemistry-with-specialisation-in-experimental-protein-biochemistry-/) · closes 2026-12-10 · [Science Careers ad](https://jobs.sciencecareers.org/job/681065/assistant-professor-in-biochemistry-experimental-protein-biochemistry-scilifelab-fellow-/)  
@@ -672,7 +674,6 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🇦🇹 [Founding Principal Investigators / Cori Pairs — Research Center for Molecular Medicine (CeMM), Austrian Academy of Sciences, Vienna](https://www.nature.com/naturecareers/job/12864350/founding-principal-investigators-starting-pis-and-cori-pairs-all-genders-/)  
 - 🇩🇪 [Independent Group Leader — Epithelial Inflammation and Cancer, University of Marburg, Marburg](https://www.nature.com/naturecareers/job/12864277/independent-group-leader-for-epithelial-inflammation-and-cancer/)  
 - 🇸🇪 [Assistant Professors — Biology (and related fields), University of Gothenburg, Gothenburg](https://www.nature.com/naturecareers/job/12864346/assistant-professors-in-biology-chemistry-geology-mathematics-and-medicine-/)  
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [(Senior) Group Leader — Advanced Genome Technologies, Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680021/-senior-group-leader-advanced-genome-technologies-plant-biology-institute/)  
 - 🇦🇹 [Group Leader — Center for Cancer Research, Medical University of Vienna, Vienna](https://www.nature.com/naturecareers/job/12863031/group-leader-position-at-the-center-for-cancer-research-medical-university-of-vienna/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Principal Investigator — Frontier Computing, Cambridge](https://www.nature.com/naturecareers/job/12863067/principal-investigator/)  
 - 🇮🇹 [Scientific Director — Istituto Italiano di Tecnologia (IIT), Genoa](https://jobs.sciencecareers.org/job/679545/scientific-director-istituto-italiano-di-tecnologia-genoa-italy/)  
@@ -695,7 +696,6 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 - 🇩🇰 [Assistant/Associate Professor — molecular biology, Roskilde University, Copenhagen area, Denmark](https://www.nature.com/naturecareers/job/12861609/assistant-associate-professor-in-molecular-biology/)  
 - 🇸🇪 [Senior Lecturer (Associate Professor) — plant physiology, Umeå University, Umeå, Sweden](https://www.nature.com/naturecareers/job/12861638/senior-lecturer-associate-professor-in-plant-physiology/)  
 - 🇫🇷 [New research group leader — Hearing Institute, Institut Pasteur, Paris, France](https://jobs.sciencecareers.org/job/679287/creation-of-a-new-research-group-at-the-hearing-institute-institut-pasteur-paris-/)  
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Senior Group Leader — Advanced Genome Technologies, Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, UK](https://jobs.sciencecareers.org/job/679272/senior-group-leader-advanced-genome-technologies/)  
 - 🇸🇪 [Two Senior Lecturers — medical research, Lund University, Lund, Sweden](https://www.nature.com/naturecareers/job/12861490/two-senior-lecturers-in-medical-research/)  
 - 🇨🇭 [Professor — biosensing for prevention & rehabilitation, ETH Zurich, St. Gallen / Zürich, Switzerland](https://www.nature.com/naturecareers/job/12861453/professor-of-biosensing-for-prevention-and-rehabilitation/)  
 - 🇸🇪 [Northern Star Fellows (tenure-track) — Umeå University, Umeå, Sweden](https://www.nature.com/naturecareers/job/12861405/northern-star-fellows/)  
@@ -1605,6 +1605,7 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Data Engineer (Forward Deployed) — scientific data pipelines for biology, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/681099/data-engineer-forward-deployed-/) · closes 2026-12-03  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Scientist — Advanced Genome Technologies, Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/681058/scientist-advanced-genome-technologies-plant-biology-institute/) · closes 2026-11-30  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Computational Biologist — Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680985/computational-biologist-plant-biology-institute/) · closes 2026-11-27  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Scientist — Plant Cellular Engineering (Metabolic and Synthetic Biology), Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680774/scientist-plant-cellular-engineering-metabolic-and-synthetic-biology-pbi/) · closes 2026-11-14  
@@ -1943,10 +1944,10 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Rehm Lab) — continuous evolution, Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/681097/postdoctoral-research-fellow-rehm-lab-generative-biology-institute/) · rolling review · closes 2026-12-03 · [lab](https://rehm.bio/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680772/postdoctoral-research-fellow-generative-biology-institute/) · closes 2026-11-14  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Liu Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680707/postdoctoral-research-fellow-liu-lab-generative-biology-institute/) · closes 2026-11-11  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Chin Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680092/postdoctoral-research-fellow-chin-lab-generative-biology-institute/)  
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Rehm Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680022/postdoctoral-research-fellow-rehm-lab-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Zuercher Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679904/postdoctoral-research-fellow-zuercher-lab-generative-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Postdoctoral Research Fellow (Pellock Lab) — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679622/postdoctoral-research-fellow-pellock-lab-generative-biology-insti/)  
 - 🇩🇰 [Postdoc — engineering and production of catalytic bacterial amyloids in bacterial biofilm, iNANO / Aarhus University, Aarhus](https://jobs.sciencecareers.org/job/679601/postdoc-within-the-engineering-and-production-of-catalytic-bacter/)  
@@ -2144,8 +2145,8 @@ A curated list of opportunities in biology/medicine/bioinformatics, including ac
 <details>
 <summary>🌍 Europe</summary>
 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Senior Laboratory Technician (Transformation) — Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/681098/senior-laboratory-technician-transformation-plant-biology-institute/) · closes 2026-12-03  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Media and Glass Technician — Generative Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680258/media-and-glass-technician-generative-biology-institute/)  
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Senior Laboratory Technician (Transformation) — Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/680023/senior-laboratory-technician-transformation-plant-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Laboratory Technician — Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679903/laboratory-technician-plant-biology-institute/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Laboratory Technician — Plant Cell Culture, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679905/laboratory-technician-plant-cell-culture/)  
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Glassware and Media Prep Technician — Plant Biology Institute, Ellison Institute of Technology (EIT), Oxford, Oxfordshire](https://jobs.sciencecareers.org/job/679714/glassware-and-media-prep-technician-plant-biology-institute/)  
